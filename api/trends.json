@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-08T18:22:13.263348+08:00",
-  "total_titles_processed": 963,
+  "generated_at": "2025-10-08T19:19:11.403230+08:00",
+  "total_titles_processed": 1039,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "【早报】“精简版”Model Y揭晓，特斯拉跳水大跌逾4%；央行连续11个月增持黄金",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时01分 ~ 18时22分]"
+          "appearance_count": 15,
+          "time_info": "[11时01分 ~ 19时19分]"
         },
         {
           "title": "比亚迪欧洲售价比国内翻倍，为何销量还超越了特斯拉？",
@@ -29,8 +29,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时01分 ~ 18时22分]"
+          "appearance_count": 15,
+          "time_info": "[11时01分 ~ 19时19分]"
         },
         {
           "title": "特斯拉推出最便宜标准版车型",
@@ -40,19 +40,6 @@
             4,
             5,
             8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时01分 ~ 15时20分]"
-        },
-        {
-          "title": "特斯拉市值一夜蒸发超4600亿",
-          "url": "https://www.toutiao.com/trending/7558627592983547428/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            8,
-            15
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -70,8 +57,21 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时02分 ~ 19时19分]"
+        },
+        {
+          "title": "特斯拉市值一夜蒸发超4600亿",
+          "url": "https://www.toutiao.com/trending/7558627592983547428/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            8,
+            15
+          ],
+          "is_new": false,
           "appearance_count": 9,
-          "time_info": "[11时02分 ~ 18时22分]"
+          "time_info": "[11时01分 ~ 15时20分]"
         },
         {
           "title": "特斯拉推出 ModelY 和 Model3 标准版两款新车型，价格便宜约 10%，配置有哪些变化？能卖爆吗？",
@@ -83,8 +83,22 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时33分 ~ 18时22分]"
+          "appearance_count": 9,
+          "time_info": "[14时33分 ~ 19时19分]"
+        },
+        {
+          "title": "特斯拉亲手撕掉了自己最值钱的标签吗",
+          "url": "https://www.toutiao.com/trending/7558715732519816713/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            18,
+            25,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时30分 ~ 19时19分]"
         },
         {
           "title": "特斯拉减配Model Y售价低于4万美元",
@@ -101,19 +115,6 @@
           "time_info": "[11时01分 ~ 15时20分]"
         },
         {
-          "title": "特斯拉亲手撕掉了自己最值钱的标签吗",
-          "url": "https://www.toutiao.com/trending/7558715732519816713/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            18,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时30分 ~ 18时22分]"
-        },
-        {
           "title": "特斯拉市值一夜蒸发超4600亿元",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E5%B8%82%E5%80%BC%E4%B8%80%E5%A4%9C%E8%92%B8%E5%8F%91%E8%B6%854600%E4%BA%BF%E5%85%83",
           "source": "百度热搜",
@@ -125,6 +126,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时01分 ~ 12时27分]"
+        },
+        {
+          "title": "特斯拉精简版Model Y售价39990美元",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E7%B2%BE%E7%AE%80%E7%89%88Model+Y%E5%94%AE%E4%BB%B739990%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时21分 ~ 19时19分]"
         },
         {
           "title": "你理想的养老方式是什么",
@@ -148,17 +160,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时02分 ~ 11时32分]"
-        },
-        {
-          "title": "特斯拉精简版Model Y售价39990美元",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E7%B2%BE%E7%AE%80%E7%89%88Model+Y%E5%94%AE%E4%BB%B739990%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时21分 ~ 18时22分]"
         },
         {
           "title": "特斯拉第三季度销量首超梅赛德斯奔驰",
@@ -203,13 +204,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时30分"
+        },
+        {
+          "title": "汇丰：将蔚来汽车(NIO.N)目标价从4.10美元上调至7.80美元。",
+          "url": "https://flash.jin10.com/detail/20251008180710582800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
         }
       ]
     },
     {
       "keyword_group": "汽车",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "丰田汽车与住友金属矿山将合作量产全固态电池正极材料",
+          "url": "https://wallstreetcn.com/livenews/2984416",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
+        },
+        {
+          "title": "一场火灾冲击美国汽车行业40%铝材供应 转向进口则要面对50%关税",
+          "url": "https://www.cls.cn/detail/2163296",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时22分 ~ 19时19分]"
+        },
         {
           "title": "双节假期南沙口岸汽车出口创历史同期新高：1.1万辆将出海",
           "url": "https://wallstreetcn.com/livenews/2984298",
@@ -222,17 +256,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时32分 ~ 13时21分]"
-        },
-        {
-          "title": "一场火灾冲击美国汽车行业40%铝材供应 转向进口则要面对50%关税",
-          "url": "https://www.cls.cn/detail/2163296",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时22分 ~ 18时22分]"
         },
         {
           "title": "金十图示：2025年10月08日（周三）全球汽车制造商市值变化",
@@ -259,6 +282,18 @@
           "time_info": "[16时30分 ~ 17时22分]"
         },
         {
+          "title": "英国央行：股票估值似乎过高，尤其是人工智能公司。 将逆周期资本缓冲率维持在2%不变。 美国汽车贷款违约事件揭示高杠杆风险。 存在向英国金融体系传导的”重大”溢出风险。 美联储信誉受到威胁可能引发大幅重新定价。",
+          "url": "https://wallstreetcn.com/livenews/2984395",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时22分 ~ 19时19分]"
+        },
+        {
           "title": "美国国家公路交通安全管理局：现代汽车美国公司召回135,386辆美国车辆，原因是电气短路增加了火灾风险。",
           "url": "https://flash.jin10.com/detail/20251008150708289800",
           "source": "金十数据",
@@ -268,17 +303,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
-        },
-        {
-          "title": "英国央行：股票估值似乎过高，尤其是人工智能公司。 将逆周期资本缓冲率维持在2%不变。 美国汽车贷款违约事件揭示高杠杆风险。 存在向英国金融体系传导的”重大”溢出风险。 美联储信誉受到威胁可能引发大幅重新定价。",
-          "url": "https://wallstreetcn.com/livenews/2984395",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时22分"
         },
         {
           "title": "丰田汽车(TM.N)：计划在2027年至2028年间推出配备全固态电池的纯电动汽车。",
@@ -312,6 +336,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时21分"
+        },
+        {
+          "title": "印尼9月汽车销量同比增15.1%。",
+          "url": "https://flash.jin10.com/detail/20251008182630889800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
         }
       ]
     },
@@ -325,11 +360,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            19
+            19,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时22分 ~ 18时22分]"
+          "appearance_count": 3,
+          "time_info": "[17时22分 ~ 19时19分]"
         },
         {
           "title": "比亚迪：9月新能源汽车销量同比下降5.52%",
@@ -337,11 +373,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            20
+            20,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时22分 ~ 18时22分]"
+          "appearance_count": 3,
+          "time_info": "[17时22分 ~ 19时19分]"
         }
       ]
     }
