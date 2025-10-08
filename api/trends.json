@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-09T02:33:16.228955+08:00",
-  "total_titles_processed": 429,
+  "generated_at": "2025-10-09T03:18:40.659541+08:00",
+  "total_titles_processed": 467,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 02时33分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 03时18分]"
         },
         {
           "title": "比亚迪欧洲售价比国内翻倍，为何销量还超越了特斯拉？",
@@ -26,11 +26,12 @@
           "ranks": [
             7,
             5,
-            4
+            4,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 02时33分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 03时18分]"
         },
         {
           "title": "廉价版特斯拉来了股价为何还跌",
@@ -39,11 +40,12 @@
           "ranks": [
             17,
             11,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 02时33分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 03时18分]"
         },
         {
           "title": "特斯拉推出 ModelY 和 Model3 标准版两款新车型，价格便宜约 10%，配置有哪些变化？能卖爆吗？",
@@ -53,8 +55,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 02时33分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 03时18分]"
         },
         {
           "title": "特斯拉平价车来了，减配Model Y售价低于4万美元，Model 3起售不到3.7万",
@@ -64,8 +66,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 02时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 03时18分]"
         },
         {
           "title": "卡在“手”上！报道称特斯拉不断下调“擎天柱”机器人产量目标，夏天已降至2000台",
@@ -76,8 +78,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 02时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 03时18分]"
         },
         {
           "title": "市场消息：特斯拉(TSLA.O)2025年9月在印度销售61辆汽车。",
@@ -97,27 +99,17 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "加拿大总理卡尼：与美国总统特朗普就钢铁和汽车行业的未来进行了“思想碰撞”。",
-          "url": "https://flash.jin10.com/detail/20251009022725651800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时33分"
-        },
-        {
           "title": "一场火灾冲击美国汽车行业40%铝材供应 转向进口则要面对50%关税",
           "url": "https://www.cls.cn/detail/2163296",
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 02时33分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 03时18分]"
         },
         {
           "title": "景德镇一汽车下坡突然起飞",
@@ -129,8 +121,20 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 02时33分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 03时18分]"
+        },
+        {
+          "title": "加拿大总理卡尼：与美国总统特朗普就钢铁和汽车行业的未来进行了“思想碰撞”。",
+          "url": "https://flash.jin10.com/detail/20251009022725651800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时33分 ~ 03时18分]"
         }
       ]
     }
