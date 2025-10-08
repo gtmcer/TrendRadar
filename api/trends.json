@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-08T22:23:12.108031+08:00",
-  "total_titles_processed": 1305,
+  "generated_at": "2025-10-08T23:24:29.110572+08:00",
+  "total_titles_processed": 1389,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[11时01分 ~ 22时23分]"
+          "appearance_count": 21,
+          "time_info": "[11时01分 ~ 23时24分]"
         },
         {
           "title": "比亚迪欧洲售价比国内翻倍，为何销量还超越了特斯拉？",
@@ -29,8 +29,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[11时01分 ~ 22时23分]"
+          "appearance_count": 21,
+          "time_info": "[11时01分 ~ 23时24分]"
         },
         {
           "title": "特斯拉推出最便宜标准版车型",
@@ -56,8 +56,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[14时33分 ~ 22时23分]"
+          "appearance_count": 15,
+          "time_info": "[14时33分 ~ 23时24分]"
         },
         {
           "title": "特斯拉平价车来了，减配Model Y售价低于4万美元，Model 3起售不到3.7万",
@@ -71,8 +71,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时02分 ~ 22时23分]"
+          "appearance_count": 14,
+          "time_info": "[11时02分 ~ 23时24分]"
         },
         {
           "title": "特斯拉市值一夜蒸发超4600亿",
@@ -129,6 +129,17 @@
           "time_info": "[11时01分 ~ 12时27分]"
         },
         {
+          "title": "卡在“手”上！报道称特斯拉不断下调“擎天柱”机器人产量目标，夏天已降至2000台",
+          "url": "https://wallstreetcn.com/articles/3756778",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时44分 ~ 23时24分]"
+        },
+        {
           "title": "特斯拉精简版Model Y售价39990美元",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E7%B2%BE%E7%AE%80%E7%89%88Model+Y%E5%94%AE%E4%BB%B739990%E7%BE%8E%E5%85%83",
           "source": "百度热搜",
@@ -138,17 +149,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[18时21分 ~ 19时19分]"
-        },
-        {
-          "title": "卡在“手”上！报道称特斯拉不断下调“擎天柱”机器人产量目标，夏天已降至2000台",
-          "url": "https://wallstreetcn.com/articles/3756778",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时44分 ~ 22时23分]"
         },
         {
           "title": "你理想的养老方式是什么",
@@ -244,8 +244,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[17时22分 ~ 22时23分]"
+          "appearance_count": 11,
+          "time_info": "[17时22分 ~ 23时24分]"
         },
         {
           "title": "景德镇一汽车下坡突然起飞",
@@ -253,11 +253,12 @@
           "source": "微博",
           "ranks": [
             2,
-            7
+            7,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时44分 ~ 22时23分]"
+          "appearance_count": 6,
+          "time_info": "[20时44分 ~ 23时24分]"
         },
         {
           "title": "双节假期南沙口岸汽车出口创历史同期新高：1.1万辆将出海",
