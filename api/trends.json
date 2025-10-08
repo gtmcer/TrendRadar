@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-09T06:21:44.019922+08:00",
-  "total_titles_processed": 602,
+  "generated_at": "2025-10-09T07:31:19.556242+08:00",
+  "total_titles_processed": 657,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时28分 ~ 06时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时28分 ~ 07时31分]"
         },
         {
           "title": "比亚迪欧洲售价比国内翻倍，为何销量还超越了特斯拉？",
@@ -31,8 +31,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时28分 ~ 06时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时28分 ~ 07时31分]"
         },
         {
           "title": "廉价版特斯拉来了股价为何还跌",
@@ -48,8 +48,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时28分 ~ 06时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时28分 ~ 07时31分]"
         },
         {
           "title": "特斯拉推出 ModelY 和 Model3 标准版两款新车型，价格便宜约 10%，配置有哪些变化？能卖爆吗？",
@@ -57,11 +57,12 @@
           "source": "知乎",
           "ranks": [
             12,
-            17
+            17,
+            13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时28分 ~ 06时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时28分 ~ 07时31分]"
         },
         {
           "title": "卡在“手”上！报道称特斯拉不断下调“擎天柱”机器人产量目标，夏天已降至2000台",
@@ -70,11 +71,12 @@
           "ranks": [
             9,
             10,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 06时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 07时31分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收涨约0.9%。 热门中概股里，房多多初步收涨12%，文远知行涨超11%，小马智行涨8.8%，蔚来涨4.4%，台积电涨3.4%，网易、新东方、小鹏、理想等也至多涨约3%，百胜中国、美团、百度收跌。",
@@ -151,7 +153,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         }
@@ -168,11 +170,12 @@
           "ranks": [
             13,
             12,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时28分 ~ 06时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时28分 ~ 07时31分]"
         },
         {
           "title": "景德镇一汽车下坡突然起飞",
@@ -187,8 +190,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时28分 ~ 06时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时28分 ~ 07时31分]"
         },
         {
           "title": "加拿大总理卡尼：与美国总统特朗普就钢铁和汽车行业的未来进行了“思想碰撞”。",
@@ -208,11 +211,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            13
+            13,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时42分 ~ 06时21分]"
+          "appearance_count": 3,
+          "time_info": "[05时42分 ~ 07时31分]"
         },
         {
           "title": "周三（10月8日），彭博电动汽车价格回报指数涨0.28%，报3508.40点。 北京时间09:44跳水至3494.43点刷新日低，随后反弹；日内大部分时间高位震荡。",
@@ -233,7 +237,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         },
