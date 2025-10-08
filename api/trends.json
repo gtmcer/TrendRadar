@@ -1,342 +1,99 @@
 {
-  "generated_at": "2025-10-07T21:29:21.249582+08:00",
-  "total_titles_processed": 1721,
+  "generated_at": "2025-10-08T11:02:07.293530+08:00",
+  "total_titles_processed": 317,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "汽车",
-      "match_count": 14,
+      "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
+      "match_count": 8,
       "titles": [
         {
-          "title": "怎么看待中国汽车品牌纷纷推出大型 SUV 这一现象？",
-          "url": "https://www.zhihu.com/question/1955032060113715545",
-          "source": "知乎",
-          "ranks": [
-            8,
-            7,
-            6,
-            5,
-            4,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[03时21分 ~ 17时18分]"
-        },
-        {
-          "title": "恒生科技收跌1%，科技汽车股普跌，华虹半导体盘中创新高，紫金矿业涨2%",
-          "url": "https://wallstreetcn.com/articles/3756708",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时59分 ~ 13时25分]"
-        },
-        {
-          "title": "浙江温州：10月10日24时起暂停实施汽车置换更新补贴政策",
-          "url": "https://wallstreetcn.com/livenews/2983973",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            9,
-            19,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时24分 ~ 17时18分]"
-        },
-        {
-          "title": "美国国家公路交通安全管理局：丰田汽车(TM.N)召回393,838辆美国车辆，原因是后视图像无法显示，导致驾驶员难以看清车辆后方，增加了发生碰撞的风险。",
-          "url": "https://flash.jin10.com/detail/20251007150533023800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时24分 ~ 16时05分]"
-        },
-        {
-          "title": "拆解小米YU7电动汽车",
-          "url": "https://www.douyin.com/hot/2260757",
-          "source": "抖音",
-          "ranks": [
-            20,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时27分 ~ 21时29分]"
-        },
-        {
-          "title": "电动汽车制造商Lucid Group三季度交付车辆4,078辆。",
-          "url": "https://wallstreetcn.com/livenews/2983828",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            23,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时28分 ~ 06时24分]"
-        },
-        {
-          "title": "国庆中秋假期全国铁路汽车托运量预计达5200辆",
-          "url": "https://wallstreetcn.com/livenews/2984041",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时35分 ~ 21时29分]"
-        },
-        {
-          "title": "印度汽车经销商协会联盟(FADA)：如果物流与供应链运作顺畅，印度将在10月迎来史上最强的节庆零售季。",
-          "url": "https://flash.jin10.com/detail/20251007114929553800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时29分 ~ 13时25分]"
-        },
-        {
-          "title": "崔东树：2025年中国汽车经销商急需政策支持",
-          "url": "https://wallstreetcn.com/livenews/2983995",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            16,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时18分 ~ 19时27分]"
-        },
-        {
-          "title": "印度汽车经销商协会联盟(FADA)：9月乘用车零售销量同比上涨5.8%。商品及服务税（GST）优惠、整车厂的积极促销方案以及宽松的融资条件，预计将在10月吸引新购车者与换购客户。",
-          "url": "https://flash.jin10.com/detail/20251007114712043800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时29分 ~ 13时25分]"
-        },
-        {
-          "title": "美国纽约州铝厂大火重创汽车供应链，福特业务将受影响数月",
-          "url": "https://wallstreetcn.com/livenews/2983894",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时51分"
-        },
-        {
-          "title": "金十图示：2025年10月07日（周二）全球汽车制造商市值变化",
-          "url": "https://flash.jin10.com/detail/20251007110515673800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时29分"
-        },
-        {
-          "title": "美国纽约州铝厂大火重创汽车供应链 福特业务将受影响数月",
-          "url": "https://flash.jin10.com/detail/20251007081849863800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时51分"
-        },
-        {
-          "title": "Momenta被汽车巨头押注",
-          "url": "https://www.toutiao.com/trending/7558098124472847881/",
+          "title": "特斯拉市值一夜蒸发超4600亿",
+          "url": "https://www.toutiao.com/trending/7558627592983547428/",
           "source": "今日头条",
           "ranks": [
-            27
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "马斯克回归初见成效：Optimus开始学功夫 特斯拉官宣年底推出第三代人形机器人",
-          "url": "https://www.cls.cn/detail/2162617",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时59分 ~ 15时57分]"
+          "appearance_count": 2,
+          "time_info": "[11时01分 ~ 11时02分]"
         },
         {
-          "title": "特斯拉连发神秘预热短视频，低价Model Y终于要来了？",
-          "url": "https://www.cls.cn/detail/2162955",
+          "title": "【早报】“精简版”Model Y揭晓，特斯拉跳水大跌逾4%；央行连续11个月增持黄金",
+          "url": "https://www.cls.cn/detail/2163320",
           "source": "财联社热门",
           "ranks": [
-            13,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时01分 ~ 11时02分]"
+        },
+        {
+          "title": "特斯拉推出最便宜标准版车型",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%96%AF%E6%8B%89%E6%8E%A8%E5%87%BA%E6%9C%80%E4%BE%BF%E5%AE%9C%E6%A0%87%E5%87%86%E7%89%88%E8%BD%A6%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时01分 ~ 11时02分]"
+        },
+        {
+          "title": "比亚迪欧洲售价比国内翻倍，为何销量还超越了特斯拉？",
+          "url": "https://www.zhihu.com/question/1958702010179224852",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时01分 ~ 11时02分]"
+        },
+        {
+          "title": "特斯拉市值一夜蒸发超4600亿元",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E5%B8%82%E5%80%BC%E4%B8%80%E5%A4%9C%E8%92%B8%E5%8F%91%E8%B6%854600%E4%BA%BF%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[16时05分 ~ 21时29分]"
+          "appearance_count": 2,
+          "time_info": "[11时01分 ~ 11时02分]"
         },
         {
-          "title": "美国国家公路交通安全管理局：特斯拉申请召回260辆美国汽车。",
-          "url": "https://wallstreetcn.com/livenews/2983976",
-          "source": "华尔街见闻-快讯",
+          "title": "特斯拉减配Model Y售价低于4万美元",
+          "url": "https://www.toutiao.com/trending/7558622226430299658/",
+          "source": "今日头条",
           "ranks": [
-            6,
-            16,
-            26
+            23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时57分 ~ 17时18分]"
+          "appearance_count": 2,
+          "time_info": "[11时01分 ~ 11时02分]"
         },
         {
-          "title": "特斯拉柏林工厂经理：全新精简版Model Y的售价将\"降低约10%\"。",
-          "url": "https://flash.jin10.com/detail/20251007180101088800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时17分"
-        },
-        {
-          "title": "特斯拉预热10月7日发布会，或揭晓平价新车型",
-          "url": "https://wallstreetcn.com/articles/3756716",
+          "title": "特斯拉平价车来了，减配Model Y售价低于4万美元，Model 3起售不到3.7万",
+          "url": "https://wallstreetcn.com/articles/3756769",
           "source": "华尔街见闻",
           "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时03分 ~ 14时37分]"
-        },
-        {
-          "title": "纳斯达克100指数涨幅扩大至1%，成分股AMD目前涨25.5%，特斯拉涨4.75%，科磊涨4.18%表现第三，Doordash涨41.6%，Datadog涨3.91%，应用材料、Arm控股、拉姆研究、Palantir、迈威尔科技至少涨约3.5%，再生元制药、Applovin至多跌1.9%，卡夫亨氏跌2.48%，渤健跌3.95%，星巴克跌4.32%，CoStar跌4.67%。 标普涨0.48%，道指跌0.08%，纳指涨0.87%，半导体指数涨3.79%，小盘股指涨0.79%。",
-          "url": "https://wallstreetcn.com/livenews/2983798",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            10,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时38分 ~ 04时28分]"
-        },
-        {
-          "title": "周一（10月6日），彭博电动汽车价格回报指数涨0.40%，报3516.04点，全天呈现出U形反转，北京时间09:30显著跳水并快速转跌，21:30美股开盘时跳空至3520点一线、03:29在这一点位附近刷新日高。 成分股普拉格动力、特斯拉、美国雅宝、MP材料领涨，沃尔沃汽车集团欧股则收跌2.38%表现倒数第四，理想汽车H股收跌3.31%表现最差。",
-          "url": "https://wallstreetcn.com/livenews/2983827",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时28分 ~ 05时24分]"
-        },
-        {
-          "title": "报道：特斯拉打算周二发布针对Model Y的廉价车型",
-          "url": "https://wallstreetcn.com/livenews/2983859",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时24分 ~ 07时22分]"
-        },
-        {
-          "title": "标普500指数初步收涨0.4%，可选消费、公用事业、电信、科技板块至少涨0.6%，房地产板块则跌0.9%。 纳斯达克100指数初步收涨0.8%，成分股中，AMD初步收涨23%，特斯拉涨5.3%，Palantir涨3.7%，迈威尔科技涨3.4%，T-Mobile和再生元制药则跌超2%，卡夫亨氏、渤健、CoStar至少跌超3%，星巴克跌4.9%，Applovin跌14.9%。 更换CEO的美国电信运营商Verizon初步收跌4.9%，在道指成分股表现最差，英伟达跌1.1%，波音则涨1.5%，微软涨2.2%，Salesforce涨2.3%。",
-          "url": "https://wallstreetcn.com/livenews/2983824",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时28分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数初步收涨1%。 热门中概股里，小牛电动初步收涨23%，网易有道涨7.4%，满帮涨4.5%，Boss直聘涨3.7%，台积电涨3.5%，小鹏、百胜中国、百度涨超2%，美团和腾讯涨超1%，阿里跌0.4%，小马智行、蔚来、小米跌超1%。",
-          "url": "https://wallstreetcn.com/livenews/2983822",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时28分"
-        },
-        {
-          "title": "特斯拉(TSLA.O)美股盘前下跌1.1%。",
-          "url": "https://flash.jin10.com/detail/20251007205322153800",
-          "source": "金十数据",
-          "ranks": [
-            13
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时29分"
+          "time_info": "11时02分"
         },
         {
-          "title": "美股七巨头收盘播报｜特斯拉收涨超5.4%，微软和谷歌A涨超2%，英伟达跌1.1%",
-          "url": "https://wallstreetcn.com/livenews/2983826",
+          "title": "香港恒生指数低开0.21%。恒生科技指数开盘跌0.11%。小鹏汽车涨超2%，龙湖集团跌超8%。长风药业上市首日大幅高开逾218%。",
+          "url": "https://wallstreetcn.com/livenews/2984269",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            25
+            21
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时24分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收涨1.00%，报8835.50点。 热门中概股里，小牛电动初步收涨23%，网易有道涨7.4%，满帮涨4.5%，Boss直聘涨3.7%，台积电涨3.5%，小鹏、百胜中国、百度涨超2%，美团和腾讯涨超1%，阿里跌0.4%，小马智行、蔚来、小米跌超1%。 ETF中，中概互联网指数ETF（KWEB）收涨0.52%，中国科技指数ETF（CQQQ）收涨0.38%，富时中国3倍做多ETF（YINN）收跌0.20%。 XtrackersHarvest中证50（ASHS）收涨0.08%，德银嘉实沪深300指数ETF（ASHR）收涨0.03%。",
-          "url": "https://wallstreetcn.com/livenews/2983822",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时24分"
+          "time_info": "11时02分"
         }
       ]
     }
