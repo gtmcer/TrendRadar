@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-08T12:27:03.475505+08:00",
-  "total_titles_processed": 457,
+  "generated_at": "2025-10-08T13:21:45.738595+08:00",
+  "total_titles_processed": 524,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时01分 ~ 12时27分]"
+          "appearance_count": 6,
+          "time_info": "[11时01分 ~ 13时21分]"
         },
         {
           "title": "比亚迪欧洲售价比国内翻倍，为何销量还超越了特斯拉？",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时01分 ~ 12时27分]"
+          "appearance_count": 6,
+          "time_info": "[11时01分 ~ 13时21分]"
         },
         {
           "title": "特斯拉推出最便宜标准版车型",
@@ -36,11 +36,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             4,
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时01分 ~ 12时27分]"
+          "appearance_count": 6,
+          "time_info": "[11时01分 ~ 13时21分]"
         },
         {
           "title": "特斯拉市值一夜蒸发超4600亿",
@@ -51,8 +52,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时01分 ~ 12时27分]"
+          "appearance_count": 6,
+          "time_info": "[11时01分 ~ 13时21分]"
         },
         {
           "title": "特斯拉市值一夜蒸发超4600亿元",
@@ -77,8 +78,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时02分 ~ 12时27分]"
+          "appearance_count": 4,
+          "time_info": "[11时02分 ~ 13时21分]"
         },
         {
           "title": "特斯拉减配Model Y售价低于4万美元",
@@ -86,11 +87,12 @@
           "source": "今日头条",
           "ranks": [
             23,
-            27
+            27,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时01分 ~ 11时32分]"
+          "appearance_count": 4,
+          "time_info": "[11时01分 ~ 13时21分]"
         },
         {
           "title": "你理想的养老方式是什么",
@@ -119,7 +121,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
         {
           "title": "双节假期南沙口岸汽车出口创历史同期新高：1.1万辆将出海",
@@ -127,11 +129,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            10
+            10,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时32分 ~ 12时27分]"
+          "appearance_count": 3,
+          "time_info": "[11时32分 ~ 13时21分]"
         },
         {
           "title": "金十图示：2025年10月08日（周三）全球汽车制造商市值变化",
@@ -144,6 +147,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时32分 ~ 12时27分]"
+        },
+        {
+          "title": "丰田汽车(TM.N)：计划在2027年至2028年间推出配备全固态电池的纯电动汽车。",
+          "url": "https://flash.jin10.com/detail/20251008123150653800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
+        },
+        {
+          "title": "丰田汽车(TM.N)：住友金属矿山与丰田将合作量产全固态电池用正极材料。",
+          "url": "https://flash.jin10.com/detail/20251008123131798800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
+        },
+        {
+          "title": "日本铃木汽车：计划于2026/27财年内在日本市场实现轻型电动车VISION E-SKY的量产。",
+          "url": "https://flash.jin10.com/detail/20251008122948368800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
         }
       ]
     }
