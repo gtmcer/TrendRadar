@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-08T16:30:49.994518+08:00",
-  "total_titles_processed": 800,
+  "generated_at": "2025-10-08T17:22:41.517229+08:00",
+  "total_titles_processed": 875,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时01分 ~ 16时30分]"
+          "appearance_count": 11,
+          "time_info": "[11时01分 ~ 17时22分]"
         },
         {
           "title": "比亚迪欧洲售价比国内翻倍，为何销量还超越了特斯拉？",
@@ -29,8 +29,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时01分 ~ 16时30分]"
+          "appearance_count": 11,
+          "time_info": "[11时01分 ~ 17时22分]"
         },
         {
           "title": "特斯拉推出最便宜标准版车型",
@@ -69,8 +69,21 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时02分 ~ 16时30分]"
+          "appearance_count": 8,
+          "time_info": "[11时02分 ~ 17时22分]"
+        },
+        {
+          "title": "特斯拉推出 ModelY 和 Model3 标准版两款新车型，价格便宜约 10%，配置有哪些变化？能卖爆吗？",
+          "url": "https://www.zhihu.com/question/1953868783841186117",
+          "source": "知乎",
+          "ranks": [
+            4,
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时33分 ~ 17时22分]"
         },
         {
           "title": "特斯拉减配Model Y售价低于4万美元",
@@ -87,30 +100,6 @@
           "time_info": "[11时01分 ~ 15时20分]"
         },
         {
-          "title": "特斯拉推出 ModelY 和 Model3 标准版两款新车型，价格便宜约 10%，配置有哪些变化？能卖爆吗？",
-          "url": "https://www.zhihu.com/question/1953868783841186117",
-          "source": "知乎",
-          "ranks": [
-            4,
-            6,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时33分 ~ 16时30分]"
-        },
-        {
-          "title": "特斯拉亲手撕掉了自己最值钱的标签吗",
-          "url": "https://www.toutiao.com/trending/7558715732519816713/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时30分"
-        },
-        {
           "title": "特斯拉市值一夜蒸发超4600亿元",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E5%B8%82%E5%80%BC%E4%B8%80%E5%A4%9C%E8%92%B8%E5%8F%91%E8%B6%854600%E4%BA%BF%E5%85%83",
           "source": "百度热搜",
@@ -122,6 +111,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时01分 ~ 12时27分]"
+        },
+        {
+          "title": "特斯拉亲手撕掉了自己最值钱的标签吗",
+          "url": "https://www.toutiao.com/trending/7558715732519816713/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时30分 ~ 17时22分]"
         },
         {
           "title": "你理想的养老方式是什么",
@@ -164,7 +165,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时30分"
         },
@@ -175,7 +176,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时30分"
         },
@@ -186,7 +187,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时30分"
         }
@@ -194,7 +195,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "双节假期南沙口岸汽车出口创历史同期新高：1.1万辆将出海",
@@ -226,11 +227,12 @@
           "url": "https://wallstreetcn.com/livenews/2984358",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时30分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时30分 ~ 17时22分]"
         },
         {
           "title": "美国国家公路交通安全管理局：现代汽车美国公司召回135,386辆美国车辆，原因是电气短路增加了火灾风险。",
@@ -242,6 +244,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
+        },
+        {
+          "title": "一场火灾冲击美国汽车行业40%铝材供应 转向进口则要面对50%关税",
+          "url": "https://www.cls.cn/detail/2163296",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
         },
         {
           "title": "丰田汽车(TM.N)：计划在2027年至2028年间推出配备全固态电池的纯电动汽车。",
@@ -275,6 +288,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源汽车",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "赛力斯：9月新能源汽车销量同比增19.44%",
+          "url": "https://wallstreetcn.com/livenews/2984383",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
+        },
+        {
+          "title": "比亚迪：9月新能源汽车销量同比下降5.52%",
+          "url": "https://wallstreetcn.com/livenews/2984382",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
         }
       ]
     }
