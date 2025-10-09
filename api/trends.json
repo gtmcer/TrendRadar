@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-09T21:33:36.782532+08:00",
-  "total_titles_processed": 1930,
+  "generated_at": "2025-10-09T22:23:46.119295+08:00",
+  "total_titles_processed": 2019,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "【早报】“精简版”Model Y揭晓，特斯拉跳水大跌逾4%；央行连续11个月增持黄金",
@@ -63,11 +63,12 @@
             8,
             7,
             13,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时03分 ~ 21时33分]"
+          "appearance_count": 16,
+          "time_info": "[11时03分 ~ 22时23分]"
         },
         {
           "title": "特斯拉推出 ModelY 和 Model3 标准版两款新车型，价格便宜约 10%，配置有哪些变化？能卖爆吗？",
@@ -141,17 +142,6 @@
           "time_info": "[00时28分 ~ 04时23分]"
         },
         {
-          "title": "特斯拉面临调查 其汽车在使用驾驶辅助系统时有违反交规事件",
-          "url": "https://wallstreetcn.com/livenews/2985099",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时33分"
-        },
-        {
           "title": "小鹏将于今年AI科技日宣布在物理AI领域取得的重大突破",
           "url": "https://wallstreetcn.com/livenews/2984906",
           "source": "华尔街见闻-快讯",
@@ -162,6 +152,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时20分 ~ 16时28分]"
+        },
+        {
+          "title": "特斯拉面临调查 其汽车在使用驾驶辅助系统时有违反交规事件",
+          "url": "https://wallstreetcn.com/livenews/2985099",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时33分 ~ 22时23分]"
         },
         {
           "title": "特斯拉亲手撕掉了自己最值钱的标签吗",
@@ -210,6 +212,17 @@
           "time_info": "13时20分"
         },
         {
+          "title": "特斯拉(TSLA.O)跌1.4%，此前美国启动调查，涉及该公司近290万辆汽车的FSD交通违规问题。",
+          "url": "https://flash.jin10.com/detail/20251009213939851800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
+        },
+        {
           "title": "纳斯达克金龙中国指数收涨0.87%，报8716.26点。 热门中概股里，文远知行收涨12.04%，小马智行涨8.61%，蔚来涨4.67%，新东方涨3.03%，网易、B站、极氪、再鼎医药、小鹏、Boss直聘至多涨2.90%，理想、亿航智能至多涨1.14%，万国数据、腾讯音乐、唯品会、中通快递、贝壳、晶科能源、京东至多涨0.91%。 携程、阿里巴巴则至多收跌0.12%，亚朵、世纪互联、百胜中国、大全新能源、华住、百度、汽车之家至多跌0.80%，阿特斯太阳能跌0.97%，金山云跌1.63%。 此外，大自然药业收涨82.98%，Diginex涨28.06%，房多多涨11.43%，台积电涨3.57%，腾讯控股ADR涨0.81%，小米集团ADR涨0.35%，拼多多涨0.22%，美团ADR跌0.45%，MFH跌5.62%，健永生技跌7.20%。 ETF中，富时中国3倍做多ETF（YINN）收涨0.75%，中国科技指数ETF（CQQQ）收涨0.40%，中概互联网指数ETF（KWEB）收涨0.03%。 XtrackersHarvest中证50（ASHS）收涨0.07%，德银嘉实沪深300指数ETF（ASHR）收涨0.03%。",
           "url": "https://wallstreetcn.com/livenews/2984578",
           "source": "华尔街见闻-快讯",
@@ -235,7 +248,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "一场火灾冲击美国汽车行业40%铝材供应 转向进口则要面对50%关税",
@@ -375,6 +388,17 @@
           "time_info": "11时03分"
         },
         {
+          "title": "德国总理默茨：我们有战略利益维护德国汽车工业。",
+          "url": "https://flash.jin10.com/detail/20251009214031381800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
+        },
+        {
           "title": "福特汽车下跌2%，刷新日低。由于铝工厂发生火情，该公司下周将在美国密歇根工厂关闭F-150车型的工厂。",
           "url": "https://wallstreetcn.com/livenews/2984562",
           "source": "华尔街见闻-快讯",
@@ -436,6 +460,31 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "三部门：调整2026—2027年减免车辆购置税新能源汽车产品技术要求",
+          "url": "https://www.cls.cn/detail/2164357",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时24分 ~ 22时23分]"
+        },
+        {
+          "title": "明年 26 年开始征收新能源汽车购置税，今年有必要换车吗？",
+          "url": "https://www.zhihu.com/question/1900495632873035271",
+          "source": "知乎",
+          "ranks": [
+            17,
+            11,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时44分 ~ 22时23分]"
+        },
+        {
           "title": "工信部等三部门调整2026—2027年减免车辆购置税新能源汽车产品技术要求",
           "url": "https://wallstreetcn.com/livenews/2984940",
           "source": "华尔街见闻-快讯",
@@ -446,29 +495,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时28分 ~ 17时24分]"
-        },
-        {
-          "title": "三部门：调整2026—2027年减免车辆购置税新能源汽车产品技术要求",
-          "url": "https://www.cls.cn/detail/2164357",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时24分 ~ 19时18分]"
-        },
-        {
-          "title": "明年 26 年开始征收新能源汽车购置税，今年有必要换车吗？",
-          "url": "https://www.zhihu.com/question/1900495632873035271",
-          "source": "知乎",
-          "ranks": [
-            17,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时44分 ~ 21时33分]"
         },
         {
           "title": "创历史新高 国庆中秋假期高速公路新能源汽车充电量超1.2亿度",
