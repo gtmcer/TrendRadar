@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-10T06:19:54.010831+08:00",
-  "total_titles_processed": 623,
+  "generated_at": "2025-10-10T07:19:15.083462+08:00",
+  "total_titles_processed": 695,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             10,
             13,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 06时19分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 07时19分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌约2%。 热门中概股里，小鹏和小马智行跌超5%，蔚来、阿里、百度、理想跌超4%，腾讯音乐则涨0.7%，亚朵、万国数据、名创优品至多涨1.9%，晶科能源涨2.3%，B站涨2.9%，阿特斯太阳能涨11.7%。 ETF中，富时中国3倍做多ETF（YINN）收跌3.94%，中概互联网指数ETF（KWEB）收跌2.25%，中国科技指数ETF（CQQQ）收跌1.36%。 XtrackersHarvest中证50（ASHS）收涨0.70%，德银嘉实沪深300指数ETF（ASHR）收涨0.43%。",
@@ -112,8 +113,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 06时19分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 07时19分]"
         }
       ]
     }
