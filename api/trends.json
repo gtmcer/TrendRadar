@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-09T19:18:13.350133+08:00",
-  "total_titles_processed": 1737,
+  "generated_at": "2025-10-09T20:44:54.904241+08:00",
+  "total_titles_processed": 1849,
   "failed_sources": [],
   "trends": [
     {
@@ -66,8 +66,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时03分 ~ 19时18分]"
+          "appearance_count": 14,
+          "time_info": "[11时03分 ~ 20时44分]"
         },
         {
           "title": "特斯拉推出 ModelY 和 Model3 标准版两款新车型，价格便宜约 10%，配置有哪些变化？能卖爆吗？",
@@ -422,7 +422,7 @@
     },
     {
       "keyword_group": "新能源汽车",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "工信部等三部门调整2026—2027年减免车辆购置税新能源汽车产品技术要求",
@@ -458,6 +458,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时24分 ~ 18时25分]"
+        },
+        {
+          "title": "明年 26 年开始征收新能源汽车购置税，今年有必要换车吗？",
+          "url": "https://www.zhihu.com/question/1900495632873035271",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
         }
       ]
     }
