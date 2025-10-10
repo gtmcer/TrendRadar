@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-11T04:23:13.575456+08:00",
-  "total_titles_processed": 477,
+  "generated_at": "2025-10-11T05:18:33.227914+08:00",
+  "total_titles_processed": 523,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "小鹏汽车智驾一号位换帅，世界基座模型负责人刘先明接任",
@@ -25,11 +25,12 @@
           "url": "https://flash.jin10.com/detail/20251011032826125800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时23分 ~ 05时18分]"
         },
         {
           "title": "纳斯达克综合指数跌2.25%，纳斯达克100指数跌2.18%，标普500跌1.5%，道指跌442点跌幅将近1%，半导体指数跌4%。 生物科技指数跌1.39%，银行指数跌1.67%，罗素2000指数跌0.62%。 特斯拉跌3.84%，苹果跌2.09%。",
@@ -41,12 +42,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
+        },
+        {
+          "title": "周五（10月10日），彭博电动汽车价格回报指数跌4.17%，报3405.13点，北京时间09:30跳水，日内跌势到11:26开始放缓，剩余时间持续、平缓地震荡走低。 成分股中，普拉格动力、美国雅宝、智力化工矿业公司（SQM）、蔚来集团H股、特斯拉至少收跌5.06%表现最差，MP材料则收涨8.49%。 本周，该指数累跌2.76%，10月6-8日大致持平，9日走高，10日转跌。",
+          "url": "https://wallstreetcn.com/livenews/2985929",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时18分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌6.10%，报8018.79点，本周累计下跌8.37%。 热门中概股里，文远知行跌14%，蔚来和小马智行跌约9%，阿里和百度跌8%，百度、小鹏、美团、腾讯、京东跌超6%，百胜中国则涨0.6%。 ETF中，富时中国3倍做多ETF（YINN）收跌15.98%，中国科技指数ETF（CQQQ）收跌7.80%，中概互联网指数ETF（KWEB）收跌7.06%，富时中国3倍做空ETF（YANG）收涨16.36%。 XtrackersHarvest中证50（ASHS）收跌5.08%，德银嘉实沪深300指数ETF（ASHR）收跌4.52%。 本周，KWEB累跌9.92%，CQQQ跌9.91%，ASHS跌4.58%，ASHR跌4.46%。",
+          "url": "https://wallstreetcn.com/livenews/2985925",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时18分"
         }
       ]
     },
     {
       "keyword_group": "汽车",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "欧洲汽车制造概念股普遍收跌",
@@ -59,6 +82,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时19分 ~ 04时23分]"
+        },
+        {
+          "title": "摩根士丹利要求从Jefferies的基金Point Bonita Capital撤资。 该基金与汽车零部件供应商First Brands（已申请破产）有关。",
+          "url": "https://wallstreetcn.com/livenews/2985944",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时18分"
         }
       ]
     }
