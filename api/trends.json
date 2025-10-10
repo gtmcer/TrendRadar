@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-10T07:19:15.083462+08:00",
-  "total_titles_processed": 695,
+  "generated_at": "2025-10-10T09:30:30.863802+08:00",
+  "total_titles_processed": 853,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "廉价版特斯拉来了股价为何还跌",
@@ -55,6 +55,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时20分 ~ 06时19分]"
+        },
+        {
+          "title": "小米汽车是如何做到均价二十几万，毛利率却是全球前列的？",
+          "url": "https://www.zhihu.com/question/1941598594592387643",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时30分"
         }
       ]
     },
@@ -110,11 +121,12 @@
           "source": "知乎",
           "ranks": [
             2,
-            1
+            1,
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 07时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 09时30分]"
         }
       ]
     }
