@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-10T09:30:30.863802+08:00",
-  "total_titles_processed": 853,
+  "generated_at": "2025-10-10T11:04:49.038263+08:00",
+  "total_titles_processed": 995,
   "failed_sources": [],
   "trends": [
     {
@@ -33,6 +33,18 @@
           "time_info": "04时25分"
         },
         {
+          "title": "小米汽车是如何做到均价二十几万，毛利率却是全球前列的？",
+          "url": "https://www.zhihu.com/question/1941598594592387643",
+          "source": "知乎",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时30分 ~ 11时04分]"
+        },
+        {
           "title": "纳斯达克金龙中国指数下跌2%，中概股小马智行跌6.7%，文远知行跌6.1%，小鹏跌6.1%，蔚来、阿里、百度、理想跌超4%。",
           "url": "https://wallstreetcn.com/livenews/2985209",
           "source": "华尔街见闻-快讯",
@@ -55,23 +67,12 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时20分 ~ 06时19分]"
-        },
-        {
-          "title": "小米汽车是如何做到均价二十几万，毛利率却是全球前列的？",
-          "url": "https://www.zhihu.com/question/1941598594592387643",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时30分"
         }
       ]
     },
     {
       "keyword_group": "汽车",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "福特汽车(F.N)正在取消一项旨在延长使用7500美元电动汽车税收抵免的计划。",
@@ -108,12 +109,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时20分 ~ 06时19分]"
+        },
+        {
+          "title": "阿维塔回应汽车起火致7车受损事件：起火位置在副驾座椅，排除动力电池、驱动电机、高压电控故障等导致",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31745929",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时04分"
+        },
+        {
+          "title": "日本首席贸易谈判代表赤泽亮正：特朗普对美国汽车是否进入日本市场很感兴趣。",
+          "url": "https://wallstreetcn.com/livenews/2985423",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时04分"
         }
       ]
     },
     {
       "keyword_group": "新能源汽车",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "明年 26 年开始征收新能源汽车购置税，今年有必要换车吗？",
@@ -127,6 +150,17 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时29分 ~ 09时30分]"
+        },
+        {
+          "title": "三部门联合公告 2026-2027 年减免车辆购置税新能源汽车产品技术要求，这对市场有何影响？",
+          "url": "https://www.zhihu.com/question/1959668052732909345",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时04分"
         }
       ]
     }
