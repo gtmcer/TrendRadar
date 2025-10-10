@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-10T22:21:50.972240+08:00",
-  "total_titles_processed": 2056,
+  "generated_at": "2025-10-10T23:22:58.388071+08:00",
+  "total_titles_processed": 2156,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 11,
+      "match_count": 16,
       "titles": [
         {
           "title": "小米汽车是如何做到均价二十几万，毛利率却是全球前列的？",
@@ -38,6 +38,39 @@
           "time_info": "[00时29分 ~ 07时19分]"
         },
         {
+          "title": "根据特斯拉官网，特斯拉标准版Model Y将于2025年11月至12月在挪威和瑞典上市。",
+          "url": "https://flash.jin10.com/detail/20251010224846005800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
+          "title": "根据特斯拉官网，特斯拉标准版Model Y在瑞典的售价为499,990瑞典克朗。",
+          "url": "https://flash.jin10.com/detail/20251010224717556800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
+          "title": "根据特斯拉官网消息，特斯拉Model Y标准版将于2025年11月至12月在德国上市。",
+          "url": "https://flash.jin10.com/detail/20251010224653324800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
           "title": "纳斯达克金龙中国指数初步收跌约2%。 热门中概股里，小鹏和小马智行跌超5%，蔚来、阿里、百度、理想跌超4%，腾讯音乐则涨0.7%，亚朵、万国数据、名创优品至多涨1.9%，晶科能源涨2.3%，B站涨2.9%，阿特斯太阳能涨11.7%。 ETF中，富时中国3倍做多ETF（YINN）收跌3.94%，中概互联网指数ETF（KWEB）收跌2.25%，中国科技指数ETF（CQQQ）收跌1.36%。 XtrackersHarvest中证50（ASHS）收涨0.70%，德银嘉实沪深300指数ETF（ASHR）收涨0.43%。",
           "url": "https://wallstreetcn.com/livenews/2985252",
           "source": "华尔街见闻-快讯",
@@ -47,6 +80,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
+        },
+        {
+          "title": "根据特斯拉官网，特斯拉标准版Model Y在挪威的售价为421,996挪威克朗。",
+          "url": "https://flash.jin10.com/detail/20251010223842426800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
         },
         {
           "title": "乘联分会：预估9月特斯拉中国批发销量90812辆",
@@ -94,6 +138,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时22分"
+        },
+        {
+          "title": "特斯拉标准版Model Y在德国市场售价为39,990欧元。",
+          "url": "https://flash.jin10.com/detail/20251010222821320800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
         },
         {
           "title": "乘联分会：特斯拉9月份在中国制造的汽车销量为90,812辆。",
@@ -177,7 +232,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时21分"
         },
