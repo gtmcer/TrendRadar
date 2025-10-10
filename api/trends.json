@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-11T05:18:33.227914+08:00",
-  "total_titles_processed": 523,
+  "generated_at": "2025-10-11T06:20:12.420964+08:00",
+  "total_titles_processed": 551,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时23分 ~ 05时18分]"
+          "appearance_count": 3,
+          "time_info": "[04时23分 ~ 06时20分]"
         },
         {
           "title": "纳斯达克综合指数跌2.25%，纳斯达克100指数跌2.18%，标普500跌1.5%，道指跌442点跌幅将近1%，半导体指数跌4%。 生物科技指数跌1.39%，银行指数跌1.67%，罗素2000指数跌0.62%。 特斯拉跌3.84%，苹果跌2.09%。",
@@ -50,7 +50,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
         },
@@ -61,7 +61,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
         }
@@ -90,7 +90,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
         }
