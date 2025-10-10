@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-10T16:29:50.159810+08:00",
-  "total_titles_processed": 1511,
+  "generated_at": "2025-10-10T17:24:36.244397+08:00",
+  "total_titles_processed": 1617,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时30分 ~ 16时29分]"
+          "appearance_count": 9,
+          "time_info": "[09时30分 ~ 17时24分]"
         },
         {
           "title": "廉价版特斯拉来了股价为何还跌",
@@ -119,7 +119,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "阿维塔回应汽车起火致7车受损事件：起火位置在副驾座椅，排除动力电池、驱动电机、高压电控故障等导致",
@@ -132,8 +132,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时04分 ~ 16时29分]"
+          "appearance_count": 8,
+          "time_info": "[11时04分 ~ 17时24分]"
         },
         {
           "title": "美国国家公路交通安全管理局：丰田汽车(TM.N)召回54,631辆美国车辆，克莱斯勒召回62,910辆美国车辆。",
@@ -183,6 +183,17 @@
           "time_info": "[05时20分 ~ 06时19分]"
         },
         {
+          "title": "大众汽车：三季度中国区交付量下降7.2%，至660,300辆。三季度西欧地区交付量增长8%，中东欧地区交付量则上升13.7%，北美交付量下降9.8%至246,900辆。",
+          "url": "https://flash.jin10.com/detail/20251010170224131800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
+        {
           "title": "日本首席贸易谈判代表赤泽亮正：特朗普对美国汽车是否进入日本市场很感兴趣。",
           "url": "https://wallstreetcn.com/livenews/2985423",
           "source": "华尔街见闻-快讯",
@@ -223,8 +234,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时04分 ~ 16时29分]"
+          "appearance_count": 8,
+          "time_info": "[11时04分 ~ 17时24分]"
         },
         {
           "title": "三部门发布《关于调整享受车船税优惠的节能 新能源汽车产品技术要求的公告》",
@@ -232,11 +243,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时33分 ~ 16时29分]"
+          "appearance_count": 4,
+          "time_info": "[14时33分 ~ 17时24分]"
         },
         {
           "title": "工信部等三部门发布关于调整享受车船税优惠的节能、新能源汽车产品技术要求的公告。",
