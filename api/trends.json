@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-10T18:23:56.070949+08:00",
-  "total_titles_processed": 1693,
+  "generated_at": "2025-10-10T19:20:05.325796+08:00",
+  "total_titles_processed": 1793,
   "failed_sources": [],
   "trends": [
     {
@@ -20,8 +20,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时30分 ~ 18时23分]"
+          "appearance_count": 12,
+          "time_info": "[09时30分 ~ 19时20分]"
         },
         {
           "title": "廉价版特斯拉来了股价为何还跌",
@@ -49,6 +49,18 @@
           "time_info": "04时25分"
         },
         {
+          "title": "乘联分会：预估9月特斯拉中国批发销量90812辆",
+          "url": "https://wallstreetcn.com/livenews/2985667",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时23分 ~ 19时20分]"
+        },
+        {
           "title": "纳斯达克金龙中国指数下跌2%，中概股小马智行跌6.7%，文远知行跌6.1%，小鹏跌6.1%，蔚来、阿里、百度、理想跌超4%。",
           "url": "https://wallstreetcn.com/livenews/2985209",
           "source": "华尔街见闻-快讯",
@@ -73,17 +85,6 @@
           "time_info": "[05时20分 ~ 06时19分]"
         },
         {
-          "title": "乘联分会：预估9月特斯拉中国批发销量90812辆",
-          "url": "https://wallstreetcn.com/livenews/2985667",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时23分"
-        },
-        {
           "title": "韩国进口汽车协会（KAIDA）周五公布的数据显示，上月新注册进口车数量为32,834辆，同比增长32.2%。特斯拉(TSLA.O)连续第三个月位居榜首，达9,069辆。",
           "url": "https://flash.jin10.com/detail/20251010125301813800",
           "source": "金十数据",
@@ -101,7 +102,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
         },
@@ -194,6 +195,18 @@
           "time_info": "[03时20分 ~ 04时25分]"
         },
         {
+          "title": "广汽集团：9月汽车产量为17.92万辆，同比增长11.17%，本年累计产量为123.76万辆，同比下降7.21%；9月汽车销量为17.32万辆，同比下降5.17%，本年累计销量为118.37万辆，同比下降11.34%。",
+          "url": "https://wallstreetcn.com/livenews/2985662",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时23分 ~ 19时20分]"
+        },
+        {
           "title": "周四（10月9日），彭博电动汽车价格回报指数涨1.35%，报3553.47点，全天处于上涨状态，北京时间10:00出现一波陡峭的拉涨行情，后续持续高位窄幅震荡。 成分股里，松下株式会社东京股价收涨6.58%，Sonacoms IS（Sona Blw Precision Forgings Ltd.）印度股价收涨5.97%，美国雅宝涨约5.2%，保时捷P911则收跌2.49%，阿内卡矿业股份跌约3.3%，雅迪集团控股H股收跌3.31%，Lucid Group跌约3.7%。",
           "url": "https://wallstreetcn.com/livenews/2985261",
           "source": "华尔街见闻-快讯",
@@ -204,17 +217,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时20分 ~ 06时19分]"
-        },
-        {
-          "title": "广汽集团：9月汽车产量为17.92万辆，同比增长11.17%，本年累计产量为123.76万辆，同比下降7.21%；9月汽车销量为17.32万辆，同比下降5.17%，本年累计销量为118.37万辆，同比下降11.34%。",
-          "url": "https://wallstreetcn.com/livenews/2985662",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时23分"
         },
         {
           "title": "大众汽车：三季度中国区交付量下降7.2%，至660,300辆。三季度西欧地区交付量增长8%，中东欧地区交付量则上升13.7%，北美交付量下降9.8%至246,900辆。",
@@ -279,11 +281,12 @@
           "ranks": [
             12,
             10,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时33分 ~ 18时23分]"
+          "appearance_count": 7,
+          "time_info": "[14时33分 ~ 19时20分]"
         },
         {
           "title": "工信部等三部门发布关于调整享受车船税优惠的节能、新能源汽车产品技术要求的公告。",
