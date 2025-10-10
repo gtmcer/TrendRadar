@@ -1,12 +1,27 @@
 {
-  "generated_at": "2025-10-10T15:20:25.058692+08:00",
-  "total_titles_processed": 1380,
+  "generated_at": "2025-10-10T16:29:50.159810+08:00",
+  "total_titles_processed": 1511,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
       "match_count": 9,
       "titles": [
+        {
+          "title": "小米汽车是如何做到均价二十几万，毛利率却是全球前列的？",
+          "url": "https://www.zhihu.com/question/1941598594592387643",
+          "source": "知乎",
+          "ranks": [
+            9,
+            6,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时30分 ~ 16时29分]"
+        },
         {
           "title": "廉价版特斯拉来了股价为何还跌",
           "url": "https://search.bilibili.com/all?keyword=%E5%BB%89%E4%BB%B7%E7%89%88%E7%89%B9%E6%96%AF%E6%8B%89%E6%9D%A5%E4%BA%86%E8%82%A1%E4%BB%B7%E4%B8%BA%E4%BD%95%E8%BF%98%E8%B7%8C",
@@ -20,20 +35,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时29分 ~ 07时19分]"
-        },
-        {
-          "title": "小米汽车是如何做到均价二十几万，毛利率却是全球前列的？",
-          "url": "https://www.zhihu.com/question/1941598594592387643",
-          "source": "知乎",
-          "ranks": [
-            9,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时30分 ~ 15时20分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌约2%。 热门中概股里，小鹏和小马智行跌超5%，蔚来、阿里、百度、理想跌超4%，腾讯音乐则涨0.7%，亚朵、万国数据、名创优品至多涨1.9%，晶科能源涨2.3%，B站涨2.9%，阿特斯太阳能涨11.7%。 ETF中，富时中国3倍做多ETF（YINN）收跌3.94%，中概互联网指数ETF（KWEB）收跌2.25%，中国科技指数ETF（CQQQ）收跌1.36%。 XtrackersHarvest中证50（ASHS）收涨0.70%，德银嘉实沪深300指数ETF（ASHR）收涨0.43%。",
@@ -110,7 +111,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         }
@@ -127,11 +128,12 @@
           "ranks": [
             16,
             14,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时04分 ~ 15时20分]"
+          "appearance_count": 7,
+          "time_info": "[11时04分 ~ 16时29分]"
         },
         {
           "title": "美国国家公路交通安全管理局：丰田汽车(TM.N)召回54,631辆美国车辆，克莱斯勒召回62,910辆美国车辆。",
@@ -140,7 +142,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         },
@@ -221,8 +223,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时04分 ~ 15时20分]"
+          "appearance_count": 7,
+          "time_info": "[11时04分 ~ 16时29分]"
+        },
+        {
+          "title": "三部门发布《关于调整享受车船税优惠的节能 新能源汽车产品技术要求的公告》",
+          "url": "https://www.cls.cn/detail/2165240",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时33分 ~ 16时29分]"
         },
         {
           "title": "工信部等三部门发布关于调整享受车船税优惠的节能、新能源汽车产品技术要求的公告。",
@@ -235,18 +249,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时25分 ~ 13时22分]"
-        },
-        {
-          "title": "三部门发布《关于调整享受车船税优惠的节能 新能源汽车产品技术要求的公告》",
-          "url": "https://www.cls.cn/detail/2165240",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时33分 ~ 15时20分]"
         },
         {
           "title": "突发！2600亿新能源汽车龙头与字节旗下火山引擎签署具身智能合作协议|盘后公告集锦",
