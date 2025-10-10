@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-11T00:26:53.020997+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-10-11T01:21:06.563678+08:00",
+  "total_titles_processed": 367,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/livenews/2985874",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 01时21分]"
         },
         {
           "title": "纳斯达克综合指数跌2.25%，纳斯达克100指数跌2.18%，标普500跌1.5%，道指跌442点跌幅将近1%，半导体指数跌4%。 生物科技指数跌1.39%，银行指数跌1.67%，罗素2000指数跌0.62%。 特斯拉跌3.84%，苹果跌2.09%。",
