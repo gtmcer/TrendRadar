@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-10T11:04:49.038263+08:00",
-  "total_titles_processed": 995,
+  "generated_at": "2025-10-10T12:25:13.554087+08:00",
+  "total_titles_processed": 1108,
   "failed_sources": [],
   "trends": [
     {
@@ -41,8 +41,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时30分 ~ 11时04分]"
+          "appearance_count": 4,
+          "time_info": "[09时30分 ~ 12时25分]"
         },
         {
           "title": "纳斯达克金龙中国指数下跌2%，中概股小马智行跌6.7%，文远知行跌6.1%，小鹏跌6.1%，蔚来、阿里、百度、理想跌超4%。",
@@ -99,6 +99,17 @@
           "time_info": "[03时20分 ~ 04时25分]"
         },
         {
+          "title": "阿维塔回应汽车起火致7车受损事件：起火位置在副驾座椅，排除动力电池、驱动电机、高压电控故障等导致",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31745929",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时04分 ~ 12时25分]"
+        },
+        {
           "title": "周四（10月9日），彭博电动汽车价格回报指数涨1.35%，报3553.47点，全天处于上涨状态，北京时间10:00出现一波陡峭的拉涨行情，后续持续高位窄幅震荡。 成分股里，松下株式会社东京股价收涨6.58%，Sonacoms IS（Sona Blw Precision Forgings Ltd.）印度股价收涨5.97%，美国雅宝涨约5.2%，保时捷P911则收跌2.49%，阿内卡矿业股份跌约3.3%，雅迪集团控股H股收跌3.31%，Lucid Group跌约3.7%。",
           "url": "https://wallstreetcn.com/livenews/2985261",
           "source": "华尔街见闻-快讯",
@@ -111,24 +122,13 @@
           "time_info": "[05时20分 ~ 06时19分]"
         },
         {
-          "title": "阿维塔回应汽车起火致7车受损事件：起火位置在副驾座椅，排除动力电池、驱动电机、高压电控故障等导致",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31745929",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时04分"
-        },
-        {
           "title": "日本首席贸易谈判代表赤泽亮正：特朗普对美国汽车是否进入日本市场很感兴趣。",
           "url": "https://wallstreetcn.com/livenews/2985423",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时04分"
         }
@@ -136,7 +136,7 @@
     },
     {
       "keyword_group": "新能源汽车",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "明年 26 年开始征收新能源汽车购置税，今年有必要换车吗？",
@@ -156,11 +156,23 @@
           "url": "https://www.zhihu.com/question/1959668052732909345",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时04分 ~ 12时25分]"
+        },
+        {
+          "title": "工信部等三部门发布关于调整享受车船税优惠的节能、新能源汽车产品技术要求的公告。",
+          "url": "https://wallstreetcn.com/livenews/2985473",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时04分"
+          "time_info": "12时25分"
         }
       ]
     }
