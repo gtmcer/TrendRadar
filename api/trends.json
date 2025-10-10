@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-10T19:20:05.325796+08:00",
-  "total_titles_processed": 1793,
+  "generated_at": "2025-10-10T20:43:10.705376+08:00",
+  "total_titles_processed": 1914,
   "failed_sources": [],
   "trends": [
     {
@@ -20,8 +20,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时30分 ~ 19时20分]"
+          "appearance_count": 14,
+          "time_info": "[09时30分 ~ 20时43分]"
         },
         {
           "title": "廉价版特斯拉来了股价为何还跌",
@@ -260,6 +260,21 @@
           "time_info": "[00时29分 ~ 09时30分]"
         },
         {
+          "title": "三部门发布《关于调整享受车船税优惠的节能 新能源汽车产品技术要求的公告》",
+          "url": "https://www.cls.cn/detail/2165240",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时33分 ~ 20时43分]"
+        },
+        {
           "title": "三部门联合公告 2026-2027 年减免车辆购置税新能源汽车产品技术要求，这对市场有何影响？",
           "url": "https://www.zhihu.com/question/1959668052732909345",
           "source": "知乎",
@@ -273,20 +288,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[11时04分 ~ 18时23分]"
-        },
-        {
-          "title": "三部门发布《关于调整享受车船税优惠的节能 新能源汽车产品技术要求的公告》",
-          "url": "https://www.cls.cn/detail/2165240",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时33分 ~ 19时20分]"
         },
         {
           "title": "工信部等三部门发布关于调整享受车船税优惠的节能、新能源汽车产品技术要求的公告。",
