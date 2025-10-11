@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-12T00:23:50.842216+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-10-12T04:21:46.634314+08:00",
+  "total_titles_processed": 369,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 04时21分]"
         },
         {
           "title": "焕新极氪001正式上市，售价26.98万起",
@@ -26,8 +26,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 04时21分]"
         }
       ]
     }
