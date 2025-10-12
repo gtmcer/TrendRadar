@@ -1,66 +1,7 @@
 {
-  "generated_at": "2025-10-12T23:17:07.368081+08:00",
-  "total_titles_processed": 1106,
+  "generated_at": "2025-10-13T00:19:51.154007+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "极氪确认搭载激光雷达的非千里浩瀚老款车型，将可升级为Thor-U芯片",
-          "url": "https://wallstreetcn.com/livenews/2986163",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 04时21分]"
-        },
-        {
-          "title": "焕新极氪001正式上市，售价26.98万起",
-          "url": "https://wallstreetcn.com/livenews/2986162",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 04时21分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新能源汽车",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "中国外贸含新量飙升，重庆新能源汽车出口值暴增11倍",
-          "url": "https://wallstreetcn.com/livenews/2986237",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时56分 ~ 15时16分]"
-        },
-        {
-          "title": "中国外贸含新量飙升 重庆新能源汽车出口值暴增11倍",
-          "url": "https://flash.jin10.com/detail/20251012112848539800",
-          "source": "金十数据",
-          "ranks": [
-            27,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时56分 ~ 15时16分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://gtmcer.github.io/TrendRadar/img/news.jpg"
 }
