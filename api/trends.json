@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-12T15:02:38.668702+08:00",
-  "total_titles_processed": 624,
+  "generated_at": "2025-10-12T15:16:03.020464+08:00",
+  "total_titles_processed": 644,
   "failed_sources": [],
   "trends": [
     {
@@ -40,22 +40,24 @@
           "url": "https://wallstreetcn.com/livenews/2986237",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时56分 ~ 15时02分]"
+          "appearance_count": 3,
+          "time_info": "[14时56分 ~ 15时16分]"
         },
         {
           "title": "中国外贸含新量飙升 重庆新能源汽车出口值暴增11倍",
           "url": "https://flash.jin10.com/detail/20251012112848539800",
           "source": "金十数据",
           "ranks": [
-            27
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时56分 ~ 15时02分]"
+          "appearance_count": 3,
+          "time_info": "[14时56分 ~ 15时16分]"
         }
       ]
     }
