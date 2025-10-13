@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-13T19:16:13.705569+08:00",
-  "total_titles_processed": 1586,
+  "generated_at": "2025-10-13T20:37:19.253374+08:00",
+  "total_titles_processed": 1712,
   "failed_sources": [],
   "trends": [
     {
@@ -255,8 +255,22 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时29分 ~ 19时16分]"
+          "appearance_count": 11,
+          "time_info": "[14时29分 ~ 20时37分]"
+        },
+        {
+          "title": "董明珠称格力向特斯拉提供服务",
+          "url": "https://www.baidu.com/s?wd=%E8%91%A3%E6%98%8E%E7%8F%A0%E7%A7%B0%E6%A0%BC%E5%8A%9B%E5%90%91%E7%89%B9%E6%96%AF%E6%8B%89%E6%8F%90%E4%BE%9B%E6%9C%8D%E5%8A%A1",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            27,
+            24,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时27分 ~ 20时37分]"
         },
         {
           "title": "特斯拉要求股东们11月6日投票表决马斯克的薪酬和任期。",
@@ -281,19 +295,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
-        },
-        {
-          "title": "董明珠称格力向特斯拉提供服务",
-          "url": "https://www.baidu.com/s?wd=%E8%91%A3%E6%98%8E%E7%8F%A0%E7%A7%B0%E6%A0%BC%E5%8A%9B%E5%90%91%E7%89%B9%E6%96%AF%E6%8B%89%E6%8F%90%E4%BE%9B%E6%9C%8D%E5%8A%A1",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            27,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时27分 ~ 19时16分]"
         },
         {
           "title": "恒生科技指数下跌4%，舜宇光学科技跌超7%，哔哩哔哩、比亚迪电子跌近7%，小米、快手、联想、蔚来等跌超6%。",
@@ -380,7 +381,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
