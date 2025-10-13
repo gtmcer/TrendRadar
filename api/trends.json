@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-14T06:18:11.486286+08:00",
-  "total_titles_processed": 604,
+  "generated_at": "2025-10-14T07:17:45.162251+08:00",
+  "total_titles_processed": 659,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时22分 ~ 06时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时22分 ~ 07时17分]"
         },
         {
           "title": "周一（10月13日），彭博电动汽车价格回报指数涨1.43%，报3456.93点。 成分股MP材料收涨21.34%，普拉格动力公司涨14.04%，美国雅宝涨7.21%表现第三。 港股小鹏汽车、浙江零跑科技、理想汽车、蔚来集团、小米集团则收跌3.33%-5.71%，表现最差。",
@@ -52,11 +52,12 @@
           "source": "知乎",
           "ranks": [
             11,
-            14
+            14,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时17分 ~ 06时18分]"
+          "appearance_count": 4,
+          "time_info": "[05时17分 ~ 07时17分]"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收涨超5.4%，谷歌和英伟达至少涨超2.8%",
