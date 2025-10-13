@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-13T15:20:57.594420+08:00",
-  "total_titles_processed": 1162,
+  "generated_at": "2025-10-13T16:28:03.697196+08:00",
+  "total_titles_processed": 1289,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 11,
+      "match_count": 16,
       "titles": [
         {
           "title": "蔡正元：美汽车工业将首遭重创",
@@ -68,11 +68,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时29分 ~ 15时20分]"
+          "appearance_count": 5,
+          "time_info": "[14时29分 ~ 16时28分]"
         },
         {
           "title": "劳埃德银行预计将追加8亿英镑汽车金融拨备。",
@@ -99,6 +100,17 @@
           "time_info": "[11时12分 ~ 12时21分]"
         },
         {
+          "title": "成都通报汽车起火致1死：司机酒驾",
+          "url": "https://www.toutiao.com/trending/7559898682808634934/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时27分 ~ 16时28分]"
+        },
+        {
           "title": "汽车起火多人救援目击者发声",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%B1%BD%E8%BD%A6%E8%B5%B7%E7%81%AB%E5%A4%9A%E4%BA%BA%E6%95%91%E6%8F%B4%E7%9B%AE%E5%87%BB%E8%80%85%E5%8F%91%E5%A3%B0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26q%3D%2523%25E6%25B1%25BD%25E8%25BD%25A6%25E8%25B5%25B7%25E7%2581%25AB%25E5%25A4%259A%25E4%25BA%25BA%25E6%2595%2591%25E6%258F%25B4%25E7%259B%25AE%25E5%2587%25BB%25E8%2580%2585%25E5%258F%2591%25E5%25A3%25B0%2523%26realpos%3D13%26band_rank%3D13%26stream_entry_id%3D31%26pos%3D13%26flag%3D1%26lcate%3D5001%26filter_type%3Drealtimehot%26dgr%3D0%26c_type%3D31%26display_time%3D1760332834%26pre_seqid%3D17603328347310374133931",
           "source": "微博",
@@ -110,13 +122,57 @@
           "time_info": "[13时20分 ~ 13时21分]"
         },
         {
+          "title": "警方通报成都汽车碰撞起火司机死亡",
+          "url": "https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E6%88%90%E9%83%BD%E6%B1%BD%E8%BD%A6%E7%A2%B0%E6%92%9E%E8%B5%B7%E7%81%AB%E5%8F%B8%E6%9C%BA%E6%AD%BB%E4%BA%A1",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时27分 ~ 16时28分]"
+        },
+        {
+          "title": "极星汽车关闭国内最后一家直营门店",
+          "url": "https://wallstreetcn.com/livenews/2986644",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
+          "title": "印度贸易部门消息人士：印度与欧盟尚未解决汽车、印度对欧盟的《碳边境调整机制》（CBAM）和农业问题。",
+          "url": "https://flash.jin10.com/detail/20251013160736009800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
+          "title": "长沙市召开汽车领域自媒体集中座谈会",
+          "url": "https://wallstreetcn.com/livenews/2986633",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
           "title": "成都起火汽车曾以极高速度行驶",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%88%90%E9%83%BD%E8%B5%B7%E7%81%AB%E6%B1%BD%E8%BD%A6%E6%9B%BE%E4%BB%A5%E6%9E%81%E9%AB%98%E9%80%9F%E5%BA%A6%E8%A1%8C%E9%A9%B6%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26dgr%3D0%26c_type%3D31%26pos%3D20%26cate%3D5001%26band_rank%3D19%26realpos%3D19%26q%3D%2523%25E6%2588%2590%25E9%2583%25BD%25E8%25B5%25B7%25E7%2581%25AB%25E6%25B1%25BD%25E8%25BD%25A6%25E6%259B%25BE%25E4%25BB%25A5%25E6%259E%2581%25E9%25AB%2598%25E9%2580%259F%25E5%25BA%25A6%25E8%25A1%258C%25E9%25A9%25B6%2523%26lcate%3D5001%26flag%3D1%26stream_entry_id%3D31%26display_time%3D1760339974%26pre_seqid%3D17603399746320378907122",
           "source": "微博",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         },
@@ -138,7 +194,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         }
@@ -146,7 +202,7 @@
     },
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 7,
+      "match_count": 12,
       "titles": [
         {
           "title": "特斯拉要求股东们11月6日投票表决马斯克的薪酬和任期。",
@@ -162,6 +218,19 @@
           "time_info": "[04时19分 ~ 07时16分]"
         },
         {
+          "title": "成都一小米汽车高速行驶发生车祸后起火，多人合力施救无果",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31768773",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时29分 ~ 16时28分]"
+        },
+        {
           "title": "恒生科技指数下跌4%，舜宇光学科技跌超7%，哔哩哔哩、比亚迪电子跌近7%，小米、快手、联想、蔚来等跌超6%。",
           "url": "https://wallstreetcn.com/livenews/2986520",
           "source": "华尔街见闻-快讯",
@@ -174,16 +243,26 @@
           "time_info": "[12时21分 ~ 13时21分]"
         },
         {
-          "title": "成都一小米汽车高速行驶发生车祸后起火，多人合力施救无果",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31768773",
-          "source": "澎湃新闻",
+          "title": "特斯拉FSD V14自主泊车",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%96%AF%E6%8B%89FSD%20V14%E8%87%AA%E4%B8%BB%E6%B3%8A%E8%BD%A6",
+          "source": "bilibili 热搜",
           "ranks": [
-            16,
-            14
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时29分 ~ 15时20分]"
+          "appearance_count": 2,
+          "time_info": "[16时27分 ~ 16时28分]"
+        },
+        {
+          "title": "董明珠称格力向特斯拉提供服务",
+          "url": "https://www.baidu.com/s?wd=%E8%91%A3%E6%98%8E%E7%8F%A0%E7%A7%B0%E6%A0%BC%E5%8A%9B%E5%90%91%E7%89%B9%E6%96%AF%E6%8B%89%E6%8F%90%E4%BE%9B%E6%9C%8D%E5%8A%A1",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时27分 ~ 16时28分]"
         },
         {
           "title": "成都一小米汽车疑撞绿化带后起火",
@@ -206,6 +285,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
+        },
+        {
+          "title": "美股盘前明星科技股普遍走高，AMD(AMD.O)涨超4%，阿斯麦(ASML.O)、英伟达(NVDA.O)、高通(QCOM.O)涨3.5%，英特尔(INTC.O)、甲骨文(ORCL.N)、特斯拉(TSLA.O)涨约2.5%。",
+          "url": "https://flash.jin10.com/detail/20251013160611212800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
+          "title": "美股盘前热门中概股普涨，金山云(KC.O)涨超6%，阿里巴巴(BABA.N)涨超5%，蔚来汽车(NIO.N)、台积电(TSM.N)涨近5%，百度(BIDU.O)、哔哩哔哩(BILI.O)涨超4%。",
+          "url": "https://flash.jin10.com/detail/20251013160329025800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
+          "title": "成都警方通报“小米汽车车祸后起火”：31岁驾驶员涉嫌酒后驾驶，已身亡",
+          "url": "https://wallstreetcn.com/livenews/2986610",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
         },
         {
           "title": "特斯拉将于11月6日股东大会表决马斯克薪酬方案",
