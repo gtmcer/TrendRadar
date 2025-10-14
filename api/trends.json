@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-15T00:25:03.680092+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-10-15T01:17:44.358335+08:00",
+  "total_titles_processed": 393,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://www.zhihu.com/question/1961478185104400904",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 00时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 01时17分]"
         },
         {
           "title": "11 月 1 日起国产小客车新车上牌全业务数字化办理，不用再到车管所验车，会对汽车行业带来哪些影响？",
           "url": "https://www.zhihu.com/question/1961377347790926575",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 00时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 01时17分]"
         },
         {
           "title": "目前真正的纯电汽车车主，真的还有里程焦虑吗？",
@@ -54,8 +56,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 00时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 01时17分]"
         }
       ]
     }
