@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-14T12:23:34.086963+08:00",
-  "total_titles_processed": 1085,
+  "generated_at": "2025-10-14T13:18:47.674471+08:00",
+  "total_titles_processed": 1163,
   "failed_sources": [],
   "trends": [
     {
@@ -124,7 +124,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "金十图示：2025年10月14日（周二）全球汽车制造商市值变化",
@@ -149,6 +149,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时18分 ~ 05时17分]"
+        },
+        {
+          "title": "很多人说开手动档小汽车很累人，有人反而很喜欢开手动，甚至比开自动档小车还舒适，到底怎么个理对呢？",
+          "url": "https://www.zhihu.com/question/1961108183750808045",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时18分"
         },
         {
           "title": "分析人士表示，消费者整体健康状况良好，但分析师正密切关注学生贷款和汽车贷款的逾期情况。",
