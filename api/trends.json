@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-15T01:17:44.358335+08:00",
-  "total_titles_processed": 393,
+  "generated_at": "2025-10-15T02:27:00.893687+08:00",
+  "total_titles_processed": 462,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 01时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 02时27分]"
         },
         {
           "title": "11 月 1 日起国产小客车新车上牌全业务数字化办理，不用再到车管所验车，会对汽车行业带来哪些影响？",
@@ -25,11 +25,12 @@
           "source": "知乎",
           "ranks": [
             14,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 01时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 02时27分]"
         },
         {
           "title": "目前真正的纯电汽车车主，真的还有里程焦虑吗？",
@@ -53,11 +54,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_31777801",
           "source": "澎湃新闻",
           "ranks": [
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 01时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 02时27分]"
         }
       ]
     }
