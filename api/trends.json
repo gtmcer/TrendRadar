@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-15T02:27:00.893687+08:00",
-  "total_titles_processed": 462,
+  "generated_at": "2025-10-15T03:17:10.401580+08:00",
+  "total_titles_processed": 513,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "京东宣布联合广汽、宁德时代共同推出一款新车，京东进军汽车赛道可能有哪些考量？前景如何？",
@@ -16,8 +16,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 02时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 03时17分]"
+        },
+        {
+          "title": "现代汽车印度公司任命Tarun Gars为CEO。",
+          "url": "https://wallstreetcn.com/livenews/2987674",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时17分"
         },
         {
           "title": "11 月 1 日起国产小客车新车上牌全业务数字化办理，不用再到车管所验车，会对汽车行业带来哪些影响？",
@@ -58,8 +69,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 02时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 03时17分]"
         }
       ]
     }
