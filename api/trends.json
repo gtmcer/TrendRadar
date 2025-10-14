@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-14T14:29:07.465171+08:00",
-  "total_titles_processed": 1266,
+  "generated_at": "2025-10-14T15:19:09.552363+08:00",
+  "total_titles_processed": 1371,
   "failed_sources": [],
   "trends": [
     {
@@ -124,7 +124,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "金十图示：2025年10月14日（周二）全球汽车制造商市值变化",
@@ -136,6 +136,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时39分"
+        },
+        {
+          "title": "很多人说开手动档小汽车很累人，有人反而很喜欢开手动，甚至比开自动档小车还舒适，到底怎么个理对呢？",
+          "url": "https://www.zhihu.com/question/1961108183750808045",
+          "source": "知乎",
+          "ranks": [
+            19,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时18分 ~ 15时19分]"
         },
         {
           "title": "极星汽车关闭国内最后一家直营门店",
@@ -151,26 +163,16 @@
           "time_info": "[01时18分 ~ 05时17分]"
         },
         {
-          "title": "很多人说开手动档小汽车很累人，有人反而很喜欢开手动，甚至比开自动档小车还舒适，到底怎么个理对呢？",
-          "url": "https://www.zhihu.com/question/1961108183750808045",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时18分 ~ 14时29分]"
-        },
-        {
           "title": "预计到今年以旧换新等政策期满时，补贴申请的汽车以旧换新总量将超过1200万辆",
           "url": "https://wallstreetcn.com/livenews/2987289",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时29分 ~ 15时19分]"
         },
         {
           "title": "1-9月我国汽车工业多项经济指标两位数增长",
@@ -179,9 +181,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
+        },
+        {
+          "title": "中汽协陈士华：2025年我国汽车出口有望超650万辆",
+          "url": "https://wallstreetcn.com/livenews/2987308",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
         },
         {
           "title": "分析人士表示，消费者整体健康状况良好，但分析师正密切关注学生贷款和汽车贷款的逾期情况。",
@@ -216,11 +229,12 @@
           "url": "https://wallstreetcn.com/livenews/2987294",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时29分 ~ 15时19分]"
         }
       ]
     }
