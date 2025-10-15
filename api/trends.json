@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-15T17:21:39.763045+08:00",
-  "total_titles_processed": 1608,
+  "generated_at": "2025-10-15T18:20:53.348382+08:00",
+  "total_titles_processed": 1694,
   "failed_sources": [],
   "trends": [
     {
@@ -108,6 +108,18 @@
           "time_info": "[16时26分 ~ 17时21分]"
         },
         {
+          "title": "比亚迪在芜湖成立汽车销售服务新公司",
+          "url": "https://wallstreetcn.com/livenews/2988093",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时21分 ~ 18时20分]"
+        },
+        {
           "title": "目前真正的纯电汽车车主，真的还有里程焦虑吗？",
           "url": "https://www.zhihu.com/question/654086608",
           "source": "知乎",
@@ -117,17 +129,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时24分 ~ 00时25分]"
-        },
-        {
-          "title": "比亚迪在芜湖成立汽车销售服务新公司",
-          "url": "https://wallstreetcn.com/livenews/2988093",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时21分"
         },
         {
           "title": "现代汽车印度公司：目标到2030财年实现1万亿印度卢比的营收。",
@@ -177,7 +178,7 @@
     },
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "一辆蔚来ET7轿车在大理一景区外起火，一家四口撤离及时无伤亡",
@@ -196,6 +197,21 @@
           "time_info": "[00时24分 ~ 15时19分]"
         },
         {
+          "title": "打不开的车门！小米汽车成都事故争议背后：门把手为何再成焦点",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31779213",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            9,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时06分 ~ 18时20分]"
+        },
+        {
           "title": "如何看待有人先冒充极氪团队再冒充比亚迪员工，骗取创业公司产品方案？",
           "url": "https://www.zhihu.com/question/1960424640712245570",
           "source": "知乎",
@@ -211,20 +227,6 @@
           "time_info": "[11时06分 ~ 15时19分]"
         },
         {
-          "title": "打不开的车门！小米汽车成都事故争议背后：门把手为何再成焦点",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31779213",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时06分 ~ 17时21分]"
-        },
-        {
           "title": "美股七巨头收盘播报｜英伟达收跌4.4%，亚马逊和特斯拉至多跌约1.7%",
           "url": "https://wallstreetcn.com/livenews/2987722",
           "source": "华尔街见闻-快讯",
@@ -235,6 +237,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时19分 ~ 07时18分]"
+        },
+        {
+          "title": "公司是特斯拉Optimus人形机器人关节轴承独家供应商？中研股份：目前没有人形机器人零部件生产能力",
+          "url": "https://wallstreetcn.com/livenews/2988096",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时21分 ~ 18时20分]"
         },
         {
           "title": "蔚来乐道汽车迎来第十万台量产车下线，交付加速",
@@ -272,15 +286,15 @@
           "time_info": "04时22分"
         },
         {
-          "title": "公司是特斯拉Optimus人形机器人关节轴承独家供应商？中研股份：目前没有人形机器人零部件生产能力",
-          "url": "https://wallstreetcn.com/livenews/2988096",
+          "title": "三花智控回应特斯拉订单：机器人业务进展顺利 但无法回应关于市场传言内容",
+          "url": "https://wallstreetcn.com/livenews/2988138",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时21分"
+          "time_info": "18时20分"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌1.9%。 热门中概股里，蔚来跌5.5%，小马智行、百度、台积电、网易、小鹏、腾讯、京东、理想至少跌1.5%。",
