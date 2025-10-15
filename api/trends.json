@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-15T16:26:24.220270+08:00",
-  "total_titles_processed": 1513,
+  "generated_at": "2025-10-15T17:21:39.763045+08:00",
+  "total_titles_processed": 1608,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "京东宣布联合广汽、宁德时代共同推出一款新车，京东进军汽车赛道可能有哪些考量？前景如何？",
@@ -84,6 +84,30 @@
           "time_info": "[12时23分 ~ 14时27分]"
         },
         {
+          "title": "港股收盘：港股今日迎来反弹行情，恒生指数收涨1.84%，恒生科技指数收涨2.57%，科技股集体上扬，华虹半导体涨超5%；汽车股走高，广汽集团涨超9%；三花智控涨近13%，公司回应天价订单传闻：正在紧急核查。",
+          "url": "https://wallstreetcn.com/livenews/2988059",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时26分 ~ 17时21分]"
+        },
+        {
+          "title": "商务部新闻发言人就中方在世贸组织起诉印度电动汽车及电池补贴措施答记者问",
+          "url": "https://wallstreetcn.com/livenews/2988056",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时26分 ~ 17时21分]"
+        },
+        {
           "title": "目前真正的纯电汽车车主，真的还有里程焦虑吗？",
           "url": "https://www.zhihu.com/question/654086608",
           "source": "知乎",
@@ -95,26 +119,15 @@
           "time_info": "[00时24分 ~ 00时25分]"
         },
         {
-          "title": "港股收盘：港股今日迎来反弹行情，恒生指数收涨1.84%，恒生科技指数收涨2.57%，科技股集体上扬，华虹半导体涨超5%；汽车股走高，广汽集团涨超9%；三花智控涨近13%，公司回应天价订单传闻：正在紧急核查。",
-          "url": "https://wallstreetcn.com/livenews/2988059",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时26分"
-        },
-        {
-          "title": "商务部新闻发言人就中方在世贸组织起诉印度电动汽车及电池补贴措施答记者问",
-          "url": "https://wallstreetcn.com/livenews/2988056",
+          "title": "比亚迪在芜湖成立汽车销售服务新公司",
+          "url": "https://wallstreetcn.com/livenews/2988093",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时26分"
+          "time_info": "17时21分"
         },
         {
           "title": "现代汽车印度公司：目标到2030财年实现1万亿印度卢比的营收。",
@@ -145,7 +158,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         },
@@ -164,7 +177,7 @@
     },
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "一辆蔚来ET7轿车在大理一景区外起火，一家四口撤离及时无伤亡",
@@ -208,8 +221,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时06分 ~ 16时26分]"
+          "appearance_count": 7,
+          "time_info": "[11时06分 ~ 17时21分]"
         },
         {
           "title": "美股七巨头收盘播报｜英伟达收跌4.4%，亚马逊和特斯拉至多跌约1.7%",
@@ -257,6 +270,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时22分"
+        },
+        {
+          "title": "公司是特斯拉Optimus人形机器人关节轴承独家供应商？中研股份：目前没有人形机器人零部件生产能力",
+          "url": "https://wallstreetcn.com/livenews/2988096",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌1.9%。 热门中概股里，蔚来跌5.5%，小马智行、百度、台积电、网易、小鹏、腾讯、京东、理想至少跌1.5%。",
