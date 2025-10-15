@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-15T21:31:32.883516+08:00",
-  "total_titles_processed": 2015,
+  "generated_at": "2025-10-15T22:20:10.708649+08:00",
+  "total_titles_processed": 2111,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "京东宣布联合广汽、宁德时代共同推出一款新车，京东进军汽车赛道可能有哪些考量？前景如何？",
@@ -148,7 +148,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时31分"
         },
@@ -162,6 +162,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
+        },
+        {
+          "title": "中国长安汽车与京东集团签署战略合作协议",
+          "url": "https://wallstreetcn.com/livenews/2988286",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
         },
         {
           "title": "创业板指涨超1%，此前一度跌近1%，沪指涨0.48%，深成指涨0.73%，创新药、国产软件、汽车整车、量子科技等方向领涨，沪深京三市上涨个股近4200只。",
@@ -200,7 +211,7 @@
     },
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "打不开的车门！小米汽车成都事故争议背后：门把手为何再成焦点",
@@ -215,8 +226,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时06分 ~ 21时31分]"
+          "appearance_count": 14,
+          "time_info": "[11时06分 ~ 22时20分]"
         },
         {
           "title": "一辆蔚来ET7轿车在大理一景区外起火，一家四口撤离及时无伤亡",
@@ -340,6 +351,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
+        },
+        {
+          "title": "美股三大股指集体上涨，道指涨0.23%，标普500指数涨0.69%，纳指涨0.96%。，英伟达涨2.6%，特斯拉涨1.35%。台积电涨逾3%，市场预期三季度净利润再创新高。摩根士丹利股价上涨5.1%，Q3业绩全线超预期，创5月12日以来最大盘中涨幅。纳斯达克中国金龙指数涨逾1.5%，阿里巴巴涨超2%，百度涨近3%。",
+          "url": "https://wallstreetcn.com/livenews/2988279",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
         },
         {
           "title": "理想汽车CEO李想：到2030年可能会出现超越苹果iPhone规模的智能汽车企业",
