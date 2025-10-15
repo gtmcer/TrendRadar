@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-15T20:38:34.890358+08:00",
-  "total_titles_processed": 1917,
+  "generated_at": "2025-10-15T21:31:32.883516+08:00",
+  "total_titles_processed": 2015,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "京东宣布联合广汽、宁德时代共同推出一款新车，京东进军汽车赛道可能有哪些考量？前景如何？",
@@ -142,6 +142,17 @@
           "time_info": "19时18分"
         },
         {
+          "title": "上海浦东汽车消费补贴今起可申报，补贴叠加消费者最高可享2.4万元",
+          "url": "https://wallstreetcn.com/livenews/2988264",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时31分"
+        },
+        {
           "title": "现代汽车印度公司：目标到2030财年实现1万亿印度卢比的营收。",
           "url": "https://flash.jin10.com/detail/20251015135406046800",
           "source": "金十数据",
@@ -200,11 +211,12 @@
             9,
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时06分 ~ 20时38分]"
+          "appearance_count": 12,
+          "time_info": "[11时06分 ~ 21时31分]"
         },
         {
           "title": "一辆蔚来ET7轿车在大理一景区外起火，一家四口撤离及时无伤亡",
@@ -347,7 +359,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时38分"
         }
