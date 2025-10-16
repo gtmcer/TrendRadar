@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-17T06:16:37.061878+08:00",
-  "total_titles_processed": 677,
+  "generated_at": "2025-10-17T07:16:08.583167+08:00",
+  "total_titles_processed": 741,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 06时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 07时16分]"
         },
         {
           "title": "被新加坡投资公司起诉 蔚来高管回应：不清楚近期为何有人炒作此事",
@@ -27,11 +27,12 @@
             13,
             12,
             11,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 06时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 07时16分]"
         },
         {
           "title": "如何看待蔚来遭起诉",
@@ -41,8 +42,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时18分 ~ 06时16分]"
+          "appearance_count": 8,
+          "time_info": "[01时18分 ~ 07时16分]"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收跌约1.5%，英伟达涨1.1%为半导体板块“护盘”",
@@ -118,7 +119,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
         },
@@ -129,7 +130,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
         },
@@ -159,8 +160,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 06时16分]"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 07时16分]"
         }
       ]
     }
