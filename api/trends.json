@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-16T19:18:41.738155+08:00",
-  "total_titles_processed": 1776,
+  "generated_at": "2025-10-16T20:39:23.333184+08:00",
+  "total_titles_processed": 1908,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "【早报】事关电动汽车充电设施，利好来了；9月金融数据出炉",
@@ -25,7 +25,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
@@ -83,8 +83,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时27分 ~ 19时18分]"
+          "appearance_count": 5,
+          "time_info": "[16时27分 ~ 20时39分]"
         },
         {
           "title": "美媒：美国与中国电动汽车差距扩大",
@@ -121,6 +121,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时20分 ~ 18时22分]"
+        },
+        {
+          "title": "雷军：汽车安全是基础",
+          "url": "https://www.toutiao.com/trending/7560869722347077641/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时18分 ~ 20时39分]"
         },
         {
           "title": "乘联分会秘书长崔东树：9月全国汽车市场总体走势较强，卡车市场和客车市场回暖明显",
@@ -168,14 +180,14 @@
         },
         {
           "title": "雷军：汽车安全是基础",
-          "url": "https://www.toutiao.com/trending/7560869722347077641/",
-          "source": "今日头条",
+          "url": "https://www.douyin.com/hot/2272215",
+          "source": "抖音",
           "ranks": [
             18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时18分"
+          "time_info": "20时39分"
         },
         {
           "title": "金十图示：2025年10月16日（周四）全球汽车制造商市值变化",
@@ -187,6 +199,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
+        },
+        {
+          "title": "雷军：AI大模型将给智能网联汽车无限的想象空间",
+          "url": "https://wallstreetcn.com/livenews/2988978",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时39分"
+        },
+        {
+          "title": "美联储理事沃勒：关税不确定性以及对AI对生产力可能影响的疑问，使得企业CEO招聘意愿不强。 企业投资主要集中在AI领域，并未广泛分布。 一旦扣掉AI，企业固定投资是下降的。 大量AI相关支出实际上是行业间的资源重新分配。 美国抵押贷款和汽车贷款利率很高，条件并不宽松。 如果美联储继续下调政策利率，抵押贷款应会面临下行压力。 如果宽松的金融环境将引发景气繁荣，那么劳动力市场应该会出现这种现象。 但目前为止，情况并非如此。",
+          "url": "https://wallstreetcn.com/livenews/2988974",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时39分"
         },
         {
           "title": "通用汽车(GM.N)：计划到2030年部署3.5万个由通用能源投资的公共快速充电站。",
@@ -214,7 +248,7 @@
     },
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "打不开的车门！小米汽车成都事故争议背后：门把手为何再成焦点",
@@ -299,6 +333,17 @@
           "time_info": "11时03分"
         },
         {
+          "title": "巴克莱将特斯拉的目标价从275美元上调至350美元，维持“与大市持平”评级。",
+          "url": "https://wallstreetcn.com/livenews/2988999",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时39分"
+        },
+        {
           "title": "纳斯达克金龙中国指数初步收涨1.7%。 热门中概股里，新东方初步收涨约10%，文远知行、小鹏、台积电、百胜中国、网易、百度、京东至多涨超4%。",
           "url": "https://wallstreetcn.com/livenews/2988396",
           "source": "华尔街见闻-快讯",
@@ -332,6 +377,17 @@
           "time_info": "16时27分"
         },
         {
+          "title": "小米汽车转单市场转冷",
+          "url": "https://www.douyin.com/hot/2271907",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时39分"
+        },
+        {
           "title": "美股盘前，AI芯片股普涨，台积电(TSM.N)涨2.4%，Q3净利润创历史新高；博通(AVGO.O)涨1.46%，英伟达(NVDA.O)、AMD(AMD.O)涨超1%。蔚来汽车(NIO.N)盘前跌6.6%。",
           "url": "https://flash.jin10.com/detail/20251016160116214800",
           "source": "金十数据",
@@ -357,7 +413,7 @@
     },
     {
       "keyword_group": "新能源汽车",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "沪指震荡收涨，全市场成交不足2万亿，红利资产反弹，恒科指跌超1%，新能源汽车股大跌，国债分化，商品上涨",
@@ -366,11 +422,23 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时20分 ~ 19时18分]"
+          "appearance_count": 4,
+          "time_info": "[17时20分 ~ 20时39分]"
+        },
+        {
+          "title": "工业和信息化部副部长辛国斌：下一步将组织编制“十五五”智能网联新能源汽车产业发展规划",
+          "url": "https://wallstreetcn.com/livenews/2988995",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时39分"
         }
       ]
     }
