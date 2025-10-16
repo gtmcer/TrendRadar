@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-16T11:03:11.042990+08:00",
-  "total_titles_processed": 985,
+  "generated_at": "2025-10-16T12:21:29.178400+08:00",
+  "total_titles_processed": 1105,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "【早报】事关电动汽车充电设施，利好来了；9月金融数据出炉",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时18分 ~ 11时03分]"
+          "appearance_count": 4,
+          "time_info": "[09时18分 ~ 12时21分]"
         },
         {
           "title": "本田汽车：将追加投资位于加州的初创公司Helm.AI。",
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
+        },
+        {
+          "title": "汽车巨头将部分生产线从加拿大迁至美国，加省长矛头对准特朗普",
+          "url": "https://news.ifeng.com/c/8nUfvzJIjxX",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
         },
         {
           "title": "法拉利CEO Benedetto Vigna：可能会在中国推出电动车型。 公司的（业绩）指引是雄心勃勃的。 调整生产计划，从而体现出电动汽车（需求/销售）放缓。（彭博电视）",
@@ -64,6 +75,17 @@
           "time_info": "07时17分"
         },
         {
+          "title": "金十图示：2025年10月16日（周四）全球汽车制造商市值变化",
+          "url": "https://flash.jin10.com/detail/20251016110855677800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
           "title": "通用汽车(GM.N)：计划到2030年部署3.5万个由通用能源投资的公共快速充电站。",
           "url": "https://flash.jin10.com/detail/20251016000305371800",
           "source": "金十数据",
@@ -89,7 +111,7 @@
     },
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "打不开的车门！小米汽车成都事故争议背后：门把手为何再成焦点",
@@ -123,7 +145,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时03分"
         },
@@ -137,6 +159,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时22分"
+        },
+        {
+          "title": "小鹏汽车：9月出口量突破5000台，环比增长65.8%",
+          "url": "https://wallstreetcn.com/livenews/2988659",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
         },
         {
           "title": "周三（10月15日），彭博电动汽车价格回报指数涨1.48%，报3455.68点，欧股开盘之前出现一波上涨行情，并从北京时间14:00开始持续高位震荡。 成分股广州汽车集团H股收涨9.84%，印度Dla Electric Mobility Ltd.收涨5%，吉利汽车控股H股涨4.13%，优美科欧股收涨4.03%，小鹏汽车H股涨4%，理想汽车H股涨3.40%，浙江零跑科技H股涨2.66%，极氪H股涨2.46%表现第八，普拉格动力公司则跌4.9%，MP材料跌8.9%。",
