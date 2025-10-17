@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-17T14:29:02.070115+08:00",
-  "total_titles_processed": 1331,
+  "generated_at": "2025-10-17T15:19:35.563645+08:00",
+  "total_titles_processed": 1417,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "雷军：汽车安全是基础，共同抵制网络水军和黑公关，营造积极向上的产业发展环境",
@@ -18,8 +18,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时20分 ~ 14时29分]"
+          "appearance_count": 10,
+          "time_info": "[09时20分 ~ 15时19分]"
         },
         {
           "title": "京东汽车“招兵买马”",
@@ -114,6 +114,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
+        },
+        {
+          "title": "比亚迪宣布召回部分汽车",
+          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%AE%A3%E5%B8%83%E5%8F%AC%E5%9B%9E%E9%83%A8%E5%88%86%E6%B1%BD%E8%BD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
         }
       ]
     },
@@ -130,8 +141,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时23分 ~ 14时29分]"
+          "appearance_count": 19,
+          "time_info": "[00时23分 ~ 15时19分]"
         },
         {
           "title": "如何看待蔚来遭起诉",
@@ -140,11 +151,12 @@
           "ranks": [
             7,
             27,
-            29
+            29,
+            25
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时18分 ~ 14时29分]"
+          "appearance_count": 18,
+          "time_info": "[01时18分 ~ 15时19分]"
         },
         {
           "title": "被新加坡投资公司起诉 蔚来高管回应：不清楚近期为何有人炒作此事",
@@ -224,8 +236,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时23分 ~ 14时29分]"
+          "appearance_count": 15,
+          "time_info": "[00时23分 ~ 15时19分]"
         },
         {
           "title": "新能源汽车火灾事故企业报告制度",
@@ -235,8 +247,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时39分 ~ 14时29分]"
+          "appearance_count": 7,
+          "time_info": "[11时39分 ~ 15时19分]"
         },
         {
           "title": "新能源汽车火灾事故企业报告制度",
@@ -246,8 +258,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时23分 ~ 14时29分]"
+          "appearance_count": 5,
+          "time_info": "[12时23分 ~ 15时19分]"
+        },
+        {
+          "title": "市场监管总局：建立并推动实施新能源汽车火灾事故企业报告制度，加大新型缺陷问题召回监管力度",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31796762",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时28分 ~ 15时19分]"
         },
         {
           "title": "国家市场监管总局：建立并推动实施新能源汽车火灾事故企业报告制度",
@@ -260,17 +284,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时02分 ~ 11时40分]"
-        },
-        {
-          "title": "市场监管总局：建立并推动实施新能源汽车火灾事故企业报告制度，加大新型缺陷问题召回监管力度",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31796762",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时28分 ~ 14时29分]"
         },
         {
           "title": "建立新能源汽车火灾事故企业报告制度",
