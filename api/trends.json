@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-18T01:18:00.462086+08:00",
-  "total_titles_processed": 382,
+  "generated_at": "2025-10-18T02:23:50.176714+08:00",
+  "total_titles_processed": 452,
   "failed_sources": [],
   "trends": [
     {
@@ -58,8 +58,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 01时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 02时23分]"
         },
         {
           "title": "市场监管总局：建立并推动实施新能源汽车火灾事故企业报告制度，加大新型缺陷问题召回监管力度",
@@ -69,8 +69,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 01时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 02时23分]"
         }
       ]
     }
