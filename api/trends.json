@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-17T12:23:53.033874+08:00",
-  "total_titles_processed": 1153,
+  "generated_at": "2025-10-17T13:17:41.496356+08:00",
+  "total_titles_processed": 1231,
   "failed_sources": [],
   "trends": [
     {
@@ -17,19 +17,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时20分 ~ 12时23分]"
-        },
-        {
-          "title": "据英国金融时报：法拉利(RACE.N)已减少其在英国的汽车销量。",
-          "url": "https://flash.jin10.com/detail/20251017120158449800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时23分"
+          "appearance_count": 7,
+          "time_info": "[09时20分 ~ 13时17分]"
         },
         {
           "title": "京东汽车“招兵买马”",
@@ -45,6 +34,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时23分 ~ 05时16分]"
+        },
+        {
+          "title": "据英国金融时报：法拉利(RACE.N)已减少其在英国的汽车销量。",
+          "url": "https://flash.jin10.com/detail/20251017120158449800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时23分 ~ 13时17分]"
         },
         {
           "title": "金十图示：2025年10月17日（周五）全球汽车制造商市值变化",
@@ -128,8 +129,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时23分 ~ 12时23分]"
+          "appearance_count": 16,
+          "time_info": "[00时23分 ~ 13时17分]"
         },
         {
           "title": "如何看待蔚来遭起诉",
@@ -140,8 +141,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时18分 ~ 12时23分]"
+          "appearance_count": 15,
+          "time_info": "[01时18分 ~ 13时17分]"
         },
         {
           "title": "被新加坡投资公司起诉 蔚来高管回应：不清楚近期为何有人炒作此事",
@@ -220,8 +221,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时23分 ~ 12时23分]"
+          "appearance_count": 13,
+          "time_info": "[00时23分 ~ 13时17分]"
         },
         {
           "title": "新能源汽车火灾事故企业报告制度",
@@ -231,8 +232,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时39分 ~ 12时23分]"
+          "appearance_count": 4,
+          "time_info": "[11时39分 ~ 13时17分]"
+        },
+        {
+          "title": "新能源汽车火灾事故企业报告制度",
+          "url": "https://search.bilibili.com/all?keyword=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E7%81%AB%E7%81%BE%E4%BA%8B%E6%95%85%E4%BC%81%E4%B8%9A%E6%8A%A5%E5%91%8A%E5%88%B6%E5%BA%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时23分 ~ 13时17分]"
         },
         {
           "title": "国家市场监管总局：建立并推动实施新能源汽车火灾事故企业报告制度",
@@ -245,17 +257,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时02分 ~ 11时40分]"
-        },
-        {
-          "title": "新能源汽车火灾事故企业报告制度",
-          "url": "https://search.bilibili.com/all?keyword=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E7%81%AB%E7%81%BE%E4%BA%8B%E6%95%85%E4%BC%81%E4%B8%9A%E6%8A%A5%E5%91%8A%E5%88%B6%E5%BA%A6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时23分"
         },
         {
           "title": "建立新能源汽车火灾事故企业报告制度",
