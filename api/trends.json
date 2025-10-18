@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-18T14:25:56.820652+08:00",
-  "total_titles_processed": 1095,
+  "generated_at": "2025-10-18T15:17:48.579114+08:00",
+  "total_titles_processed": 1146,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "特斯拉：ISS再次完全忽略了投资和公司治理的基本原则",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时20分 ~ 07时17分]"
+        },
+        {
+          "title": "韩国特斯拉电池管理系统故障频现，涉多款车型",
+          "url": "https://wallstreetcn.com/livenews/2990029",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
         },
         {
           "title": "特斯拉(TSLA.O)：呼吁在所有议案上投出与公司立场一致的投票。",
