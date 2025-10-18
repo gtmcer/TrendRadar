@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-18T19:16:14.044551+08:00",
-  "total_titles_processed": 1372,
+  "generated_at": "2025-10-18T20:34:20.327040+08:00",
+  "total_titles_processed": 1446,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
             2,
             8,
             11,
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时23分 ~ 19时16分]"
+          "appearance_count": 5,
+          "time_info": "[16时23分 ~ 20时34分]"
         },
         {
           "title": "特斯拉(TSLA.O)：呼吁在所有议案上投出与公司立场一致的投票。",
@@ -92,8 +93,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时19分 ~ 19时16分]"
+          "appearance_count": 4,
+          "time_info": "[18时19分 ~ 20时34分]"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收涨超2.4%，本周和谷歌、特斯拉、台积电涨超5%",
@@ -217,11 +218,12 @@
           "ranks": [
             8,
             13,
-            19
+            19,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时18分 ~ 19时16分]"
+          "appearance_count": 4,
+          "time_info": "[17时18分 ~ 20时34分]"
         },
         {
           "title": "外国老丈人向发小炫耀中国汽车",
