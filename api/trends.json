@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-18T21:23:56.854833+08:00",
-  "total_titles_processed": 1494,
+  "generated_at": "2025-10-18T22:15:35.397841+08:00",
+  "total_titles_processed": 1549,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             11,
             14,
             20,
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时23分 ~ 21时23分]"
+          "appearance_count": 7,
+          "time_info": "[16时23分 ~ 22时15分]"
         },
         {
           "title": "特斯拉：ISS再次完全忽略了投资和公司治理的基本原则",
