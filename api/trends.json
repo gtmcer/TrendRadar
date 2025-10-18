@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-18T13:18:29.337184+08:00",
-  "total_titles_processed": 1029,
+  "generated_at": "2025-10-18T14:25:56.820652+08:00",
+  "total_titles_processed": 1095,
   "failed_sources": [],
   "trends": [
     {
@@ -138,11 +138,12 @@
           "ranks": [
             6,
             2,
-            3
+            3,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[04时20分 ~ 13时18分]"
+          "appearance_count": 12,
+          "time_info": "[04时20分 ~ 14时25分]"
         },
         {
           "title": "我国已召回汽车1.2亿辆",
