@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-20T04:19:01.193027+08:00",
-  "total_titles_processed": 392,
+  "generated_at": "2025-10-20T05:17:12.378867+08:00",
+  "total_titles_processed": 399,
   "failed_sources": [],
   "trends": [
     {
@@ -18,6 +18,23 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时20分 ~ 03时16分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "汽车",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国马里兰州发生汽车冲撞人群事件 致1死13伤",
+          "url": "https://flash.jin10.com/detail/20251020041142018800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时17分"
         }
       ]
     }
