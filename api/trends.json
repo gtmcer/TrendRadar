@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-20T19:18:08.584126+08:00",
-  "total_titles_processed": 1538,
+  "generated_at": "2025-10-20T20:40:00.851755+08:00",
+  "total_titles_processed": 1642,
   "failed_sources": [],
   "trends": [
     {
@@ -107,6 +107,18 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "小米汽车回应雷军“免费送”视频",
+          "url": "https://www.toutiao.com/trending/7562430453786361902/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时17分 ~ 20时40分]"
+        },
+        {
           "title": "金十整理：下周重要事件与数据预告——中国LPR、GDP、社零、美国CPI；二十届四中全会、APEC财长会议；特斯拉、英特尔等财报",
           "url": "https://flash.jin10.com/detail/20251019212525735800",
           "source": "金十数据",
@@ -117,17 +129,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时20分 ~ 03时16分]"
-        },
-        {
-          "title": "小米汽车回应雷军“免费送”视频",
-          "url": "https://www.toutiao.com/trending/7562430453786361902/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时17分 ~ 19时18分]"
         },
         {
           "title": "李斌最新内部讲话：接近交卷时刻，蔚来吹响盈利冲锋号",
