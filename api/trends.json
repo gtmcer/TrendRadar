@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-21T05:19:27.376103+08:00",
-  "total_titles_processed": 522,
+  "generated_at": "2025-10-21T06:18:35.088430+08:00",
+  "total_titles_processed": 555,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            14
+            14,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时27分 ~ 05时19分]"
+          "appearance_count": 3,
+          "time_info": "[04时27分 ~ 06时18分]"
         },
         {
           "title": "纳斯达克金龙中国指数涨幅扩大至2%。 热门中概股里，阿里巴巴涨3.8%，蔚来涨3.2%，台积电涨2.6%，腾讯涨1.8%。 ETF中，YINN涨2.98%，KWEB涨1.84%，CQQQ和MCHI涨1.1%。 富时A50夜期目前涨0.1%。",
@@ -60,8 +61,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 05时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 06时18分]"
         }
       ]
     }
