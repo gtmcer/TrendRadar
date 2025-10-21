@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-21T07:16:59.732641+08:00",
-  "total_titles_processed": 593,
+  "generated_at": "2025-10-21T09:20:31.279606+08:00",
+  "total_titles_processed": 764,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "纳斯达克金龙中国指数初步收涨2.4%。 热门中概股里，房多多初步收涨约10%，蔚来、阿里巴巴、文远知行、网易至多涨超4%，拼多多、百胜中国、腾讯、新东方、京东、百度、小米等至多涨超2%。",
@@ -42,12 +42,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时23分 ~ 01时17分]"
+        },
+        {
+          "title": "你理想的夫妻相处状态是啥样",
+          "url": "https://www.toutiao.com/trending/7563246834773442601/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时20分"
         }
       ]
     },
     {
       "keyword_group": "汽车",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "圆桌｜零重力座椅、全隐藏式门把手涌现，汽车安全标准如何跟上新技术",
@@ -59,11 +70,23 @@
             10,
             9,
             8,
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 07时16分]"
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 09时20分]"
+        },
+        {
+          "title": "东风汽车子公司总经理受贿30万",
+          "url": "https://www.toutiao.com/trending/7563285731755933706/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时20分"
         }
       ]
     }
