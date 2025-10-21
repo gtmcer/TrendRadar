@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-21T09:20:31.279606+08:00",
-  "total_titles_processed": 764,
+  "generated_at": "2025-10-21T11:05:33.933256+08:00",
+  "total_titles_processed": 895,
   "failed_sources": [],
   "trends": [
     {
@@ -50,7 +50,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
         }
@@ -74,8 +74,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 09时20分]"
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 11时05分]"
         },
         {
           "title": "东风汽车子公司总经理受贿30万",
@@ -84,7 +84,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
         }
