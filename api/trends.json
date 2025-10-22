@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-22T21:33:05.434707+08:00",
-  "total_titles_processed": 1988,
+  "generated_at": "2025-10-22T22:20:28.043124+08:00",
+  "total_titles_processed": 2075,
   "failed_sources": [],
   "trends": [
     {
@@ -163,7 +163,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时33分"
         },
@@ -281,11 +281,12 @@
           "source": "今日头条",
           "ranks": [
             13,
-            29
+            29,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时20分 ~ 19时18分]"
+          "appearance_count": 4,
+          "time_info": "[18时20分 ~ 22时20分]"
         },
         {
           "title": "“Take Back Tesla”网站在特斯拉发布业绩报告的前夜上线，一个由工会和企业观察组织构建的团体敦促股东们拒绝（董事会开出的）马斯克1万亿美元薪酬计划。",
