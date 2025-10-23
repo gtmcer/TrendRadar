@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-23T21:31:57.923445+08:00",
-  "total_titles_processed": 1998,
+  "generated_at": "2025-10-23T22:21:20.547165+08:00",
+  "total_titles_processed": 2085,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 48,
+      "match_count": 51,
       "titles": [
         {
           "title": "特斯拉电话会让市场失望，马斯克下调机器人和Robotaxi目标，称“特斯拉处于关键时刻”",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时19分 ~ 21时31分]"
+          "appearance_count": 10,
+          "time_info": "[13时19分 ~ 22时21分]"
         },
         {
           "title": "税收抵免到期刺激特斯拉Q3营收大反弹，但盈利超预期猛降31%，关税影响逾4亿 | 财报见闻",
@@ -30,8 +30,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时03分 ~ 21时31分]"
+          "appearance_count": 12,
+          "time_info": "[11时03分 ~ 22时21分]"
         },
         {
           "title": "小米汽车副总裁李肖爽否认宣传“SOS 1秒接通”：系造谣诋毁 将追责",
@@ -134,6 +134,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
+        },
+        {
+          "title": "“特斯拉劲敌”Rivian计划裁员超过600人。",
+          "url": "https://wallstreetcn.com/livenews/2992649",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         },
         {
           "title": "特斯拉：预计2025年资本支出约为90亿美元，此前预计超过90亿美元。 第三季度在汽车业务板块确认了2.38亿美元的相关费用，涉及超级计算机资产、合同终止以及员工裁员等支出。",
@@ -446,6 +457,17 @@
           "time_info": "07时17分"
         },
         {
+          "title": "美股开盘，道指跌0.04%，标普500指数涨0.1%，纳指平开。特斯拉跌超4%，马斯克下调机器人和Robotaxi目标。能源股普遍上涨，埃克森美孚石油涨超1.8%，康菲石油涨近3%。美国航空涨超4%，此前该公司上调了2025年盈利预期。IBM股价开盘下跌8.3%，为7月以来最大跌幅。",
+          "url": "https://wallstreetcn.com/livenews/2992629",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
           "title": "马斯克澄清：三星和台积电都将参与设计特斯拉AI 5芯片，不会取代英伟达",
           "url": "https://wallstreetcn.com/livenews/2992107",
           "source": "华尔街见闻-快讯",
@@ -488,6 +510,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
+        },
+        {
+          "title": "特斯拉(TSLA.O)跌幅扩大至5%。",
+          "url": "https://flash.jin10.com/detail/20251023213312019800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         },
         {
           "title": "提醒：特斯拉在电话会上跳过一名散户投资者的提问，该投资者问及未来产品，特斯拉称“这不是（交流）该问题的合理平台”。",
@@ -559,7 +592,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "通用汽车（GM）股价周三冲高回落，纽约中午持平，暂报66.63美元。 福特汽车跌幅收窄至1.1%，暂报12.42美元。 美国总统特朗普称：“通用汽车的Barra和福特汽车的Bill Ford打电话给我，感谢我挑起的关税。Barr在电话中感谢我对某些卡车加征的关税。”",
@@ -770,6 +803,17 @@
           "time_info": "18时20分"
         },
         {
+          "title": "日本汽车工业协会（JAMA）发布声明称，其成员企业丰田、日产和本田均已收到关于芯片供应问题的警告。",
+          "url": "https://wallstreetcn.com/livenews/2992647",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
           "title": "通用汽车(GM.N)：自2026年起，我们将通过租赁方式全面推出GM能源家庭系统，具体条款将稍后公布。",
           "url": "https://flash.jin10.com/detail/20251022230700166800",
           "source": "金十数据",
@@ -798,7 +842,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时31分"
         },
