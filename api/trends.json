@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-24T19:18:19.304633+08:00",
-  "total_titles_processed": 1761,
+  "generated_at": "2025-10-24T20:44:42.656873+08:00",
+  "total_titles_processed": 1889,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "安世半导体风波如何影响汽车行业",
@@ -22,11 +22,12 @@
             19,
             26,
             30,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时17分 ~ 19时18分]"
+          "appearance_count": 15,
+          "time_info": "[09时17分 ~ 20时44分]"
         },
         {
           "title": "一汽-大众扩大召回超2万辆进口和国产奥迪汽车",
@@ -193,6 +194,17 @@
           "time_info": "18时21分"
         },
         {
+          "title": "市场消息：通用汽车(GM.N)为应对业务波动，裁减超过200个工作岗位。",
+          "url": "https://flash.jin10.com/detail/20251024201206251800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
+        },
+        {
           "title": "福特汽车(F.N)首席执行官：预计2026年的净关税影响将与2025年相似。",
           "url": "https://flash.jin10.com/detail/20251024052411316800",
           "source": "金十数据",
@@ -301,6 +313,22 @@
           "time_info": "[00时23分 ~ 09时17分]"
         },
         {
+          "title": "理想汽车回应MEGA起火事故：驾乘人员全部安全离车，积极配合消防部门调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31830320",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13,
+            11,
+            10,
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时31分 ~ 20时44分]"
+        },
+        {
           "title": "上海一辆理想 Mega 行驶途中起火自燃，疑似碰撞底盘后电池起火爆燃，具体情况如何？起火原因可能是什么？",
           "url": "https://www.zhihu.com/question/1964977532433572573",
           "source": "知乎",
@@ -313,34 +341,20 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时37分 ~ 19时18分]"
-        },
-        {
-          "title": "理想汽车回应MEGA起火事故：驾乘人员全部安全离车，积极配合消防部门调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31830320",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            13,
-            11,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时31分 ~ 19时18分]"
+          "appearance_count": 13,
+          "time_info": "[11时37分 ~ 20时44分]"
         },
         {
           "title": "理想Mega未碰撞自燃,10秒成灰",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346193&amp;topic_name=%E7%90%86%E6%83%B3Mega%E6%9C%AA%E7%A2%B0%E6%92%9E%E8%87%AA%E7%87%83%2C10%E7%A7%92%E6%88%90%E7%81%B0",
           "source": "贴吧",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时20分 ~ 19时18分]"
+          "appearance_count": 5,
+          "time_info": "[17时20分 ~ 20时44分]"
         },
         {
           "title": "税收抵免到期刺激特斯拉Q3营收大反弹，但盈利超预期猛降31%，关税影响逾4亿 | 财报见闻",
@@ -364,6 +378,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时20分 ~ 15时19分]"
+        },
+        {
+          "title": "MEGA行驶时起火被烧成空架 理想回应",
+          "url": "https://www.baidu.com/s?wd=MEGA%E8%A1%8C%E9%A9%B6%E6%97%B6%E8%B5%B7%E7%81%AB%E8%A2%AB%E7%83%A7%E6%88%90%E7%A9%BA%E6%9E%B6+%E7%90%86%E6%83%B3%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时20分 ~ 20时44分]"
         },
         {
           "title": "特斯拉股价转涨，此前一度跌5.7%。",
@@ -402,17 +428,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时17分 ~ 11时37分]"
-        },
-        {
-          "title": "MEGA行驶时起火被烧成空架 理想回应",
-          "url": "https://www.baidu.com/s?wd=MEGA%E8%A1%8C%E9%A9%B6%E6%97%B6%E8%B5%B7%E7%81%AB%E8%A2%AB%E7%83%A7%E6%88%90%E7%A9%BA%E6%9E%B6+%E7%90%86%E6%83%B3%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时20分 ~ 19时18分]"
         },
         {
           "title": "特斯拉董事JB Straubel：董事会侧重于股东价值。（彭博电视）",
