@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-24T14:32:13.765562+08:00",
-  "total_titles_processed": 1265,
+  "generated_at": "2025-10-24T15:19:49.830463+08:00",
+  "total_titles_processed": 1369,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             15,
             17,
             14,
-            18
+            18,
+            21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时17分 ~ 14时32分]"
+          "appearance_count": 8,
+          "time_info": "[09时17分 ~ 15时19分]"
         },
         {
           "title": "据知情人士透露，通用汽车（将因为关闭加拿大工厂）而丧失24%的关税豁免。 斯泰兰蒂斯集团Stellantis将因迁移生产线到美国而丧失50%的加拿大关税豁免。（彭博）",
@@ -170,7 +171,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
         },
@@ -211,8 +212,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时20分 ~ 14时32分]"
+          "appearance_count": 4,
+          "time_info": "[13时20分 ~ 15时19分]"
         },
         {
           "title": "税收抵免到期刺激特斯拉Q3营收大反弹，但盈利超预期猛降31%，关税影响逾4亿 | 财报见闻",
@@ -234,8 +235,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时20分 ~ 14时32分]"
+          "appearance_count": 4,
+          "time_info": "[13时20分 ~ 15时19分]"
         },
         {
           "title": "上海一辆理想 Mega 行驶途中起火自燃，疑似碰撞底盘后电池起火爆燃，具体情况如何？起火原因可能是什么？",
@@ -247,8 +248,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时37分 ~ 14时32分]"
+          "appearance_count": 6,
+          "time_info": "[11时37分 ~ 15时19分]"
         },
         {
           "title": "特斯拉股价转涨，此前一度跌5.7%。",
@@ -309,8 +310,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时31分 ~ 14时32分]"
+          "appearance_count": 3,
+          "time_info": "[14时31分 ~ 15时19分]"
         },
         {
           "title": "理想汽车回应MEGA起火事故",
