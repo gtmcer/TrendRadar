@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-24T20:44:42.656873+08:00",
-  "total_titles_processed": 1889,
+  "generated_at": "2025-10-24T21:30:40.693291+08:00",
+  "total_titles_processed": 1970,
   "failed_sources": [],
   "trends": [
     {
@@ -200,7 +200,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时44分"
         },
@@ -285,7 +285,7 @@
     },
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "加拿大官员：加总理想和中方见面，建立战略关系",
@@ -325,8 +325,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时31分 ~ 20时44分]"
+          "appearance_count": 11,
+          "time_info": "[14时31分 ~ 21时30分]"
         },
         {
           "title": "上海一辆理想 Mega 行驶途中起火自燃，疑似碰撞底盘后电池起火爆燃，具体情况如何？起火原因可能是什么？",
@@ -341,8 +341,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时37分 ~ 20时44分]"
+          "appearance_count": 14,
+          "time_info": "[11时37分 ~ 21时30分]"
         },
         {
           "title": "理想Mega未碰撞自燃,10秒成灰",
@@ -353,8 +353,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时20分 ~ 20时44分]"
+          "appearance_count": 6,
+          "time_info": "[17时20分 ~ 21时30分]"
         },
         {
           "title": "税收抵免到期刺激特斯拉Q3营收大反弹，但盈利超预期猛降31%，关税影响逾4亿 | 财报见闻",
@@ -385,11 +385,12 @@
           "source": "百度热搜",
           "ranks": [
             15,
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时20分 ~ 20时44分]"
+          "appearance_count": 6,
+          "time_info": "[17时20分 ~ 21时30分]"
         },
         {
           "title": "特斯拉股价转涨，此前一度跌5.7%。",
@@ -485,6 +486,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时00分"
+        },
+        {
+          "title": "蔚来卖爆了 开启“疯狂”招工模式",
+          "url": "https://www.baidu.com/s?wd=%E8%94%9A%E6%9D%A5%E5%8D%96%E7%88%86%E4%BA%86+%E5%BC%80%E5%90%AF%E2%80%9C%E7%96%AF%E7%8B%82%E2%80%9D%E6%8B%9B%E5%B7%A5%E6%A8%A1%E5%BC%8F",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时30分"
         }
       ]
     }
