@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-24T22:21:16.319800+08:00",
-  "total_titles_processed": 2067,
+  "generated_at": "2025-10-24T23:19:49.881158+08:00",
+  "total_titles_processed": 2158,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "安世半导体风波如何影响汽车行业",
@@ -30,15 +30,15 @@
           "time_info": "[09时17分 ~ 20时44分]"
         },
         {
-          "title": "报道：通用汽车清晨通知裁员逾200人，降本增效应对关税逆风",
-          "url": "https://wallstreetcn.com/livenews/2993516",
-          "source": "华尔街见闻-快讯",
+          "title": "福特汽车(F.N)延续涨势，涨幅扩大至10.5%。",
+          "url": "https://flash.jin10.com/detail/20251024231503797800",
+          "source": "金十数据",
           "ranks": [
-            1
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时21分"
+          "time_info": "23时19分"
         },
         {
           "title": "一汽-大众扩大召回超2万辆进口和国产奥迪汽车",
@@ -50,6 +50,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
+        },
+        {
+          "title": "汽车巨头拉响停产警报：芯片告急",
+          "url": "https://www.baidu.com/s?wd=%E6%B1%BD%E8%BD%A6%E5%B7%A8%E5%A4%B4%E6%8B%89%E5%93%8D%E5%81%9C%E4%BA%A7%E8%AD%A6%E6%8A%A5%EF%BC%9A%E8%8A%AF%E7%89%87%E5%91%8A%E6%80%A5",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时20分 ~ 23时19分]"
         },
         {
           "title": "据知情人士透露，通用汽车（将因为关闭加拿大工厂）而丧失24%的关税豁免。 斯泰兰蒂斯集团Stellantis将因迁移生产线到美国而丧失50%的加拿大关税豁免。（彭博）",
@@ -87,6 +99,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时17分 ~ 05时18分]"
+        },
+        {
+          "title": "报道：通用汽车清晨通知裁员逾200人，降本增效应对关税逆风",
+          "url": "https://wallstreetcn.com/livenews/2993516",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时21分 ~ 23时19分]"
         },
         {
           "title": "福特汽车CEO：现在，（美国总统特朗普挑起的）关税的影响处于“一个更加合理的水平”。",
@@ -159,17 +183,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时18分 ~ 06时18分]"
-        },
-        {
-          "title": "汽车巨头拉响停产警报：芯片告急",
-          "url": "https://www.baidu.com/s?wd=%E6%B1%BD%E8%BD%A6%E5%B7%A8%E5%A4%B4%E6%8B%89%E5%93%8D%E5%81%9C%E4%BA%A7%E8%AD%A6%E6%8A%A5%EF%BC%9A%E8%8A%AF%E7%89%87%E5%91%8A%E6%80%A5",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时20分 ~ 22时21分]"
         },
         {
           "title": "大众汽车表示，不能完全排除对集团生产网络的短期影响。",
@@ -307,7 +320,7 @@
     },
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "加拿大官员：加总理想和中方见面，建立战略关系",
@@ -345,11 +358,12 @@
             10,
             8,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[14时31分 ~ 22时21分]"
+          "appearance_count": 14,
+          "time_info": "[14时31分 ~ 23时19分]"
         },
         {
           "title": "理想Mega未碰撞自燃,10秒成灰",
@@ -357,11 +371,12 @@
           "source": "贴吧",
           "ranks": [
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时20分 ~ 22时21分]"
+          "appearance_count": 9,
+          "time_info": "[17时20分 ~ 23时19分]"
         },
         {
           "title": "上海一辆理想 Mega 行驶途中起火自燃，疑似碰撞底盘后电池起火爆燃，具体情况如何？起火原因可能是什么？",
@@ -374,11 +389,12 @@
             15,
             11,
             16,
-            12
+            12,
+            18
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时37分 ~ 22时21分]"
+          "appearance_count": 17,
+          "time_info": "[11时37分 ~ 23时19分]"
         },
         {
           "title": "MEGA行驶时起火被烧成空架 理想回应",
@@ -415,6 +431,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时20分 ~ 15时19分]"
+        },
+        {
+          "title": "特斯拉(TSLA.O)股价下跌2.3%。",
+          "url": "https://flash.jin10.com/detail/20251024230909986800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
         },
         {
           "title": "蔚来卖爆了 开启“疯狂”招工模式",
@@ -480,6 +507,17 @@
           "time_info": "[00时23分 ~ 02时28分]"
         },
         {
+          "title": "如何看待上海理想 MEGA 爆燃事件车主通过律师发声明称，网传「电池磕碰过」等均为不实言论?",
+          "url": "https://www.zhihu.com/question/1965099849197282203",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
           "title": "理想汽车回应MEGA起火事故",
           "url": "https://www.douyin.com/hot/2280942",
           "source": "抖音",
@@ -511,6 +549,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时20分"
+        },
+        {
+          "title": "美国汽车安全监管机构表示，已就 “疯狂麦克斯”（Mad Max）版全自动驾驶（FSD）辅助模式向特斯拉(TSLA.O)提出问询。",
+          "url": "https://flash.jin10.com/detail/20251024224620862800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
         },
         {
           "title": "理想mega",
