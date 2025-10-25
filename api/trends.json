@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-25T17:18:21.751510+08:00",
-  "total_titles_processed": 1144,
+  "generated_at": "2025-10-25T18:18:03.329464+08:00",
+  "total_titles_processed": 1195,
   "failed_sources": [],
   "trends": [
     {
@@ -34,11 +34,12 @@
             15,
             16,
             17,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时22分 ~ 17时18分]"
+          "appearance_count": 24,
+          "time_info": "[00时22分 ~ 18时18分]"
         },
         {
           "title": "如何看待上海理想 MEGA 爆燃事件车主通过律师发声明称，网传「电池磕碰过」等均为不实言论?",
