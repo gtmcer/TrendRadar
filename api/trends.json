@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-25T13:17:24.292490+08:00",
-  "total_titles_processed": 898,
+  "generated_at": "2025-10-25T14:26:35.680488+08:00",
+  "total_titles_processed": 965,
   "failed_sources": [],
   "trends": [
     {
@@ -35,8 +35,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时22分 ~ 13时17分]"
+          "appearance_count": 19,
+          "time_info": "[00时22分 ~ 14时26分]"
         },
         {
           "title": "如何看待上海理想 MEGA 爆燃事件车主通过律师发声明称，网传「电池磕碰过」等均为不实言论?",
@@ -45,11 +45,12 @@
           "ranks": [
             12,
             10,
-            11
+            11,
+            15
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时22分 ~ 13时17分]"
+          "appearance_count": 19,
+          "time_info": "[00时22分 ~ 14时26分]"
         },
         {
           "title": "美股七巨头收盘播报｜谷歌A收涨2.7%，苹果创历史新高，本周亚马逊涨超5.2%、特斯拉跌1.3%",
