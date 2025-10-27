@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-27T15:19:31.774243+08:00",
-  "total_titles_processed": 1127,
+  "generated_at": "2025-10-27T16:26:12.470357+08:00",
+  "total_titles_processed": 1228,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "丰田：9月从日本出口至美国的汽车数量同比增长49%，达到58,430辆。",
@@ -25,7 +25,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -50,6 +50,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时31分"
+        },
+        {
+          "title": "中央决定：王俊任东风汽车集团副总经理、党委常委",
+          "url": "https://wallstreetcn.com/livenews/2994080",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
         },
         {
           "title": "日产汽车：9月全球销量同比下降3.6%，至278,157辆。",
