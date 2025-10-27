@@ -1,8 +1,47 @@
 {
-  "generated_at": "2025-10-27T12:30:14.505275+08:00",
-  "total_titles_processed": 877,
+  "generated_at": "2025-10-27T13:19:57.064289+08:00",
+  "total_titles_processed": 938,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "汽车",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "丰田：9月从日本出口至美国的汽车数量同比增长49%，达到58,430辆。",
+          "url": "https://flash.jin10.com/detail/20251027124939764800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
+        },
+        {
+          "title": "丰田：9月份日本本土汽车产量同比增长8.5%，达到301,626辆。",
+          "url": "https://flash.jin10.com/detail/20251027123108480800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
+        },
+        {
+          "title": "法拉第未来在美成立汽车金融公司并完成牌照申请",
+          "url": "https://flash.jin10.com/detail/20251027073841878800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        }
+      ]
+    },
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
       "match_count": 2,
@@ -17,8 +56,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 12时30分]"
+          "appearance_count": 11,
+          "time_info": "[00时22分 ~ 13时19分]"
         },
         {
           "title": "部分中概股在美股夜盘走高，阿里巴巴(BABA.N)和百度(BIDU.O)均涨3%，理想汽车(LI.O)、小鹏汽车(XPEV.N)和哔哩哔哩(BILI.O)涨超2%，",
@@ -26,23 +65,6 @@
           "source": "金十数据",
           "ranks": [
             10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "汽车",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "法拉第未来在美成立汽车金融公司并完成牌照申请",
-          "url": "https://flash.jin10.com/detail/20251027073841878800",
-          "source": "金十数据",
-          "ranks": [
-            27
           ],
           "is_new": false,
           "appearance_count": 1,
