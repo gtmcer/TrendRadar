@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-28T05:18:04.531323+08:00",
-  "total_titles_processed": 540,
+  "generated_at": "2025-10-28T06:17:31.100326+08:00",
+  "total_titles_processed": 570,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 05时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 06时17分]"
         },
         {
           "title": "特斯拉董事长：若1万亿美元薪酬方案被否决 马斯克可能离开公司",
@@ -25,11 +25,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 05时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 06时17分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收涨大约1.6%。 热门中概股里，小马智行涨6.5%，小鹏涨6.4%，百度涨4.8%，京东涨3%，腾讯、拼多多、阿里巴巴、蔚来汽车涨超2%，百胜中国则跌0.6%，理想跌1.8%。 ETF中，YINN初步收涨3.6%，CQQQ涨2.4%，KWEB涨1.9%。",
@@ -59,11 +60,24 @@
           "source": "金十数据",
           "ranks": [
             4,
-            16
+            16,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时19分 ~ 06时17分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜特斯拉收涨4.3%，谷歌涨3.6%，英伟达和苹果也涨超2%",
+          "url": "https://wallstreetcn.com/livenews/2994531",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时19分 ~ 05时18分]"
+          "time_info": "[05时18分 ~ 06时17分]"
         },
         {
           "title": "Groq CEO Jonathan Ross认为，沙特料将成为人工智能（AI）数据中心的枢纽。 沙特拥有大规模的能源资源，这个因素正使得科技行业在当地打造AI基础设施。 中东是建设数据中心的“理想地方”。",
@@ -78,26 +92,16 @@
           "time_info": "[01时18分 ~ 02时27分]"
         },
         {
-          "title": "美股七巨头收盘播报｜特斯拉收涨4.3%，谷歌涨3.6%，英伟达和苹果也涨超2%",
-          "url": "https://wallstreetcn.com/livenews/2994531",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时18分"
-        },
-        {
           "title": "纳斯达克金龙中国指数收涨1.59%，报8494.48点。 热门中概股里，小马智行涨6.5%，小鹏涨6.4%，百度涨4.8%，京东涨3%，腾讯、拼多多、阿里巴巴、蔚来汽车涨超2%，百胜中国则跌0.6%，理想跌1.8%。 ETF中，中国科技指数ETF（CQQQ）收涨2.46%，中概互联网指数ETF（KWEB）收涨1.92%。 XtrackersHarvest中证50（ASHS）收涨1.71%，中国ETF-iShares MSCI（MCHI）收涨1.67%，德银嘉实沪深300指数ETF（ASHR）收涨1.27%。 富时中国3倍做多ETF（YINN）收涨3.82%，追踪富时25中国股指数ETF-iShares（FXI）收涨1.31%。",
           "url": "https://wallstreetcn.com/livenews/2994517",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            19,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时18分 ~ 06时17分]"
         },
         {
           "title": "特斯拉(TSLA.O)涨超5%。",
@@ -142,6 +146,18 @@
           "time_info": "[00时25分 ~ 01时18分]"
         },
         {
+          "title": "周一（10月27日），降息赢家指数涨0.40%，报99.06点，全天呈现出平坦的V形反转。 成分股Cadence银行、Wayfair、RH涨4.38%-4.02%领跑，SoFi Technologies股份涨3.41%紧随其后。 俄亥俄州亨廷顿银行控股则收跌2.68%跌幅第三大，福特汽车跌4.19%，哈雷戴维森跌4.36%。",
+          "url": "https://wallstreetcn.com/livenews/2994535",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时18分 ~ 06时17分]"
+        },
+        {
           "title": "惠誉：（美国）汽车贷款拖欠率已经飙升至最近十四年新高。",
           "url": "https://wallstreetcn.com/livenews/2994461",
           "source": "华尔街见闻-快讯",
@@ -154,15 +170,16 @@
           "time_info": "[01时18分 ~ 02时27分]"
         },
         {
-          "title": "周一（10月27日），降息赢家指数涨0.40%，报99.06点，全天呈现出平坦的V形反转。 成分股Cadence银行、Wayfair、RH涨4.38%-4.02%领跑，SoFi Technologies股份涨3.41%紧随其后。 俄亥俄州亨廷顿银行控股则收跌2.68%跌幅第三大，福特汽车跌4.19%，哈雷戴维森跌4.36%。",
-          "url": "https://wallstreetcn.com/livenews/2994535",
+          "title": "周一（10月27日），彭博电动汽车价格回报指数涨0.56%，报3540.75点，北京时间09:45曾涨至3564.34点刷新日高。",
+          "url": "https://wallstreetcn.com/livenews/2994526",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            14,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时18分 ~ 06时17分]"
         },
         {
           "title": "考克斯汽车：展望未来，电动汽车领域将开辟一条新路径，不再依赖政府支持的销售激励措施。随着价格上涨，未来几个月其他车辆的市场状况预计将变得更加严峻。",
@@ -174,17 +191,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时27分"
-        },
-        {
-          "title": "周一（10月27日），彭博电动汽车价格回报指数涨0.56%，报3540.75点，北京时间09:45曾涨至3564.34点刷新日高。",
-          "url": "https://wallstreetcn.com/livenews/2994526",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时18分"
         },
         {
           "title": "考克斯汽车：尽管关税不确定性持续存在，但今年夏季新车销售速度却出人意料地强劲。预计10月份销量将达到130万辆，同比下降3.1%，但环比增长2.7%。",
