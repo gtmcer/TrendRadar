@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-28T07:16:50.492180+08:00",
-  "total_titles_processed": 620,
+  "generated_at": "2025-10-28T09:25:46.848792+08:00",
+  "total_titles_processed": 770,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时25分 ~ 07时16分]"
+          "appearance_count": 10,
+          "time_info": "[00时25分 ~ 09时25分]"
         },
         {
           "title": "特斯拉董事长：若1万亿美元薪酬方案被否决 马斯克可能离开公司",
@@ -27,11 +27,12 @@
             12,
             10,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时25分 ~ 07时16分]"
+          "appearance_count": 10,
+          "time_info": "[00时25分 ~ 09时25分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收涨大约1.6%。 热门中概股里，小马智行涨6.5%，小鹏涨6.4%，百度涨4.8%，京东涨3%，腾讯、拼多多、阿里巴巴、蔚来汽车涨超2%，百胜中国则跌0.6%，理想跌1.8%。 ETF中，YINN初步收涨3.6%，CQQQ涨2.4%，KWEB涨1.9%。",
@@ -222,7 +223,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
         }
