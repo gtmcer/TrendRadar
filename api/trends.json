@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-28T16:27:01.437743+08:00",
-  "total_titles_processed": 1399,
+  "generated_at": "2025-10-28T17:20:31.657602+08:00",
+  "total_titles_processed": 1506,
   "failed_sources": [],
   "trends": [
     {
@@ -247,11 +247,12 @@
             18,
             15,
             14,
-            16
+            16,
+            28
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时25分 ~ 16时27分]"
+          "appearance_count": 19,
+          "time_info": "[00时25分 ~ 17时20分]"
         },
         {
           "title": "欧洲汽车制造商协会：特斯拉(TSLA.O)9月欧盟新车注册量下降19%；比亚迪9月欧盟新车注册量增长272%。",
