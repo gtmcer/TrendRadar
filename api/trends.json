@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-29T12:27:33.303447+08:00",
-  "total_titles_processed": 1108,
+  "generated_at": "2025-10-29T13:19:33.589229+08:00",
+  "total_titles_processed": 1201,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             13,
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时16分 ~ 12时27分]"
+          "appearance_count": 7,
+          "time_info": "[07时16分 ~ 13时19分]"
         },
         {
           "title": "女子弃小米汽车5千定金后获赠直饮杯",
@@ -159,7 +160,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
         },
@@ -243,7 +244,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
         },
