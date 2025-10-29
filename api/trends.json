@@ -1,8 +1,175 @@
 {
-  "generated_at": "2025-10-29T17:20:36.650929+08:00",
-  "total_titles_processed": 1578,
+  "generated_at": "2025-10-29T18:22:42.244746+08:00",
+  "total_titles_processed": 1689,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "汽车",
+      "match_count": 14,
+      "titles": [
+        {
+          "title": "丰田高管：丰田董事长与美国总统特朗普昨日并未讨论投资金额或将美国汽车进口到日本的事宜。",
+          "url": "https://flash.jin10.com/detail/20251029090722785800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时25分"
+        },
+        {
+          "title": "印度政府：印度与欧盟认为，钢铁、汽车、碳边境调节机制及欧盟法规等相关议题因敏感度较高，需进一步讨论。",
+          "url": "https://flash.jin10.com/detail/20251029120839330800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时27分"
+        },
+        {
+          "title": "国内首个汽车芯片标准验证平台投入使用",
+          "url": "https://wallstreetcn.com/livenews/2995465",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时25分"
+        },
+        {
+          "title": "宇树机器人拖动1.4吨汽车",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%8B%96%E5%8A%A81.4%E5%90%A8%E6%B1%BD%E8%BD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 02时28分]"
+        },
+        {
+          "title": "周二（10月28日），彭博电动汽车价格回报指数跌0.64%，报3515.94点，亚太盘初下跌，北京时间10:00前后跌幅迅速收窄，日内大部分时间持稳于3520点下方。",
+          "url": "https://wallstreetcn.com/livenews/2995355",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            17,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时23分 ~ 06时21分]"
+        },
+        {
+          "title": "Lucid Group与英伟达合作，将向客户交付第一批Level 4无人驾驶汽车产品。",
+          "url": "https://wallstreetcn.com/livenews/2995306",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时28分 ~ 03时15分]"
+        },
+        {
+          "title": "据日经新闻：日产汽车即将停止与梅赛德斯奔驰合资的墨西哥工厂的汽车生产。",
+          "url": "https://flash.jin10.com/detail/20251029035747189800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时23分 ~ 05时18分]"
+        },
+        {
+          "title": "日产汽车将停止在墨西哥与梅赛德斯的合资工厂生产（汽车）。（日经新闻）",
+          "url": "https://wallstreetcn.com/livenews/2995391",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时21分 ~ 07时17分]"
+        },
+        {
+          "title": "美国国家公路交通安全管理局：福特汽车(F.N)正在召回174,853辆美国车辆，因脱落的导风板可能成为道路隐患，增加发生碰撞的风险。",
+          "url": "https://flash.jin10.com/detail/20251029150707085800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
+          "title": "斯凯孚CEO：我们注意到，在北美汽车行业，重型商用车领域的市场需求尤为疲软。",
+          "url": "https://flash.jin10.com/detail/20251029155219722800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
+          "title": "铃木汽车总裁：本财年我们在印度的汽车销量预计将与预期持平或略高于预期。",
+          "url": "https://flash.jin10.com/detail/20251029114229037800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时27分"
+        },
+        {
+          "title": "斯凯孚CEO：在北美，汽车行业受到关税波动以及围绕关税的不确定性影响。仍在等待需求出现转机，但目前还不能说已出现转机。",
+          "url": "https://flash.jin10.com/detail/20251029154354482800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
+          "title": "欧洲汽车制造商协会：一些汽车制造商预计将因芯片问题而在短期内被迫停产。汽车行业的芯片库存正在迅速减少。",
+          "url": "https://flash.jin10.com/detail/20251029175344627800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
+          "title": "中信建投：汽车“金九银十”数据向好，看好高端化及科技成长结构性行情",
+          "url": "https://wallstreetcn.com/livenews/2995439",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时25分"
+        }
+      ]
+    },
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
       "match_count": 13,
@@ -157,162 +324,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "汽车",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "丰田高管：丰田董事长与美国总统特朗普昨日并未讨论投资金额或将美国汽车进口到日本的事宜。",
-          "url": "https://flash.jin10.com/detail/20251029090722785800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时25分"
-        },
-        {
-          "title": "印度政府：印度与欧盟认为，钢铁、汽车、碳边境调节机制及欧盟法规等相关议题因敏感度较高，需进一步讨论。",
-          "url": "https://flash.jin10.com/detail/20251029120839330800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时27分"
-        },
-        {
-          "title": "国内首个汽车芯片标准验证平台投入使用",
-          "url": "https://wallstreetcn.com/livenews/2995465",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时25分"
-        },
-        {
-          "title": "宇树机器人拖动1.4吨汽车",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%8B%96%E5%8A%A81.4%E5%90%A8%E6%B1%BD%E8%BD%A6",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时36分 ~ 02时28分]"
-        },
-        {
-          "title": "周二（10月28日），彭博电动汽车价格回报指数跌0.64%，报3515.94点，亚太盘初下跌，北京时间10:00前后跌幅迅速收窄，日内大部分时间持稳于3520点下方。",
-          "url": "https://wallstreetcn.com/livenews/2995355",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            17,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时23分 ~ 06时21分]"
-        },
-        {
-          "title": "Lucid Group与英伟达合作，将向客户交付第一批Level 4无人驾驶汽车产品。",
-          "url": "https://wallstreetcn.com/livenews/2995306",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时28分 ~ 03时15分]"
-        },
-        {
-          "title": "据日经新闻：日产汽车即将停止与梅赛德斯奔驰合资的墨西哥工厂的汽车生产。",
-          "url": "https://flash.jin10.com/detail/20251029035747189800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时23分 ~ 05时18分]"
-        },
-        {
-          "title": "日产汽车将停止在墨西哥与梅赛德斯的合资工厂生产（汽车）。（日经新闻）",
-          "url": "https://wallstreetcn.com/livenews/2995391",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时21分 ~ 07时17分]"
-        },
-        {
-          "title": "美国国家公路交通安全管理局：福特汽车(F.N)正在召回174,853辆美国车辆，因脱落的导风板可能成为道路隐患，增加发生碰撞的风险。",
-          "url": "https://flash.jin10.com/detail/20251029150707085800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时24分"
-        },
-        {
-          "title": "斯凯孚CEO：我们注意到，在北美汽车行业，重型商用车领域的市场需求尤为疲软。",
-          "url": "https://flash.jin10.com/detail/20251029155219722800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时25分"
-        },
-        {
-          "title": "铃木汽车总裁：本财年我们在印度的汽车销量预计将与预期持平或略高于预期。",
-          "url": "https://flash.jin10.com/detail/20251029114229037800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时27分"
-        },
-        {
-          "title": "斯凯孚CEO：在北美，汽车行业受到关税波动以及围绕关税的不确定性影响。仍在等待需求出现转机，但目前还不能说已出现转机。",
-          "url": "https://flash.jin10.com/detail/20251029154354482800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时25分"
-        },
-        {
-          "title": "中信建投：汽车“金九银十”数据向好，看好高端化及科技成长结构性行情",
-          "url": "https://wallstreetcn.com/livenews/2995439",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时25分"
         }
       ]
     }
