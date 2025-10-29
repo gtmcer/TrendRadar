@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-29T15:24:40.559115+08:00",
-  "total_titles_processed": 1387,
+  "generated_at": "2025-10-29T16:25:54.632068+08:00",
+  "total_titles_processed": 1486,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "特斯拉董事长再喊“狼来了”：称公司正备战“无马斯克”时代",
@@ -132,9 +132,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
+        },
+        {
+          "title": "印度航空公司首席执行官：由于需要进行改装，我们的客座率低于飞机的实际运力，这是我们理想的情况。",
+          "url": "https://flash.jin10.com/detail/20251029154253537800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
         },
         {
           "title": "纳斯达克金龙中国指数收跌1.23%，报8390.32点。 热门中概股里，新东方跌2.9%，百胜中国、美团、百度、阿里巴巴、腾讯、理想、小米跌超1%，台积电和小鹏涨超1%，文远知行涨5.1%，小马智行涨11%。 ETF中，中国ETF-iShares MSCI（MCHI）收跌0.72%，中概互联网指数ETF（KWEB）收跌0.70%，中国科技指数ETF（CQQQ）收涨0.07%， XtrackersHarvest中证50（ASHS）收跌0.14%，德银嘉实沪深300指数ETF（ASHR）收涨0.03%。 富时中国3倍做多ETF（YINN）收跌1.58%，富时中国3倍做空ETF（YANG）收涨1.70%。",
@@ -151,7 +162,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "丰田高管：丰田董事长与美国总统特朗普昨日并未讨论投资金额或将美国汽车进口到日本的事宜。",
@@ -255,9 +266,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
+        },
+        {
+          "title": "斯凯孚CEO：我们注意到，在北美汽车行业，重型商用车领域的市场需求尤为疲软。",
+          "url": "https://flash.jin10.com/detail/20251029155219722800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
         },
         {
           "title": "铃木汽车总裁：本财年我们在印度的汽车销量预计将与预期持平或略高于预期。",
@@ -269,6 +291,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
+        },
+        {
+          "title": "斯凯孚CEO：在北美，汽车行业受到关税波动以及围绕关税的不确定性影响。仍在等待需求出现转机，但目前还不能说已出现转机。",
+          "url": "https://flash.jin10.com/detail/20251029154354482800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
         },
         {
           "title": "中信建投：汽车“金九银十”数据向好，看好高端化及科技成长结构性行情",
