@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-29T20:39:01.429113+08:00",
-  "total_titles_processed": 1889,
+  "generated_at": "2025-10-29T21:32:55.923846+08:00",
+  "total_titles_processed": 1984,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "丰田高管：丰田董事长与美国总统特朗普昨日并未讨论投资金额或将美国汽车进口到日本的事宜。",
@@ -167,6 +167,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
+        },
+        {
+          "title": "通用汽车(GM.N)：计划继续在加拿大生产汽车。",
+          "url": "https://flash.jin10.com/detail/20251029210251198800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         },
         {
           "title": "中信建投：汽车“金九银十”数据向好，看好高端化及科技成长结构性行情",
