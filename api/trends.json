@@ -1,12 +1,26 @@
 {
-  "generated_at": "2025-10-29T11:15:09.341921+08:00",
-  "total_titles_processed": 1006,
+  "generated_at": "2025-10-29T12:27:33.303447+08:00",
+  "total_titles_processed": 1108,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
       "match_count": 11,
       "titles": [
+        {
+          "title": "特斯拉董事长再喊“狼来了”：称公司正备战“无马斯克”时代",
+          "url": "https://www.cls.cn/detail/2184079",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时16分 ~ 12时27分]"
+        },
         {
           "title": "女子弃小米汽车5千定金后获赠直饮杯",
           "url": "https://www.toutiao.com/trending/7565795147196612658/",
@@ -17,19 +31,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
-        },
-        {
-          "title": "特斯拉董事长再喊“狼来了”：称公司正备战“无马斯克”时代",
-          "url": "https://www.cls.cn/detail/2184079",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时16分 ~ 11时15分]"
         },
         {
           "title": "特斯拉(TSLA.O)董事长罗宾·丹霍尔姆：如果监管机构有要求，CyberCab将重新设计并加装方向盘与踏板。",
@@ -138,7 +139,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "丰田高管：丰田董事长与美国总统特朗普昨日并未讨论投资金额或将美国汽车进口到日本的事宜。",
@@ -150,6 +151,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
+        },
+        {
+          "title": "印度政府：印度与欧盟认为，钢铁、汽车、碳边境调节机制及欧盟法规等相关议题因敏感度较高，需进一步讨论。",
+          "url": "https://flash.jin10.com/detail/20251029120839330800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时27分"
         },
         {
           "title": "国内首个汽车芯片标准验证平台投入使用",
@@ -223,6 +235,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时21分 ~ 07时17分]"
+        },
+        {
+          "title": "铃木汽车总裁：本财年我们在印度的汽车销量预计将与预期持平或略高于预期。",
+          "url": "https://flash.jin10.com/detail/20251029114229037800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时27分"
         },
         {
           "title": "中信建投：汽车“金九银十”数据向好，看好高端化及科技成长结构性行情",
