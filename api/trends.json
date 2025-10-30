@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-30T18:20:09.027815+08:00",
-  "total_titles_processed": 1448,
+  "generated_at": "2025-10-30T19:16:46.068604+08:00",
+  "total_titles_processed": 1547,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "现代汽车印度：强劲的出口表现有望在2026财年超越目标。",
@@ -50,6 +50,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时20分"
+        },
+        {
+          "title": "日产汽车：预计本财年运营亏损2,750亿日元，下调全年收入预期至11.70万亿日元。",
+          "url": "https://flash.jin10.com/detail/20251030184552314800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
         },
         {
           "title": "现代汽车第三季度销售额46.72万亿韩元，预估45.37万亿韩元。 第三季度净利润2.26万亿韩元，预估2.31万亿韩元。 第三季度营业利润2.54万亿韩元，预估2.55万亿韩元。",
@@ -165,6 +176,17 @@
           "time_info": "15时18分"
         },
         {
+          "title": "现代汽车印度公司高管：公司SUV车型在销量中仍有进一步提升的空间。",
+          "url": "https://flash.jin10.com/detail/20251030182330951800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
           "title": "大众汽车第三季度营业损失13.0亿欧元，预估收益21.1亿欧元",
           "url": "https://wallstreetcn.com/livenews/2996530",
           "source": "华尔街见闻-快讯",
@@ -245,6 +267,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源汽车",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "大中矿业：近期受益于新能源汽车、储能等下游产业的利好发展，市场对锂电产业链及锂矿资源保持较高关注度。公司全资孙公司郴州市城泰矿业投资有限责任公司依法合规取得《采矿许可证》，但矿产资源开发受自然因素、社会因素及政策调整等多种因素影响，矿山后续的实际建设、投产进度及产能实现仍存在不确定性，请广大投资者注意投资风险。",
+          "url": "https://wallstreetcn.com/livenews/2996806",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
         }
       ]
     }
