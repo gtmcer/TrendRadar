@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-31T02:26:42.655231+08:00",
-  "total_titles_processed": 424,
+  "generated_at": "2025-10-31T03:15:44.401464+08:00",
+  "total_titles_processed": 460,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,20 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 03时15分]"
+        },
+        {
+          "title": "特斯拉AI发布最新研究成果",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%96%AF%E6%8B%89AI%E5%8F%91%E5%B8%83%E6%9C%80%E6%96%B0%E7%A0%94%E7%A9%B6%E6%88%90%E6%9E%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30,
+            29
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时23分 ~ 02时26分]"
+          "time_info": "[01时17分 ~ 03时15分]"
         },
         {
           "title": "特斯拉因为越野灯条配件潜在的安装问题而召回6,197辆Cybertruck，这已经是短短不到两年时间里第十次召回该车型。",
@@ -30,17 +42,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时23分 ~ 01时17分]"
-        },
-        {
-          "title": "特斯拉AI发布最新研究成果",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%96%AF%E6%8B%89AI%E5%8F%91%E5%B8%83%E6%9C%80%E6%96%B0%E7%A0%94%E7%A9%B6%E6%88%90%E6%9E%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时17分 ~ 02时26分]"
         }
       ]
     },
@@ -56,8 +57,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 02时26分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 03时15分]"
         }
       ]
     },
