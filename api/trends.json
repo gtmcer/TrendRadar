@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-31T09:21:10.056533+08:00",
-  "total_titles_processed": 804,
+  "generated_at": "2025-10-31T11:10:42.599571+08:00",
+  "total_titles_processed": 932,
   "failed_sources": [],
   "trends": [
     {
@@ -47,11 +47,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             30,
-            29
+            29,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时17分 ~ 04时20分]"
+          "appearance_count": 5,
+          "time_info": "[01时17分 ~ 11时10分]"
         },
         {
           "title": "特斯拉因为越野灯条配件潜在的安装问题而召回6,197辆Cybertruck，这已经是短短不到两年时间里第十次召回该车型。",
@@ -80,7 +81,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "墨西哥总统辛鲍姆：法国总统马克龙将于11月7日访问墨西哥。 经济部长Ebrard出席亚太经合组织（APEC）会议期间围绕钢铁和汽车关税取得进展。 Ebrard会见了（驻韩国的）美国大使。",
@@ -93,6 +94,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时23分 ~ 01时17分]"
+        },
+        {
+          "title": "现代汽车韩股涨幅扩大至10%。",
+          "url": "https://flash.jin10.com/detail/20251031102804960800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
         },
         {
           "title": "据知情人士透露，福特汽车藐视美国总统特朗普的主张，将在印度发动机工厂投资3.70亿美元。（彭博）",
@@ -127,11 +139,12 @@
           "url": "https://www.douyin.com/hot/2288899",
           "source": "抖音",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 09时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 11时10分]"
         }
       ]
     }
