@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-01T04:20:54.327376+08:00",
-  "total_titles_processed": 549,
+  "generated_at": "2025-11-01T05:16:01.160608+08:00",
+  "total_titles_processed": 573,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "女子退订小米汽车,损五千块换杯具",
@@ -15,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时22分 ~ 04时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时22分 ~ 05时16分]"
         },
         {
           "title": "理想回应召回：MEGA起火事件尚未形成最终技术结论，内部调查显示同批次冷却液防腐性能不足",
@@ -28,19 +28,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时22分 ~ 04时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时22分 ~ 05时16分]"
         },
         {
           "title": "超六成MEGA被召回 理想汽车：希望不再发生自燃事故",
           "url": "https://www.cls.cn/detail/2188129",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时22分 ~ 04时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时22分 ~ 05时16分]"
         },
         {
           "title": "理想召回超1.1万辆MEGA 2024款电动汽车：冷却液防腐性能不足，极端情况下会造成动力电池热失控",
@@ -51,8 +52,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时22分 ~ 04时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时22分 ~ 05时16分]"
         },
         {
           "title": "理想召回2024款MEGA",
@@ -65,8 +66,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时22分 ~ 04时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时22分 ~ 05时16分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收涨0.5%，10月份累跌约4%。 热门中概股里，小马智行初步收跌约5.7%，腾讯、阿里跌超2%，小米、京东、百度跌超1%，网易则涨0.7%，理想涨1.6%，小鹏涨2.2%，蔚来涨3.3%。",
@@ -75,7 +76,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
         },
@@ -101,23 +102,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨0.53%，报8273.84点，本周累计下跌1.05%，10月份累计下跌4.19%，结束此前连续五个月上涨的趋势。 热门中概股里，小马智行初步收跌约5.7%，腾讯、阿里跌超2%，小米、京东、百度跌超1%，网易则涨0.7%，理想涨1.6%，小鹏涨2.2%，蔚来涨3.3%。 ETF中，中国科技指数ETF（CQQQ）收跌1.75%，10月份累跌4.91%，此前四个月先后涨8.88%、5.76%、14.34%、10.28%； 德银嘉实沪深300指数ETF（ASHR）收跌1.49%，10月份累涨0.15%——连续第六个月上涨； 中国ETF-iShares MSCI（MCHI）收跌1.26%，10月份累跌3.46%，此前连续五个月上涨； XtrackersHarvest中证50（ASHS）收跌0.98%，10月份累跌1.49%，此前连涨五个月； 中概互联网指数ETF（KWEB）收跌0.67%，10月份累跌4.90%，此前连涨五个月。",
+          "url": "https://wallstreetcn.com/livenews/2997886",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
         }
       ]
     },
     {
       "keyword_group": "汽车",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
-          "title": "周五（10月31日），彭博电动汽车价格回报指数下跌0.99%，报3521.02点，10月份累计上涨2.35%。",
-          "url": "https://wallstreetcn.com/livenews/2997890",
-          "source": "华尔街见闻-快讯",
+          "title": "美国汽车工人联合会：大众汽车查塔努加工厂工人将就罢工授权进行投票。",
+          "url": "https://flash.jin10.com/detail/20251101040834044800",
+          "source": "金十数据",
           "ranks": [
-            1
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时20分"
+          "time_info": "05时16分"
         },
         {
           "title": "马斯克透露拟于年内发布飞行汽车 宣称将超越“所有詹姆斯·邦德座驾”",
@@ -125,11 +137,24 @@
           "source": "金十数据",
           "ranks": [
             2,
-            25
+            25,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时15分 ~ 05时16分]"
+        },
+        {
+          "title": "周五（10月31日），彭博电动汽车价格回报指数下跌0.99%，报3521.02点，10月份累计上涨2.35%。",
+          "url": "https://wallstreetcn.com/livenews/2997890",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时15分 ~ 04时20分]"
+          "time_info": "[04时20分 ~ 05时16分]"
         },
         {
           "title": "现代汽车与英伟达将携手打造AI工厂，支持韩国AI生态的发展",
