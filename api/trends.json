@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-31T11:10:42.599571+08:00",
-  "total_titles_processed": 932,
+  "generated_at": "2025-10-31T12:22:59.825994+08:00",
+  "total_titles_processed": 1040,
   "failed_sources": [],
   "trends": [
     {
@@ -81,7 +81,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "墨西哥总统辛鲍姆：法国总统马克龙将于11月7日访问墨西哥。 经济部长Ebrard出席亚太经合组织（APEC）会议期间围绕钢铁和汽车关税取得进展。 Ebrard会见了（驻韩国的）美国大使。",
@@ -96,13 +96,24 @@
           "time_info": "[00时23分 ~ 01时17分]"
         },
         {
+          "title": "印尼相关部门称，韩国现代汽车集团表示，对参与印尼发展国产汽车的计划表现出浓厚兴趣。",
+          "url": "https://flash.jin10.com/detail/20251031114757349800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
+        },
+        {
           "title": "现代汽车韩股涨幅扩大至10%。",
           "url": "https://flash.jin10.com/detail/20251031102804960800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时10分"
         },
