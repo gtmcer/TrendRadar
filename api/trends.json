@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-01T17:18:15.318803+08:00",
-  "total_titles_processed": 1211,
+  "generated_at": "2025-11-01T18:18:04.519175+08:00",
+  "total_titles_processed": 1274,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             10,
             7,
             4,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时22分 ~ 17时18分]"
+          "appearance_count": 27,
+          "time_info": "[00时22分 ~ 18时18分]"
         },
         {
           "title": "理想召回超1.1万辆MEGA 2024款电动汽车：冷却液防腐性能不足，极端情况下会造成动力电池热失控",
@@ -52,8 +53,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时22分 ~ 17时18分]"
+          "appearance_count": 27,
+          "time_info": "[00时22分 ~ 18时18分]"
         },
         {
           "title": "超六成MEGA被召回 理想汽车：希望不再发生自燃事故",
@@ -74,11 +75,12 @@
           "ranks": [
             9,
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时24分 ~ 17时18分]"
+          "appearance_count": 15,
+          "time_info": "[09时24分 ~ 18时18分]"
         },
         {
           "title": "理想召回2024款MEGA",
@@ -94,8 +96,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时22分 ~ 17时18分]"
+          "appearance_count": 27,
+          "time_info": "[00时22分 ~ 18时18分]"
         },
         {
           "title": "冷却液变腐蚀液,理想召回万人车队",
@@ -132,6 +134,21 @@
           "time_info": "[00时23分 ~ 04时20分]"
         },
         {
+          "title": "极氪科技10月销量61,636台，单月销量首次突破6万台",
+          "url": "https://wallstreetcn.com/livenews/2997970",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            15,
+            22,
+            26,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时26分 ~ 18时18分]"
+        },
+        {
           "title": "小鹏汽车：单月交付量创下历史新高",
           "url": "https://wallstreetcn.com/livenews/2997949",
           "source": "华尔街见闻-快讯",
@@ -144,6 +161,32 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时11分 ~ 14时26分]"
+        },
+        {
+          "title": "蔚来李斌：公司10月首破月销4万台，连续三个月创历史新高",
+          "url": "https://flash.jin10.com/detail/20251101160755272800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            9,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时21分 ~ 18时18分]"
+        },
+        {
+          "title": "蔚来公司10月新车交付首次超过4万台 连续三个月创历史新高",
+          "url": "https://wallstreetcn.com/livenews/2997990",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时21分 ~ 18时18分]"
         },
         {
           "title": "金十整理：造车新势力10月成绩单出炉——小米单月交付量持续破4万，小鹏单月交付量再创新高",
@@ -159,30 +202,6 @@
           "time_info": "[13时19分 ~ 15时16分]"
         },
         {
-          "title": "蔚来李斌：公司10月首破月销4万台，连续三个月创历史新高",
-          "url": "https://flash.jin10.com/detail/20251101160755272800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时21分 ~ 17时18分]"
-        },
-        {
-          "title": "蔚来公司10月新车交付首次超过4万台 连续三个月创历史新高",
-          "url": "https://wallstreetcn.com/livenews/2997990",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时21分 ~ 17时18分]"
-        },
-        {
           "title": "法国汽车制造商协会（PFA）：法国10月份新车注册量同比增长2.94%，达到139,513辆。10月份法国特斯拉注册量增长2.35%。",
           "url": "https://flash.jin10.com/detail/20251101085104334800",
           "source": "金十数据",
@@ -193,20 +212,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时25分 ~ 11时11分]"
-        },
-        {
-          "title": "极氪科技10月销量61,636台，单月销量首次突破6万台",
-          "url": "https://wallstreetcn.com/livenews/2997970",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            15,
-            22,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时26分 ~ 17时18分]"
         },
         {
           "title": "极氪推出全系车型跨年购置税补贴方案",
@@ -237,6 +242,19 @@
           "time_info": "[11时11分 ~ 14时26分]"
         },
         {
+          "title": "据蔚来汽车消息，第30万台蔚来ES6正式下线。",
+          "url": "https://wallstreetcn.com/livenews/2997986",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时21分 ~ 18时18分]"
+        },
+        {
           "title": "小米汽车：2025年10月，小米汽车交付量持续超过40000台。",
           "url": "https://wallstreetcn.com/livenews/2997943",
           "source": "华尔街见闻-快讯",
@@ -248,18 +266,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时11分 ~ 13时19分]"
-        },
-        {
-          "title": "据蔚来汽车消息，第30万台蔚来ES6正式下线。",
-          "url": "https://wallstreetcn.com/livenews/2997986",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时21分 ~ 17时18分]"
         },
         {
           "title": "蔚来汽车(NIO.N)：2025年10月交付40,397辆汽车，同比增长92.6%。2025年年初至今交付241,618辆，同比增长41.9%。",
@@ -322,7 +328,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "马斯克透露拟于年内发布飞行汽车 宣称将超越“所有詹姆斯·邦德座驾”",
@@ -338,6 +344,18 @@
           "time_info": "[03时15分 ~ 07时17分]"
         },
         {
+          "title": "深蓝汽车公布10月交付数据。10月深蓝汽车全球销量36792辆，10月深蓝S05全球销量突破20000辆。",
+          "url": "https://wallstreetcn.com/livenews/2997995",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时18分 ~ 18时18分]"
+        },
+        {
           "title": "美国汽车工人联合会：大众汽车查塔努加工厂工人将就罢工授权进行投票。",
           "url": "https://flash.jin10.com/detail/20251101040834044800",
           "source": "金十数据",
@@ -348,28 +366,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时16分 ~ 09时25分]"
-        },
-        {
-          "title": "深蓝汽车公布10月交付数据。10月深蓝汽车全球销量36792辆，10月深蓝S05全球销量突破20000辆。",
-          "url": "https://wallstreetcn.com/livenews/2997995",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时18分"
-        },
-        {
-          "title": "零跑汽车：10月，零跑全系交付再创新高，达70289台，同比增长超84%，月销量首次突破7万台。",
-          "url": "https://wallstreetcn.com/livenews/2997993",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时18分"
         },
         {
           "title": "周五（10月31日），彭博电动汽车价格回报指数下跌0.99%，报3521.02点，10月份累计上涨2.35%。",
@@ -413,16 +409,29 @@
           "time_info": "[09时25分 ~ 12时20分]"
         },
         {
+          "title": "零跑汽车：10月，零跑全系交付再创新高，达70289台，同比增长超84%，月销量首次突破7万台。",
+          "url": "https://wallstreetcn.com/livenews/2997993",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时18分 ~ 18时18分]"
+        },
+        {
           "title": "现代汽车美国公司：10月份总销量为70,118辆，较2024年10月相比下降了2%。",
           "url": "https://flash.jin10.com/detail/20251101155546350800",
           "source": "金十数据",
           "ranks": [
             4,
-            12
+            12,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时21分 ~ 17时18分]"
+          "appearance_count": 3,
+          "time_info": "[16时21分 ~ 18时18分]"
         },
         {
           "title": "据岚图汽车消息，岚图汽车2025年10月交付17218辆，1-10月累计同比增长82%。",
@@ -458,22 +467,35 @@
           "source": "金十数据",
           "ranks": [
             6,
-            14
+            14,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时21分 ~ 17时18分]"
+          "appearance_count": 3,
+          "time_info": "[16时21分 ~ 18时18分]"
         },
         {
           "title": "深蓝汽车10月交付36792辆",
           "url": "https://flash.jin10.com/detail/20251101161557682800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时18分 ~ 18时18分]"
+        },
+        {
+          "title": "起亚汽车美国：10月份销量达69,002辆。",
+          "url": "https://flash.jin10.com/detail/20251101171602428800",
+          "source": "金十数据",
+          "ranks": [
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时18分"
+          "time_info": "18时18分"
         },
         {
           "title": "现代汽车与英伟达将携手打造AI工厂，支持韩国AI生态的发展",
