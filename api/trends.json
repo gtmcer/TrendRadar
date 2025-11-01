@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-01T22:17:09.783532+08:00",
-  "total_titles_processed": 1549,
+  "generated_at": "2025-11-01T23:16:01.872975+08:00",
+  "total_titles_processed": 1607,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "理想回应召回：MEGA起火事件尚未形成最终技术结论，内部调查显示同批次冷却液防腐性能不足",
@@ -67,8 +67,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 33,
-          "time_info": "[00时22分 ~ 22时17分]"
+          "appearance_count": 35,
+          "time_info": "[00时22分 ~ 23时16分]"
         },
         {
           "title": "马斯克再画“天上大饼”：特斯拉或年内发布飞行汽车原型",
@@ -82,8 +82,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[09时24分 ~ 22时17分]"
+          "appearance_count": 23,
+          "time_info": "[09时24分 ~ 23时16分]"
         },
         {
           "title": "理想召回2024款MEGA",
@@ -310,6 +310,17 @@
           "time_info": "[13时18分 ~ 13时19分]"
         },
         {
+          "title": "金十整理：造车新势力“银十”成绩单——小米、蔚来月交付量破4万，比亚迪单月销量创年内新高",
+          "url": "https://flash.jin10.com/detail/20251101221419283800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
+        },
+        {
           "title": "据The Information：马斯克称特斯拉(TSLA.O)今年可能会推出飞行汽车。",
           "url": "https://flash.jin10.com/detail/20251101024513127800",
           "source": "金十数据",
@@ -421,6 +432,32 @@
           "time_info": "[11时11分 ~ 14时26分]"
         },
         {
+          "title": "比亚迪旗下方程豹汽车10月销售达31052辆，环比增长28.7%、同比增长415.3%，跻身新势力品牌增速TOP3，该品牌平均成交价近24万元，钛7在首个完整销售月销量超2万。",
+          "url": "https://flash.jin10.com/detail/20251101210222165800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            13,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时24分 ~ 23时16分]"
+        },
+        {
+          "title": "吉利汽车10月销量超30万辆，同比增长35%",
+          "url": "https://flash.jin10.com/detail/20251101205513643800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            14,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时24分 ~ 23时16分]"
+        },
+        {
           "title": "零跑汽车宣布10月全系交付达70289台，同比增长超84%。",
           "url": "https://wallstreetcn.com/livenews/2997937",
           "source": "华尔街见闻-快讯",
@@ -434,16 +471,17 @@
           "time_info": "[09时25分 ~ 12时20分]"
         },
         {
-          "title": "比亚迪旗下方程豹汽车10月销售达31052辆，环比增长28.7%、同比增长415.3%，跻身新势力品牌增速TOP3，该品牌平均成交价近24万元，钛7在首个完整销售月销量超2万。",
-          "url": "https://flash.jin10.com/detail/20251101210222165800",
-          "source": "金十数据",
+          "title": "吉利汽车10月销量超30.7万辆，吉利银河提前达成年销百万目标",
+          "url": "https://wallstreetcn.com/livenews/2998021",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            13
+            2,
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时24分 ~ 22时17分]"
+          "appearance_count": 3,
+          "time_info": "[21时24分 ~ 23时16分]"
         },
         {
           "title": "现代汽车美国公司：10月份总销量为70,118辆，较2024年10月相比下降了2%。",
@@ -457,30 +495,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时21分 ~ 18时18分]"
-        },
-        {
-          "title": "吉利汽车10月销量超30万辆，同比增长35%",
-          "url": "https://flash.jin10.com/detail/20251101205513643800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时24分 ~ 22时17分]"
-        },
-        {
-          "title": "吉利汽车10月销量超30.7万辆，吉利银河提前达成年销百万目标",
-          "url": "https://wallstreetcn.com/livenews/2998021",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时24分 ~ 22时17分]"
         },
         {
           "title": "据岚图汽车消息，岚图汽车2025年10月交付17218辆，1-10月累计同比增长82%。",
@@ -606,22 +620,24 @@
           "url": "https://wallstreetcn.com/livenews/2998025",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时17分 ~ 23时16分]"
         },
         {
           "title": "鸿蒙智行：2025年10月，鸿蒙智行创下双项纪录，单月交付新车68216台，创单月交付量历史新高。全系累计交付已突破100万台，创新势力品牌最快达成百万交付纪录。当月成交均价39万元，持续推动中国汽车高质量发展。",
           "url": "https://flash.jin10.com/detail/20251101211429872800",
           "source": "金十数据",
           "ranks": [
-            10
+            10,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时17分 ~ 23时16分]"
         }
       ]
     }
