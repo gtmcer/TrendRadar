@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-01T21:24:47.065318+08:00",
-  "total_titles_processed": 1468,
+  "generated_at": "2025-11-01T22:17:09.783532+08:00",
+  "total_titles_processed": 1549,
   "failed_sources": [],
   "trends": [
     {
@@ -40,6 +40,18 @@
           "time_info": "[00时22分 ~ 17时18分]"
         },
         {
+          "title": "超六成MEGA被召回 理想汽车：希望不再发生自燃事故",
+          "url": "https://www.cls.cn/detail/2188129",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时22分 ~ 09时25分]"
+        },
+        {
           "title": "女子退订小米汽车,损五千块换杯具",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346536&amp;topic_name=%E5%A5%B3%E5%AD%90%E9%80%80%E8%AE%A2%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%2C%E6%8D%9F%E4%BA%94%E5%8D%83%E5%9D%97%E6%8D%A2%E6%9D%AF%E5%85%B7",
           "source": "贴吧",
@@ -51,23 +63,12 @@
             14,
             15,
             17,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 31,
-          "time_info": "[00时22分 ~ 21时24分]"
-        },
-        {
-          "title": "超六成MEGA被召回 理想汽车：希望不再发生自燃事故",
-          "url": "https://www.cls.cn/detail/2188129",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时22分 ~ 09时25分]"
+          "appearance_count": 33,
+          "time_info": "[00时22分 ~ 22时17分]"
         },
         {
           "title": "马斯克再画“天上大饼”：特斯拉或年内发布飞行汽车原型",
@@ -81,8 +82,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[09时24分 ~ 21时24分]"
+          "appearance_count": 21,
+          "time_info": "[09时24分 ~ 22时17分]"
         },
         {
           "title": "理想召回2024款MEGA",
@@ -377,17 +378,6 @@
           "time_info": "[05时16分 ~ 09时25分]"
         },
         {
-          "title": "比亚迪旗下方程豹汽车10月销售达31052辆，环比增长28.7%、同比增长415.3%，跻身新势力品牌增速TOP3，该品牌平均成交价近24万元，钛7在首个完整销售月销量超2万。",
-          "url": "https://flash.jin10.com/detail/20251101210222165800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时24分"
-        },
-        {
           "title": "零跑汽车：10月，零跑全系交付再创新高，达70289台，同比增长超84%，月销量首次突破7万台。",
           "url": "https://wallstreetcn.com/livenews/2997993",
           "source": "华尔街见闻-快讯",
@@ -401,28 +391,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[17时18分 ~ 21时24分]"
-        },
-        {
-          "title": "吉利汽车10月销量超30万辆，同比增长35%",
-          "url": "https://flash.jin10.com/detail/20251101205513643800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时24分"
-        },
-        {
-          "title": "吉利汽车10月销量超30.7万辆，吉利银河提前达成年销百万目标",
-          "url": "https://wallstreetcn.com/livenews/2998021",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时24分"
         },
         {
           "title": "周五（10月31日），彭博电动汽车价格回报指数下跌0.99%，报3521.02点，10月份累计上涨2.35%。",
@@ -466,6 +434,18 @@
           "time_info": "[09时25分 ~ 12时20分]"
         },
         {
+          "title": "比亚迪旗下方程豹汽车10月销售达31052辆，环比增长28.7%、同比增长415.3%，跻身新势力品牌增速TOP3，该品牌平均成交价近24万元，钛7在首个完整销售月销量超2万。",
+          "url": "https://flash.jin10.com/detail/20251101210222165800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时24分 ~ 22时17分]"
+        },
+        {
           "title": "现代汽车美国公司：10月份总销量为70,118辆，较2024年10月相比下降了2%。",
           "url": "https://flash.jin10.com/detail/20251101155546350800",
           "source": "金十数据",
@@ -477,6 +457,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时21分 ~ 18时18分]"
+        },
+        {
+          "title": "吉利汽车10月销量超30万辆，同比增长35%",
+          "url": "https://flash.jin10.com/detail/20251101205513643800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时24分 ~ 22时17分]"
+        },
+        {
+          "title": "吉利汽车10月销量超30.7万辆，吉利银河提前达成年销百万目标",
+          "url": "https://wallstreetcn.com/livenews/2998021",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时24分 ~ 22时17分]"
         },
         {
           "title": "据岚图汽车消息，岚图汽车2025年10月交付17218辆，1-10月累计同比增长82%。",
@@ -507,6 +511,20 @@
           "time_info": "[11时11分 ~ 14时26分]"
         },
         {
+          "title": "比亚迪汽车：比亚迪10月销售441706辆，创年内新高",
+          "url": "https://wallstreetcn.com/livenews/2998000",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            15,
+            20,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时15分 ~ 22时17分]"
+        },
+        {
           "title": "乐道汽车10月交付17342台，同比增长301.5%",
           "url": "https://flash.jin10.com/detail/20251101154755379800",
           "source": "金十数据",
@@ -518,19 +536,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时21分 ~ 18时18分]"
-        },
-        {
-          "title": "比亚迪汽车：比亚迪10月销售441706辆，创年内新高",
-          "url": "https://wallstreetcn.com/livenews/2998000",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            15,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时15分 ~ 21时24分]"
         },
         {
           "title": "深蓝汽车10月交付36792辆",
@@ -589,6 +594,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "华为汽车 鸿蒙智行 问界 尚界 尊界 智界 享界 乾崑",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "鸿蒙智行：10月交付新车68216台，创单月交付量历史新高",
+          "url": "https://wallstreetcn.com/livenews/2998025",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
+        },
+        {
+          "title": "鸿蒙智行：2025年10月，鸿蒙智行创下双项纪录，单月交付新车68216台，创单月交付量历史新高。全系累计交付已突破100万台，创新势力品牌最快达成百万交付纪录。当月成交均价39万元，持续推动中国汽车高质量发展。",
+          "url": "https://flash.jin10.com/detail/20251101211429872800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
         }
       ]
     }
