@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-03T05:15:37.472148+08:00",
-  "total_titles_processed": 389,
+  "generated_at": "2025-11-03T06:18:17.545318+08:00",
+  "total_titles_processed": 406,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 05时15分]"
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 06时18分]"
         },
         {
           "title": "十月零跑交付 7 万辆，小鹏交付 4.2 万辆，蔚来小米均交付 4 万辆，理想交付 3.18 万辆，如何评价各家表现？",
@@ -27,11 +27,12 @@
             13,
             15,
             17,
-            12
+            12,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 05时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 06时18分]"
         },
         {
           "title": "金十数据整理：下周重要事件与数据预告——中国CPI、贸易帐，英国央行利率决议；特斯拉股东大会；非农数据或会“缺席”；北美地区开始实行冬令时",
