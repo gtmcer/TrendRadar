@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-02T16:21:06.319522+08:00",
-  "total_titles_processed": 919,
+  "generated_at": "2025-11-02T17:16:50.354480+08:00",
+  "total_titles_processed": 973,
   "failed_sources": [],
   "trends": [
     {
@@ -49,11 +49,27 @@
             7,
             12,
             17,
-            24
+            24,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时24分 ~ 17时16分]"
+        },
+        {
+          "title": "汽车行业外资及合资企业高端闭门研讨会在长春召开",
+          "url": "https://wallstreetcn.com/livenews/2998091",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            6,
+            11,
+            18,
+            23
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[12时24分 ~ 16时21分]"
+          "time_info": "[13时19分 ~ 17时16分]"
         },
         {
           "title": "方程豹汽车10月销售31052辆，同比增长415.3%",
@@ -71,31 +87,6 @@
           "time_info": "[11时15分 ~ 15时17分]"
         },
         {
-          "title": "赛力斯：10月赛力斯汽车销量48788辆，同比增长43.83%",
-          "url": "https://wallstreetcn.com/livenews/2998112",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时21分"
-        },
-        {
-          "title": "汽车行业外资及合资企业高端闭门研讨会在长春召开",
-          "url": "https://wallstreetcn.com/livenews/2998091",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            6,
-            11,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时19分 ~ 16时21分]"
-        },
-        {
           "title": "长城汽车：10月销售新车14.31万辆，同比增长22.50%",
           "url": "https://wallstreetcn.com/livenews/2998058",
           "source": "华尔街见闻-快讯",
@@ -107,6 +98,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时25分 ~ 12时24分]"
+        },
+        {
+          "title": "赛力斯：10月赛力斯汽车销量48788辆，同比增长43.83%",
+          "url": "https://wallstreetcn.com/livenews/2998112",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时21分 ~ 17时16分]"
         },
         {
           "title": "奇瑞集团10月汽车销量28.1万辆，同比增长3.3%",
@@ -167,6 +170,20 @@
           "time_info": "[00时19分 ~ 15时17分]"
         },
         {
+          "title": "十月零跑交付 7 万辆，小鹏交付 4.2 万辆，蔚来小米均交付 4 万辆，理想交付 3.18 万辆，如何评价各家表现？",
+          "url": "https://www.zhihu.com/question/1968007806016819893",
+          "source": "知乎",
+          "ranks": [
+            12,
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时23分 ~ 17时16分]"
+        },
+        {
           "title": "金十整理：造车新势力“银十”成绩单——小米、蔚来月交付量破4万，比亚迪单月销量创年内新高",
           "url": "https://flash.jin10.com/detail/20251101221419283800",
           "source": "金十数据",
@@ -179,20 +196,6 @@
           "time_info": "[00时19分 ~ 09时25分]"
         },
         {
-          "title": "十月零跑交付 7 万辆，小鹏交付 4.2 万辆，蔚来小米均交付 4 万辆，理想交付 3.18 万辆，如何评价各家表现？",
-          "url": "https://www.zhihu.com/question/1968007806016819893",
-          "source": "知乎",
-          "ranks": [
-            12,
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时23分 ~ 16时21分]"
-        },
-        {
           "title": "10月新能源车企成绩单：零跑交付首破7万、小鹏、蔚来齐创纪录，小米交付站稳4万",
           "url": "https://wallstreetcn.com/articles/3758477",
           "source": "华尔街见闻",
@@ -203,8 +206,22 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时15分 ~ 16时21分]"
+          "appearance_count": 7,
+          "time_info": "[11时15分 ~ 17时16分]"
+        },
+        {
+          "title": "马斯克：刚刚和特斯拉加州与得州的芯片工程师们完成了一场关于AI5的长时间设计评审会议。AI6和AI7芯片将会紧随其后迅速推出。",
+          "url": "https://wallstreetcn.com/livenews/2998093",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            9,
+            16,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时27分 ~ 17时16分]"
         },
         {
           "title": "新势力“银十”再迎交付潮：零跑、小鹏、蔚来创新高 理想一大问题待解",
@@ -218,29 +235,17 @@
           "time_info": "[04时17分 ~ 06时16分]"
         },
         {
-          "title": "马斯克：刚刚和特斯拉加州与得州的芯片工程师们完成了一场关于AI5的长时间设计评审会议。AI6和AI7芯片将会紧随其后迅速推出。",
-          "url": "https://wallstreetcn.com/livenews/2998093",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            9,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时27分 ~ 16时21分]"
-        },
-        {
           "title": "马斯克：刚刚和特斯拉(TSLA.O)加州与得州的芯片工程师们完成了一场关于AI5的长时间设计评审会议。",
           "url": "https://flash.jin10.com/detail/20251102131553800800",
           "source": "金十数据",
           "ranks": [
             6,
-            17
+            17,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时27分 ~ 16时21分]"
+          "appearance_count": 4,
+          "time_info": "[14时27分 ~ 17时16分]"
         }
       ]
     },
@@ -275,18 +280,30 @@
     },
     {
       "keyword_group": "新能源汽车",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "比亚迪：前10月新能源汽车销量同比增长13.88%",
+          "url": "https://wallstreetcn.com/livenews/2998117",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
+        },
         {
           "title": "上汽集团：10月份新能源汽车销量同比增长31.58%",
           "url": "https://wallstreetcn.com/livenews/2998101",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时21分 ~ 17时16分]"
         }
       ]
     }
