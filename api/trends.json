@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-03T18:22:35.316095+08:00",
-  "total_titles_processed": 1366,
+  "generated_at": "2025-11-03T19:16:50.506300+08:00",
+  "total_titles_processed": 1445,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时28分 ~ 18时22分]"
+          "appearance_count": 11,
+          "time_info": "[12时28分 ~ 19时16分]"
         },
         {
           "title": "本周重磅焦点：美高院开审关税，中美经济数据，特斯拉股东大会，AMD财报",
@@ -92,7 +92,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
@@ -137,7 +137,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         }
@@ -157,8 +157,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时31分 ~ 18时22分]"
+          "appearance_count": 8,
+          "time_info": "[14时31分 ~ 19时16分]"
         },
         {
           "title": "金十图示：2025年11月03日（周一）全球汽车制造商市值变化",
