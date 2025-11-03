@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-03T20:39:10.703039+08:00",
-  "total_titles_processed": 1537,
+  "generated_at": "2025-11-03T21:30:47.378199+08:00",
+  "total_titles_processed": 1615,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "下周重磅焦点：美高院开审关税，中美经济数据，特斯拉股东大会，AMD财报",
@@ -131,6 +131,28 @@
           "time_info": "16时28分"
         },
         {
+          "title": "西班牙汽车制造商协会（ANFAC）：西班牙1月至10月特斯拉(TSLA.O)新车注册量同比增长7.6%，而整体电动汽车销量则增长了100%。",
+          "url": "https://flash.jin10.com/detail/20251103203558999800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时30分"
+        },
+        {
+          "title": "西班牙汽车制造商协会（ANFAC）：10月份西班牙特斯拉(TSLA.O)新车注册量同比下降30.6%至393辆。",
+          "url": "https://flash.jin10.com/detail/20251103203505770800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时30分"
+        },
+        {
           "title": "欧洲央行管委卡兹米尔：我不认为应过度解读与理想通胀路径的微小偏差。",
           "url": "https://flash.jin10.com/detail/20251103180032625800",
           "source": "金十数据",
@@ -145,7 +167,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "福特 CEO 法利称「中国汽车威胁是 80 年代日本的『加强版』，产能能让美国车企全倒闭」，有这么严重吗？",
@@ -155,11 +177,12 @@
             12,
             9,
             10,
-            5
+            5,
+            11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时31分 ~ 20时39分]"
+          "appearance_count": 11,
+          "time_info": "[14时31分 ~ 21时30分]"
         },
         {
           "title": "金十图示：2025年11月03日（周一）全球汽车制造商市值变化",
@@ -185,6 +208,18 @@
           "time_info": "[12时29分 ~ 13时21分]"
         },
         {
+          "title": "汽车之家宣布进军电商",
+          "url": "https://wallstreetcn.com/livenews/2998557",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时39分 ~ 21时30分]"
+        },
+        {
           "title": "汇丰银行：将大众汽车目标价从115欧元上调至127欧元。",
           "url": "https://flash.jin10.com/detail/20251103143304382800",
           "source": "金十数据",
@@ -207,17 +242,6 @@
           "time_info": "15时19分"
         },
         {
-          "title": "汽车之家宣布进军电商",
-          "url": "https://wallstreetcn.com/livenews/2998557",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时39分"
-        },
-        {
           "title": "现代汽车：10月全球销量同比下降6.9%，至351,753辆。",
           "url": "https://flash.jin10.com/detail/20251103155345712800",
           "source": "金十数据",
@@ -229,13 +253,24 @@
           "time_info": "16时28分"
         },
         {
+          "title": "西班牙汽车制造商协会（ANFAC）：西班牙10月份新车销量同比增长16%。",
+          "url": "https://flash.jin10.com/detail/20251103203430160800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时30分"
+        },
+        {
           "title": "南非汽车协会：南非10月份新车销量同比增长16.0%，达到55,956辆。",
           "url": "https://flash.jin10.com/detail/20251103201217263800",
           "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时39分"
         }
