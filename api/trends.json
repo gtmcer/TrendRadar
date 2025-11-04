@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-04T09:21:34.202872+08:00",
-  "total_titles_processed": 832,
+  "generated_at": "2025-11-04T11:10:09.479516+08:00",
+  "total_titles_processed": 960,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "美股七巨头收盘播报｜亚马逊收涨4%，特斯拉和英伟达涨超2%，Meta则跌超2%",
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时19分"
+        },
+        {
+          "title": "何小鹏称10年后中国汽车有5强",
+          "url": "https://www.toutiao.com/trending/7567549548655198250/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时09分 ~ 11时10分]"
         },
         {
           "title": "特斯拉欧洲市场销量再度大幅下滑，保持数季度以来的低迷态势",
@@ -114,7 +125,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
         },
@@ -142,7 +153,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
         },
@@ -189,7 +200,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
         },
