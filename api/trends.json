@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-04T22:20:31.900196+08:00",
-  "total_titles_processed": 2006,
+  "generated_at": "2025-11-04T23:21:13.304770+08:00",
+  "total_titles_processed": 2085,
   "failed_sources": [],
   "trends": [
     {
@@ -21,6 +21,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[12时21分 ~ 17时22分]"
+        },
+        {
+          "title": "美国一特斯拉打不开车门 5人被烧死",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%80%E7%89%B9%E6%96%AF%E6%8B%89%E6%89%93%E4%B8%8D%E5%BC%80%E8%BD%A6%E9%97%A8+5%E4%BA%BA%E8%A2%AB%E7%83%A7%E6%AD%BB",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            21,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[21时33分 ~ 23时21分]"
         },
         {
           "title": "美股七巨头收盘播报｜亚马逊收涨4%，特斯拉和英伟达涨超2%，Meta则跌超2%",
@@ -56,18 +69,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[20时40分 ~ 22时20分]"
-        },
-        {
-          "title": "美国一特斯拉打不开车门 5人被烧死",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%80%E7%89%B9%E6%96%AF%E6%8B%89%E6%89%93%E4%B8%8D%E5%BC%80%E8%BD%A6%E9%97%A8+5%E4%BA%BA%E8%A2%AB%E7%83%A7%E6%AD%BB",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时33分 ~ 22时20分]"
         },
         {
           "title": "挪威主权财富基金反对特斯拉授予马斯克1万亿美元薪酬方案",
@@ -276,7 +277,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "韩国总统李在明：已通过与美国的贸易谈判为本国汽车和半导体行业争取到公平竞争环境。 消费者信心改善，韩国经济已开始好转。 随着地缘政治风险和企业治理结构风险的缓解，韩国综合股价指数突破了4000点大关。",
@@ -337,6 +338,17 @@
           "time_info": "[01时17分 ~ 02时26分]"
         },
         {
+          "title": "汽车电池界双寡头垄断超60%市场",
+          "url": "https://www.toutiao.com/trending/7568828724758449710/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时20分 ~ 23时21分]"
+        },
+        {
           "title": "韩国总统李在明：通过与美国的贸易谈判，为本土汽车和芯片行业争取到了公平的竞争环境。",
           "url": "https://flash.jin10.com/detail/20251104091114265800",
           "source": "金十数据",
@@ -387,7 +399,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
