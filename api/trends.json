@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-05T02:27:19.790481+08:00",
-  "total_titles_processed": 411,
+  "generated_at": "2025-11-05T03:15:44.866196+08:00",
+  "total_titles_processed": 450,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 02时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 03时15分]"
         },
         {
           "title": "Maryland Pension将投票反对特斯拉针对马斯克的薪酬计划。",
@@ -42,11 +42,12 @@
           "source": "今日头条",
           "ranks": [
             20,
-            19
+            19,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 02时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 03时15分]"
         },
         {
           "title": "德国公共充电桩年增16%，汽车工业协会：建得太慢",
