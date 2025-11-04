@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-04T15:19:15.677115+08:00",
-  "total_titles_processed": 1355,
+  "generated_at": "2025-11-04T16:27:01.746140+08:00",
+  "total_titles_processed": 1454,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "何小鹏称10年后中国汽车有5强",
@@ -14,11 +14,12 @@
           "ranks": [
             17,
             4,
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时21分 ~ 15时19分]"
+          "appearance_count": 7,
+          "time_info": "[12时21分 ~ 16时27分]"
         },
         {
           "title": "美股七巨头收盘播报｜亚马逊收涨4%，特斯拉和英伟达涨超2%，Meta则跌超2%",
@@ -75,6 +76,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
+        },
+        {
+          "title": "市场消息：特斯拉(TSLA.O)将聘请前兰博基尼负责人Sharad Agarwal来推动在印度的销售。",
+          "url": "https://flash.jin10.com/detail/20251104162211931800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         },
         {
           "title": "三星SDI与特斯拉洽谈，有望向后者供应ESS电池。",
@@ -149,7 +161,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -179,7 +191,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "韩国总统李在明：已通过与美国的贸易谈判为本国汽车和半导体行业争取到公平竞争环境。 消费者信心改善，韩国经济已开始好转。 随着地缘政治风险和企业治理结构风险的缓解，韩国综合股价指数突破了4000点大关。",
@@ -282,6 +294,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
+        },
+        {
+          "title": "美国国家公路交通安全管理局：因电池起火风险，召回Stellantis超32万辆美国市场汽车。",
+          "url": "https://flash.jin10.com/detail/20251104161819762800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         },
         {
           "title": "惠誉确认现代汽车评级为“A-”，展望稳定。",
