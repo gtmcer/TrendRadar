@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-04T20:40:30.472223+08:00",
-  "total_titles_processed": 1847,
+  "generated_at": "2025-11-04T21:34:03.527239+08:00",
+  "total_titles_processed": 1936,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "何小鹏称10年后中国汽车有5强",
@@ -34,17 +34,6 @@
           "time_info": "05时19分"
         },
         {
-          "title": "小鹏汽车重启Robotaxi项目，内部转岗进行时",
-          "url": "https://wallstreetcn.com/livenews/2999218",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时40分"
-        },
-        {
           "title": "纳斯达克金龙中国指数初步收涨0.2%。 热门中概股里，阿特斯太阳能初步收涨9.7%，亚朵涨5.7%，腾讯音乐涨3.8%，小米涨3.4%，华住、晶科能源、再鼎医药、文远知行至少涨约2.3%，蔚来涨2%，拼多多则跌0.2%，腾讯跌0.9%，阿里巴巴跌1.7%，理想跌1.9%，小马智行跌2.3%。",
           "url": "https://wallstreetcn.com/livenews/2998754",
           "source": "华尔街见闻-快讯",
@@ -56,6 +45,18 @@
           "time_info": "05时19分"
         },
         {
+          "title": "小鹏汽车重启Robotaxi项目，内部转岗进行时",
+          "url": "https://wallstreetcn.com/livenews/2999218",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时40分 ~ 21时34分]"
+        },
+        {
           "title": "何小鹏称10年后中国汽车有5强",
           "url": "https://www.toutiao.com/trending/7567549548655198250/",
           "source": "今日头条",
@@ -65,6 +66,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时09分 ~ 11时10分]"
+        },
+        {
+          "title": "挪威主权财富基金反对特斯拉授予马斯克1万亿美元薪酬方案",
+          "url": "https://wallstreetcn.com/livenews/2999214",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时40分 ~ 21时34分]"
         },
         {
           "title": "美股盘前，Palantir跌约6%，公司此前公布了三季度财报； 半导体股普跌，英特尔跌约2%，台积电跌约1%，英伟达跌约1%。 中概股多数下跌，阿里巴巴跌约2%，蔚来跌约2%。",
@@ -103,6 +116,17 @@
           "time_info": "[02时26分 ~ 03时17分]"
         },
         {
+          "title": "美国一特斯拉打不开车门 5人被烧死",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%80%E7%89%B9%E6%96%AF%E6%8B%89%E6%89%93%E4%B8%8D%E5%BC%80%E8%BD%A6%E9%97%A8+5%E4%BA%BA%E8%A2%AB%E7%83%A7%E6%AD%BB",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时33分 ~ 21时34分]"
+        },
+        {
           "title": "市场消息：三星SDI正与特斯拉洽谈供应储能系统（ESS）电池事宜。",
           "url": "https://flash.jin10.com/detail/20251104070012105800",
           "source": "金十数据",
@@ -123,17 +147,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
-        },
-        {
-          "title": "挪威主权财富基金反对特斯拉授予马斯克1万亿美元薪酬方案",
-          "url": "https://wallstreetcn.com/livenews/2999214",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时40分"
         },
         {
           "title": "三星SDI与特斯拉洽谈，有望向后者供应ESS电池。",
@@ -260,7 +273,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "韩国总统李在明：已通过与美国的贸易谈判为本国汽车和半导体行业争取到公平竞争环境。 消费者信心改善，韩国经济已开始好转。 随着地缘政治风险和企业治理结构风险的缓解，韩国综合股价指数突破了4000点大关。",
@@ -420,6 +433,17 @@
           "time_info": "19时19分"
         },
         {
+          "title": "谷歌(GOOG.O)：谷歌地图为内置谷歌系统的汽车推出基于人工智能的实时车道指引功能，首发车型为极星4。",
+          "url": "https://flash.jin10.com/detail/20251104210638002800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
           "title": "丰田汽车北美公司10月电动车型销量为93,670辆。",
           "url": "https://flash.jin10.com/detail/20251104003349911800",
           "source": "金十数据",
@@ -443,7 +467,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时40分"
         }
