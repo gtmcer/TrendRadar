@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-04T13:19:56.377255+08:00",
-  "total_titles_processed": 1179,
+  "generated_at": "2025-11-04T14:28:36.409104+08:00",
+  "total_titles_processed": 1263,
   "failed_sources": [],
   "trends": [
     {
@@ -31,6 +31,18 @@
         },
         {
           "title": "何小鹏称10年后中国汽车有5强",
+          "url": "https://www.baidu.com/s?wd=%E4%BD%95%E5%B0%8F%E9%B9%8F%E7%A7%B010%E5%B9%B4%E5%90%8E%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E6%9C%895%E5%BC%BA",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时21分 ~ 14时28分]"
+        },
+        {
+          "title": "何小鹏称10年后中国汽车有5强",
           "url": "https://www.toutiao.com/trending/7567549548655198250/",
           "source": "今日头条",
           "ranks": [
@@ -39,17 +51,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时09分 ~ 11时10分]"
-        },
-        {
-          "title": "何小鹏称10年后中国汽车有5强",
-          "url": "https://www.baidu.com/s?wd=%E4%BD%95%E5%B0%8F%E9%B9%8F%E7%A7%B010%E5%B9%B4%E5%90%8E%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E6%9C%895%E5%BC%BA",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时21分 ~ 13时19分]"
         },
         {
           "title": "特斯拉欧洲市场销量再度大幅下滑，保持数季度以来的低迷态势",
@@ -114,7 +115,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
         },
@@ -166,7 +167,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "韩国总统李在明：已通过与美国的贸易谈判为本国汽车和半导体行业争取到公平竞争环境。 消费者信心改善，韩国经济已开始好转。 随着地缘政治风险和企业治理结构风险的缓解，韩国综合股价指数突破了4000点大关。",
@@ -178,6 +179,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
+        },
+        {
+          "title": "土耳其汽车协会：一月至十月份的汽车销量同比增长了10.20%。",
+          "url": "https://flash.jin10.com/detail/20251104134740783800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
         },
         {
           "title": "福特和现代电动汽车10月销量大幅下滑，特朗普叫停前美国总统拜登的联邦过车补贴政策",
@@ -227,13 +239,24 @@
           "time_info": "09时21分"
         },
         {
+          "title": "土耳其汽车协会：十月份汽车销量同比增长了19.40%。",
+          "url": "https://flash.jin10.com/detail/20251104134726414800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        },
+        {
           "title": "丰田汽车10月在日本销量同比下降5.6%。",
           "url": "https://flash.jin10.com/detail/20251104130600487800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
         },
@@ -255,7 +278,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
         },
