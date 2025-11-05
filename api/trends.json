@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-05T07:19:02.486051+08:00",
-  "total_titles_processed": 656,
+  "generated_at": "2025-11-05T09:22:57.828801+08:00",
+  "total_titles_processed": 818,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "美国一特斯拉打不开车门 5人被烧死",
@@ -13,11 +13,12 @@
           "source": "百度热搜",
           "ranks": [
             12,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时24分 ~ 07时19分]"
+          "appearance_count": 11,
+          "time_info": "[00时24分 ~ 09时22分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌约2%。 热门中概股里，文远知行初步收跌13.7%，小马智行跌11.2%，小米ADR跌4.7%，小鹏、蔚来、台积电、美团ADR、理想跌超3%，华住、百胜中国则至多涨约2%，百度涨3.3%。 ETF中，KWEB初步收跌2.1%，CQQQ跌1.7%。",
@@ -137,6 +138,17 @@
           "time_info": "04时21分"
         },
         {
+          "title": "张凌赫出道前的理想是去国家电网",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%87%BA%E9%81%93%E5%89%8D%E7%9A%84%E7%90%86%E6%83%B3%E6%98%AF%E5%8E%BB%E5%9B%BD%E5%AE%B6%E7%94%B5%E7%BD%91%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26lcate%3D5001%26flag%3D1%26band_rank%3D15%26c_type%3D31%26filter_type%3Drealtimehot%26realpos%3D15%26pos%3D15%26dgr%3D0%26q%3D%2523%25E5%25BC%25A0%25E5%2587%258C%25E8%25B5%25AB%25E5%2587%25BA%25E9%2581%2593%25E5%2589%258D%25E7%259A%2584%25E7%2590%2586%25E6%2583%25B3%25E6%2598%25AF%25E5%258E%25BB%25E5%259B%25BD%25E5%25AE%25B6%25E7%2594%25B5%25E7%25BD%2591%2523%26cate%3D5001%26display_time%3D1762305773%26pre_seqid%3D176230577364508887036&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
           "title": "通用、特斯拉和丰田敦促美国延长USMCA自由贸易协定的期限",
           "url": "https://wallstreetcn.com/livenews/2999385",
           "source": "华尔街见闻-快讯",
@@ -162,7 +174,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "汽车电池界双寡头垄断超60%市场",
@@ -192,6 +204,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时24分 ~ 01时22分]"
+        },
+        {
+          "title": "美国肯塔基州州长：UPS飞机坠毁事故造成3人死亡，死亡人数预计可能上升。附近地区的一座福特汽车公司工厂虽然没有受到波及，但失去了电力供应。",
+          "url": "https://wallstreetcn.com/livenews/2999497",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
+          "title": "肯塔基州州长安迪·贝希尔：肯塔基州的福特汽车工厂未受坠机影响，但确实断电了。",
+          "url": "https://flash.jin10.com/detail/20251105084719355800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
         }
       ]
     }
