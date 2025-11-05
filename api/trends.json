@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-06T06:20:48.030886+08:00",
-  "total_titles_processed": 623,
+  "generated_at": "2025-11-06T07:18:06.878354+08:00",
+  "total_titles_processed": 679,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时19分 ~ 06时20分]"
+          "appearance_count": 4,
+          "time_info": "[05时19分 ~ 07时18分]"
         },
         {
           "title": "瑞士央行理事会成员楚丁：预计在当前利率水平下，通胀将处于理想区间。",
@@ -49,7 +49,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
         }
@@ -68,11 +68,12 @@
             21,
             7,
             14,
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时28分 ~ 06时20分]"
+          "appearance_count": 8,
+          "time_info": "[02时28分 ~ 07时18分]"
         },
         {
           "title": "摩根大通CEO戴蒙：在美国（汽车城）底特律的投资有助于降低失业率并带来经济增长。",
