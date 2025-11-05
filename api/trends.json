@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-05T22:20:11.424292+08:00",
-  "total_titles_processed": 2012,
+  "generated_at": "2025-11-05T23:20:15.816682+08:00",
+  "total_titles_processed": 2102,
   "failed_sources": [],
   "trends": [
     {
@@ -32,8 +32,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时17分 ~ 22时20分]"
+          "appearance_count": 7,
+          "time_info": "[19时17分 ~ 23时20分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌约2%。 热门中概股里，文远知行初步收跌13.7%，小马智行跌11.2%，小米ADR跌4.7%，小鹏、蔚来、台积电、美团ADR、理想跌超3%，华住、百胜中国则至多涨约2%，百度涨3.3%。 ETF中，KWEB初步收跌2.1%，CQQQ跌1.7%。",
@@ -352,7 +352,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
