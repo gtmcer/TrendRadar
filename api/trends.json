@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-05T11:11:47.974526+08:00",
-  "total_titles_processed": 949,
+  "generated_at": "2025-11-05T12:22:05.824137+08:00",
+  "total_titles_processed": 1069,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "美国一特斯拉打不开车门 5人被烧死",
@@ -56,6 +56,19 @@
           "time_info": "[05时17分 ~ 06时19分]"
         },
         {
+          "title": "张凌赫出道前的理想是去国家电网",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%87%BA%E9%81%93%E5%89%8D%E7%9A%84%E7%90%86%E6%83%B3%E6%98%AF%E5%8E%BB%E5%9B%BD%E5%AE%B6%E7%94%B5%E7%BD%91%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26lcate%3D5001%26flag%3D1%26band_rank%3D15%26c_type%3D31%26filter_type%3Drealtimehot%26realpos%3D15%26pos%3D15%26dgr%3D0%26q%3D%2523%25E5%25BC%25A0%25E5%2587%258C%25E8%25B5%25AB%25E5%2587%25BA%25E9%2581%2593%25E5%2589%258D%25E7%259A%2584%25E7%2590%2586%25E6%2583%25B3%25E6%2598%25AF%25E5%258E%25BB%25E5%259B%25BD%25E5%25AE%25B6%25E7%2594%25B5%25E7%25BD%2591%2523%26cate%3D5001%26display_time%3D1762305773%26pre_seqid%3D176230577364508887036&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            15,
+            14,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时22分 ~ 12时21分]"
+        },
+        {
           "title": "纳指尾盘跌幅扩大至2%，英伟达(NVDA.O)跌近4%，特斯拉(TSLA.O)跌4.7%。",
           "url": "https://flash.jin10.com/detail/20251105034345980800",
           "source": "金十数据",
@@ -80,18 +93,6 @@
           "time_info": "[01时22分 ~ 02时27分]"
         },
         {
-          "title": "张凌赫出道前的理想是去国家电网",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%87%BA%E9%81%93%E5%89%8D%E7%9A%84%E7%90%86%E6%83%B3%E6%98%AF%E5%8E%BB%E5%9B%BD%E5%AE%B6%E7%94%B5%E7%BD%91%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26lcate%3D5001%26flag%3D1%26band_rank%3D15%26c_type%3D31%26filter_type%3Drealtimehot%26realpos%3D15%26pos%3D15%26dgr%3D0%26q%3D%2523%25E5%25BC%25A0%25E5%2587%258C%25E8%25B5%25AB%25E5%2587%25BA%25E9%2581%2593%25E5%2589%258D%25E7%259A%2584%25E7%2590%2586%25E6%2583%25B3%25E6%2598%25AF%25E5%258E%25BB%25E5%259B%25BD%25E5%25AE%25B6%25E7%2594%25B5%25E7%25BD%2591%2523%26cate%3D5001%26display_time%3D1762305773%26pre_seqid%3D176230577364508887036&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时22分 ~ 11时11分]"
-        },
-        {
           "title": "特斯拉CEO马斯克：（AI5）芯片样品预计将于2026年推出，计划于2027年量产。",
           "url": "https://flash.jin10.com/detail/20251105031420233800",
           "source": "金十数据",
@@ -114,6 +115,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时21分 ~ 05时17分]"
+        },
+        {
+          "title": "蔚来 10 月交付新车 40397 台，同比增长 92.6%，对蔚来以后的发展怎么看？",
+          "url": "https://www.zhihu.com/question/1968013610698666074",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时21分 ~ 12时22分]"
         },
         {
           "title": "特斯拉CEO马斯克：特斯拉AI5芯片的略微不同版本将由台积电和三星代工生产。",
