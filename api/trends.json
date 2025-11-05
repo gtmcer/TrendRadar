@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-05T20:39:35.507236+08:00",
-  "total_titles_processed": 1841,
+  "generated_at": "2025-11-05T21:33:45.735382+08:00",
+  "total_titles_processed": 1933,
   "failed_sources": [],
   "trends": [
     {
@@ -20,17 +20,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时24分 ~ 11时11分]"
-        },
-        {
-          "title": "比亚迪上月在英国的销量几乎达特斯拉的六倍",
-          "url": "https://wallstreetcn.com/livenews/2999908",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时39分"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌约2%。 热门中概股里，文远知行初步收跌13.7%，小马智行跌11.2%，小米ADR跌4.7%，小鹏、蔚来、台积电、美团ADR、理想跌超3%，华住、百胜中国则至多涨约2%，百度涨3.3%。 ETF中，KWEB初步收跌2.1%，CQQQ跌1.7%。",
@@ -60,11 +49,24 @@
           "source": "百度热搜",
           "ranks": [
             1,
-            15
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时17分 ~ 21时33分]"
+        },
+        {
+          "title": "比亚迪上月在英国的销量几乎达特斯拉的六倍",
+          "url": "https://wallstreetcn.com/livenews/2999908",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时17分 ~ 20时39分]"
+          "time_info": "[20时39分 ~ 21时33分]"
         },
         {
           "title": "“特斯拉劲敌”Rivian三季度产量10,720辆，分析师预期10,487辆。",
@@ -126,6 +128,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时22分 ~ 02时27分]"
+        },
+        {
+          "title": "是否考虑A股上市？小鹏汽车顾宏地：会积极的去寻找机会",
+          "url": "https://wallstreetcn.com/livenews/2999884",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时39分 ~ 21时33分]"
         },
         {
           "title": "特斯拉CEO马斯克：（AI5）芯片样品预计将于2026年推出，计划于2027年量产。",
@@ -240,17 +254,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
-        },
-        {
-          "title": "是否考虑A股上市？小鹏汽车顾宏地：会积极的去寻找机会",
-          "url": "https://wallstreetcn.com/livenews/2999884",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时39分"
         },
         {
           "title": "通用、特斯拉和丰田敦促美国延长USMCA自由贸易协定的期限",
@@ -476,11 +479,12 @@
           "url": "https://wallstreetcn.com/livenews/2999907",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时39分 ~ 21时33分]"
         }
       ]
     }
