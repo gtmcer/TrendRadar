@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-07T21:28:20.793899+08:00",
-  "total_titles_processed": 1887,
+  "generated_at": "2025-11-07T22:21:02.649827+08:00",
+  "total_titles_processed": 1985,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 50,
+      "match_count": 52,
       "titles": [
         {
           "title": "怎样看待何小鹏发机器人「脱衣」视频回应是「真人扮演」质疑？其中有哪些技术值得关注？",
@@ -26,11 +26,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时23分 ~ 21时28分]"
+          "appearance_count": 13,
+          "time_info": "[09时23分 ~ 22时21分]"
         },
         {
           "title": "何小鹏剪机器人腿部哽咽辟谣藏真人",
@@ -124,8 +125,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时24分 ~ 21时28分]"
+          "appearance_count": 28,
+          "time_info": "[00时24分 ~ 22时21分]"
         },
         {
           "title": "除了马斯克的万亿美元薪酬包 周四特斯拉股东会还有什么要点？",
@@ -181,6 +182,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时24分 ~ 09时23分]"
+        },
+        {
+          "title": "马斯克万亿美元天价薪酬激励方案通过，超七成股东支持，特斯拉市值要在十年内达到 8.5 万亿美元，如何解读？",
+          "url": "https://www.zhihu.com/question/1970064184793334914",
+          "source": "知乎",
+          "ranks": [
+            11,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时20分 ~ 22时21分]"
         },
         {
           "title": "小鹏汽车发力人形机器人意欲何为",
@@ -287,19 +301,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
-        },
-        {
-          "title": "马斯克万亿美元天价薪酬激励方案通过，超七成股东支持，特斯拉市值要在十年内达到 8.5 万亿美元，如何解读？",
-          "url": "https://www.zhihu.com/question/1970064184793334914",
-          "source": "知乎",
-          "ranks": [
-            11,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时20分 ~ 21时28分]"
         },
         {
           "title": "小鹏汽车是真做机器人还是炒作",
@@ -426,6 +427,17 @@
           "time_info": "[00时24分 ~ 00时25分]"
         },
         {
+          "title": "特斯拉8.5万亿美元市值目标如何达成",
+          "url": "https://www.toutiao.com/trending/7569640395622301750/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时20分 ~ 22时21分]"
+        },
+        {
           "title": "现场剪开人形机器人腿部！何小鹏：希望这是最后一次，机器人证明它是它自己",
           "url": "https://m.thepaper.cn/newsDetail_forward_31909483",
           "source": "澎湃新闻",
@@ -435,6 +447,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[20时38分 ~ 21时28分]"
+        },
+        {
+          "title": "李娜李小鹏世纪同框",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%9D%8E%E5%A8%9C%E6%9D%8E%E5%B0%8F%E9%B9%8F%E4%B8%96%E7%BA%AA%E5%90%8C%E6%A1%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26dgr%3D0%26filter_type%3Drealtimehot%26c_type%3D31%26cate%3D5001%26stream_entry_id%3D31%26lcate%3D5001%26flag%3D1%26realpos%3D20%26pos%3D21%26q%3D%2523%25E6%259D%258E%25E5%25A8%259C%25E6%259D%258E%25E5%25B0%258F%25E9%25B9%258F%25E4%25B8%2596%25E7%25BA%25AA%25E5%2590%258C%25E6%25A1%2586%2523%26band_rank%3D20%26display_time%3D1762525128%26pre_seqid%3D17625251287570162030186&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时20分 ~ 22时21分]"
         },
         {
           "title": "特斯拉(TSLA.O)美股盘后涨1.2%。",
@@ -630,6 +653,20 @@
       "match_count": 21,
       "titles": [
         {
+          "title": "10月重点商品出海数据出炉：汽车动能拉满，环比增幅居首",
+          "url": "https://www.cls.cn/detail/2193907",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时19分 ~ 22时21分]"
+        },
+        {
           "title": "福特汽车考虑放弃开发F-150卡车的电动版。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3000725",
           "source": "华尔街见闻-快讯",
@@ -641,19 +678,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时40分 ~ 05时17分]"
-        },
-        {
-          "title": "10月重点商品出海数据出炉：汽车动能拉满，环比增幅居首",
-          "url": "https://www.cls.cn/detail/2193907",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时19分 ~ 21时28分]"
         },
         {
           "title": "中国汽车工业协会：9月汽车零部件产品进口金额环比下降11.9%，同比下降21.1%",
@@ -678,6 +702,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时19分 ~ 18时20分]"
+        },
+        {
+          "title": "日产汽车将出售总部大楼，转为租用，今年 4 至 9 月亏损 2219 亿日元，此前曾官宣全球裁员 2 万人，如何解读？",
+          "url": "https://www.zhihu.com/question/1969886824144023974",
+          "source": "知乎",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时28分 ~ 22时21分]"
         },
         {
           "title": "从知情人士处获悉，市场监管总局正在讨论“虚假营销认定方法”，后续可能会针对汽车行业的夸大及虚假宣传进行治理。（一财）",
@@ -723,17 +759,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
-        },
-        {
-          "title": "日产汽车将出售总部大楼，转为租用，今年 4 至 9 月亏损 2219 亿日元，此前曾官宣全球裁员 2 万人，如何解读？",
-          "url": "https://www.zhihu.com/question/1969886824144023974",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
         },
         {
           "title": "本田汽车第二季度运营利润下降25% 下调年度利润预期",
