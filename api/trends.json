@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-07T19:18:08.695350+08:00",
-  "total_titles_processed": 1723,
+  "generated_at": "2025-11-07T20:38:58.174524+08:00",
+  "total_titles_processed": 1826,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 49,
+      "match_count": 50,
       "titles": [
         {
           "title": "怎样看待何小鹏发机器人「脱衣」视频回应是「真人扮演」质疑？其中有哪些技术值得关注？",
@@ -29,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时23分 ~ 19时18分]"
+          "appearance_count": 11,
+          "time_info": "[09时23分 ~ 20时38分]"
         },
         {
           "title": "何小鹏剪机器人腿部哽咽辟谣藏真人",
@@ -105,8 +105,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时24分 ~ 19时18分]"
+          "appearance_count": 25,
+          "time_info": "[00时24分 ~ 20时38分]"
         },
         {
           "title": "何小鹏再回应机器人里藏真人质疑",
@@ -343,11 +343,12 @@
           "source": "知乎",
           "ranks": [
             11,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时20分 ~ 19时18分]"
+          "appearance_count": 4,
+          "time_info": "[18时20分 ~ 20时38分]"
         },
         {
           "title": "小鹏汽车宣布，小鹏MONA M03车型累计交付达20万台，仅用时14个月。",
@@ -545,6 +546,17 @@
           "time_info": "07时17分"
         },
         {
+          "title": "现场剪开人形机器人腿部！何小鹏：希望这是最后一次，机器人证明它是它自己",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31909483",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
+        },
+        {
           "title": "何小鹏再发视频「通电状态下剪开机器人腿部展示机械结构」，这次能打消质疑吗？此次自证对行业有哪些意义？",
           "url": "https://www.zhihu.com/question/1970041793472067288",
           "source": "知乎",
@@ -614,7 +626,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "福特汽车考虑放弃开发F-150卡车的电动版。（华尔街日报）",
@@ -628,6 +640,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时40分 ~ 05时17分]"
+        },
+        {
+          "title": "10月重点商品出海数据出炉：汽车动能拉满，环比增幅居首",
+          "url": "https://www.cls.cn/detail/2193907",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时19分 ~ 20时38分]"
         },
         {
           "title": "中国汽车工业协会：9月汽车零部件产品进口金额环比下降11.9%，同比下降21.1%",
@@ -654,18 +678,6 @@
           "time_info": "[17时19分 ~ 18时20分]"
         },
         {
-          "title": "10月重点商品出海数据出炉：汽车动能拉满，环比增幅居首",
-          "url": "https://www.cls.cn/detail/2193907",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时19分 ~ 19时18分]"
-        },
-        {
           "title": "从知情人士处获悉，市场监管总局正在讨论“虚假营销认定方法”，后续可能会针对汽车行业的夸大及虚假宣传进行治理。（一财）",
           "url": "https://wallstreetcn.com/livenews/3000987",
           "source": "华尔街见闻-快讯",
@@ -687,6 +699,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
+        },
+        {
+          "title": "墨西哥10月汽车产量367870辆。",
+          "url": "https://flash.jin10.com/detail/20251107200245531800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
         },
         {
           "title": "周四（11月6日），彭博电动汽车价格回报指数涨0.46%，报3446.17点。",
