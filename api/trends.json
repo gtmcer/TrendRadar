@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-07T20:38:58.174524+08:00",
-  "total_titles_processed": 1826,
+  "generated_at": "2025-11-07T21:28:20.793899+08:00",
+  "total_titles_processed": 1887,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时23分 ~ 20时38分]"
+          "appearance_count": 12,
+          "time_info": "[09时23分 ~ 21时28分]"
         },
         {
           "title": "何小鹏剪机器人腿部哽咽辟谣藏真人",
@@ -90,25 +90,6 @@
           "time_info": "[07时17分 ~ 15时19分]"
         },
         {
-          "title": "太逼真,小鹏机器人被迫脱衣自证",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346808&amp;topic_name=%E5%A4%AA%E9%80%BC%E7%9C%9F%2C%E5%B0%8F%E9%B9%8F%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A2%AB%E8%BF%AB%E8%84%B1%E8%A1%A3%E8%87%AA%E8%AF%81",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时24分 ~ 20时38分]"
-        },
-        {
           "title": "何小鹏再回应机器人里藏真人质疑",
           "url": "https://www.baidu.com/s?wd=%E4%BD%95%E5%B0%8F%E9%B9%8F%E5%86%8D%E5%9B%9E%E5%BA%94%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%87%8C%E8%97%8F%E7%9C%9F%E4%BA%BA%E8%B4%A8%E7%96%91",
           "source": "百度热搜",
@@ -125,6 +106,26 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[00时24分 ~ 14时28分]"
+        },
+        {
+          "title": "太逼真,小鹏机器人被迫脱衣自证",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346808&amp;topic_name=%E5%A4%AA%E9%80%BC%E7%9C%9F%2C%E5%B0%8F%E9%B9%8F%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A2%AB%E8%BF%AB%E8%84%B1%E8%A1%A3%E8%87%AA%E8%AF%81",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 26,
+          "time_info": "[00时24分 ~ 21时28分]"
         },
         {
           "title": "除了马斯克的万亿美元薪酬包 周四特斯拉股东会还有什么要点？",
@@ -288,6 +289,19 @@
           "time_info": "05时17分"
         },
         {
+          "title": "马斯克万亿美元天价薪酬激励方案通过，超七成股东支持，特斯拉市值要在十年内达到 8.5 万亿美元，如何解读？",
+          "url": "https://www.zhihu.com/question/1970064184793334914",
+          "source": "知乎",
+          "ranks": [
+            11,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时20分 ~ 21时28分]"
+        },
+        {
           "title": "小鹏汽车是真做机器人还是炒作",
           "url": "https://www.toutiao.com/trending/7569605442133822985/",
           "source": "今日头条",
@@ -336,19 +350,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时19分 ~ 07时17分]"
-        },
-        {
-          "title": "马斯克万亿美元天价薪酬激励方案通过，超七成股东支持，特斯拉市值要在十年内达到 8.5 万亿美元，如何解读？",
-          "url": "https://www.zhihu.com/question/1970064184793334914",
-          "source": "知乎",
-          "ranks": [
-            11,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时20分 ~ 20时38分]"
         },
         {
           "title": "小鹏汽车宣布，小鹏MONA M03车型累计交付达20万台，仅用时14个月。",
@@ -423,6 +424,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时24分 ~ 00时25分]"
+        },
+        {
+          "title": "现场剪开人形机器人腿部！何小鹏：希望这是最后一次，机器人证明它是它自己",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31909483",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时38分 ~ 21时28分]"
         },
         {
           "title": "特斯拉(TSLA.O)美股盘后涨1.2%。",
@@ -546,17 +558,6 @@
           "time_info": "07时17分"
         },
         {
-          "title": "现场剪开人形机器人腿部！何小鹏：希望这是最后一次，机器人证明它是它自己",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31909483",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时38分"
-        },
-        {
           "title": "何小鹏再发视频「通电状态下剪开机器人腿部展示机械结构」，这次能打消质疑吗？此次自证对行业有哪些意义？",
           "url": "https://www.zhihu.com/question/1970041793472067288",
           "source": "知乎",
@@ -626,7 +627,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "福特汽车考虑放弃开发F-150卡车的电动版。（华尔街日报）",
@@ -647,11 +648,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时19分 ~ 20时38分]"
+          "appearance_count": 6,
+          "time_info": "[17时19分 ~ 21时28分]"
         },
         {
           "title": "中国汽车工业协会：9月汽车零部件产品进口金额环比下降11.9%，同比下降21.1%",
@@ -707,7 +709,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时38分"
         },
@@ -721,6 +723,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
+        },
+        {
+          "title": "日产汽车将出售总部大楼，转为租用，今年 4 至 9 月亏损 2219 亿日元，此前曾官宣全球裁员 2 万人，如何解读？",
+          "url": "https://www.zhihu.com/question/1969886824144023974",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         },
         {
           "title": "本田汽车第二季度运营利润下降25% 下调年度利润预期",
