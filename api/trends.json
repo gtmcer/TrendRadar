@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-07T13:19:14.775447+08:00",
-  "total_titles_processed": 1154,
+  "generated_at": "2025-11-07T14:28:55.666006+08:00",
+  "total_titles_processed": 1237,
   "failed_sources": [],
   "trends": [
     {
@@ -34,19 +34,6 @@
           "time_info": "[00时24分 ~ 09时23分]"
         },
         {
-          "title": "太逼真,小鹏机器人被迫脱衣自证",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346808&amp;topic_name=%E5%A4%AA%E9%80%BC%E7%9C%9F%2C%E5%B0%8F%E9%B9%8F%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A2%AB%E8%BF%AB%E8%84%B1%E8%A1%A3%E8%87%AA%E8%AF%81",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时24分 ~ 13时19分]"
-        },
-        {
           "title": "小鹏机器人无衣状态测试画面",
           "url": "https://www.douyin.com/hot/2297230",
           "source": "抖音",
@@ -61,6 +48,20 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时24分 ~ 09时23分]"
+        },
+        {
+          "title": "太逼真,小鹏机器人被迫脱衣自证",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346808&amp;topic_name=%E5%A4%AA%E9%80%BC%E7%9C%9F%2C%E5%B0%8F%E9%B9%8F%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A2%AB%E8%BF%AB%E8%84%B1%E8%A1%A3%E8%87%AA%E8%AF%81",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            7,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时24分 ~ 14时28分]"
         },
         {
           "title": "美股三大期指集体上涨 特斯拉股东大会来袭 | 今夜看点",
@@ -87,11 +88,12 @@
             8,
             10,
             9,
-            5
+            5,
+            17
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时24分 ~ 13时19分]"
+          "appearance_count": 17,
+          "time_info": "[00时24分 ~ 14时28分]"
         },
         {
           "title": "除了马斯克的万亿美元薪酬包 周四特斯拉股东会还有什么要点？",
@@ -136,6 +138,20 @@
           "time_info": "[00时24分 ~ 09时23分]"
         },
         {
+          "title": "特斯拉股东批准马斯克万亿美元薪酬包 世界首富与机器人共舞庆祝",
+          "url": "https://www.cls.cn/detail/2193634",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            6,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时17分 ~ 14时28分]"
+        },
+        {
           "title": "特斯拉股东大会批准“万亿薪酬包”，十年达标后马斯克持股或增至25%",
           "url": "https://wallstreetcn.com/articles/3758856",
           "source": "华尔街见闻",
@@ -143,8 +159,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时23分 ~ 13时19分]"
+          "appearance_count": 5,
+          "time_info": "[09时23分 ~ 14时28分]"
         },
         {
           "title": "特斯拉人形机器人亮相进博会",
@@ -155,21 +171,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时22分 ~ 13时19分]"
-        },
-        {
-          "title": "特斯拉股东批准马斯克万亿美元薪酬包 世界首富与机器人共舞庆祝",
-          "url": "https://www.cls.cn/detail/2193634",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时17分 ~ 13时19分]"
+          "appearance_count": 4,
+          "time_info": "[12时22分 ~ 14时28分]"
         },
         {
           "title": "小鹏汽车发力人形机器人意欲何为",
@@ -313,8 +316,34 @@
             17
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时22分 ~ 14时28分]"
+        },
+        {
+          "title": "小鹏汽车宣布，小鹏MONA M03车型累计交付达20万台，仅用时14个月。",
+          "url": "https://wallstreetcn.com/livenews/3000948",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            22,
+            29
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时22分 ~ 13时19分]"
+          "time_info": "[12时22分 ~ 14时28分]"
+        },
+        {
+          "title": "恒生科技指数日内跌幅扩大至2%，快手跌超5%，蔚来跌近5%。",
+          "url": "https://wallstreetcn.com/livenews/3000947",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            23,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时22分 ~ 14时28分]"
         },
         {
           "title": "小鹏机器人里藏了真人？何小鹏发一镜到底视频，机器人“脱衣”回应质疑",
@@ -327,30 +356,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时24分 ~ 01时18分]"
-        },
-        {
-          "title": "小鹏汽车宣布，小鹏MONA M03车型累计交付达20万台，仅用时14个月。",
-          "url": "https://wallstreetcn.com/livenews/3000948",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时22分 ~ 13时19分]"
-        },
-        {
-          "title": "恒生科技指数日内跌幅扩大至2%，快手跌超5%，蔚来跌近5%。",
-          "url": "https://wallstreetcn.com/livenews/3000947",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时22分 ~ 13时19分]"
         },
         {
           "title": "小鹏新一代人形机器人亮相：女性形态，计划明年4月量产",
@@ -544,7 +549,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "福特汽车考虑放弃开发F-150卡车的电动版。（华尔街日报）",
@@ -558,6 +563,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时40分 ~ 05时17分]"
+        },
+        {
+          "title": "中国汽车工业协会：9月汽车零部件产品进口金额环比下降11.9%，同比下降21.1%",
+          "url": "https://wallstreetcn.com/livenews/3001002",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        },
+        {
+          "title": "从知情人士处获悉，市场监管总局正在讨论“虚假营销认定方法”，后续可能会针对汽车行业的夸大及虚假宣传进行治理。（一财）",
+          "url": "https://wallstreetcn.com/livenews/3000987",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
         },
         {
           "title": "高通CEO Cristiano Amon：汽车是（本公司业务中）当前增速最快的领域。 对个人AI设备的前景“非常乐观”。（彭博电视）",
@@ -679,6 +706,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源汽车",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "二手新能源汽车涌入交易市场 前三季度新能源汽车拍卖成交量增长超50%",
+          "url": "https://wallstreetcn.com/livenews/3000988",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
         }
       ]
     }
