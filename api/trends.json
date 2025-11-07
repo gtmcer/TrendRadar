@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-08T04:19:18.285868+08:00",
-  "total_titles_processed": 512,
+  "generated_at": "2025-11-08T05:16:03.579239+08:00",
+  "total_titles_processed": 531,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 04时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 05时16分]"
         },
         {
           "title": "马斯克万亿美元天价薪酬激励方案通过，超七成股东支持，特斯拉市值要在十年内达到 8.5 万亿美元，如何解读？",
@@ -26,8 +26,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 04时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 05时16分]"
         },
         {
           "title": "太逼真,小鹏机器人被迫脱衣自证",
@@ -37,30 +37,32 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 04时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 05时16分]"
         },
         {
           "title": "马斯克何小鹏隔空互动：特斯拉和中国公司将主导市场",
           "url": "https://wallstreetcn.com/articles/3758924",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 04时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 05时16分]"
         },
         {
           "title": "专家称福建舰最理想母港是台湾",
           "url": "https://www.toutiao.com/trending/7569479537906568746/",
           "source": "今日头条",
           "ranks": [
-            17
+            17,
+            28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 05时16分]"
         }
       ]
     },
@@ -74,11 +76,12 @@
           "source": "知乎",
           "ranks": [
             15,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 04时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 05时16分]"
         },
         {
           "title": "以军召回中国产汽车意欲何为",
@@ -89,11 +92,12 @@
             15,
             10,
             18,
-            17
+            17,
+            26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 04时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 05时16分]"
         }
       ]
     }
