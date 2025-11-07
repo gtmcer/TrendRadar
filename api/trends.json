@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-07T22:21:02.649827+08:00",
-  "total_titles_processed": 1985,
+  "generated_at": "2025-11-07T23:19:56.606306+08:00",
+  "total_titles_processed": 2075,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 52,
+      "match_count": 54,
       "titles": [
         {
           "title": "怎样看待何小鹏发机器人「脱衣」视频回应是「真人扮演」质疑？其中有哪些技术值得关注？",
@@ -30,8 +30,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时23分 ~ 22时21分]"
+          "appearance_count": 14,
+          "time_info": "[09时23分 ~ 23时19分]"
         },
         {
           "title": "何小鹏剪机器人腿部哽咽辟谣藏真人",
@@ -125,8 +125,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时24分 ~ 22时21分]"
+          "appearance_count": 29,
+          "time_info": "[00时24分 ~ 23时19分]"
         },
         {
           "title": "除了马斯克的万亿美元薪酬包 周四特斯拉股东会还有什么要点？",
@@ -193,8 +193,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时20分 ~ 22时21分]"
+          "appearance_count": 8,
+          "time_info": "[18时20分 ~ 23时19分]"
         },
         {
           "title": "小鹏汽车发力人形机器人意欲何为",
@@ -515,6 +515,17 @@
           "time_info": "06时19分"
         },
         {
+          "title": "马斯克何小鹏隔空互动：特斯拉和中国公司将主导市场",
+          "url": "https://wallstreetcn.com/articles/3758924",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
           "title": "特斯拉CEO马斯克：我认为我们将能够部署我们生产的所有Cybercab。",
           "url": "https://flash.jin10.com/detail/20251107070640571800",
           "source": "金十数据",
@@ -579,6 +590,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
+        },
+        {
+          "title": "特斯拉(TSLA.O)跌幅扩大至5%。",
+          "url": "https://flash.jin10.com/detail/20251107225146133800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
         },
         {
           "title": "何小鹏再发视频「通电状态下剪开机器人腿部展示机械结构」，这次能打消质疑吗？此次自证对行业有哪些意义？",
@@ -712,8 +734,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时28分 ~ 22时21分]"
+          "appearance_count": 4,
+          "time_info": "[21时28分 ~ 23时19分]"
         },
         {
           "title": "从知情人士处获悉，市场监管总局正在讨论“虚假营销认定方法”，后续可能会针对汽车行业的夸大及虚假宣传进行治理。（一财）",
