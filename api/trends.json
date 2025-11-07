@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-07T14:28:55.666006+08:00",
-  "total_titles_processed": 1237,
+  "generated_at": "2025-11-07T15:19:01.467607+08:00",
+  "total_titles_processed": 1349,
   "failed_sources": [],
   "trends": [
     {
@@ -50,20 +50,6 @@
           "time_info": "[00时24分 ~ 09时23分]"
         },
         {
-          "title": "太逼真,小鹏机器人被迫脱衣自证",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346808&amp;topic_name=%E5%A4%AA%E9%80%BC%E7%9C%9F%2C%E5%B0%8F%E9%B9%8F%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A2%AB%E8%BF%AB%E8%84%B1%E8%A1%A3%E8%87%AA%E8%AF%81",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            7,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时24分 ~ 14时28分]"
-        },
-        {
           "title": "美股三大期指集体上涨 特斯拉股东大会来袭 | 今夜看点",
           "url": "https://www.cls.cn/detail/2193483",
           "source": "财联社热门",
@@ -76,6 +62,35 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时24分 ~ 09时23分]"
+        },
+        {
+          "title": "特斯拉股东批准马斯克万亿美元薪酬包 世界首富与机器人共舞庆祝",
+          "url": "https://www.cls.cn/detail/2193634",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            6,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时17分 ~ 15时19分]"
+        },
+        {
+          "title": "太逼真,小鹏机器人被迫脱衣自证",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346808&amp;topic_name=%E5%A4%AA%E9%80%BC%E7%9C%9F%2C%E5%B0%8F%E9%B9%8F%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A2%AB%E8%BF%AB%E8%84%B1%E8%A1%A3%E8%87%AA%E8%AF%81",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            7,
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[00时24分 ~ 15时19分]"
         },
         {
           "title": "何小鹏再回应机器人里藏真人质疑",
@@ -110,6 +125,17 @@
           "time_info": "[00时24分 ~ 07时17分]"
         },
         {
+          "title": "特斯拉股东大会批准“万亿薪酬包”，十年达标后马斯克持股或增至25%",
+          "url": "https://wallstreetcn.com/articles/3758856",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时23分 ~ 15时19分]"
+        },
+        {
           "title": "小鹏首款女性机器人亮相，其走路形态被质疑是真人扮演，机器人能实现走「猫步」吗？小鹏的产品能力究竟如何？",
           "url": "https://www.zhihu.com/question/1969450608642745244",
           "source": "知乎",
@@ -138,41 +164,17 @@
           "time_info": "[00时24分 ~ 09时23分]"
         },
         {
-          "title": "特斯拉股东批准马斯克万亿美元薪酬包 世界首富与机器人共舞庆祝",
-          "url": "https://www.cls.cn/detail/2193634",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            6,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时17分 ~ 14时28分]"
-        },
-        {
-          "title": "特斯拉股东大会批准“万亿薪酬包”，十年达标后马斯克持股或增至25%",
-          "url": "https://wallstreetcn.com/articles/3758856",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时23分 ~ 14时28分]"
-        },
-        {
           "title": "特斯拉人形机器人亮相进博会",
           "url": "https://www.toutiao.com/trending/7569466884635233843/",
           "source": "今日头条",
           "ranks": [
             2,
-            1
+            1,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时22分 ~ 14时28分]"
+          "appearance_count": 6,
+          "time_info": "[12时22分 ~ 15时19分]"
         },
         {
           "title": "小鹏汽车发力人形机器人意欲何为",
@@ -199,6 +201,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
+        },
+        {
+          "title": "马斯克 1 万亿美元薪酬计划获批，要拿到 1 万亿需特斯拉公司市值超过 8.5 万亿美元，实现有多难？",
+          "url": "https://www.zhihu.com/question/1970038336501547391",
+          "source": "知乎",
+          "ranks": [
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时22分 ~ 15时19分]"
         },
         {
           "title": "何小鹏一镜到底回应网友质疑",
@@ -306,18 +320,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时19分 ~ 07时17分]"
-        },
-        {
-          "title": "马斯克 1 万亿美元薪酬计划获批，要拿到 1 万亿需特斯拉公司市值超过 8.5 万亿美元，实现有多难？",
-          "url": "https://www.zhihu.com/question/1970038336501547391",
-          "source": "知乎",
-          "ranks": [
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时22分 ~ 14时28分]"
         },
         {
           "title": "小鹏汽车宣布，小鹏MONA M03车型累计交付达20万台，仅用时14个月。",
@@ -549,7 +551,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "福特汽车考虑放弃开发F-150卡车的电动版。（华尔街日报）",
@@ -569,22 +571,24 @@
           "url": "https://wallstreetcn.com/livenews/3001002",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时28分 ~ 15时19分]"
         },
         {
           "title": "从知情人士处获悉，市场监管总局正在讨论“虚假营销认定方法”，后续可能会针对汽车行业的夸大及虚假宣传进行治理。（一财）",
           "url": "https://wallstreetcn.com/livenews/3000987",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时28分 ~ 15时19分]"
         },
         {
           "title": "高通CEO Cristiano Amon：汽车是（本公司业务中）当前增速最快的领域。 对个人AI设备的前景“非常乐观”。（彭博电视）",
@@ -607,6 +611,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
+        },
+        {
+          "title": "本田汽车第二季度运营利润下降25% 下调年度利润预期",
+          "url": "https://flash.jin10.com/detail/20251107150145179800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "本田汽车第二财季经营利润1,939.7亿日元，预估2,198.5亿日元。 第二财季净利润1,151.6亿日元，预估1,437.4亿日元。 第二财季销售净额5.29万亿日元，预估5.31万亿日元。 本田汽车预计全年经营利润5,500.0亿日元，此前预计7,000.0亿日元，市场预估8,687.7亿日元。 本田汽车预计全年销售净额20.70万亿日元，此前预计21.10万亿日元，市场预估21.42万亿日元。 本田汽车预计全年净利润本田汽车预计全年3,000.0亿日元，此前预计4,200.0亿日元，市场预估5,883.1亿日元。",
+          "url": "https://wallstreetcn.com/livenews/3001010",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
         },
         {
           "title": "美国总统特朗普：在未来三年内，乌兹别克斯坦将购买并投资近350亿美元，而在未来十年内，将超过1000亿美元，投资于美国的关键行业，包括关键矿产、航空、汽车零部件、基础设施、农业、能源与化工、信息技术等多个领域。",
@@ -697,6 +723,17 @@
           "time_info": "01时18分"
         },
         {
+          "title": "本田汽车：在北美地区，混合动力汽车的销售表现相对强劲，我们的盈利能力也得到了提升。",
+          "url": "https://flash.jin10.com/detail/20251107145634012800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
           "title": "A股海南自贸区板块高开，海马汽车涨停，海南发展、康芝药业、欣龙控股、凯撒旅业、海峡股份跟涨。",
           "url": "https://wallstreetcn.com/livenews/3000857",
           "source": "华尔街见闻-快讯",
@@ -718,11 +755,12 @@
           "url": "https://wallstreetcn.com/livenews/3000988",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时28分 ~ 15时19分]"
         }
       ]
     }
