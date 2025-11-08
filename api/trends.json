@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-08T11:01:58.208245+08:00",
-  "total_titles_processed": 810,
+  "generated_at": "2025-11-08T12:21:27.186290+08:00",
+  "total_titles_processed": 903,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "特斯拉股东大会批准“万亿薪酬包”，十年达标后马斯克持股或增至25%",
@@ -29,8 +29,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 11时01分]"
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 12时21分]"
         },
         {
           "title": "马斯克万亿美元天价薪酬激励方案通过，超七成股东支持，特斯拉市值要在十年内达到 8.5 万亿美元，如何解读？",
@@ -50,22 +50,12 @@
           "source": "贴吧",
           "ranks": [
             14,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时20分 ~ 11时01分]"
-        },
-        {
-          "title": "马斯克点赞小鹏机器人",
-          "url": "https://www.toutiao.com/trending/7569429277528145970/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时01分"
+          "appearance_count": 16,
+          "time_info": "[00时20分 ~ 12时21分]"
         },
         {
           "title": "马斯克点赞小鹏机器人",
@@ -73,11 +63,37 @@
           "source": "百度热搜",
           "ranks": [
             5,
-            19
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时18分 ~ 12时21分]"
+        },
+        {
+          "title": "特斯拉国产Model Y长续航后驱开售，28.85万元起",
+          "url": "https://flash.jin10.com/detail/20251108085940743800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            18,
+            30
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时18分 ~ 11时01分]"
+          "time_info": "[09时19分 ~ 12时21分]"
+        },
+        {
+          "title": "马斯克点赞小鹏机器人",
+          "url": "https://www.toutiao.com/trending/7569429277528145970/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时01分 ~ 12时21分]"
         },
         {
           "title": "特斯拉国产Model Y长续航后驱开售，28.85万元起",
@@ -92,16 +108,16 @@
           "time_info": "[09时19分 ~ 11时01分]"
         },
         {
-          "title": "特斯拉国产Model Y长续航后驱开售，28.85万元起",
-          "url": "https://flash.jin10.com/detail/20251108085940743800",
-          "source": "金十数据",
+          "title": "专家：福建舰最理想母港是台湾",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%EF%BC%9A%E7%A6%8F%E5%BB%BA%E8%88%B0%E6%9C%80%E7%90%86%E6%83%B3%E6%AF%8D%E6%B8%AF%E6%98%AF%E5%8F%B0%E6%B9%BE",
+          "source": "百度热搜",
           "ranks": [
-            3,
-            18
+            17,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时19分 ~ 11时01分]"
+          "appearance_count": 4,
+          "time_info": "[09时18分 ~ 12时21分]"
         },
         {
           "title": "专家称福建舰最理想母港是台湾",
@@ -116,17 +132,6 @@
           "time_info": "[00时20分 ~ 05时16分]"
         },
         {
-          "title": "专家：福建舰最理想母港是台湾",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%EF%BC%9A%E7%A6%8F%E5%BB%BA%E8%88%B0%E6%9C%80%E7%90%86%E6%83%B3%E6%AF%8D%E6%B8%AF%E6%98%AF%E5%8F%B0%E6%B9%BE",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时18分 ~ 11时01分]"
-        },
-        {
           "title": "Rivian效仿特斯拉 推出CEO 46亿美元薪酬方案",
           "url": "https://flash.jin10.com/detail/20251108084054402800",
           "source": "金十数据",
@@ -139,6 +144,18 @@
           "time_info": "[09时19分 ~ 11时01分]"
         },
         {
+          "title": "马斯克评价小鹏人形机器人身材不错",
+          "url": "https://www.toutiao.com/trending/7569236906177937449/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时01分 ~ 12时21分]"
+        },
+        {
           "title": "李娜李小鹏世纪同框",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%9D%8E%E5%A8%9C%E6%9D%8E%E5%B0%8F%E9%B9%8F%E4%B8%96%E7%BA%AA%E5%90%8C%E6%A1%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26c_type%3D31%26cate%3D5001%26flag%3D0%26dgr%3D0%26realpos%3D19%26stream_entry_id%3D31%26band_rank%3D19%26pos%3D20%26q%3D%2523%25E6%259D%258E%25E5%25A8%259C%25E6%259D%258E%25E5%25B0%258F%25E9%25B9%258F%25E4%25B8%2596%25E7%25BA%25AA%25E5%2590%258C%25E6%25A1%2586%2523%26display_time%3D1762557378%26pre_seqid%3D17625573787960244529352&launchid=10000360-page_H5",
           "source": "微博",
@@ -148,6 +165,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时16分 ~ 07时17分]"
+        },
+        {
+          "title": "特斯拉市值一夜蒸发超3800亿元",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E5%B8%82%E5%80%BC%E4%B8%80%E5%A4%9C%E8%92%B8%E5%8F%91%E8%B6%853800%E4%BA%BF%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时01分 ~ 12时21分]"
+        },
+        {
+          "title": "何小鹏回应马斯克点赞小鹏机器人",
+          "url": "https://www.baidu.com/s?wd=%E4%BD%95%E5%B0%8F%E9%B9%8F%E5%9B%9E%E5%BA%94%E9%A9%AC%E6%96%AF%E5%85%8B%E7%82%B9%E8%B5%9E%E5%B0%8F%E9%B9%8F%E6%9C%BA%E5%99%A8%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时01分 ~ 12时21分]"
         },
         {
           "title": "纳斯达克金龙中国指数收跌0.95%，报8057.27点，本周累计下跌2.62%。 热门中概股里，文远知行初步收跌超7%，小鹏跌约6%，小马智行跌5.3%，蔚来跌约4%，华住则涨2%，唯品会涨2.3%，阿特斯太阳能涨6.2%，大全新能源涨9.7%。 ETF中，CQQQ、KWEB至多跌1.8%。",
@@ -167,18 +207,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时01分"
-        },
-        {
-          "title": "特斯拉市值一夜蒸发超3800亿元",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E5%B8%82%E5%80%BC%E4%B8%80%E5%A4%9C%E8%92%B8%E5%8F%91%E8%B6%853800%E4%BA%BF%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时01分"
         },
@@ -194,26 +223,15 @@
           "time_info": "07时17分"
         },
         {
-          "title": "马斯克评价小鹏人形机器人身材不错",
-          "url": "https://www.toutiao.com/trending/7569236906177937449/",
+          "title": "特斯拉Model Y长续航后驱版上市",
+          "url": "https://www.toutiao.com/trending/7569479537906716202/",
           "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时01分"
-        },
-        {
-          "title": "何小鹏回应马斯克点赞小鹏机器人",
-          "url": "https://www.baidu.com/s?wd=%E4%BD%95%E5%B0%8F%E9%B9%8F%E5%9B%9E%E5%BA%94%E9%A9%AC%E6%96%AF%E5%85%8B%E7%82%B9%E8%B5%9E%E5%B0%8F%E9%B9%8F%E6%9C%BA%E5%99%A8%E4%BA%BA",
-          "source": "百度热搜",
           "ranks": [
             30
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时01分"
+          "time_info": "12时21分"
         }
       ]
     },
@@ -264,11 +282,12 @@
           "url": "https://flash.jin10.com/detail/20251108100640646800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时01分 ~ 12时21分]"
         }
       ]
     }
