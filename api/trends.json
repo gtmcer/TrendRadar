@@ -1,364 +1,50 @@
 {
-  "generated_at": "2025-11-08T23:18:24.731941+08:00",
-  "total_titles_processed": 1570,
+  "generated_at": "2025-11-09T00:21:23.372144+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 21,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "特斯拉股东大会批准“万亿薪酬包”，十年达标后马斯克持股或增至25%",
-          "url": "https://wallstreetcn.com/articles/3758856",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 07时17分]"
-        },
         {
           "title": "马斯克点赞小鹏机器人",
           "url": "https://www.toutiao.com/trending/7569429277528145970/",
           "source": "今日头条",
           "ranks": [
-            5,
-            6,
-            9,
-            17,
-            10,
-            14,
-            20,
-            23,
-            22
+            28
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时01分 ~ 23时18分]"
-        },
-        {
-          "title": "马斯克何小鹏隔空互动：特斯拉和中国公司将主导市场",
-          "url": "https://wallstreetcn.com/articles/3758924",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时20分 ~ 17时17分]"
-        },
-        {
-          "title": "马斯克万亿美元天价薪酬激励方案通过，超七成股东支持，特斯拉市值要在十年内达到 8.5 万亿美元，如何解读？",
-          "url": "https://www.zhihu.com/question/1970064184793334914",
-          "source": "知乎",
-          "ranks": [
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时20分 ~ 07时17分]"
+          "appearance_count": 1,
+          "time_info": "00时21分"
         },
         {
           "title": "太逼真,小鹏机器人被迫脱衣自证",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346808&amp;topic_name=%E5%A4%AA%E9%80%BC%E7%9C%9F%2C%E5%B0%8F%E9%B9%8F%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A2%AB%E8%BF%AB%E8%84%B1%E8%A1%A3%E8%87%AA%E8%AF%81",
           "source": "贴吧",
           "ranks": [
-            14,
-            16,
-            19,
-            20,
-            21,
-            22,
-            25,
-            26,
-            27,
-            28,
             29
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时20分 ~ 23时18分]"
-        },
-        {
-          "title": "专家：福建舰最理想母港是台湾",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%EF%BC%9A%E7%A6%8F%E5%BB%BA%E8%88%B0%E6%9C%80%E7%90%86%E6%83%B3%E6%AF%8D%E6%B8%AF%E6%98%AF%E5%8F%B0%E6%B9%BE",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            13,
-            1,
-            22,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时18分 ~ 15时16分]"
-        },
-        {
-          "title": "马斯克点赞小鹏机器人",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%82%B9%E8%B5%9E%E5%B0%8F%E9%B9%8F%E6%9C%BA%E5%99%A8%E4%BA%BA",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            19,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时18分 ~ 12时21分]"
-        },
-        {
-          "title": "特斯拉市值一夜蒸发超3800亿元",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E5%B8%82%E5%80%BC%E4%B8%80%E5%A4%9C%E8%92%B8%E5%8F%91%E8%B6%853800%E4%BA%BF%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            28,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时01分 ~ 14时27分]"
-        },
-        {
-          "title": "特斯拉国产Model Y长续航后驱开售，28.85万元起",
-          "url": "https://flash.jin10.com/detail/20251108085940743800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            18,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时19分 ~ 12时21分]"
-        },
-        {
-          "title": "特斯拉国产Model Y长续航后驱开售，28.85万元起",
-          "url": "https://wallstreetcn.com/livenews/3001456",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时19分 ~ 11时01分]"
-        },
-        {
-          "title": "专家称福建舰最理想母港是台湾",
-          "url": "https://www.toutiao.com/trending/7569479537906568746/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 05时16分]"
-        },
-        {
-          "title": "Rivian效仿特斯拉 推出CEO 46亿美元薪酬方案",
-          "url": "https://flash.jin10.com/detail/20251108084054402800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时19分 ~ 11时01分]"
-        },
-        {
-          "title": "马斯克评价小鹏人形机器人身材不错",
-          "url": "https://www.toutiao.com/trending/7569236906177937449/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时01分 ~ 12时21分]"
-        },
-        {
-          "title": "李娜李小鹏世纪同框",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%9D%8E%E5%A8%9C%E6%9D%8E%E5%B0%8F%E9%B9%8F%E4%B8%96%E7%BA%AA%E5%90%8C%E6%A1%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26c_type%3D31%26cate%3D5001%26flag%3D0%26dgr%3D0%26realpos%3D19%26stream_entry_id%3D31%26band_rank%3D19%26pos%3D20%26q%3D%2523%25E6%259D%258E%25E5%25A8%259C%25E6%259D%258E%25E5%25B0%258F%25E9%25B9%258F%25E4%25B8%2596%25E7%25BA%25AA%25E5%2590%258C%25E6%25A1%2586%2523%26display_time%3D1762557378%26pre_seqid%3D17625573787960244529352&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时16分 ~ 07时17分]"
-        },
-        {
-          "title": "何小鹏回应马斯克点赞小鹏机器人",
-          "url": "https://www.baidu.com/s?wd=%E4%BD%95%E5%B0%8F%E9%B9%8F%E5%9B%9E%E5%BA%94%E9%A9%AC%E6%96%AF%E5%85%8B%E7%82%B9%E8%B5%9E%E5%B0%8F%E9%B9%8F%E6%9C%BA%E5%99%A8%E4%BA%BA",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时01分 ~ 12时21分]"
-        },
-        {
-          "title": "小鹏机器人火了 前景乐观吗",
-          "url": "https://www.toutiao.com/trending/7570178447754923570/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时22分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌0.95%，报8057.27点，本周累计下跌2.62%。 热门中概股里，文远知行初步收跌超7%，小鹏跌约6%，小马智行跌5.3%，蔚来跌约4%，华住则涨2%，唯品会涨2.3%，阿特斯太阳能涨6.2%，大全新能源涨9.7%。 ETF中，CQQQ、KWEB至多跌1.8%。",
-          "url": "https://wallstreetcn.com/livenews/3001397",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时18分"
-        },
-        {
-          "title": "小鹏机器人火了但也不能太乐观",
-          "url": "https://www.toutiao.com/trending/7570178447754923570/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时16分"
-        },
-        {
-          "title": "专家称福建舰最理想母港是台湾",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E7%A6%8F%E5%BB%BA%E8%88%B0%E6%9C%80%E7%90%86%E6%83%B3%E6%AF%8D%E6%B8%AF%E6%98%AF%E5%8F%B0%E6%B9%BE%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D21%26pos%3D22%26lcate%3D5001%26q%3D%2523%25E4%25B8%2593%25E5%25AE%25B6%25E7%25A7%25B0%25E7%25A6%258F%25E5%25BB%25BA%25E8%2588%25B0%25E6%259C%2580%25E7%2590%2586%25E6%2583%25B3%25E6%25AF%258D%25E6%25B8%25AF%25E6%2598%25AF%25E5%258F%25B0%25E6%25B9%25BE%2523%26flag%3D1%26dgr%3D0%26filter_type%3Drealtimehot%26c_type%3D31%26realpos%3D21%26stream_entry_id%3D31%26cate%3D5001%26display_time%3D1762570901%26pre_seqid%3D17625709019330161003428&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时01分"
-        },
-        {
-          "title": "中概指数本周跌超2.6%，文远知行与小鹏收跌超6%，小马智行跌超5%，蔚来跌超4%",
-          "url": "https://wallstreetcn.com/livenews/3001397",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时17分"
-        },
-        {
-          "title": "特斯拉Model Y长续航后驱版上市",
-          "url": "https://www.toutiao.com/trending/7569479537906716202/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "汽车",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "日产汽车将出售总部大楼，转为租用，今年 4 至 9 月亏损 2219 亿日元，此前曾官宣全球裁员 2 万人，如何解读？",
-          "url": "https://www.zhihu.com/question/1969886824144023974",
-          "source": "知乎",
-          "ranks": [
-            15,
-            5,
-            4,
-            3,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时20分 ~ 09时19分]"
-        },
-        {
-          "title": "以军召回中国产汽车意欲何为",
-          "url": "https://www.toutiao.com/trending/7569901734055644714/",
-          "source": "今日头条",
-          "ranks": [
-            29,
-            15,
-            10,
-            18,
-            17,
-            26,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 07时17分]"
-        },
-        {
-          "title": "分析｜基数因素影响10月出口同比增速转负，汽车、集成电路等出口保持韧性",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31918130",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时19分 ~ 23时18分]"
+          "time_info": "00时21分"
         }
       ]
     },
     {
       "keyword_group": "新能源汽车",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "长春车展：新能源汽车加速北上“破冰”高寒市场",
           "url": "https://wallstreetcn.com/livenews/3001566",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3,
-            11,
-            17,
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时33分 ~ 23时18分]"
-        },
-        {
-          "title": "碳达峰碳中和的中国行动白皮书：中国实现了全球速度最快、规模最大的新能源汽车推广应用",
-          "url": "https://flash.jin10.com/detail/20251108100640646800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            19,
-            21,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时01分 ~ 14时27分]"
+          "appearance_count": 1,
+          "time_info": "00时21分"
         }
       ]
     }
