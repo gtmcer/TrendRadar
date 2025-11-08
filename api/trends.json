@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-09T03:15:30.635559+08:00",
-  "total_titles_processed": 363,
+  "generated_at": "2025-11-09T04:20:00.935188+08:00",
+  "total_titles_processed": 377,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "今日头条",
           "ranks": [
             28,
-            27
+            27,
+            26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 03时15分]"
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 04时20分]"
         },
         {
           "title": "太逼真,小鹏机器人被迫脱衣自证",
@@ -27,8 +28,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 03时15分]"
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 04时20分]"
         }
       ]
     },
@@ -43,11 +44,12 @@
           "ranks": [
             12,
             13,
-            9
+            9,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时14分 ~ 03时15分]"
+          "appearance_count": 6,
+          "time_info": "[01时14分 ~ 04时20分]"
         }
       ]
     },
@@ -65,8 +67,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 03时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 04时20分]"
         }
       ]
     }
