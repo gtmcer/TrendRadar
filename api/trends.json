@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-08T13:17:34.805907+08:00",
-  "total_titles_processed": 952,
+  "generated_at": "2025-11-08T14:27:03.808712+08:00",
+  "total_titles_processed": 1019,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时20分 ~ 13时17分]"
+          "appearance_count": 13,
+          "time_info": "[00时20分 ~ 14时27分]"
         },
         {
           "title": "马斯克万亿美元天价薪酬激励方案通过，超七成股东支持，特斯拉市值要在十年内达到 8.5 万亿美元，如何解读？",
@@ -55,8 +55,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时20分 ~ 13时17分]"
+          "appearance_count": 19,
+          "time_info": "[00时20分 ~ 14时27分]"
         },
         {
           "title": "专家：福建舰最理想母港是台湾",
@@ -65,11 +65,26 @@
           "ranks": [
             17,
             13,
-            1
+            1,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时18分 ~ 14时27分]"
+        },
+        {
+          "title": "马斯克点赞小鹏机器人",
+          "url": "https://www.toutiao.com/trending/7569429277528145970/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            6,
+            9,
+            17
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[09时18分 ~ 13时17分]"
+          "time_info": "[11时01分 ~ 14时27分]"
         },
         {
           "title": "马斯克点赞小鹏机器人",
@@ -85,17 +100,17 @@
           "time_info": "[09时18分 ~ 12时21分]"
         },
         {
-          "title": "马斯克点赞小鹏机器人",
-          "url": "https://www.toutiao.com/trending/7569429277528145970/",
-          "source": "今日头条",
+          "title": "特斯拉市值一夜蒸发超3800亿元",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E5%B8%82%E5%80%BC%E4%B8%80%E5%A4%9C%E8%92%B8%E5%8F%91%E8%B6%853800%E4%BA%BF%E5%85%83",
+          "source": "百度热搜",
           "ranks": [
-            5,
-            6,
-            9
+            24,
+            28,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时01分 ~ 13时17分]"
+          "appearance_count": 5,
+          "time_info": "[11时01分 ~ 14时27分]"
         },
         {
           "title": "特斯拉国产Model Y长续航后驱开售，28.85万元起",
@@ -133,18 +148,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时20分 ~ 05时16分]"
-        },
-        {
-          "title": "特斯拉市值一夜蒸发超3800亿元",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E5%B8%82%E5%80%BC%E4%B8%80%E5%A4%9C%E8%92%B8%E5%8F%91%E8%B6%853800%E4%BA%BF%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时01分 ~ 13时17分]"
         },
         {
           "title": "Rivian效仿特斯拉 推出CEO 46亿美元薪酬方案",
@@ -288,11 +291,12 @@
           "ranks": [
             7,
             19,
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时01分 ~ 13时17分]"
+          "appearance_count": 4,
+          "time_info": "[11时01分 ~ 14时27分]"
         }
       ]
     }
