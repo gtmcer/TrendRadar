@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-08T22:16:24.624345+08:00",
-  "total_titles_processed": 1520,
+  "generated_at": "2025-11-08T23:18:24.731941+08:00",
+  "total_titles_processed": 1570,
   "failed_sources": [],
   "trends": [
     {
@@ -35,8 +35,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时01分 ~ 22时16分]"
+          "appearance_count": 14,
+          "time_info": "[11时01分 ~ 23时18分]"
         },
         {
           "title": "马斯克何小鹏隔空互动：特斯拉和中国公司将主导市场",
@@ -78,11 +78,12 @@
             25,
             26,
             27,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时20分 ~ 22时16分]"
+          "appearance_count": 28,
+          "time_info": "[00时20分 ~ 23时18分]"
         },
         {
           "title": "专家：福建舰最理想母港是台湾",
@@ -322,8 +323,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时19分 ~ 22时16分]"
+          "appearance_count": 4,
+          "time_info": "[18时19分 ~ 23时18分]"
         }
       ]
     },
@@ -338,11 +339,12 @@
           "ranks": [
             3,
             11,
-            17
+            17,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时33分 ~ 22时16分]"
+          "appearance_count": 4,
+          "time_info": "[20时33分 ~ 23时18分]"
         },
         {
           "title": "碳达峰碳中和的中国行动白皮书：中国实现了全球速度最快、规模最大的新能源汽车推广应用",
