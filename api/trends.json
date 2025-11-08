@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-08T16:22:46.925312+08:00",
-  "total_titles_processed": 1143,
+  "generated_at": "2025-11-08T17:17:43.465082+08:00",
+  "total_titles_processed": 1213,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "ranks": [
             10,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时20分 ~ 16时22分]"
+          "appearance_count": 16,
+          "time_info": "[00时20分 ~ 17时17分]"
         },
         {
           "title": "马斯克万亿美元天价薪酬激励方案通过，超七成股东支持，特斯拉市值要在十年内达到 8.5 万亿美元，如何解读？",
@@ -53,11 +54,12 @@
             16,
             19,
             20,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时20分 ~ 16时22分]"
+          "appearance_count": 22,
+          "time_info": "[00时20分 ~ 17时17分]"
         },
         {
           "title": "专家：福建舰最理想母港是台湾",
@@ -83,11 +85,12 @@
             6,
             9,
             17,
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时01分 ~ 16时22分]"
+          "appearance_count": 8,
+          "time_info": "[11时01分 ~ 17时17分]"
         },
         {
           "title": "马斯克点赞小鹏机器人",
@@ -206,7 +209,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
         },
