@@ -1,12 +1,26 @@
 {
-  "generated_at": "2025-11-09T16:21:11.178567+08:00",
-  "total_titles_processed": 879,
+  "generated_at": "2025-11-09T17:17:30.203909+08:00",
+  "total_titles_processed": 941,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
       "match_count": 4,
       "titles": [
+        {
+          "title": "深度解读特斯拉股东大会",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E8%AF%BB%E7%89%B9%E6%96%AF%E6%8B%89%E8%82%A1%E4%B8%9C%E5%A4%A7%E4%BC%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            4,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时21分 ~ 17时17分]"
+        },
         {
           "title": "马斯克点赞小鹏机器人",
           "url": "https://www.toutiao.com/trending/7569429277528145970/",
@@ -32,20 +46,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时21分 ~ 09时25分]"
-        },
-        {
-          "title": "深度解读特斯拉股东大会",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E8%AF%BB%E7%89%B9%E6%96%AF%E6%8B%89%E8%82%A1%E4%B8%9C%E5%A4%A7%E4%BC%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            4,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时21分 ~ 16时21分]"
         },
         {
           "title": "特斯拉股东大会未能批准投资xAI，市场期盼的整合还有吗？",
