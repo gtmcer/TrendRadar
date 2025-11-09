@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-10T03:14:18.543321+08:00",
-  "total_titles_processed": 364,
+  "generated_at": "2025-11-10T04:18:51.817988+08:00",
+  "total_titles_processed": 395,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://wallstreetcn.com/livenews/3001708",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 03时14分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 04时18分]"
         },
         {
           "title": "通用汽车中国公司总裁：与上汽的合资企业是在华竞争力的核心",
           "url": "https://wallstreetcn.com/livenews/3001707",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 03时14分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 04时18分]"
         }
       ]
     },
@@ -44,8 +46,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时15分 ~ 03时14分]"
+          "appearance_count": 4,
+          "time_info": "[01时15分 ~ 04时18分]"
         }
       ]
     }
