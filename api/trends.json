@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-09T17:17:30.203909+08:00",
-  "total_titles_processed": 941,
+  "generated_at": "2025-11-09T18:17:41.068563+08:00",
+  "total_titles_processed": 996,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             7,
             4,
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时21分 ~ 17时17分]"
+          "appearance_count": 8,
+          "time_info": "[12时21分 ~ 18时17分]"
         },
         {
           "title": "马斯克点赞小鹏机器人",
