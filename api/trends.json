@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-09T09:25:38.714063+08:00",
-  "total_titles_processed": 497,
+  "generated_at": "2025-11-09T11:13:10.712297+08:00",
+  "total_titles_processed": 588,
   "failed_sources": [],
   "trends": [
     {
@@ -40,7 +40,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
         }
@@ -64,8 +64,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时14分 ~ 09时25分]"
+          "appearance_count": 13,
+          "time_info": "[01时14分 ~ 11时13分]"
         }
       ]
     },
@@ -85,6 +85,23 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时21分 ~ 04时20分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "汽车",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "路遇汽车自燃 外卖小哥挺身救火",
+          "url": "https://www.toutiao.com/trending/7569617119470960681/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时12分 ~ 11时13分]"
         }
       ]
     }
