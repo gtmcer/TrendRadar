@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-09T13:17:51.349054+08:00",
-  "total_titles_processed": 704,
+  "generated_at": "2025-11-09T14:25:47.039680+08:00",
+  "total_titles_processed": 756,
   "failed_sources": [],
   "trends": [
     {
@@ -39,11 +39,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             7,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时21分 ~ 13时17分]"
+          "appearance_count": 3,
+          "time_info": "[12时21分 ~ 14时25分]"
         },
         {
           "title": "特斯拉股东大会未能批准投资xAI，市场期盼的整合还有吗？",
