@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-10T14:32:13.218728+08:00",
-  "total_titles_processed": 1044,
+  "generated_at": "2025-11-10T15:19:25.590869+08:00",
+  "total_titles_processed": 1109,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "通用汽车在进博会亮相两款车型",
@@ -43,8 +43,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时31分 ~ 14时32分]"
+          "appearance_count": 3,
+          "time_info": "[14时31分 ~ 15时19分]"
         },
         {
           "title": "岚图汽车第30万辆整车下线，为岚图泰山",
@@ -52,11 +52,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            15
+            15,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时21分 ~ 14时32分]"
+          "appearance_count": 3,
+          "time_info": "[13时21分 ~ 15时19分]"
         },
         {
           "title": "日产汽车 45 亿元人民币出售总部大楼，买方为汽车零部件制造商敏实集团支持的财团，哪些信息值得关注？",
@@ -66,8 +67,19 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时31分 ~ 14时32分]"
+          "appearance_count": 3,
+          "time_info": "[14时31分 ~ 15时19分]"
+        },
+        {
+          "title": "4.99万起售,京东汽车卷死同行",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346932&amp;topic_name=4.99%E4%B8%87%E8%B5%B7%E5%94%AE%2C%E4%BA%AC%E4%B8%9C%E6%B1%BD%E8%BD%A6%E5%8D%B7%E6%AD%BB%E5%90%8C%E8%A1%8C",
+          "source": "贴吧",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
         },
         {
           "title": "岚图汽车第30万辆整车下线",
@@ -90,6 +102,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时18分"
+        },
+        {
+          "title": "岚图汽车第30万辆整车下线",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%B2%9A%E5%9B%BE%E6%B1%BD%E8%BD%A6%E7%AC%AC30%E4%B8%87%E8%BE%86%E6%95%B4%E8%BD%A6%E4%B8%8B%E7%BA%BF%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26pos%3D22%26realpos%3D21%26q%3D%2523%25E5%25B2%259A%25E5%259B%25BE%25E6%25B1%25BD%25E8%25BD%25A6%25E7%25AC%25AC30%25E4%25B8%2587%25E8%25BE%2586%25E6%2595%25B4%25E8%25BD%25A6%25E4%25B8%258B%25E7%25BA%25BF%2523%26dgr%3D0%26cate%3D5001%26filter_type%3Drealtimehot%26stream_entry_id%3D31%26c_type%3D31%26flag%3D1%26band_rank%3D21%26display_time%3D1762759030%26pre_seqid%3D17627590303610290447883&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
         },
         {
           "title": "本田汽车股价下跌4%，此前公司下调了本财年盈利预期。",
@@ -153,8 +176,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时31分 ~ 14时32分]"
+          "appearance_count": 3,
+          "time_info": "[14时31分 ~ 15时19分]"
         },
         {
           "title": "据Electrek：特斯拉Cybertruck项目负责人西丹特·阿瓦斯蒂即将离职。",
