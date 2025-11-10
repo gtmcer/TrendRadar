@@ -1,12 +1,27 @@
 {
-  "generated_at": "2025-11-10T21:31:01.069751+08:00",
-  "total_titles_processed": 1675,
+  "generated_at": "2025-11-10T22:19:47.821692+08:00",
+  "total_titles_processed": 1785,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
+        {
+          "title": "4.99万起售,京东汽车卷死同行",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346932&amp;topic_name=4.99%E4%B8%87%E8%B5%B7%E5%94%AE%2C%E4%BA%AC%E4%B8%9C%E6%B1%BD%E8%BD%A6%E5%8D%B7%E6%AD%BB%E5%90%8C%E8%A1%8C",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            8,
+            9,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时19分 ~ 22时19分]"
+        },
         {
           "title": "安世恢复部分芯片供应，日德汽车制造商迎首批供货",
           "url": "https://news.ifeng.com/c/8oAQxZU4bUY",
@@ -18,20 +33,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[14时31分 ~ 18时22分]"
-        },
-        {
-          "title": "4.99万起售,京东汽车卷死同行",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346932&amp;topic_name=4.99%E4%B8%87%E8%B5%B7%E5%94%AE%2C%E4%BA%AC%E4%B8%9C%E6%B1%BD%E8%BD%A6%E5%8D%B7%E6%AD%BB%E5%90%8C%E8%A1%8C",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时19分 ~ 21时31分]"
         },
         {
           "title": "通用汽车在进博会亮相两款车型",
@@ -75,6 +76,17 @@
           "time_info": "[14时31分 ~ 17时23分]"
         },
         {
+          "title": "最新消息称，印度德里红堡附近发生的爆炸事件造成至少一人死亡，多人受伤，火势蔓延至多辆汽车。",
+          "url": "https://flash.jin10.com/detail/20251110221339361800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        },
+        {
           "title": "中国乘联分会：比亚迪10月汽车出口量为80,108辆。",
           "url": "https://flash.jin10.com/detail/20251110161742303800",
           "source": "金十数据",
@@ -84,6 +96,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
+        },
+        {
+          "title": "印度德里红堡附近发生汽车爆炸，调查正在进行中。警犬小组、法医小组和德里警方均以赶赴在现场。",
+          "url": "https://flash.jin10.com/detail/20251110221209015800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
         },
         {
           "title": "中国汽车在俄罗斯市场“遇冷”",
@@ -142,7 +165,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时31分"
         },
@@ -206,8 +229,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时31分 ~ 21时31分]"
+          "appearance_count": 12,
+          "time_info": "[14时31分 ~ 22时19分]"
         },
         {
           "title": "深度解读特斯拉股东大会",
@@ -289,7 +312,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时31分"
         }
