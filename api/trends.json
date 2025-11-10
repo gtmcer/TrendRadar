@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-10T07:16:25.746909+08:00",
-  "total_titles_processed": 483,
+  "generated_at": "2025-11-10T09:26:43.516740+08:00",
+  "total_titles_processed": 645,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "通用汽车在进博会亮相两款车型",
@@ -34,6 +34,28 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时20分 ~ 06时17分]"
+        },
+        {
+          "title": "本田汽车股价下跌4%，此前公司下调了本财年盈利预期。",
+          "url": "https://flash.jin10.com/detail/20251110080700294800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
+          "title": "三方负责人详解“京东汽车”五大疑问",
+          "url": "https://www.toutiao.com/trending/7570875029550796351/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
         }
       ]
     },
