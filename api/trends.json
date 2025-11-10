@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-10T09:26:43.516740+08:00",
-  "total_titles_processed": 645,
+  "generated_at": "2025-11-10T11:18:59.282274+08:00",
+  "total_titles_processed": 772,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "通用汽车在进博会亮相两款车型",
@@ -36,13 +36,24 @@
           "time_info": "[00时20分 ~ 06时17分]"
         },
         {
+          "title": "2025中国汽车软件大会将于12月15日-16日在上海嘉定召开",
+          "url": "https://wallstreetcn.com/livenews/3001865",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时18分"
+        },
+        {
           "title": "本田汽车股价下跌4%，此前公司下调了本财年盈利预期。",
           "url": "https://flash.jin10.com/detail/20251110080700294800",
           "source": "金十数据",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         },
@@ -53,7 +64,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         }
@@ -61,7 +72,7 @@
     },
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "深度解读特斯拉股东大会",
@@ -77,6 +88,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时15分 ~ 07时16分]"
+        },
+        {
+          "title": "李斌在蔚来电池科技公司职位发生变更，由董事长变更为董事",
+          "url": "https://wallstreetcn.com/livenews/3001881",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时18分"
         }
       ]
     }
