@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-10T22:19:47.821692+08:00",
-  "total_titles_processed": 1785,
+  "generated_at": "2025-11-10T23:23:25.898440+08:00",
+  "total_titles_processed": 1872,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "4.99万起售,京东汽车卷死同行",
@@ -19,8 +19,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时19分 ~ 22时19分]"
+          "appearance_count": 11,
+          "time_info": "[15时19分 ~ 23时23分]"
         },
         {
           "title": "安世恢复部分芯片供应，日德汽车制造商迎首批供货",
@@ -82,7 +82,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
         },
@@ -104,7 +104,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
         },
@@ -157,6 +157,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时26分"
+        },
+        {
+          "title": "印度德里地区汽车爆炸事件已致超10人死伤",
+          "url": "https://flash.jin10.com/detail/20251110225825531800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
         },
         {
           "title": "大众汽车全面启动成本削减计划 核心品牌利润率获得有效支撑",
@@ -217,7 +228,7 @@
     },
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "胸部设计擦边,小鹏机器人被批媚男",
@@ -229,8 +240,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时31分 ~ 22时19分]"
+          "appearance_count": 13,
+          "time_info": "[14时31分 ~ 23时23分]"
         },
         {
           "title": "深度解读特斯拉股东大会",
@@ -304,6 +315,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时22分 ~ 19时16分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数涨2%。 热门中概股里，阿特斯太阳能涨10.8%，小鹏涨7.3%，亚朵、华住、世纪互联、小马智行、携程涨超4%。 ETF中，KWEB涨1.5%，CQQQ涨0.8%。",
+          "url": "https://wallstreetcn.com/livenews/3002209",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
         },
         {
           "title": "特斯拉Cybertruck项目负责人Awasthi在任三年后离职",
