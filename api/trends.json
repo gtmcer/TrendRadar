@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-12T01:17:22.097609+08:00",
-  "total_titles_processed": 370,
+  "generated_at": "2025-11-12T02:26:38.828281+08:00",
+  "total_titles_processed": 430,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 01时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 02时26分]"
         },
         {
           "title": "印度新德里汽车爆炸事件致多人死亡 ，莫迪发出严厉警告",
@@ -26,8 +26,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 01时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 02时26分]"
         },
         {
           "title": "印度首都汽车爆炸已致12死",
@@ -35,11 +35,12 @@
           "source": "百度热搜",
           "ranks": [
             20,
-            16
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 01时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 02时26分]"
         },
         {
           "title": "4.99万起售,京东汽车卷死同行",
@@ -49,8 +50,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 01时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 02时26分]"
         },
         {
           "title": "本田汽车将在美国北卡罗来纳州制造工厂投资96.58亿美元。",
@@ -77,8 +78,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 01时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 02时26分]"
         },
         {
           "title": "小米汽车交付周期最快提至22周",
@@ -106,8 +107,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 01时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 02时26分]"
         }
       ]
     }
