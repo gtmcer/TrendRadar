@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-12T06:19:11.073911+08:00",
-  "total_titles_processed": 602,
+  "generated_at": "2025-11-12T07:17:38.624083+08:00",
+  "total_titles_processed": 650,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 06时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 07时17分]"
         },
         {
           "title": "印度新德里汽车爆炸事件致多人死亡 ，莫迪发出严厉警告",
@@ -26,8 +26,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 06时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 07时17分]"
         },
         {
           "title": "印度首都汽车爆炸已致12死",
@@ -39,11 +39,12 @@
             13,
             14,
             19,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 06时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 07时17分]"
         },
         {
           "title": "4.99万起售,京东汽车卷死同行",
@@ -53,8 +54,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 06时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 07时17分]"
         },
         {
           "title": "通用汽车中国宣布管理层人事变动：任命Steve Hill（何思文）为负责全球出口与零售创新高级副总裁（SVP）。 任命John Roth为通用汽车中国总裁，接替Steve Hill。（彭博）",
@@ -94,8 +95,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 06时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 07时17分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步大致收平。 热门中概股里，阿特斯太阳能跌7.8%，晶科能源跌5.3%，腾讯音乐跌3.7%，阿里跌3.2%，B站跌1.9%，网易涨1.5%，贝壳涨1.8%，百胜中国涨3%，小鹏涨7.6%。 ETF中，KWEB跌0.5%，CQQQ跌0.9%。",
@@ -126,7 +127,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
         }
@@ -142,11 +143,12 @@
           "source": "澎湃新闻",
           "ranks": [
             11,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 06时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 07时17分]"
         }
       ]
     }
