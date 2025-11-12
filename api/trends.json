@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-12T15:19:11.931238+08:00",
-  "total_titles_processed": 1299,
+  "generated_at": "2025-11-12T16:26:37.741677+08:00",
+  "total_titles_processed": 1393,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "摩托、汽车、步行，俄军借大雾掩护进入红军城(图)",
@@ -85,17 +85,6 @@
           "time_info": "[13时19分 ~ 15时19分]"
         },
         {
-          "title": "中国汽车工程学会理事长张进华：预计到2030年前后全固态电池将小批量装车应用",
-          "url": "https://wallstreetcn.com/livenews/3003263",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时19分"
-        },
-        {
           "title": "外交部回应印度汽车爆炸事件",
           "url": "https://www.douyin.com/hot/2302626",
           "source": "抖音",
@@ -106,6 +95,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时22分 ~ 11时12分]"
+        },
+        {
+          "title": "规模化制造 首个飞行汽车工厂落地广州",
+          "url": "https://wallstreetcn.com/livenews/3003286",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
+        },
+        {
+          "title": "中国汽车工程学会理事长张进华：预计到2030年前后全固态电池将小批量装车应用",
+          "url": "https://wallstreetcn.com/livenews/3003263",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时19分 ~ 16时26分]"
         },
         {
           "title": "通用汽车中国宣布管理层人事变动：任命Steve Hill（何思文）为负责全球出口与零售创新高级副总裁（SVP）。 任命John Roth为通用汽车中国总裁，接替Steve Hill。（彭博）",
@@ -234,7 +246,7 @@
     },
     {
       "keyword_group": "新能源汽车",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "保持较高增长！10月我国新能源汽车销量首次超总销量50%",
@@ -251,6 +263,17 @@
           "is_new": false,
           "appearance_count": 18,
           "time_info": "[00时23分 ~ 14时29分]"
+        },
+        {
+          "title": "我国新能源汽车月度新车销量占比首超 50%，反超燃油车，这是偶然还是大势所趋？双方差距会越来越大吗？",
+          "url": "https://www.zhihu.com/question/1971857868463502728",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
         }
       ]
     }
