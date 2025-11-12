@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-13T00:26:44.031595+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-11-13T01:19:21.543469+08:00",
+  "total_titles_processed": 388,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 01时19分]"
         },
         {
           "title": "10月新能源车企销量TOP10：小米连月破4万，特斯拉创3年新低无缘前十",
@@ -40,11 +40,12 @@
           "url": "https://www.zhihu.com/question/1971857868463502728",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 01时19分]"
         }
       ]
     },
@@ -57,11 +58,12 @@
           "url": "https://www.toutiao.com/trending/7571318160410968118/",
           "source": "今日头条",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 01时19分]"
         }
       ]
     }
