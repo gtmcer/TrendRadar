@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-13T06:18:41.348257+08:00",
-  "total_titles_processed": 656,
+  "generated_at": "2025-11-13T07:18:56.009920+08:00",
+  "total_titles_processed": 713,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 06时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 07时18分]"
         },
         {
           "title": "汽车攀爬天门山天梯撞断护栏",
@@ -26,11 +26,12 @@
           "ranks": [
             18,
             13,
-            17
+            17,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时15分 ~ 06时18分]"
+          "appearance_count": 6,
+          "time_info": "[03时15分 ~ 07时18分]"
         },
         {
           "title": "印度政府谴责新德里汽车爆炸是“恐怖事件”",
@@ -63,7 +64,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
         },
@@ -93,19 +94,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 06时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 07时18分]"
         },
         {
           "title": "法拉第未来(FFIE.O)：未来的FF和FX系列纯电动车型将可使用超过28,000个特斯拉超级充电站。",
           "url": "https://flash.jin10.com/detail/20251113060331720800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时18分]"
         },
         {
           "title": "10月新能源车企销量TOP10：小米连月破4万，特斯拉创3年新低无缘前十",
@@ -125,7 +127,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
         }
@@ -144,11 +146,12 @@
             10,
             8,
             16,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 04时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 07时18分]"
         }
       ]
     }
