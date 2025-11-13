@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-13T15:19:35.389887+08:00",
-  "total_titles_processed": 1360,
+  "generated_at": "2025-11-13T16:25:45.800087+08:00",
+  "total_titles_processed": 1458,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时23分 ~ 15时19分]"
+          "appearance_count": 9,
+          "time_info": "[09时23分 ~ 16时25分]"
         },
         {
           "title": "汽车安全新国标征求意见提及「乘用车每次启动后，应处于百公里加速时间不少于 5 秒默认状态」，如何解读？",
@@ -94,7 +94,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -218,7 +218,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -261,8 +261,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时26分 ~ 15时19分]"
+          "appearance_count": 19,
+          "time_info": "[00时26分 ~ 16时25分]"
         },
         {
           "title": "法拉第未来(FFIE.O)：未来的FF和FX系列纯电动车型将可使用超过28,000个特斯拉超级充电站。",
