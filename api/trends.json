@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-14T03:15:41.948831+08:00",
-  "total_titles_processed": 513,
+  "generated_at": "2025-11-14T04:21:46.200379+08:00",
+  "total_titles_processed": 548,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             10,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时22分 ~ 03时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 04时21分]"
         },
         {
           "title": "懂车帝对话起诉小米汽车车主",
@@ -25,11 +26,12 @@
           "source": "抖音",
           "ranks": [
             16,
-            17
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时22分 ~ 03时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 04时21分]"
         },
         {
           "title": "何小鹏：曾建议阿里造车 他们没听",
@@ -38,11 +40,12 @@
           "ranks": [
             20,
             17,
-            18
+            18,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时22分 ~ 03时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 04时21分]"
         },
         {
           "title": "因起火风险，特斯拉在美召回1.05万个Powerwall 2电池",
@@ -127,8 +130,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时22分 ~ 03时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 04时21分]"
         },
         {
           "title": "马上评｜奇瑞测试“翻车”，汽车营销多一些诚实吧",
@@ -138,8 +141,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时22分 ~ 03时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 04时21分]"
         },
         {
           "title": "印度确认首都汽车爆炸案嫌疑人身份，是一名大学医生，或系恐怖团体成员",
