@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-14T19:16:28.414633+08:00",
-  "total_titles_processed": 1670,
+  "generated_at": "2025-11-14T20:38:25.574243+08:00",
+  "total_titles_processed": 1818,
   "failed_sources": [],
   "trends": [
     {
@@ -237,7 +237,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "马上评｜奇瑞测试“翻车”，汽车营销多一些诚实吧",
@@ -275,8 +275,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时25分 ~ 19时16分]"
+          "appearance_count": 6,
+          "time_info": "[16时25分 ~ 20时38分]"
         },
         {
           "title": "据报道，以色列国防军否认今天早些时候在黎巴嫩南部对一辆汽车发动空袭，并称爆炸实际上是真主党试图走私武器所致。",
@@ -313,6 +313,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时21分 ~ 19时16分]"
+        },
+        {
+          "title": "捷豹路虎高管：运营持续复苏，豪华品牌汽车的生产已恢复。",
+          "url": "https://flash.jin10.com/detail/20251114200857627800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
+        },
+        {
+          "title": "受汽车和家电拖累，中国10月社零同比增速放缓至2.9%，金银珠宝零售同比增长37.6%",
+          "url": "https://wallstreetcn.com/articles/3759365",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
         },
         {
           "title": "金十图示：2025年11月14日（周五）富时中国A50指数成分股午盘收盘行情一览：酿酒、半导体、汽车、煤炭等多个板块表现低迷，银行股逆势普涨",
