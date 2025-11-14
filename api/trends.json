@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-14T18:21:39.728245+08:00",
-  "total_titles_processed": 1634,
+  "generated_at": "2025-11-14T19:16:28.414633+08:00",
+  "total_titles_processed": 1670,
   "failed_sources": [],
   "trends": [
     {
@@ -266,6 +266,19 @@
           "time_info": "[00时22分 ~ 09时22分]"
         },
         {
+          "title": "实探哪吒汽车桐乡工厂：无复工迹象、管理人驻厂办公 第二次债权人会议即将召开",
+          "url": "https://www.cls.cn/detail/2200848",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时25分 ~ 19时16分]"
+        },
+        {
           "title": "据报道，以色列国防军否认今天早些时候在黎巴嫩南部对一辆汽车发动空袭，并称爆炸实际上是真主党试图走私武器所致。",
           "url": "https://flash.jin10.com/detail/20251114060742635800",
           "source": "金十数据",
@@ -276,19 +289,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时18分 ~ 07时18分]"
-        },
-        {
-          "title": "实探哪吒汽车桐乡工厂：无复工迹象、管理人驻厂办公 第二次债权人会议即将召开",
-          "url": "https://www.cls.cn/detail/2200848",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时25分 ~ 18时21分]"
         },
         {
           "title": "印度确认首都汽车爆炸案嫌疑人身份，是一名大学医生，或系恐怖团体成员",
@@ -307,11 +307,12 @@
           "url": "https://wallstreetcn.com/livenews/3004803",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时21分 ~ 19时16分]"
         },
         {
           "title": "金十图示：2025年11月14日（周五）富时中国A50指数成分股午盘收盘行情一览：酿酒、半导体、汽车、煤炭等多个板块表现低迷，银行股逆势普涨",
