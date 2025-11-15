@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-15T07:17:27.753213+08:00",
-  "total_titles_processed": 617,
+  "generated_at": "2025-11-15T09:20:04.858090+08:00",
+  "total_titles_processed": 747,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "理想汽车发布两起质量事故处理公告，共 18 名员工被问责，能挽回消费者信任吗？哪些后续保障更值得关注？",
@@ -18,8 +18,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时23分 ~ 07时17分]"
+          "appearance_count": 14,
+          "time_info": "[00时23分 ~ 09时20分]"
         },
         {
           "title": "理想汽车内部问责处理18人",
@@ -41,9 +41,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
+        },
+        {
+          "title": "巴伦资本CEO：科技股回调是良机 个人特斯拉持仓“永不卖出”",
+          "url": "https://www.cls.cn/detail/2201361",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时19分 ~ 09时20分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌1.6%，本周累跌约2.5%。 热门中概股里，阿特斯太阳能初步收涨18%，悦刻电子烟涨10%，大全新能源涨6%，百度则跌3.8%，京东跌4.6%，小鹏跌5.2%。",
@@ -64,7 +75,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
         },
@@ -90,11 +101,12 @@
           "url": "https://wallstreetcn.com/articles/3759365",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 02时26分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 09时20分]"
         },
         {
           "title": "四部门重拳出击！“零公里二手车”出口被叫停、曾遭长城汽车董事长“痛批”",
@@ -105,19 +117,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时18分 ~ 07时17分]"
+          "appearance_count": 4,
+          "time_info": "[06时18分 ~ 09时20分]"
         },
         {
           "title": "极星汽车在中国前10月仅卖163辆",
           "url": "https://www.toutiao.com/trending/7572063487602589732/",
           "source": "今日头条",
           "ranks": [
-            24
+            24,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时17分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时17分 ~ 09时20分]"
         }
       ]
     }
