@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-15T14:25:41.481718+08:00",
-  "total_titles_processed": 1049,
+  "generated_at": "2025-11-15T15:16:26.735757+08:00",
+  "total_titles_processed": 1102,
   "failed_sources": [],
   "trends": [
     {
@@ -52,11 +52,12 @@
           "source": "知乎",
           "ranks": [
             7,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时18分 ~ 14时25分]"
+          "appearance_count": 3,
+          "time_info": "[13时18分 ~ 15时16分]"
         },
         {
           "title": "巴伦资本CEO：科技股回调是良机 个人特斯拉持仓“永不卖出”",
@@ -129,8 +130,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时18分 ~ 14时25分]"
+          "appearance_count": 10,
+          "time_info": "[06时18分 ~ 15时16分]"
         },
         {
           "title": "中国工商银行与中国长安汽车进一步深化全面战略合作",
@@ -140,11 +141,12 @@
             3,
             10,
             14,
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时06分 ~ 14时25分]"
+          "appearance_count": 5,
+          "time_info": "[11时06分 ~ 15时16分]"
         },
         {
           "title": "江苏汽车焕新促消费补贴标准大幅上调",
@@ -152,11 +154,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时18分 ~ 14时25分]"
+          "appearance_count": 3,
+          "time_info": "[13时18分 ~ 15时16分]"
         },
         {
           "title": "受汽车和家电拖累，中国10月社零同比增速放缓至2.9%，金银珠宝零售同比增长37.6%",
