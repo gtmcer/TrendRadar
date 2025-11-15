@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-16T01:14:24.558576+08:00",
-  "total_titles_processed": 343,
+  "generated_at": "2025-11-16T02:23:34.145411+08:00",
+  "total_titles_processed": 358,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 01时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 02时23分]"
         },
         {
           "title": "乘联分会崔东树：10月全国汽车市场总体走势较强 商用车市场现结构性增长",
@@ -26,8 +26,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 01时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 02时23分]"
         },
         {
           "title": "东风与华为合作的汽车品牌将于11月20日发布",
@@ -37,8 +37,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 01时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 02时23分]"
         }
       ]
     }
