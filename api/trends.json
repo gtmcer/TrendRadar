@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-16T22:15:46.957828+08:00",
-  "total_titles_processed": 1299,
+  "generated_at": "2025-11-16T23:16:51.588851+08:00",
+  "total_titles_processed": 1350,
   "failed_sources": [],
   "trends": [
     {
@@ -61,11 +61,12 @@
           "ranks": [
             4,
             8,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时34分 ~ 22时15分]"
+          "appearance_count": 4,
+          "time_info": "[20时34分 ~ 23时16分]"
         },
         {
           "title": "韩国总统办公室：现代汽车集团董事长表示，到2030年将电动汽车和混合动力汽车出口量提高一倍以上。",
@@ -110,8 +111,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时18分 ~ 22时15分]"
+          "appearance_count": 8,
+          "time_info": "[18时18分 ~ 23时16分]"
         },
         {
           "title": "雷军重申小米汽车安全是前提",
