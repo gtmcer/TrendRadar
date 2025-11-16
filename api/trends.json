@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-16T16:22:21.517684+08:00",
-  "total_titles_processed": 919,
+  "generated_at": "2025-11-16T17:17:59.578875+08:00",
+  "total_titles_processed": 985,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "填补行业空白《汽车数据出境安全评估方法》团体标准发布",
@@ -39,6 +39,39 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时20分 ~ 07时16分]"
+        },
+        {
+          "title": "现代汽车集团今后五年本土计划投资逾6100亿元创新高",
+          "url": "https://flash.jin10.com/detail/20251116164205994800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
+        },
+        {
+          "title": "韩国总统办公室：现代汽车集团董事长表示，到2030年将电动汽车和混合动力汽车出口量提高一倍以上。",
+          "url": "https://flash.jin10.com/detail/20251116162126794800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
+        },
+        {
+          "title": "韩国总统办公室：现代汽车集团董事长表示，计划从2026年至2030年在韩国投资125万亿韩元。",
+          "url": "https://flash.jin10.com/detail/20251116162107946800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
         }
       ]
     },
@@ -53,7 +86,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
         }
