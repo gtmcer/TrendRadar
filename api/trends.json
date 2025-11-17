@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-17T22:19:18.276101+08:00",
-  "total_titles_processed": 1815,
+  "generated_at": "2025-11-17T23:21:46.221781+08:00",
+  "total_titles_processed": 1904,
   "failed_sources": [],
   "trends": [
     {
@@ -20,11 +20,12 @@
             4,
             15,
             23,
-            22
+            22,
+            10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时23分 ~ 22时19分]"
+          "appearance_count": 17,
+          "time_info": "[09时23分 ~ 23时21分]"
         },
         {
           "title": "世界首富马斯克警告前首富盖茨：最好尽快平仓特斯拉的空头头寸",
@@ -78,11 +79,12 @@
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E2%80%9C%E5%8E%BB%E4%B8%AD%E5%9B%BD%E5%8C%96%E2%80%9D%E7%9A%84%E8%83%8C%E5%90%8E%E9%9A%90%E8%97%8F%E4%BB%80%E4%B9%88",
           "source": "百度热搜",
           "ranks": [
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时38分 ~ 22时19分]"
+          "appearance_count": 4,
+          "time_info": "[20时38分 ~ 23时21分]"
         },
         {
           "title": "小鹏汽车盘前跌超3%，此前公布三季度业绩。",
@@ -211,11 +213,12 @@
             18,
             15,
             6,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时23分 ~ 22时19分]"
+          "appearance_count": 9,
+          "time_info": "[17时23分 ~ 23时21分]"
         },
         {
           "title": "现代汽车集团：公司计划到2030年实现每年从韩国交付247万辆车。 集团计划同期实现每年交付176万辆EVs、PHEVs、HEVs、以及FCEVs，而当前为69万。 公司将修建一座机器人制造工厂和代工设施。 公司还考虑成立一个高功率人工智能（AI）数据中心。",
