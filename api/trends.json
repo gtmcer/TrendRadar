@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-17T14:29:24.022796+08:00",
-  "total_titles_processed": 1066,
+  "generated_at": "2025-11-17T15:19:05.083557+08:00",
+  "total_titles_processed": 1157,
   "failed_sources": [],
   "trends": [
     {
@@ -98,6 +98,21 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "特斯拉“去中国化”背后隐藏什么",
+          "url": "https://www.toutiao.com/trending/7573105255983038502/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            8,
+            16,
+            17,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时23分 ~ 15时19分]"
+        },
+        {
           "title": "特斯拉要求美产汽车避用中国零部件",
           "url": "https://www.toutiao.com/trending/7573236848407875114/",
           "source": "今日头条",
@@ -108,20 +123,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时20分 ~ 04时20分]"
-        },
-        {
-          "title": "特斯拉“去中国化”背后隐藏什么",
-          "url": "https://www.toutiao.com/trending/7573105255983038502/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            8,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时23分 ~ 14时29分]"
         },
         {
           "title": "恒生科技指数日内跌超1%。携程跌近5%，联想跌近4%，小鹏汽车、百度跌近3%。",
