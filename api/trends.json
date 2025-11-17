@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-18T00:25:27.202587+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-11-18T01:18:54.442542+08:00",
+  "total_titles_processed": 373,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.toutiao.com/trending/7573105255983038502/",
           "source": "今日头条",
           "ranks": [
-            10
+            10,
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 01时18分]"
         },
         {
           "title": "小米汽车湿滑路面超车时突然侧滑",
@@ -40,11 +41,12 @@
           "url": "https://www.zhihu.com/question/630375759",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 01时18分]"
         }
       ]
     }
