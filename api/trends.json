@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-18T18:22:24.021008+08:00",
-  "total_titles_processed": 1629,
+  "generated_at": "2025-11-18T19:18:11.519532+08:00",
+  "total_titles_processed": 1716,
   "failed_sources": [],
   "trends": [
     {
@@ -19,17 +19,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时25分 ~ 07时17分]"
-        },
-        {
-          "title": "卢伟冰：小米汽车预计将于本周提前完成全年交付目标",
-          "url": "https://wallstreetcn.com/livenews/3006444",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时22分"
         },
         {
           "title": "花旗小幅下调小鹏汽车目标价，仍看好公司明年多元化增长的潜力",
@@ -52,6 +41,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
+        },
+        {
+          "title": "卢伟冰：小米汽车预计将于本周提前完成全年交付目标",
+          "url": "https://wallstreetcn.com/livenews/3006444",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时22分 ~ 19时18分]"
         },
         {
           "title": "特斯拉股价上涨，分析师聚焦其自动驾驶产品的进展",
@@ -106,7 +107,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
@@ -158,7 +159,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "汽车开到「报废」和「开 8 年」卖掉，哪个更划算？",
@@ -188,6 +189,17 @@
           "time_info": "14时28分"
         },
         {
+          "title": "小米预计2026年电动汽车业务毛利率将下降。",
+          "url": "https://flash.jin10.com/detail/20251118185702700800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
+        },
+        {
           "title": "国产汽车芯片认证审查技术体系实现突破",
           "url": "https://wallstreetcn.com/livenews/3006284",
           "source": "华尔街见闻-快讯",
@@ -212,15 +224,37 @@
           "time_info": "[06时18分 ~ 07时17分]"
         },
         {
+          "title": "小米卢伟冰：预计2026年电动汽车业务毛利率将下降",
+          "url": "https://wallstreetcn.com/livenews/3006476",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
+        },
+        {
           "title": "小米集团：第三季度汽车交付总量108796辆",
           "url": "https://wallstreetcn.com/livenews/3006423",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
+        },
+        {
+          "title": "中汽协官微发布通知，组委会拟定于2026年6月18日-22日在香港亚洲国际博览馆继续举办“2026国际汽车及供应链博览会（香港）”。",
+          "url": "https://wallstreetcn.com/livenews/3006453",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
         },
         {
           "title": "小米集团：2025年Q3智能电动汽车及AI等创新业务分部首次实现单季度经营盈利",
@@ -229,7 +263,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         }
