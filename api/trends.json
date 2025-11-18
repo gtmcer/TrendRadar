@@ -1,7 +1,10 @@
 {
-  "generated_at": "2025-11-18T19:18:11.519532+08:00",
-  "total_titles_processed": 1716,
-  "failed_sources": [],
+  "generated_at": "2025-11-18T20:40:20.010093+08:00",
+  "total_titles_processed": 1810,
+  "failed_sources": [
+    "ifeng",
+    "weibo"
+  ],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
@@ -195,7 +198,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
@@ -230,7 +233,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
@@ -252,7 +255,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
