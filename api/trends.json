@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-19T07:17:37.183551+08:00",
-  "total_titles_processed": 628,
+  "generated_at": "2025-11-19T09:22:05.089079+08:00",
+  "total_titles_processed": 762,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 07时17分]"
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 09时22分]"
         },
         {
           "title": "底特律三巨头CEO和特斯拉副总裁应邀出席美国参议院听证会",
@@ -67,8 +68,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时18分 ~ 07时17分]"
+          "appearance_count": 5,
+          "time_info": "[06时18分 ~ 09时22分]"
         },
         {
           "title": "小米Q3经调整净利润同比大增80.9%创新高，电动汽车及AI等创新业务首次实现单季经营盈利 | 财报见闻",
@@ -76,11 +77,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时19分 ~ 07时17分]"
+          "appearance_count": 3,
+          "time_info": "[06时19分 ~ 09时22分]"
         },
         {
           "title": "周二（11月18日），彭博电动汽车价格回报指数跌2.97%，报3421.15点。 北京时间07:00微幅高开、涨至3538.13点刷新日高，之后显著下跌，10:00以来跌势放缓，12:00以来持续低位震荡，23:04刷新日低至3402.71点。",
