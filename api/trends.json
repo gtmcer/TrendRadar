@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-19T19:17:00.215120+08:00",
-  "total_titles_processed": 1497,
+  "generated_at": "2025-11-19T20:39:12.105342+08:00",
+  "total_titles_processed": 1599,
   "failed_sources": [],
   "trends": [
     {
@@ -22,6 +22,19 @@
           "time_info": "[00时26分 ~ 18时21分]"
         },
         {
+          "title": "如何看待对话挖孔事件起诉小米汽车车主，小米临时提交 84 页证据称「雷军反复提醒别买」？",
+          "url": "https://www.zhihu.com/question/1972270226642044065",
+          "source": "知乎",
+          "ranks": [
+            11,
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[11时10分 ~ 20时39分]"
+        },
+        {
           "title": "为什么越来越多的人开始接受「工资是受罪的钱」，而不是为理想和成就工作了？",
           "url": "https://www.zhihu.com/question/1968243257768116776",
           "source": "知乎",
@@ -31,23 +44,12 @@
             14,
             10,
             8,
-            7
+            7,
+            15
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时10分 ~ 19时17分]"
-        },
-        {
-          "title": "如何看待对话挖孔事件起诉小米汽车车主，小米临时提交 84 页证据称「雷军反复提醒别买」？",
-          "url": "https://www.zhihu.com/question/1972270226642044065",
-          "source": "知乎",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时10分 ~ 19时17分]"
+          "appearance_count": 15,
+          "time_info": "[11时10分 ~ 20时39分]"
         },
         {
           "title": "底特律三巨头CEO和特斯拉副总裁应邀出席美国参议院听证会",
@@ -138,7 +140,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
         },
