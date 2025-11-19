@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-19T20:39:12.105342+08:00",
-  "total_titles_processed": 1599,
+  "generated_at": "2025-11-19T21:31:40.870344+08:00",
+  "total_titles_processed": 1672,
   "failed_sources": [],
   "trends": [
     {
@@ -28,11 +28,12 @@
           "ranks": [
             11,
             9,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时10分 ~ 20时39分]"
+          "appearance_count": 16,
+          "time_info": "[11时10分 ~ 21时31分]"
         },
         {
           "title": "为什么越来越多的人开始接受「工资是受罪的钱」，而不是为理想和成就工作了？",
@@ -45,11 +46,12 @@
             10,
             8,
             7,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时10分 ~ 20时39分]"
+          "appearance_count": 16,
+          "time_info": "[11时10分 ~ 21时31分]"
         },
         {
           "title": "底特律三巨头CEO和特斯拉副总裁应邀出席美国参议院听证会",
