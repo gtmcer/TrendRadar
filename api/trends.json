@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-20T00:25:46.141500+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-11-20T01:19:12.682920+08:00",
+  "total_titles_processed": 387,
   "failed_sources": [],
   "trends": [
     {
@@ -8,26 +8,28 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "提醒：特斯拉CEO马斯克与英伟达CEO黄仁勋共同参与美国华盛顿特区的一场活动。",
-          "url": "https://wallstreetcn.com/livenews/3007314",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
-        },
-        {
           "title": "如何看待对话挖孔事件起诉小米汽车车主，小米临时提交 84 页证据称「雷军反复提醒别买」？",
           "url": "https://www.zhihu.com/question/1972270226642044065",
           "source": "知乎",
           "ranks": [
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 01时19分]"
+        },
+        {
+          "title": "提醒：特斯拉CEO马斯克与英伟达CEO黄仁勋共同参与美国华盛顿特区的一场活动。",
+          "url": "https://wallstreetcn.com/livenews/3007314",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 01时19分]"
         }
       ]
     }
