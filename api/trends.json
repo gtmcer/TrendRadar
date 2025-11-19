@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-19T16:25:25.530472+08:00",
-  "total_titles_processed": 1244,
+  "generated_at": "2025-11-19T17:21:46.707888+08:00",
+  "total_titles_processed": 1334,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时26分 ~ 16时25分]"
+          "appearance_count": 15,
+          "time_info": "[00时26分 ~ 17时21分]"
         },
         {
           "title": "如何看待对话挖孔事件起诉小米汽车车主，小米临时提交 84 页证据称「雷军反复提醒别买」？",
@@ -30,8 +30,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时10分 ~ 16时25分]"
+          "appearance_count": 10,
+          "time_info": "[11时10分 ~ 17时21分]"
         },
         {
           "title": "为什么越来越多的人开始接受「工资是受罪的钱」，而不是为理想和成就工作了？",
@@ -41,11 +41,12 @@
             12,
             13,
             14,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时10分 ~ 16时25分]"
+          "appearance_count": 10,
+          "time_info": "[11时10分 ~ 17时21分]"
         },
         {
           "title": "底特律三巨头CEO和特斯拉副总裁应邀出席美国参议院听证会",
@@ -157,8 +158,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时19分 ~ 16时25分]"
+          "appearance_count": 10,
+          "time_info": "[06时19分 ~ 17时21分]"
         },
         {
           "title": "现代汽车：仍继续推进电动化并扩大在美布局",
