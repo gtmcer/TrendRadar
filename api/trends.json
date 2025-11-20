@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-21T00:24:54.157317+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-11-21T01:15:48.094860+08:00",
+  "total_titles_processed": 394,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "特斯拉上涨5.6%。",
@@ -17,12 +17,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
+        },
+        {
+          "title": "特斯拉回应起诉无忧传媒",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E5%9B%9E%E5%BA%94%E8%B5%B7%E8%AF%89%E6%97%A0%E5%BF%A7%E4%BC%A0%E5%AA%92",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时15分"
         }
       ]
     },
     {
       "keyword_group": "汽车",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "福特汽车(F.N)下跌1.9%；该公司的铝供应商Novelis再次发生火灾。",
@@ -34,6 +45,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
+        },
+        {
+          "title": "东风与华为推出全新汽车品牌奕境",
+          "url": "https://www.toutiao.com/trending/7574292269047283763/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时15分"
         }
       ]
     }
