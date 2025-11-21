@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-21T12:22:21.627777+08:00",
-  "total_titles_processed": 1135,
+  "generated_at": "2025-11-21T13:19:46.132089+08:00",
+  "total_titles_processed": 1211,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "长城汽车董事长魏建军称「电动车专属底盘全是谎言」，怎样看这一言论？电动车专属底盘又专属在哪里？",
@@ -18,8 +18,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时17分 ~ 12时22分]"
+          "appearance_count": 6,
+          "time_info": "[07时17分 ~ 13时19分]"
         },
         {
           "title": "汽车业新增两位院士 比亚迪廉玉波、宁德时代吴凯入选",
@@ -27,11 +27,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            17
+            17,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时10分 ~ 13时19分]"
+        },
+        {
+          "title": "鸿海电动车执行长关润在科技日活动中展示了“Model A”电动汽车。",
+          "url": "https://flash.jin10.com/detail/20251121115749030800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时10分 ~ 12时22分]"
+          "time_info": "[12时22分 ~ 13时19分]"
         },
         {
           "title": "富士康：正与日本政府商谈潜在的人工智能和电动汽车投资事宜。",
@@ -45,17 +58,6 @@
           "time_info": "07时17分"
         },
         {
-          "title": "鸿海电动车执行长关润在科技日活动中展示了“Model A”电动汽车。",
-          "url": "https://flash.jin10.com/detail/20251121115749030800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时22分"
-        },
-        {
           "title": "福特汽车(F.N)下跌1.9%；该公司的铝供应商Novelis再次发生火灾。",
           "url": "https://flash.jin10.com/detail/20251121000730343800",
           "source": "金十数据",
@@ -65,6 +67,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
+        },
+        {
+          "title": "是年轻人在定义汽车品牌，还是汽车品牌在定义年轻人？",
+          "url": "https://www.zhihu.com/question/1974869254722588742",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
         },
         {
           "title": "鸿海董事长刘扬伟：将展示专为日本市场设计的富士康电动汽车。",
@@ -178,8 +191,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时09分 ~ 12时22分]"
+          "appearance_count": 4,
+          "time_info": "[11时09分 ~ 13时19分]"
         }
       ]
     }
