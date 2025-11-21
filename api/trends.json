@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-21T17:20:11.849015+08:00",
-  "total_titles_processed": 1619,
+  "generated_at": "2025-11-21T18:20:17.469214+08:00",
+  "total_titles_processed": 1731,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "特斯拉回应起诉无忧传媒",
@@ -56,6 +56,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时26分 ~ 17时20分]"
+        },
+        {
+          "title": "小鹏第100万台新车X9超级增程下线",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%B9%8F%E7%AC%AC100%E4%B8%87%E5%8F%B0%E6%96%B0%E8%BD%A6X9%E8%B6%85%E7%BA%A7%E5%A2%9E%E7%A8%8B%E4%B8%8B%E7%BA%BF%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时19分 ~ 18时20分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌3.2%。 热门中概股里，阿特斯太阳能初步收跌18.3%，大全新能源跌9.2%，蔚来跌6%，晶科能源跌5.7%，小马智行、小鹏、小米、拼多多、百度跌超4%，网易则涨0.6%，贝壳涨1.3%，万国数据涨1.8%，逸仙电商涨3.3%。 ETF中，KWEB跌2.7%，CQQQ跌2.6%，ASHS跌1.4%，ASHR跌1.1%。",
@@ -138,7 +150,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "长城汽车董事长魏建军称「电动车专属底盘全是谎言」，怎样看这一言论？电动车专属底盘又专属在哪里？",
@@ -178,6 +190,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时22分 ~ 13时19分]"
+        },
+        {
+          "title": "汽车引擎盖下被老鼠偷藏20斤榛子",
+          "url": "https://www.toutiao.com/trending/7574987159296917554/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时19分 ~ 18时20分]"
         },
         {
           "title": "富士康：正与日本政府商谈潜在的人工智能和电动汽车投资事宜。",
