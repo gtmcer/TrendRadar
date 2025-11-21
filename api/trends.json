@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-21T14:29:10.100540+08:00",
-  "total_titles_processed": 1298,
+  "generated_at": "2025-11-21T15:19:06.917384+08:00",
+  "total_titles_processed": 1399,
   "failed_sources": [],
   "trends": [
     {
@@ -64,7 +64,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
@@ -86,7 +86,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
@@ -127,7 +127,7 @@
     },
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "特斯拉回应起诉无忧传媒",
@@ -156,6 +156,18 @@
           "time_info": "[05时17分 ~ 06时17分]"
         },
         {
+          "title": "蔚来李斌回应车市竞争：真正的稳态可能需要10年才能显现，关键是坚持、活下去",
+          "url": "https://wallstreetcn.com/livenews/3008441",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时29分 ~ 15时19分]"
+        },
+        {
           "title": "纳斯达克金龙中国指数初步收跌3.2%。 热门中概股里，阿特斯太阳能初步收跌18.3%，大全新能源跌9.2%，蔚来跌6%，晶科能源跌5.7%，小马智行、小鹏、小米、拼多多、百度跌超4%，网易则涨0.6%，贝壳涨1.3%，万国数据涨1.8%，逸仙电商涨3.3%。 ETF中，KWEB跌2.7%，CQQQ跌2.6%，ASHS跌1.4%，ASHR跌1.1%。",
           "url": "https://wallstreetcn.com/livenews/3008176",
           "source": "华尔街见闻-快讯",
@@ -167,15 +179,26 @@
           "time_info": "05时17分"
         },
         {
-          "title": "蔚来李斌回应车市竞争：真正的稳态可能需要10年才能显现，关键是坚持、活下去",
-          "url": "https://wallstreetcn.com/livenews/3008441",
+          "title": "分析师称宁德时代和小鹏汽车或被纳入恒生指数 医疗保健公司也有可能",
+          "url": "https://wallstreetcn.com/livenews/3008470",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时29分"
+          "time_info": "15时19分"
+        },
+        {
+          "title": "小鹏称将为跨年交付的X9增程版用户承担购置税",
+          "url": "https://wallstreetcn.com/livenews/3008457",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
         },
         {
           "title": "特斯拉上涨5.6%。",
