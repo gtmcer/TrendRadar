@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-22T22:16:06.353581+08:00",
-  "total_titles_processed": 1506,
+  "generated_at": "2025-11-22T23:16:58.071577+08:00",
+  "total_titles_processed": 1556,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[16时22分 ~ 22时16分]"
+          "appearance_count": 12,
+          "time_info": "[16时22分 ~ 23时16分]"
         },
         {
           "title": "理想汽车被曝大反思，承认产品节奏变慢，后续产品有望不再「套娃」，理想当前面临哪些困境？会带来哪些改变？",
@@ -166,11 +166,12 @@
           "source": "贴吧",
           "ranks": [
             2,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时13分 ~ 22时16分]"
+          "appearance_count": 7,
+          "time_info": "[19时13分 ~ 23时16分]"
         }
       ]
     }
