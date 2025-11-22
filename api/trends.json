@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-22T07:17:10.250674+08:00",
-  "total_titles_processed": 609,
+  "generated_at": "2025-11-22T09:19:07.425330+08:00",
+  "total_titles_processed": 714,
   "failed_sources": [],
   "trends": [
     {
@@ -72,6 +72,19 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "周五（11月21日），彭博电动汽车价格回报指数跌3.64%，报3252.14点，亚太盘初微幅低开，北京时间09:30出现一波跳空下跌行情，后续持续低位窄幅震荡。 本周，该指数累计下跌7.76%，11月18日和21日都出现“短线下跌”行情，其他时间持稳。",
+          "url": "https://wallstreetcn.com/livenews/3008912",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            19,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时18分 ~ 09时19分]"
+        },
+        {
           "title": "福特汽车涨幅扩大至3.9%，此前该公司表示诺韦利斯奥斯威戈工厂的部分运营已恢复并重新启动。",
           "url": "https://wallstreetcn.com/livenews/3008858",
           "source": "华尔街见闻-快讯",
@@ -94,18 +107,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时16分 ~ 04时21分]"
-        },
-        {
-          "title": "周五（11月21日），彭博电动汽车价格回报指数跌3.64%，报3252.14点，亚太盘初微幅低开，北京时间09:30出现一波跳空下跌行情，后续持续低位窄幅震荡。 本周，该指数累计下跌7.76%，11月18日和21日都出现“短线下跌”行情，其他时间持稳。",
-          "url": "https://wallstreetcn.com/livenews/3008912",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时18分 ~ 07时17分]"
         },
         {
           "title": "耐用制造品如汽车库存增加 美国8月批发库存持平",
