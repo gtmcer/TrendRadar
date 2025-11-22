@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-22T20:32:52.512808+08:00",
-  "total_titles_processed": 1373,
+  "generated_at": "2025-11-22T21:23:19.978086+08:00",
+  "total_titles_processed": 1409,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时22分 ~ 20时32分]"
+          "appearance_count": 9,
+          "time_info": "[16时22分 ~ 21时23分]"
         },
         {
           "title": "理想汽车被曝大反思，承认产品节奏变慢，后续产品有望不再「套娃」，理想当前面临哪些困境？会带来哪些改变？",
@@ -27,8 +27,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时17分 ~ 20时32分]"
+          "appearance_count": 6,
+          "time_info": "[18时17分 ~ 21时23分]"
         },
         {
           "title": "纳斯达克金龙中国指数涨超2%，热门中概股阿特斯太阳能涨超6.4%，亚朵、斗鱼、蔚来、唯品会涨超4%，理想涨2.9%，京东、百胜中国、百度涨超2%，小鹏、网易至多涨1.8%，阿里巴巴涨0.9%。 ETF中，KWEB涨1.3%，CQQQ涨0.1%。",
@@ -167,8 +167,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时13分 ~ 20时32分]"
+          "appearance_count": 4,
+          "time_info": "[19时13分 ~ 21时23分]"
         }
       ]
     }
