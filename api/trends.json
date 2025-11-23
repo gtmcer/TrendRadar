@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-23T12:32:31.376062+08:00",
-  "total_titles_processed": 643,
+  "generated_at": "2025-11-23T13:17:40.976726+08:00",
+  "total_titles_processed": 669,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时40分 ~ 12时32分]"
+          "appearance_count": 4,
+          "time_info": "[09时40分 ~ 13时17分]"
         },
         {
           "title": "小米辟谣所谓“小米汽车工厂内电池产线起火”",
           "url": "https://wallstreetcn.com/livenews/3009033",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时26分 ~ 12时32分]"
+          "appearance_count": 3,
+          "time_info": "[11时26分 ~ 13时17分]"
         },
         {
           "title": "小鹏 X9 超级增程售价 30.98 万元起，推出增程是对市场需求的妥协吗？给一个买它的理由会是什么？",
@@ -47,11 +48,12 @@
           "source": "今日头条",
           "ranks": [
             2,
-            7
+            7,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时26分 ~ 12时32分]"
+          "appearance_count": 3,
+          "time_info": "[11时26分 ~ 13时17分]"
         },
         {
           "title": "网传小米汽车工厂内电池产线起火，小米官方发文澄清。",
@@ -59,11 +61,12 @@
           "source": "金十数据",
           "ranks": [
             7,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时26分 ~ 12时32分]"
+          "appearance_count": 3,
+          "time_info": "[11时26分 ~ 13时17分]"
         }
       ]
     },
@@ -81,8 +84,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时21分 ~ 12时32分]"
+          "appearance_count": 13,
+          "time_info": "[00时21分 ~ 13时17分]"
         }
       ]
     }
