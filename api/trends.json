@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-24T00:21:07.706160+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-11-24T01:15:44.961659+08:00",
+  "total_titles_processed": 345,
   "failed_sources": [],
   "trends": [
     {
@@ -12,33 +12,36 @@
           "url": "https://www.zhihu.com/question/1975169768370766690",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 00时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 01时15分]"
         },
         {
           "title": "小鹏脚夹门事件员工被顶格处理",
           "url": "https://www.toutiao.com/trending/7575508362550509594/",
           "source": "今日头条",
           "ranks": [
-            10
+            10,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 00时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 01时15分]"
         },
         {
           "title": "小米汽车每辆赚6.65万",
           "url": "https://www.toutiao.com/trending/7574824643694477339/",
           "source": "今日头条",
           "ranks": [
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 00时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 01时15分]"
         }
       ]
     },
@@ -47,22 +50,23 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "智驾不避险?问界M7酿夺命惨案",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347394&amp;topic_name=%E6%99%BA%E9%A9%BE%E4%B8%8D%E9%81%BF%E9%99%A9%3F%E9%97%AE%E7%95%8CM7%E9%85%BF%E5%A4%BA%E5%91%BD%E6%83%A8%E6%A1%88",
+          "source": "贴吧",
+          "ranks": [
+            23,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 01时15分]"
+        },
+        {
           "title": "两辆华为鸿蒙智行车遥控泊车相撞",
           "url": "https://www.toutiao.com/trending/7575749822515642431/",
           "source": "今日头条",
           "ranks": [
             18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 00时21分]"
-        },
-        {
-          "title": "智驾不避险?问界M7酿夺命惨案",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347394&amp;topic_name=%E6%99%BA%E9%A9%BE%E4%B8%8D%E9%81%BF%E9%99%A9%3F%E9%97%AE%E7%95%8CM7%E9%85%BF%E5%A4%BA%E5%91%BD%E6%83%A8%E6%A1%88",
-          "source": "贴吧",
-          "ranks": [
-            23
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -82,8 +86,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 00时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 01时15分]"
         }
       ]
     }
