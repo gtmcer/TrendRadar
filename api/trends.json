@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-23T11:26:51.319052+08:00",
-  "total_titles_processed": 592,
+  "generated_at": "2025-11-23T12:32:31.376062+08:00",
+  "total_titles_processed": 643,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时40分 ~ 11时26分]"
-        },
-        {
-          "title": "小米汽车开始赚钱了 但雷军还有点烦",
-          "url": "https://www.toutiao.com/trending/7575711115057827382/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时26分"
+          "appearance_count": 3,
+          "time_info": "[09时40分 ~ 12时32分]"
         },
         {
           "title": "小米辟谣所谓“小米汽车工厂内电池产线起火”",
@@ -36,9 +25,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时26分 ~ 12时32分]"
         },
         {
           "title": "小鹏 X9 超级增程售价 30.98 万元起，推出增程是对市场需求的妥协吗？给一个买它的理由会是什么？",
@@ -53,15 +42,28 @@
           "time_info": "[00时21分 ~ 04时19分]"
         },
         {
+          "title": "小米汽车开始赚钱了 但雷军还有点烦",
+          "url": "https://www.toutiao.com/trending/7575711115057827382/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时26分 ~ 12时32分]"
+        },
+        {
           "title": "网传小米汽车工厂内电池产线起火，小米官方发文澄清。",
           "url": "https://flash.jin10.com/detail/20251123102009558800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时26分 ~ 12时32分]"
         }
       ]
     },
@@ -79,8 +81,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时21分 ~ 11时26分]"
+          "appearance_count": 12,
+          "time_info": "[00时21分 ~ 12时32分]"
         }
       ]
     }
