@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-24T02:25:02.470735+08:00",
-  "total_titles_processed": 366,
+  "generated_at": "2025-11-24T03:14:45.470259+08:00",
+  "total_titles_processed": 381,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 02时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 03时14分]"
         },
         {
           "title": "小鹏脚夹门事件员工被顶格处理",
@@ -26,11 +27,12 @@
           "ranks": [
             10,
             19,
-            18
+            18,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 02时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 03时14分]"
         },
         {
           "title": "小米汽车每辆赚6.65万",
@@ -38,11 +40,12 @@
           "source": "今日头条",
           "ranks": [
             25,
-            27
+            27,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 01时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 03时14分]"
         }
       ]
     },
@@ -60,8 +63,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 02时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 03时14分]"
         },
         {
           "title": "两辆华为鸿蒙智行车遥控泊车相撞",
@@ -69,11 +72,12 @@
           "source": "今日头条",
           "ranks": [
             18,
-            20
+            20,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 02时25分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 03时14分]"
         }
       ]
     },
@@ -89,8 +93,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 02时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 03时14分]"
         }
       ]
     }
