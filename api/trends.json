@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-24T01:15:44.961659+08:00",
-  "total_titles_processed": 345,
+  "generated_at": "2025-11-24T02:25:02.470735+08:00",
+  "total_titles_processed": 366,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 01时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 02时25分]"
         },
         {
           "title": "小鹏脚夹门事件员工被顶格处理",
@@ -25,11 +25,12 @@
           "source": "今日头条",
           "ranks": [
             10,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 01时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 02时25分]"
         },
         {
           "title": "小米汽车每辆赚6.65万",
@@ -55,22 +56,24 @@
           "source": "贴吧",
           "ranks": [
             23,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 01时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 02时25分]"
         },
         {
           "title": "两辆华为鸿蒙智行车遥控泊车相撞",
           "url": "https://www.toutiao.com/trending/7575749822515642431/",
           "source": "今日头条",
           "ranks": [
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 00时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 02时25分]"
         }
       ]
     },
@@ -86,8 +89,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 01时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 02时25分]"
         }
       ]
     }
