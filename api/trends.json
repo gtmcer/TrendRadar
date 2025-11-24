@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-24T12:33:25.735810+08:00",
-  "total_titles_processed": 888,
+  "generated_at": "2025-11-24T13:20:21.849966+08:00",
+  "total_titles_processed": 945,
   "failed_sources": [],
   "trends": [
     {
@@ -54,6 +54,20 @@
           "time_info": "[00时20分 ~ 07时17分]"
         },
         {
+          "title": "小鹏脚夹门事件员工被顶格处理",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E9%B9%8F%E8%84%9A%E5%A4%B9%E9%97%A8%E4%BA%8B%E4%BB%B6%E5%91%98%E5%B7%A5%E8%A2%AB%E9%A1%B6%E6%A0%BC%E5%A4%84%E7%90%86",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            5,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时27分 ~ 13时20分]"
+        },
+        {
           "title": "【恒指高开0.92%，恒生科技指数涨1.13%】蔚来涨超4%，网易涨超3%，百度、腾讯音乐涨超2%。",
           "url": "https://wallstreetcn.com/livenews/3009258",
           "source": "华尔街见闻-快讯",
@@ -63,19 +77,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
-        },
-        {
-          "title": "小鹏脚夹门事件员工被顶格处理",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E9%B9%8F%E8%84%9A%E5%A4%B9%E9%97%A8%E4%BA%8B%E4%BB%B6%E5%91%98%E5%B7%A5%E8%A2%AB%E9%A1%B6%E6%A0%BC%E5%A4%84%E7%90%86",
-          "source": "百度热搜",
-          "ranks": [
-            4,
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时27分 ~ 12时33分]"
         },
         {
           "title": "特斯拉CEO在自家社交媒体平台X（原名推特）上表示：大多数人不知道，特斯拉拥有一个先进的AI芯片和电路板工程团队，而且已经存在很多年了。 该团队已经设计并部署了数百万计的AI芯片在我们的汽车和数据中心中。正是这些芯片使特斯拉能够成为现实世界AI领域的领导者。",
@@ -125,8 +126,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时20分 ~ 12时33分]"
+          "appearance_count": 17,
+          "time_info": "[00时20分 ~ 13时20分]"
         }
       ]
     },
