@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-25T05:18:39.357833+08:00",
-  "total_titles_processed": 537,
+  "generated_at": "2025-11-25T06:18:06.991221+08:00",
+  "total_titles_processed": 583,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "标普500指数初步收涨1.5%，电信板块涨4.1%——成分股谷歌A涨6.5%，科技板块涨2.6%，可选消费板块涨约2%，能源板块大致持平。 纳斯达克100指数初步收涨2.6%，成分股中，博通初步收涨11.2%，迈威尔科技涨8.7%，美光科技涨8%，特斯拉涨7%，AMD涨5.9%，Adobe则跌1.7%，星巴克跌2.2%，康卡斯特跌4.5%，CPRT跌4.6%。 Merck初步收涨2.9%，亚马逊涨2.4%，IBM、高盛、英伟达至少涨约1.9%，领跑道指成分股，迪士尼、VZ、宝洁则跌超2%。",
@@ -14,7 +14,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
         },
@@ -25,15 +25,26 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜特斯拉收涨超6.8%，谷歌A涨6.3%",
+          "url": "https://wallstreetcn.com/livenews/3009767",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
         }
       ]
     },
     {
       "keyword_group": "汽车",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "中国固态电动汽车电池下线",
@@ -46,8 +57,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时28分 ~ 05时18分]"
+          "appearance_count": 8,
+          "time_info": "[02时28分 ~ 06时18分]"
         },
         {
           "title": "网传长城汽车控股的毫末智行已停工解散，具体情况如何？这对智驾行业会产生哪些影响？",
@@ -55,11 +66,23 @@
           "source": "知乎",
           "ranks": [
             7,
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时28分 ~ 05时18分]"
+          "appearance_count": 8,
+          "time_info": "[02时28分 ~ 06时18分]"
+        },
+        {
+          "title": "周一（11月24日），彭博电动汽车价格回报指数涨0.24%，报3258.67点，亚太时段呈现出V形反转——北京时间13:01跌至3221.40点刷新日低。",
+          "url": "https://wallstreetcn.com/livenews/3009768",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
         }
       ]
     }
