@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-25T12:25:29.209282+08:00",
-  "total_titles_processed": 1046,
+  "generated_at": "2025-11-25T13:20:03.993051+08:00",
+  "total_titles_processed": 1129,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 7,
+      "match_count": 15,
       "titles": [
         {
           "title": "网传长城汽车控股的毫末智行已停工解散，具体情况如何？这对智驾行业会产生哪些影响？",
@@ -36,15 +36,70 @@
           "time_info": "[02时28分 ~ 06时18分]"
         },
         {
+          "title": "欧洲汽车制造商协会：欧洲10月份汽车销量增长4.9%，至109万辆",
+          "url": "https://wallstreetcn.com/livenews/3009982",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
+        },
+        {
           "title": "泰国汽车工业联合会：泰国10月国内汽车销量同比增长24.78%（9月为增长23.82%）。",
           "url": "https://flash.jin10.com/detail/20251125114935003800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时25分"
+        },
+        {
+          "title": "欧洲汽车制造商协会：宝马10月欧盟新车注册量增长8.7%。雷诺集团10月欧盟新车注册量增长10%。",
+          "url": "https://flash.jin10.com/detail/20251125130410385800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
+        },
+        {
+          "title": "欧洲汽车制造商协会：上汽集团10月欧盟新车注册量增长56%。",
+          "url": "https://flash.jin10.com/detail/20251125130339829800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
+        },
+        {
+          "title": "欧洲汽车制造商协会：10月份电动汽车在欧盟新车注册量中所占份额约为64%。",
+          "url": "https://flash.jin10.com/detail/20251125130309742800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
+        },
+        {
+          "title": "欧洲汽车制造商协会：梅赛德斯-奔驰集团10月欧盟新车注册量增长2.0%。斯泰兰蒂斯(STLA.N)10月欧盟新车注册量增长6.6%。日产10月欧盟新车注册量下降3.2%。丰田汽车(TM.N)10月欧盟新车注册量下降10.8%。现代汽车10月欧盟新车注册量增长了0.1%。大众集团10月欧盟新车注册量增长7.9%。",
+          "url": "https://flash.jin10.com/detail/20251125130259840800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
         },
         {
           "title": "福特汽车(F.N)CEO：由于技术工人短缺，公司有5000个空缺的机械师职位，薪资达六位数。",
@@ -64,9 +119,42 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时25分"
+        },
+        {
+          "title": "欧洲汽车制造商协会：比亚迪10月欧盟新车注册量增长195%。",
+          "url": "https://flash.jin10.com/detail/20251125130233844800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
+        },
+        {
+          "title": "欧洲汽车制造商协会：欧盟1月至10月新车注册量增长1.4%，达到8,974,026辆。",
+          "url": "https://flash.jin10.com/detail/20251125130117787800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
+        },
+        {
+          "title": "欧洲汽车制造商协会：欧盟10月新车注册量增长5.8%，达到916,609辆。",
+          "url": "https://flash.jin10.com/detail/20251125130033038800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
         },
         {
           "title": "周一（11月24日），彭博电动汽车价格回报指数涨0.24%，报3258.67点，亚太时段呈现出V形反转——北京时间13:01跌至3221.40点刷新日低。",
@@ -86,7 +174,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时25分"
         }
@@ -94,7 +182,7 @@
     },
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美股收盘：七巨头齐升纳指收高2.7% 谷歌特斯拉暴涨逾6%",
@@ -106,8 +194,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时18分 ~ 12时25分]"
+          "appearance_count": 6,
+          "time_info": "[07时18分 ~ 13时20分]"
         },
         {
           "title": "标普500指数初步收涨1.5%，电信板块涨4.1%——成分股谷歌A涨6.5%，科技板块涨2.6%，可选消费板块涨约2%，能源板块大致持平。 纳斯达克100指数初步收涨2.6%，成分股中，博通初步收涨11.2%，迈威尔科技涨8.7%，美光科技涨8%，特斯拉涨7%，AMD涨5.9%，Adobe则跌1.7%，星巴克跌2.2%，康卡斯特跌4.5%，CPRT跌4.6%。 Merck初步收涨2.9%，亚马逊涨2.4%，IBM、高盛、英伟达至少涨约1.9%，领跑道指成分股，迪士尼、VZ、宝洁则跌超2%。",
@@ -136,11 +224,23 @@
           "url": "https://www.cls.cn/detail/2209531",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时22分 ~ 12时25分]"
+          "appearance_count": 5,
+          "time_info": "[09时22分 ~ 13时20分]"
+        },
+        {
+          "title": "欧洲汽车制造商协会：特斯拉10月在欧盟的新车注册量下降了48%。",
+          "url": "https://flash.jin10.com/detail/20251125130045287800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收涨超6.8%，谷歌A涨6.3%",
