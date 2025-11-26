@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-27T01:17:45.428647+08:00",
-  "total_titles_processed": 383,
+  "generated_at": "2025-11-27T02:23:57.617410+08:00",
+  "total_titles_processed": 438,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             12,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 02时23分]"
         },
         {
           "title": "获德银“买入”评级，蔚来Q3毛利率改善强劲，Q4营收指引居新势力之首",
@@ -43,11 +44,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            7
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 02时23分]"
         }
       ]
     }
