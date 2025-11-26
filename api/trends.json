@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-26T19:18:09.283301+08:00",
-  "total_titles_processed": 1675,
+  "generated_at": "2025-11-26T20:40:20.778845+08:00",
+  "total_titles_processed": 1811,
   "failed_sources": [],
   "trends": [
     {
@@ -128,7 +128,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
@@ -194,7 +194,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
@@ -275,6 +275,23 @@
       ]
     },
     {
+      "keyword_group": "华为汽车 鸿蒙智行 问界 尚界 尊界 智界 享界 乾崑",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "两辆华为鸿蒙智行系列车辆在车主手机遥控「泊车代驾」时相撞，这种算是 Corner Case 吗？为何会撞？",
+          "url": "https://www.zhihu.com/question/1976028777374033556",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        }
+      ]
+    },
+    {
       "keyword_group": "新能源汽车",
       "match_count": 1,
       "titles": [
@@ -285,11 +302,12 @@
           "ranks": [
             12,
             10,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时14分 ~ 19时18分]"
+          "appearance_count": 13,
+          "time_info": "[11时14分 ~ 20时40分]"
         }
       ]
     }
