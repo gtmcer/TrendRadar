@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-26T22:20:33.297003+08:00",
-  "total_titles_processed": 1995,
+  "generated_at": "2025-11-26T23:18:55.435043+08:00",
+  "total_titles_processed": 2077,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "蔚来汽车股价在新加坡下跌5.7%，此前公布第三季度亏损。",
@@ -199,6 +199,17 @@
           "time_info": "19时18分"
         },
         {
+          "title": "美股开盘，道指开涨0.18%，标普500指数涨0.41%，纳指开涨0.56%。理想汽车(LI.O)跌1.4%，公司对第四季度营收指引低于市场预估，Alphabet(GOOG.O)跌0.47%。英伟达(NVDA.O)涨1.7%，AMD(AMD.O)涨近2%。",
+          "url": "https://flash.jin10.com/detail/20251126223027730800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
           "title": "特斯拉预计印度Model Y买家将在4-5年内收回三分之一的购车成本",
           "url": "https://flash.jin10.com/detail/20251126163931557800",
           "source": "金十数据",
@@ -269,7 +280,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -333,11 +344,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            11
+            11,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时34分 ~ 22时20分]"
+          "appearance_count": 3,
+          "time_info": "[21时34分 ~ 23时18分]"
         }
       ]
     },
@@ -351,11 +363,12 @@
           "source": "知乎",
           "ranks": [
             16,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时40分 ~ 22时20分]"
+          "appearance_count": 5,
+          "time_info": "[20时40分 ~ 23时18分]"
         }
       ]
     }
