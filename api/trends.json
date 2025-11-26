@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-26T18:21:31.754935+08:00",
-  "total_titles_processed": 1585,
+  "generated_at": "2025-11-26T19:18:09.283301+08:00",
+  "total_titles_processed": 1675,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "蔚来汽车股价在新加坡下跌5.7%，此前公布第三季度亏损。",
@@ -122,6 +122,17 @@
           "time_info": "17时21分"
         },
         {
+          "title": "理想汽车美股盘前跌幅收窄至不足1%，此前一度跌超4%。",
+          "url": "https://wallstreetcn.com/livenews/3010820",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
+        },
+        {
           "title": "原极氪首席商务官关海涛重回荣耀任职",
           "url": "https://wallstreetcn.com/livenews/3010646",
           "source": "华尔街见闻-快讯",
@@ -175,6 +186,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
+        },
+        {
+          "title": "据港交所公告，11月21日，高盛对小鹏汽车(09868.HK)的多头持仓由4.57%增至5.15%。",
+          "url": "https://flash.jin10.com/detail/20251126180730221800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
         },
         {
           "title": "特斯拉预计印度Model Y买家将在4-5年内收回三分之一的购车成本",
@@ -266,8 +288,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时14分 ~ 18时21分]"
+          "appearance_count": 12,
+          "time_info": "[11时14分 ~ 19时18分]"
         }
       ]
     }
