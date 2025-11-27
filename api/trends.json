@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-27T07:17:53.752195+08:00",
-  "total_titles_processed": 655,
+  "generated_at": "2025-11-27T09:21:17.461003+08:00",
+  "total_titles_processed": 816,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时24分 ~ 07时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时24分 ~ 09时21分]"
         },
         {
           "title": "获德银“买入”评级，蔚来Q3毛利率改善强劲，Q4营收指引居新势力之首",
@@ -49,6 +49,35 @@
       ]
     },
     {
+      "keyword_group": "汽车",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "周三（11月26日），彭博电动汽车价格回报指数涨1.64%，报3369.06点，亚太早盘持续上涨，之后维持高位震荡状态。",
+          "url": "https://wallstreetcn.com/livenews/3011061",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时19分 ~ 07时17分]"
+        },
+        {
+          "title": "中信建投：当前汽车顺周期属性弱化，科技属性及新兴成长方向是核心主线",
+          "url": "https://wallstreetcn.com/livenews/3011100",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
+        }
+      ]
+    },
+    {
       "keyword_group": "华为汽车 鸿蒙智行 问界 尚界 尊界 智界 享界 乾崑",
       "match_count": 1,
       "titles": [
@@ -62,29 +91,12 @@
             12,
             13,
             17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时24分 ~ 07时17分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "汽车",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "周三（11月26日），彭博电动汽车价格回报指数涨1.64%，报3369.06点，亚太早盘持续上涨，之后维持高位震荡状态。",
-          "url": "https://wallstreetcn.com/livenews/3011061",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             18,
-            28
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时19分 ~ 07时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时24分 ~ 09时21分]"
         }
       ]
     }
