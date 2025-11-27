@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-27T12:23:41.538401+08:00",
-  "total_titles_processed": 1054,
+  "generated_at": "2025-11-27T13:19:59.523704+08:00",
+  "total_titles_processed": 1128,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 5,
+      "match_count": 12,
       "titles": [
         {
           "title": "金十图示：2025年11月27日（周四）全球汽车制造商市值变化",
@@ -18,6 +18,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时11分 ~ 12时23分]"
+        },
+        {
+          "title": "商务部：将推进汽车流通消费改革试点 全链条扩大汽车消费",
+          "url": "https://www.cls.cn/detail/2212351",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时23分 ~ 13时19分]"
         },
         {
           "title": "商务部：将推进汽车流通消费改革试点，全链条扩大汽车消费",
@@ -44,15 +56,81 @@
           "time_info": "[06时19分 ~ 07时17分]"
         },
         {
-          "title": "商务部：将推进汽车流通消费改革试点 全链条扩大汽车消费",
-          "url": "https://www.cls.cn/detail/2212351",
-          "source": "财联社热门",
+          "title": "市场消息：越南VinFast(VFS.O)与五家合作伙伴携手，加强在印度尼西亚的电动汽车售后服务。",
+          "url": "https://flash.jin10.com/detail/20251127124537283800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
+        },
+        {
+          "title": "丰田汽车(TM.N)：10月销量增长由美国市场引领。",
+          "url": "https://flash.jin10.com/detail/20251127124436217800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
+        },
+        {
+          "title": "丰田汽车(TM.N)：10月日本对美出口量同比增长34%，达57,445辆。",
+          "url": "https://flash.jin10.com/detail/20251127124208627800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
+        },
+        {
+          "title": "丰田汽车(TM.N)：10月集团全球产量同比增长3.1%，达到105万辆。",
+          "url": "https://flash.jin10.com/detail/20251127124002213800",
+          "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时23分"
+          "time_info": "13时19分"
+        },
+        {
+          "title": "丰田汽车(TM.N)：10月集团全球销量同比增长3.0%，达到100万辆。",
+          "url": "https://flash.jin10.com/detail/20251127123758836800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
+        },
+        {
+          "title": "丰田汽车(TM.N)：10月份仅面向日本市场的汽车产量同比增长6.8%，达到326,832辆。10月份仅面向海外市场的汽车产量同比增长2.2%，达到600,155辆。10月份全球仅面向经销商的销量同比增长2.1%，达到922,087辆。10月份全球仅面向经销商的汽车产量同比增长3.8%，达到926,987辆。",
+          "url": "https://flash.jin10.com/detail/20251127123112027800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
+        },
+        {
+          "title": "印度汽车制造商马恒达推出电动SUV",
+          "url": "https://flash.jin10.com/detail/20251127123016003800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
         },
         {
           "title": "中信建投：当前汽车顺周期属性弱化，科技属性及新兴成长方向是核心主线",
@@ -69,7 +147,7 @@
     },
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "理想汽车第三季度净亏损 6.24 亿元，总交付量同比减少 39.0%，问题出在哪里？出海和 AI 能解吗？",
@@ -83,8 +161,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时24分 ~ 12时23分]"
+          "appearance_count": 16,
+          "time_info": "[00时24分 ~ 13时19分]"
         },
         {
           "title": "获德银“买入”评级，蔚来Q3毛利率改善强劲，Q4营收指引居新势力之首",
@@ -109,6 +187,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时19分 ~ 07时17分]"
+        },
+        {
+          "title": "特斯拉(TSLA.O)：奥斯汀无人驾驶出租车车队规模下月将翻一番。",
+          "url": "https://flash.jin10.com/detail/20251127122543898800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
         }
       ]
     },
@@ -138,11 +227,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E9%B8%BF%E8%92%99%E6%99%BA%E8%A1%8C%E7%A7%B0%E5%B7%B2%E5%85%85%E5%88%86%E6%94%B6%E9%9B%86%E8%AF%81%E6%8D%AE%23&t=31&band_rank=9&Refer=top",
           "source": "微博",
           "ranks": [
-            9
+            9,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时23分 ~ 13时19分]"
         }
       ]
     }
