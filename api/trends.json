@@ -1,12 +1,26 @@
 {
-  "generated_at": "2025-11-27T15:19:55.123796+08:00",
-  "total_titles_processed": 1338,
+  "generated_at": "2025-11-27T16:27:19.952758+08:00",
+  "total_titles_processed": 1452,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
       "match_count": 15,
       "titles": [
+        {
+          "title": "商务部：将推进汽车流通消费改革试点 全链条扩大汽车消费",
+          "url": "https://www.cls.cn/detail/2212351",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时23分 ~ 16时27分]"
+        },
         {
           "title": "日产汽车：10月销量受日本和美国拖累。",
           "url": "https://flash.jin10.com/detail/20251127141251812800",
@@ -28,19 +42,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时30分"
-        },
-        {
-          "title": "商务部：将推进汽车流通消费改革试点 全链条扩大汽车消费",
-          "url": "https://www.cls.cn/detail/2212351",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时23分 ~ 15时19分]"
         },
         {
           "title": "日产汽车：10月全球销量同比下降4.8%，至258,517辆。10月全球产量同比下降3.9%，至276,323辆。",
@@ -181,7 +182,7 @@
     },
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "理想汽车第三季度净亏损 6.24 亿元，总交付量同比减少 39.0%，问题出在哪里？出海和 AI 能解吗？",
@@ -232,12 +233,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
+        },
+        {
+          "title": "伯恩斯坦：将理想汽车(02015.HK)目标价由98.00港元下调至78.00港元。",
+          "url": "https://flash.jin10.com/detail/20251127154056918800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
+          "title": "伯恩斯坦：将理想汽车(LI.O)目标价从25.00美元下调至20.00美元。",
+          "url": "https://flash.jin10.com/detail/20251127154043468800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         }
       ]
     },
     {
       "keyword_group": "华为汽车 鸿蒙智行 问界 尚界 尊界 智界 享界 乾崑",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "两辆华为鸿蒙智行系列车辆在车主手机遥控「泊车代驾」时相撞，这种算是 Corner Case 吗？为何会撞？",
@@ -267,6 +290,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时23分 ~ 14时30分]"
+        },
+        {
+          "title": "鸿蒙智行：遭大量集中攻击已收集证据",
+          "url": "https://www.baidu.com/s?wd=%E9%B8%BF%E8%92%99%E6%99%BA%E8%A1%8C%EF%BC%9A%E9%81%AD%E5%A4%A7%E9%87%8F%E9%9B%86%E4%B8%AD%E6%94%BB%E5%87%BB%E5%B7%B2%E6%94%B6%E9%9B%86%E8%AF%81%E6%8D%AE",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         }
       ]
     }
