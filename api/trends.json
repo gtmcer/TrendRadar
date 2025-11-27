@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-27T16:27:19.952758+08:00",
-  "total_titles_processed": 1452,
+  "generated_at": "2025-11-27T17:21:36.988249+08:00",
+  "total_titles_processed": 1532,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时23分 ~ 16时27分]"
+          "appearance_count": 6,
+          "time_info": "[12时23分 ~ 17时21分]"
         },
         {
           "title": "日产汽车：10月销量受日本和美国拖累。",
@@ -241,7 +241,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
         },
@@ -252,7 +252,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
         }
@@ -296,11 +296,12 @@
           "url": "https://www.baidu.com/s?wd=%E9%B8%BF%E8%92%99%E6%99%BA%E8%A1%8C%EF%BC%9A%E9%81%AD%E5%A4%A7%E9%87%8F%E9%9B%86%E4%B8%AD%E6%94%BB%E5%87%BB%E5%B7%B2%E6%94%B6%E9%9B%86%E8%AF%81%E6%8D%AE",
           "source": "百度热搜",
           "ranks": [
-            30
+            30,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时27分 ~ 17时21分]"
         }
       ]
     }
