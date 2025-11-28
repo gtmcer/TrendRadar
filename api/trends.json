@@ -1,171 +1,33 @@
 {
-  "generated_at": "2025-11-28T23:20:01.335203+08:00",
-  "total_titles_processed": 1975,
+  "generated_at": "2025-11-29T00:23:33.112100+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 7,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "男子在小鹏 4S 店试车被玻璃门夹脚，门坏了遭店员索赔，涉事员工被顶格处理，如何看待此事？",
-          "url": "https://www.zhihu.com/question/1975954280067379778",
-          "source": "知乎",
-          "ranks": [
-            7,
-            2,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时20分 ~ 20时38分]"
-        },
-        {
-          "title": "雷军回应小米汽车续航测试",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E7%BB%AD%E8%88%AA%E6%B5%8B%E8%AF%95%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时10分 ~ 15时19分]"
-        },
         {
           "title": "雷军回应小米汽车续航测试",
           "url": "https://www.douyin.com/hot/2320102",
           "source": "抖音",
           "ranks": [
-            14,
-            19,
-            17
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时37分 ~ 22时19分]"
+          "appearance_count": 1,
+          "time_info": "00时23分"
         },
         {
           "title": "小鹏报警",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%B9%8F%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=10&Refer=top",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%B9%8F%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=28&Refer=top",
           "source": "微博",
           "ranks": [
-            10,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时19分 ~ 23时20分]"
-        },
-        {
-          "title": "雷军称继续向特斯拉学习",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E7%A7%B0%E7%BB%A7%E7%BB%AD%E5%90%91%E7%89%B9%E6%96%AF%E6%8B%89%E5%AD%A6%E4%B9%A0%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时29分"
-        },
-        {
-          "title": "特斯拉印度：印度首家一站式特斯拉中心现已在哈里亚纳邦古尔冈开业。",
-          "url": "https://flash.jin10.com/detail/20251128161132218800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时26分"
-        },
-        {
-          "title": "小米汽车首例定金案败诉 “未交车催收尾款”被判双倍返还定金",
-          "url": "https://wallstreetcn.com/livenews/3011719",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "汽车",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "普京亲自带货：中国电动汽车不香吗",
-          "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E4%BA%B2%E8%87%AA%E5%B8%A6%E8%B4%A7%EF%BC%9A%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E4%B8%8D%E9%A6%99%E5%90%97",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            4,
-            6,
-            8,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时29分 ~ 20时38分]"
-        },
-        {
-          "title": "德国政府发言人：在审视汽车的气候影响时，必须将整个价值链纳入考虑。",
-          "url": "https://flash.jin10.com/detail/20251128185218193800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时17分"
-        },
-        {
-          "title": "英国10月汽车产量骤降24% 捷豹路虎遭网络攻击影响持续",
-          "url": "https://flash.jin10.com/detail/20251128084307484800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时20分"
-        },
-        {
-          "title": "金十图示：2025年11月28日（周五）全球汽车制造商市值变化",
-          "url": "https://flash.jin10.com/detail/20251128110534501800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时22分"
-        },
-        {
-          "title": "长安汽车：拟以自有资金出资2.25亿元参与设立长安机器人公司",
-          "url": "https://wallstreetcn.com/livenews/3012207",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时38分"
-        },
-        {
-          "title": "比亚迪汽车工业有限公司、比亚迪汽车有限公司召回部分秦PLUS DM-i汽车",
-          "url": "https://wallstreetcn.com/livenews/3012155",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时17分"
+          "time_info": "00时23分"
         }
       ]
     }
