@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-29T00:23:33.112100+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-11-29T01:16:44.897673+08:00",
+  "total_titles_processed": 369,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.douyin.com/hot/2320102",
           "source": "抖音",
           "ranks": [
-            18
+            18,
+            21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时16分]"
         },
         {
           "title": "小鹏报警",
@@ -28,6 +29,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "汽车",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "惠誉评级：欧洲汽车资产支持证券（ABS）资产损失仍在增加，但逾期情况稳定。",
+          "url": "https://flash.jin10.com/detail/20251129002744050800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时16分"
         }
       ]
     }
