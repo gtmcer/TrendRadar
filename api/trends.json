@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-29T05:16:28.387713+08:00",
-  "total_titles_processed": 512,
+  "generated_at": "2025-11-29T06:17:43.716559+08:00",
+  "total_titles_processed": 528,
   "failed_sources": [],
   "trends": [
     {
@@ -71,11 +71,12 @@
           "ranks": [
             3,
             9,
-            14
+            14,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时14分 ~ 05时16分]"
+          "appearance_count": 4,
+          "time_info": "[03时14分 ~ 06时17分]"
         },
         {
           "title": "惠誉评级：欧洲汽车资产支持证券（ABS）资产损失仍在增加，但逾期情况稳定。",
