@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-29T06:17:43.716559+08:00",
-  "total_titles_processed": 528,
+  "generated_at": "2025-11-29T07:17:42.459234+08:00",
+  "total_titles_processed": 552,
   "failed_sources": [],
   "trends": [
     {
@@ -20,8 +20,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 05时16分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 07时17分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收涨0.5%。 热门中概股里，小米ADR涨3.4%，小鹏涨3.2%，文远知行涨2.3%，京东涨1.2%，蔚来涨0.7%。",
@@ -72,11 +72,12 @@
             3,
             9,
             14,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时14分 ~ 06时17分]"
+          "appearance_count": 5,
+          "time_info": "[03时14分 ~ 07时17分]"
         },
         {
           "title": "惠誉评级：欧洲汽车资产支持证券（ABS）资产损失仍在增加，但逾期情况稳定。",
