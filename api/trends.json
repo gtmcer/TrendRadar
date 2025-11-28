@@ -1,23 +1,12 @@
 {
-  "generated_at": "2025-11-28T14:29:30.897193+08:00",
-  "total_titles_processed": 1125,
+  "generated_at": "2025-11-28T15:19:31.059615+08:00",
+  "total_titles_processed": 1224,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
       "match_count": 4,
       "titles": [
-        {
-          "title": "雷军回应小米汽车续航测试",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E7%BB%AD%E8%88%AA%E6%B5%8B%E8%AF%95%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时10分 ~ 14时29分]"
-        },
         {
           "title": "男子在小鹏 4S 店试车被玻璃门夹脚，门坏了遭店员索赔，涉事员工被顶格处理，如何看待此事？",
           "url": "https://www.zhihu.com/question/1975954280067379778",
@@ -29,8 +18,20 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时20分 ~ 15时19分]"
+        },
+        {
+          "title": "雷军回应小米汽车续航测试",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E7%BB%AD%E8%88%AA%E6%B5%8B%E8%AF%95%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[09时20分 ~ 14时29分]"
+          "time_info": "[11时10分 ~ 15时19分]"
         },
         {
           "title": "雷军称继续向特斯拉学习",
@@ -39,7 +40,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
@@ -61,6 +62,18 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "普京亲自带货：中国电动汽车不香吗",
+          "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E4%BA%B2%E8%87%AA%E5%B8%A6%E8%B4%A7%EF%BC%9A%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E4%B8%8D%E9%A6%99%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时29分 ~ 15时19分]"
+        },
+        {
           "title": "英国10月汽车产量骤降24% 捷豹路虎遭网络攻击影响持续",
           "url": "https://flash.jin10.com/detail/20251128084307484800",
           "source": "金十数据",
@@ -81,17 +94,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
-        },
-        {
-          "title": "普京亲自带货：中国电动汽车不香吗",
-          "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E4%BA%B2%E8%87%AA%E5%B8%A6%E8%B4%A7%EF%BC%9A%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E4%B8%8D%E9%A6%99%E5%90%97",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时29分"
         }
       ]
     }
