@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-28T12:22:58.830734+08:00",
-  "total_titles_processed": 956,
+  "generated_at": "2025-11-28T13:20:08.119326+08:00",
+  "total_titles_processed": 1052,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时10分 ~ 12时22分]"
+          "appearance_count": 4,
+          "time_info": "[11时10分 ~ 13时20分]"
         },
         {
           "title": "男子在小鹏 4S 店试车被玻璃门夹脚，门坏了遭店员索赔，涉事员工被顶格处理，如何看待此事？",
@@ -25,11 +25,12 @@
           "ranks": [
             7,
             2,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时20分 ~ 12时22分]"
+          "appearance_count": 5,
+          "time_info": "[09时20分 ~ 13时20分]"
         },
         {
           "title": "小米汽车首例定金案败诉 “未交车催收尾款”被判双倍返还定金",
@@ -66,7 +67,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
         }
