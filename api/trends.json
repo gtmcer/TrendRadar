@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-29T19:14:55.926983+08:00",
-  "total_titles_processed": 1271,
+  "generated_at": "2025-11-29T20:35:24.488675+08:00",
+  "total_titles_processed": 1334,
   "failed_sources": [],
   "trends": [
     {
@@ -135,8 +135,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时22分 ~ 19时14分]"
+          "appearance_count": 9,
+          "time_info": "[12时22分 ~ 20时35分]"
         },
         {
           "title": "周五（11月28日），彭博电动汽车价格回报指数涨1.16%，报3418.76点，11月份累跌2.20%，整体呈现出W形走势。",
@@ -161,11 +161,12 @@
             19,
             18,
             15,
-            12
+            12,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时23分 ~ 19时14分]"
+          "appearance_count": 5,
+          "time_info": "[16时23分 ~ 20时35分]"
         },
         {
           "title": "惠誉评级：欧洲汽车资产支持证券（ABS）资产损失仍在增加，但逾期情况稳定。",
