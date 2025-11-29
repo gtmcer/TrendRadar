@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-29T14:26:52.955103+08:00",
-  "total_titles_processed": 948,
+  "generated_at": "2025-11-29T15:17:25.078726+08:00",
+  "total_titles_processed": 992,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "雷军回应小米汽车续航测试",
@@ -42,8 +42,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时11分 ~ 14时26分]"
+          "appearance_count": 5,
+          "time_info": "[11时11分 ~ 15时17分]"
         },
         {
           "title": "如何评价理想汽车为 i6 欣旺达电池额外赠送 2 年 4 万公里质保？",
@@ -103,6 +103,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        },
+        {
+          "title": "曝特斯拉曾拆解多款中国电动汽车",
+          "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E7%89%B9%E6%96%AF%E6%8B%89%E6%9B%BE%E6%8B%86%E8%A7%A3%E5%A4%9A%E6%AC%BE%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
         }
       ]
     },
@@ -132,11 +143,12 @@
           "ranks": [
             5,
             12,
-            21
+            21,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时22分 ~ 14时26分]"
+          "appearance_count": 4,
+          "time_info": "[12时22分 ~ 15时17分]"
         },
         {
           "title": "惠誉评级：欧洲汽车资产支持证券（ABS）资产损失仍在增加，但逾期情况稳定。",
