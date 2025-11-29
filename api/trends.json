@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-29T17:18:59.095702+08:00",
-  "total_titles_processed": 1129,
+  "generated_at": "2025-11-29T18:18:30.195997+08:00",
+  "total_titles_processed": 1209,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时11分 ~ 17时18分]"
+          "appearance_count": 8,
+          "time_info": "[11时11分 ~ 18时18分]"
         },
         {
           "title": "雷军回应小米汽车续航测试",
@@ -130,11 +130,12 @@
             12,
             21,
             13,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时22分 ~ 17时18分]"
+          "appearance_count": 7,
+          "time_info": "[12时22分 ~ 18时18分]"
         },
         {
           "title": "周五（11月28日），彭博电动汽车价格回报指数涨1.16%，报3418.76点，11月份累跌2.20%，整体呈现出W形走势。",
@@ -152,6 +153,19 @@
           "time_info": "[03时14分 ~ 07时17分]"
         },
         {
+          "title": "视频丨普京赞东方及全球南方发展快过西方，拿中国电动汽车举例",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32066748",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时23分 ~ 18时18分]"
+        },
+        {
           "title": "惠誉评级：欧洲汽车资产支持证券（ABS）资产损失仍在增加，但逾期情况稳定。",
           "url": "https://flash.jin10.com/detail/20251129002744050800",
           "source": "金十数据",
@@ -162,18 +176,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时16分 ~ 02时26分]"
-        },
-        {
-          "title": "视频丨普京赞东方及全球南方发展快过西方，拿中国电动汽车举例",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32066748",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时23分 ~ 17时18分]"
         },
         {
           "title": "取消汽车物理按键是功能进步还是失败",
