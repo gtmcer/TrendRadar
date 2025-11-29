@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-29T22:16:52.412512+08:00",
-  "total_titles_processed": 1437,
+  "generated_at": "2025-11-29T23:17:45.748648+08:00",
+  "total_titles_processed": 1480,
   "failed_sources": [],
   "trends": [
     {
@@ -147,11 +147,12 @@
             18,
             15,
             12,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时23分 ~ 22时16分]"
+          "appearance_count": 8,
+          "time_info": "[16时23分 ~ 23时17分]"
         },
         {
           "title": "周五（11月28日），彭博电动汽车价格回报指数涨1.16%，报3418.76点，11月份累跌2.20%，整体呈现出W形走势。",
