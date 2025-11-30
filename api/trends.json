@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-30T21:25:34.807903+08:00",
-  "total_titles_processed": 1172,
+  "generated_at": "2025-11-30T22:16:56.623682+08:00",
+  "total_titles_processed": 1225,
   "failed_sources": [],
   "trends": [
     {
@@ -64,11 +64,12 @@
           "ranks": [
             6,
             7,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时14分 ~ 21时25分]"
+          "appearance_count": 4,
+          "time_info": "[19时14分 ~ 22时16分]"
         },
         {
           "title": "特斯拉登陆印度2个多月仅卖出百辆",
