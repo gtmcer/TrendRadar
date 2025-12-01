@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-02T02:31:20.535671+08:00",
-  "total_titles_processed": 413,
+  "generated_at": "2025-12-02T03:20:54.053992+08:00",
+  "total_titles_processed": 456,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "意大利交通部表示，特斯拉11月份新车注册量同比增长58.15%，1月至11月的新车注册量同比下降27.73%。",
@@ -26,11 +26,12 @@
           "ranks": [
             18,
             9,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 02时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 03时20分]"
         },
         {
           "title": "朱迪的理想9年来一直没有变",
@@ -39,11 +40,12 @@
           "ranks": [
             29,
             21,
-            17
+            17,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 02时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 03时20分]"
         },
         {
           "title": "葡萄牙11月特斯拉汽车新注册量同比下滑46.9%，1月至11月累计下滑23.9%。",
@@ -52,9 +54,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
+        },
+        {
+          "title": "特斯拉在欧洲的销量下滑势头没有减弱的迹象",
+          "url": "https://flash.jin10.com/detail/20251202022407373800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时20分"
         }
       ]
     },
@@ -71,8 +84,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 02时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 03时20分]"
         }
       ]
     }
