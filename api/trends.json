@@ -1,12 +1,42 @@
 {
-  "generated_at": "2025-12-02T03:20:54.053992+08:00",
-  "total_titles_processed": 456,
+  "generated_at": "2025-12-02T04:20:02.735374+08:00",
+  "total_titles_processed": 478,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
       "match_count": 5,
       "titles": [
+        {
+          "title": "小米汽车月销破4万辆 订单还够用吗",
+          "url": "https://www.toutiao.com/trending/7578838517380288027/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            9,
+            25,
+            27,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 04时20分]"
+        },
+        {
+          "title": "朱迪的理想9年来一直没有变",
+          "url": "https://www.douyin.com/hot/2323051",
+          "source": "抖音",
+          "ranks": [
+            29,
+            21,
+            17,
+            26,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 04时20分]"
+        },
         {
           "title": "意大利交通部表示，特斯拉11月份新车注册量同比增长58.15%，1月至11月的新车注册量同比下降27.73%。",
           "url": "https://flash.jin10.com/detail/20251202010150806800",
@@ -18,34 +48,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时20分 ~ 02时31分]"
-        },
-        {
-          "title": "小米汽车月销破4万辆 订单还够用吗",
-          "url": "https://www.toutiao.com/trending/7578838517380288027/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            9,
-            25,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 03时20分]"
-        },
-        {
-          "title": "朱迪的理想9年来一直没有变",
-          "url": "https://www.douyin.com/hot/2323051",
-          "source": "抖音",
-          "ranks": [
-            29,
-            21,
-            17,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 03时20分]"
         },
         {
           "title": "葡萄牙11月特斯拉汽车新注册量同比下滑46.9%，1月至11月累计下滑23.9%。",
@@ -65,7 +67,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
         }
@@ -81,11 +83,12 @@
           "source": "知乎",
           "ranks": [
             14,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 03时20分]"
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 04时20分]"
         }
       ]
     }
