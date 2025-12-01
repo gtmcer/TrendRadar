@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-02T06:17:14.594609+08:00",
-  "total_titles_processed": 554,
+  "generated_at": "2025-12-02T07:18:24.642150+08:00",
+  "total_titles_processed": 597,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 05时16分]"
+          "appearance_count": 8,
+          "time_info": "[00时27分 ~ 07时18分]"
         },
         {
           "title": "朱迪的理想9年来一直没有变",
@@ -31,11 +31,12 @@
             21,
             17,
             26,
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 04时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 07时18分]"
         },
         {
           "title": "意大利交通部表示，特斯拉11月份新车注册量同比增长58.15%，1月至11月的新车注册量同比下降27.73%。",
@@ -50,6 +51,18 @@
           "time_info": "[01时20分 ~ 02时31分]"
         },
         {
+          "title": "纳斯达克金龙中国指数收涨0.96%，报7867.79点，全天持续走高。 热门中概股里，网易初步收涨4.9%，阿里巴巴涨4.4%，小马智行、新东方、文远知行、百度、拼多多至多涨3.4%，小鹏则跌2.2%，理想跌2.5%，小米集团ADR跌3%，蔚来跌5.7%。 ETF中，中概互联网指数ETF（KWEB）收涨1.12%，中国科技指数ETF（CQQQ）收涨0.67%。 德银嘉实沪深300指数ETF（ASHR）收涨0.77%，XtrackersHarvest中证50（ASHS）收涨0.66%。",
+          "url": "https://wallstreetcn.com/livenews/3013211",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时17分 ~ 07时18分]"
+        },
+        {
           "title": "葡萄牙11月特斯拉汽车新注册量同比下滑46.9%，1月至11月累计下滑23.9%。",
           "url": "https://flash.jin10.com/detail/20251202011157970800",
           "source": "金十数据",
@@ -59,17 +72,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收涨0.96%，报7867.79点，全天持续走高。 热门中概股里，网易初步收涨4.9%，阿里巴巴涨4.4%，小马智行、新东方、文远知行、百度、拼多多至多涨3.4%，小鹏则跌2.2%，理想跌2.5%，小米集团ADR跌3%，蔚来跌5.7%。 ETF中，中概互联网指数ETF（KWEB）收涨1.12%，中国科技指数ETF（CQQQ）收涨0.67%。 德银嘉实沪深300指数ETF（ASHR）收涨0.77%，XtrackersHarvest中证50（ASHS）收涨0.66%。",
-          "url": "https://wallstreetcn.com/livenews/3013211",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时17分"
         },
         {
           "title": "特斯拉在欧洲的销量下滑势头没有减弱的迹象",
@@ -93,22 +95,24 @@
           "url": "https://wallstreetcn.com/livenews/3013215",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时17分 ~ 07时18分]"
         },
         {
           "title": "美国商务部长卢特尼克：美国自11月1日起对韩国汽车的关税降至15%。",
           "url": "https://flash.jin10.com/detail/20251202052715237800",
           "source": "金十数据",
           "ranks": [
-            17
+            17,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时17分 ~ 07时18分]"
         }
       ]
     },
@@ -128,8 +132,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时27分 ~ 06时17分]"
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 07时18分]"
         }
       ]
     }
