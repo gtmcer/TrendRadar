@@ -1,11 +1,94 @@
 {
-  "generated_at": "2025-12-01T09:46:58.622465+08:00",
-  "total_titles_processed": 613,
+  "generated_at": "2025-12-01T11:50:28.728611+08:00",
+  "total_titles_processed": 773,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "汽车",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "比亚迪汽车（日本）：在日本推出插电式混合动力SUV“海狮6（SEALION 6）”，将于1月下旬开始交付。",
+          "url": "https://flash.jin10.com/detail/20251201111003612800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时50分"
+        },
+        {
+          "title": "金十图示：2025年12月01日（周一）全球汽车制造商市值变化",
+          "url": "https://flash.jin10.com/detail/20251201110752364800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时50分"
+        },
+        {
+          "title": "岚图汽车11月交付20005辆",
+          "url": "https://www.toutiao.com/trending/7578705598729469995/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时50分"
+        },
+        {
+          "title": "零跑汽车：11月全系交付达70327台，同比增长超75%。",
+          "url": "https://wallstreetcn.com/livenews/3012668",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
+          "title": "零跑汽车11月交付70327台",
+          "url": "https://www.toutiao.com/trending/7578345564539158574/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时50分"
+        },
+        {
+          "title": "零跑汽车称，11月，零跑全系交付再创新高达70327台，同比增长超75%，持续刷新月销纪录，连续九个月保持增长态势。",
+          "url": "https://wallstreetcn.com/livenews/3012650",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
+          "title": "据智己汽车消息，智己汽车11月销售13577台。",
+          "url": "https://wallstreetcn.com/livenews/3012712",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时50分"
+        }
+      ]
+    },
+    {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "小米汽车：11月新增17家门店",
@@ -20,41 +103,35 @@
           "time_info": "[00时22分 ~ 06时17分]"
         },
         {
+          "title": "11月小米汽车交付量超4万台",
+          "url": "https://s.weibo.com/weibo?q=%2311%E6%9C%88%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E4%BA%A4%E4%BB%98%E9%87%8F%E8%B6%854%E4%B8%87%E5%8F%B0%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时50分"
+        },
+        {
+          "title": "小米汽车将开放现车选购",
+          "url": "https://www.douyin.com/hot/2322868",
+          "source": "抖音",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时50分"
+        },
+        {
           "title": "小米汽车：11月交付量超过4万台",
           "url": "https://wallstreetcn.com/livenews/3012646",
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时46分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "汽车",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "零跑汽车：11月全系交付达70327台，同比增长超75%。",
-          "url": "https://wallstreetcn.com/livenews/3012668",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时46分"
-        },
-        {
-          "title": "零跑汽车称，11月，零跑全系交付再创新高达70327台，同比增长超75%，持续刷新月销纪录，连续九个月保持增长态势。",
-          "url": "https://wallstreetcn.com/livenews/3012650",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时46分"
         }
