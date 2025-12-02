@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-02T15:21:44.290354+08:00",
-  "total_titles_processed": 1218,
+  "generated_at": "2025-12-02T16:28:23.138390+08:00",
+  "total_titles_processed": 1320,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "一辆蔚来 EC6 发生事故车体断成两节，车门正常打开无冒烟自燃，能否改善消费者对电车的安全焦虑？",
@@ -19,8 +19,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时17分 ~ 15时21分]"
+          "appearance_count": 9,
+          "time_info": "[11时17分 ~ 16时28分]"
         },
         {
           "title": "小米汽车月销破4万辆 订单还够用吗",
@@ -63,6 +63,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时17分 ~ 11时18分]"
+        },
+        {
+          "title": "恒生指数收盘涨0.24%，恒生科技指数跌0.37%。万科企业涨约4%，小鹏汽车跌约6%，中兴通讯跌约6%，蔚来跌约7%。",
+          "url": "https://wallstreetcn.com/livenews/3013587",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
         },
         {
           "title": "意大利交通部表示，特斯拉11月份新车注册量同比增长58.15%，1月至11月的新车注册量同比下降27.73%。",
@@ -152,6 +163,18 @@
           "time_info": "[06时17分 ~ 07时18分]"
         },
         {
+          "title": "吉利汽车 11 月销量达到 310428 辆，这一业绩对国内汽车市场意味着什么？",
+          "url": "https://www.zhihu.com/question/1978879849037837003",
+          "source": "知乎",
+          "ranks": [
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时21分 ~ 16时28分]"
+        },
+        {
           "title": "美国商务部长卢特尼克：美国自11月1日起对韩国汽车的关税降至15%。",
           "url": "https://flash.jin10.com/detail/20251202052715237800",
           "source": "金十数据",
@@ -173,17 +196,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
-        },
-        {
-          "title": "吉利汽车 11 月销量达到 310428 辆，这一业绩对国内汽车市场意味着什么？",
-          "url": "https://www.zhihu.com/question/1978879849037837003",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时21分"
         },
         {
           "title": "金十图示：2025年12月02日（周二）全球汽车制造商市值变化",
@@ -211,7 +223,7 @@
     },
     {
       "keyword_group": "华为汽车 鸿蒙智行 问界 尚界 尊界 智界 享界 乾崑",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "鸿蒙智行全系车型 2025 年 11 月交付量 81864 台，如何看待这一成就？哪些优势吸引了消费者？",
@@ -227,6 +239,17 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时27分 ~ 09时24分]"
+        },
+        {
+          "title": "新问界M7上市68天累计交付突破4万台",
+          "url": "https://wallstreetcn.com/livenews/3013580",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
         }
       ]
     }
