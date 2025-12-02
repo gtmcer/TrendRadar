@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-02T18:21:43.441018+08:00",
-  "total_titles_processed": 1498,
+  "generated_at": "2025-12-02T19:18:52.734447+08:00",
+  "total_titles_processed": 1600,
   "failed_sources": [],
   "trends": [
     {
@@ -20,8 +20,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时17分 ~ 18时21分]"
+          "appearance_count": 12,
+          "time_info": "[11时17分 ~ 19时18分]"
         },
         {
           "title": "小米汽车月销破4万辆 订单还够用吗",
@@ -55,6 +55,18 @@
           "time_info": "[00时27分 ~ 07时18分]"
         },
         {
+          "title": "小米汽车罕见自谦,冲欧自评不够格",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347668&amp;topic_name=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E7%BD%95%E8%A7%81%E8%87%AA%E8%B0%A6%2C%E5%86%B2%E6%AC%A7%E8%87%AA%E8%AF%84%E4%B8%8D%E5%A4%9F%E6%A0%BC",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时21分 ~ 19时18分]"
+        },
+        {
           "title": "小米汽车交付量已超全年目标",
           "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E4%BA%A4%E4%BB%98%E9%87%8F%E5%B7%B2%E8%B6%85%E5%85%A8%E5%B9%B4%E7%9B%AE%E6%A0%87%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
@@ -64,17 +76,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时17分 ~ 11时18分]"
-        },
-        {
-          "title": "小米汽车罕见自谦,冲欧自评不够格",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347668&amp;topic_name=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E7%BD%95%E8%A7%81%E8%87%AA%E8%B0%A6%2C%E5%86%B2%E6%AC%A7%E8%87%AA%E8%AF%84%E4%B8%8D%E5%A4%9F%E6%A0%BC",
-          "source": "贴吧",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时21分"
         },
         {
           "title": "意大利交通部表示，特斯拉11月份新车注册量同比增长58.15%，1月至11月的新车注册量同比下降27.73%。",
@@ -204,11 +205,12 @@
           "source": "知乎",
           "ranks": [
             15,
-            19
+            19,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时21分 ~ 18时21分]"
+          "appearance_count": 4,
+          "time_info": "[15时21分 ~ 19时18分]"
         },
         {
           "title": "周一（12月1日），彭博电动汽车价格回报指数大致持平，报3418.80点，北京时间09:30之前开始一波短线拉升行情、10:05涨至3450.54点刷新日高，随后快速回吐这一波涨幅，日内大部分时间持稳于3425点一线。",
