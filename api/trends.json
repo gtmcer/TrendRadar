@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-02T17:25:26.959781+08:00",
-  "total_titles_processed": 1412,
+  "generated_at": "2025-12-02T18:21:43.441018+08:00",
+  "total_titles_processed": 1498,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "一辆蔚来 EC6 发生事故车体断成两节，车门正常打开无冒烟自燃，能否改善消费者对电车的安全焦虑？",
@@ -16,11 +16,12 @@
             6,
             5,
             4,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时17分 ~ 17时25分]"
+          "appearance_count": 11,
+          "time_info": "[11时17分 ~ 18时21分]"
         },
         {
           "title": "小米汽车月销破4万辆 订单还够用吗",
@@ -65,15 +66,15 @@
           "time_info": "[11时17分 ~ 11时18分]"
         },
         {
-          "title": "中概股美股盘前多数下跌，小鹏汽车跌4.6%，哔哩哔哩跌超1%，阿里巴巴跌1.5%。",
-          "url": "https://wallstreetcn.com/livenews/3013613",
-          "source": "华尔街见闻-快讯",
+          "title": "小米汽车罕见自谦,冲欧自评不够格",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347668&amp;topic_name=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E7%BD%95%E8%A7%81%E8%87%AA%E8%B0%A6%2C%E5%86%B2%E6%AC%A7%E8%87%AA%E8%AF%84%E4%B8%8D%E5%A4%9F%E6%A0%BC",
+          "source": "贴吧",
           "ranks": [
-            3
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时25分"
+          "time_info": "18时21分"
         },
         {
           "title": "意大利交通部表示，特斯拉11月份新车注册量同比增长58.15%，1月至11月的新车注册量同比下降27.73%。",
@@ -100,6 +101,18 @@
           "time_info": "[16时28分 ~ 17时25分]"
         },
         {
+          "title": "中概股美股盘前多数下跌，小鹏汽车跌4.6%，哔哩哔哩跌超1%，阿里巴巴跌1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3013613",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时25分 ~ 18时21分]"
+        },
+        {
           "title": "纳斯达克金龙中国指数收涨0.96%，报7867.79点，全天持续走高。 热门中概股里，网易初步收涨4.9%，阿里巴巴涨4.4%，小马智行、新东方、文远知行、百度、拼多多至多涨3.4%，小鹏则跌2.2%，理想跌2.5%，小米集团ADR跌3%，蔚来跌5.7%。 ETF中，中概互联网指数ETF（KWEB）收涨1.12%，中国科技指数ETF（CQQQ）收涨0.67%。 德银嘉实沪深300指数ETF（ASHR）收涨0.77%，XtrackersHarvest中证50（ASHS）收涨0.66%。",
           "url": "https://wallstreetcn.com/livenews/3013211",
           "source": "华尔街见闻-快讯",
@@ -112,13 +125,25 @@
           "time_info": "[06时17分 ~ 07时18分]"
         },
         {
+          "title": "小鹏X9超级增程全球首发华为DriveONE下一代增程发电机",
+          "url": "https://wallstreetcn.com/livenews/3013603",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时25分 ~ 18时21分]"
+        },
+        {
           "title": "小鹏汽车(XPEV.N)美股盘前跌4%，阿里巴巴(BABA.N)跌1.4%，哔哩哔哩(BILI.O)跌1.3%。",
           "url": "https://flash.jin10.com/detail/20251202170323090800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
         },
@@ -132,17 +157,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
-        },
-        {
-          "title": "小鹏X9超级增程全球首发华为DriveONE下一代增程发电机",
-          "url": "https://wallstreetcn.com/livenews/3013603",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时25分"
         },
         {
           "title": "特斯拉在欧洲的销量下滑势头没有减弱的迹象",
@@ -185,6 +199,18 @@
           "time_info": "[14时31分 ~ 15时21分]"
         },
         {
+          "title": "吉利汽车 11 月销量达到 310428 辆，这一业绩对国内汽车市场意味着什么？",
+          "url": "https://www.zhihu.com/question/1978879849037837003",
+          "source": "知乎",
+          "ranks": [
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时21分 ~ 18时21分]"
+        },
+        {
           "title": "周一（12月1日），彭博电动汽车价格回报指数大致持平，报3418.80点，北京时间09:30之前开始一波短线拉升行情、10:05涨至3450.54点刷新日高，随后快速回吐这一波涨幅，日内大部分时间持稳于3425点一线。",
           "url": "https://wallstreetcn.com/livenews/3013215",
           "source": "华尔街见闻-快讯",
@@ -195,18 +221,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时17分 ~ 07时18分]"
-        },
-        {
-          "title": "吉利汽车 11 月销量达到 310428 辆，这一业绩对国内汽车市场意味着什么？",
-          "url": "https://www.zhihu.com/question/1978879849037837003",
-          "source": "知乎",
-          "ranks": [
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时21分 ~ 16时28分]"
         },
         {
           "title": "美国商务部长卢特尼克：美国自11月1日起对韩国汽车的关税降至15%。",
