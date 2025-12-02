@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-03T01:21:58.973884+08:00",
-  "total_titles_processed": 383,
+  "generated_at": "2025-12-03T02:30:57.132826+08:00",
+  "total_titles_processed": 434,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             4,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 02时30分]"
         },
         {
           "title": "市场消息：特朗普将于周三宣布拟对汽车燃油经济性法规进行调整，通用汽车和福特汽车的高管将出席白宫会议。",
@@ -26,7 +27,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
         },
@@ -37,7 +38,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
         }
@@ -55,19 +56,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 02时30分]"
         },
         {
           "title": "豆包AI助手\"理想丰满现实骨感\"？大摩：手机大厂更倾向自研，要落地很困难",
           "url": "https://wallstreetcn.com/articles/3760506",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 02时30分]"
         }
       ]
     }
