@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-03T19:18:29.331917+08:00",
-  "total_titles_processed": 1694,
+  "generated_at": "2025-12-03T20:40:40.321641+08:00",
+  "total_titles_processed": 1792,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "豆包AI助手\"理想丰满现实骨感\"？大摩：手机大厂更倾向自研，要落地很困难",
@@ -33,11 +33,12 @@
             16,
             17,
             20,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时26分 ~ 19时18分]"
+          "appearance_count": 26,
+          "time_info": "[00时26分 ~ 20时40分]"
         },
         {
           "title": "特斯拉发布人形机器人跑步视频",
@@ -76,6 +77,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[13时18分 ~ 16时27分]"
+        },
+        {
+          "title": "理想AI眼镜",
+          "url": "https://s.weibo.com/weibo?q=%E7%90%86%E6%83%B3AI%E7%9C%BC%E9%95%9C&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         },
         {
           "title": "枪口瞄准特斯拉！大空头称其估值荒谬、薪酬计划损害股东",
@@ -121,7 +133,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
@@ -165,9 +177,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
+        },
+        {
+          "title": "特斯拉11月德国汽车销量下降五分之一",
+          "url": "https://wallstreetcn.com/livenews/3014412",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         },
         {
           "title": "纳斯达克金龙中国指数收跌0.65%，报7808.98点。 热门中概股里，小鹏初步收跌7.5%，阿特斯太阳能跌5.9%，万国数据、蔚来、B站、世纪互联、阿里巴巴等至少跌约2%，华住则涨1%，文远知行涨2.7%，亚朵涨5.4%。 ETF中，中国科技指数ETF（CQQQ）收跌1.25%，中概互联网指数ETF（KWEB）收跌1.03%。 XtrackersHarvest中证50（ASHS）收跌1.11%，德银嘉实沪深300指数ETF（ASHR）收跌0.73%。",
@@ -195,7 +218,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "吉利汽车 11 月销量达到 310428 辆，这一业绩对国内汽车市场意味着什么？",
@@ -284,6 +307,17 @@
           "time_info": "[03时19分 ~ 04时23分]"
         },
         {
+          "title": "超20个地市已暂停或调整汽车国补",
+          "url": "https://wallstreetcn.com/livenews/3014446",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
           "title": "市场消息：特朗普将于周三宣布拟对汽车燃油经济性法规进行调整，通用汽车和福特汽车的高管将出席白宫会议。",
           "url": "https://flash.jin10.com/detail/20251203004623208800",
           "source": "金十数据",
@@ -329,7 +363,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         }
