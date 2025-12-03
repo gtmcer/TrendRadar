@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-03T22:20:33.632095+08:00",
-  "total_titles_processed": 1981,
+  "generated_at": "2025-12-03T23:22:00.802491+08:00",
+  "total_titles_processed": 2075,
   "failed_sources": [],
   "trends": [
     {
@@ -39,8 +39,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时26分 ~ 22时20分]"
+          "appearance_count": 30,
+          "time_info": "[00时26分 ~ 23时22分]"
         },
         {
           "title": "特斯拉发布人形机器人跑步视频",
@@ -255,7 +255,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
