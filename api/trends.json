@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-03T11:16:43.070091+08:00",
-  "total_titles_processed": 968,
+  "generated_at": "2025-12-03T12:28:29.701064+08:00",
+  "total_titles_processed": 1075,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "小米汽车罕见自谦,冲欧自评不够格",
@@ -16,8 +16,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时26分 ~ 11时16分]"
+          "appearance_count": 14,
+          "time_info": "[00时26分 ~ 12时28分]"
         },
         {
           "title": "豆包AI助手\"理想丰满现实骨感\"？大摩：手机大厂更倾向自研，要落地很困难",
@@ -40,9 +40,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时16分 ~ 12时28分]"
         },
         {
           "title": "周二（12月2日），彭博电动汽车价格回报指数跌0.58%，报3401.93点。 北京时间09:28过后跳空走低，日内持续低位震荡。 成分股中，普拉格动力公司涨约10%，MP材料涨超4%，特斯拉表现进入倒数前十。",
@@ -57,6 +57,18 @@
           "time_info": "[05时25分 ~ 06时17分]"
         },
         {
+          "title": "枪口瞄准特斯拉！大空头称其估值荒谬、薪酬计划损害股东",
+          "url": "https://wallstreetcn.com/articles/3760515",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时16分 ~ 12时28分]"
+        },
+        {
           "title": "纳斯达克金龙中国指数初步收跌0.6%。 热门中概股里，小鹏初步收跌7.5%，阿特斯太阳能跌5.9%，万国数据、蔚来、B站、世纪互联、阿里巴巴等至少跌约2%，华住则涨1%，文远知行涨2.7%，亚朵涨5.4%。 ETF中，CQQQ跌1.2%，KWEB跌0.9%。",
           "url": "https://wallstreetcn.com/livenews/3013907",
           "source": "华尔街见闻-快讯",
@@ -68,6 +80,17 @@
           "time_info": "05时25分"
         },
         {
+          "title": "特斯拉人形机器人跑步视频",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%96%AF%E6%8B%89%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B7%91%E6%AD%A5%E8%A7%86%E9%A2%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时28分"
+        },
+        {
           "title": "美股收盘：三大股指收涨 小鹏跌近8%",
           "url": "https://flash.jin10.com/detail/20251203050114408800",
           "source": "金十数据",
@@ -77,17 +100,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
-        },
-        {
-          "title": "枪口瞄准特斯拉！大空头称其估值荒谬、薪酬计划损害股东",
-          "url": "https://wallstreetcn.com/articles/3760515",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时16分"
         },
         {
           "title": "纳斯达克金龙中国指数收跌0.65%，报7808.98点。 热门中概股里，小鹏初步收跌7.5%，阿特斯太阳能跌5.9%，万国数据、蔚来、B站、世纪互联、阿里巴巴等至少跌约2%，华住则涨1%，文远知行涨2.7%，亚朵涨5.4%。 ETF中，中国科技指数ETF（CQQQ）收跌1.25%，中概互联网指数ETF（KWEB）收跌1.03%。 XtrackersHarvest中证50（ASHS）收跌1.11%，德银嘉实沪深300指数ETF（ASHR）收跌0.73%。",
@@ -107,7 +119,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
         }
@@ -115,7 +127,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "吉利汽车 11 月销量达到 310428 辆，这一业绩对国内汽车市场意味着什么？",
@@ -190,6 +202,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "金十图示：2025年12月03日（周三）全球汽车制造商市值变化",
+          "url": "https://flash.jin10.com/detail/20251203110746677800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时28分"
         }
       ]
     }
