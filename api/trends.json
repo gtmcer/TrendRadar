@@ -1,22 +1,23 @@
 {
-  "generated_at": "2025-12-03T09:24:32.587632+08:00",
-  "total_titles_processed": 826,
+  "generated_at": "2025-12-03T11:16:43.070091+08:00",
+  "total_titles_processed": 968,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "小米汽车罕见自谦,冲欧自评不够格",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347668&amp;topic_name=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E7%BD%95%E8%A7%81%E8%87%AA%E8%B0%A6%2C%E5%86%B2%E6%AC%A7%E8%87%AA%E8%AF%84%E4%B8%8D%E5%A4%9F%E6%A0%BC",
           "source": "贴吧",
           "ranks": [
-            7
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时26分 ~ 09时24分]"
+          "appearance_count": 13,
+          "time_info": "[00时26分 ~ 11时16分]"
         },
         {
           "title": "豆包AI助手\"理想丰满现实骨感\"？大摩：手机大厂更倾向自研，要落地很困难",
@@ -29,8 +30,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 09时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 11时16分]"
+        },
+        {
+          "title": "特斯拉发布人形机器人跑步视频",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%E5%8F%91%E5%B8%83%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B7%91%E6%AD%A5%E8%A7%86%E9%A2%91%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
         },
         {
           "title": "周二（12月2日），彭博电动汽车价格回报指数跌0.58%，报3401.93点。 北京时间09:28过后跳空走低，日内持续低位震荡。 成分股中，普拉格动力公司涨约10%，MP材料涨超4%，特斯拉表现进入倒数前十。",
@@ -67,6 +79,17 @@
           "time_info": "05时25分"
         },
         {
+          "title": "枪口瞄准特斯拉！大空头称其估值荒谬、薪酬计划损害股东",
+          "url": "https://wallstreetcn.com/articles/3760515",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
+        },
+        {
           "title": "纳斯达克金龙中国指数收跌0.65%，报7808.98点。 热门中概股里，小鹏初步收跌7.5%，阿特斯太阳能跌5.9%，万国数据、蔚来、B站、世纪互联、阿里巴巴等至少跌约2%，华住则涨1%，文远知行涨2.7%，亚朵涨5.4%。 ETF中，中国科技指数ETF（CQQQ）收跌1.25%，中概互联网指数ETF（KWEB）收跌1.03%。 XtrackersHarvest中证50（ASHS）收跌1.11%，德银嘉实沪深300指数ETF（ASHR）收跌0.73%。",
           "url": "https://wallstreetcn.com/livenews/3013907",
           "source": "华尔街见闻-快讯",
@@ -76,6 +99,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
+        },
+        {
+          "title": "恒生科技指数日内跌超1%。蔚来、小鹏汽车跌超4%。",
+          "url": "https://wallstreetcn.com/livenews/3014070",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
         }
       ]
     },
