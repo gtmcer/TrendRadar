@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-03T16:27:30.277398+08:00",
-  "total_titles_processed": 1419,
+  "generated_at": "2025-12-03T17:24:01.648417+08:00",
+  "total_titles_processed": 1526,
   "failed_sources": [],
   "trends": [
     {
@@ -31,11 +31,12 @@
             13,
             14,
             16,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时26分 ~ 16时27分]"
+          "appearance_count": 23,
+          "time_info": "[00时26分 ~ 17时24分]"
         },
         {
           "title": "特斯拉发布人形机器人跑步视频",
@@ -50,6 +51,20 @@
           "time_info": "[11时16分 ~ 13时19分]"
         },
         {
+          "title": "特斯拉擎天柱有哪些升级",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%96%AF%E6%8B%89%E6%93%8E%E5%A4%A9%E6%9F%B1%E6%9C%89%E5%93%AA%E4%BA%9B%E5%8D%87%E7%BA%A7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12,
+            26,
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时18分 ~ 17时24分]"
+        },
+        {
           "title": "特斯拉发布人形机器人跑步视频",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E5%8F%91%E5%B8%83%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B7%91%E6%AD%A5%E8%A7%86%E9%A2%91",
           "source": "百度热搜",
@@ -60,19 +75,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[13时18分 ~ 16时27分]"
-        },
-        {
-          "title": "特斯拉擎天柱有哪些升级",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%96%AF%E6%8B%89%E6%93%8E%E5%A4%A9%E6%9F%B1%E6%9C%89%E5%93%AA%E4%BA%9B%E5%8D%87%E7%BA%A7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12,
-            26,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时18分 ~ 15时21分]"
         },
         {
           "title": "枪口瞄准特斯拉！大空头称其估值荒谬、薪酬计划损害股东",
@@ -194,7 +196,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
         },
@@ -205,7 +207,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
         },
