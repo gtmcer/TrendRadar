@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-04T12:30:44.309465+08:00",
-  "total_titles_processed": 1038,
+  "generated_at": "2025-12-04T13:19:55.260715+08:00",
+  "total_titles_processed": 1097,
   "failed_sources": [],
   "trends": [
     {
@@ -244,11 +244,12 @@
           "source": "贴吧",
           "ranks": [
             27,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时26分 ~ 12时30分]"
+          "appearance_count": 18,
+          "time_info": "[00时26分 ~ 13时19分]"
         },
         {
           "title": "理想AI眼镜Livis首发开箱",
