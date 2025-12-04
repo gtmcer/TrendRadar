@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-04T11:18:51.359664+08:00",
-  "total_titles_processed": 901,
+  "generated_at": "2025-12-04T12:30:44.309465+08:00",
+  "total_titles_processed": 1038,
   "failed_sources": [],
   "trends": [
     {
@@ -39,7 +39,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时18分"
         },
@@ -247,8 +247,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时26分 ~ 11时18分]"
+          "appearance_count": 17,
+          "time_info": "[00时26分 ~ 12时30分]"
         },
         {
           "title": "理想AI眼镜Livis首发开箱",
@@ -302,7 +302,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时18分"
         },
