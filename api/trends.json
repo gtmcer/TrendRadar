@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-05T19:18:48.443667+08:00",
-  "total_titles_processed": 1656,
+  "generated_at": "2025-12-05T20:39:41.944053+08:00",
+  "total_titles_processed": 1764,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,20 @@
           "time_info": "14时31分"
         },
         {
+          "title": "车评人陈震偷税被查，多个平台被禁言，这对以人设信誉为生的车评人意味着什么？如何看待汽车自媒体行业现状？",
+          "url": "https://www.zhihu.com/question/1980256801569130289",
+          "source": "知乎",
+          "ranks": [
+            15,
+            10,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时20分 ~ 20时39分]"
+        },
+        {
           "title": "本田中国11月终端汽车销量同比下降33.8%。",
           "url": "https://wallstreetcn.com/livenews/3015552",
           "source": "华尔街见闻-快讯",
@@ -29,19 +43,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时18分 ~ 12时28分]"
-        },
-        {
-          "title": "车评人陈震偷税被查，多个平台被禁言，这对以人设信誉为生的车评人意味着什么？如何看待汽车自媒体行业现状？",
-          "url": "https://www.zhihu.com/question/1980256801569130289",
-          "source": "知乎",
-          "ranks": [
-            15,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时20分 ~ 19时18分]"
         },
         {
           "title": "美国国家公路交通安全管理局：福特汽车(F.N)正在召回11,852辆美国车辆。",
@@ -83,7 +84,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
@@ -133,7 +134,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
