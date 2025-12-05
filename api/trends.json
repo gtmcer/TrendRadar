@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-05T22:20:17.510743+08:00",
-  "total_titles_processed": 1946,
+  "generated_at": "2025-12-05T23:21:23.403396+08:00",
+  "total_titles_processed": 2049,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "车评人陈震偷税被查，多个平台被禁言，这对以人设信誉为生的车评人意味着什么？如何看待汽车自媒体行业现状？",
@@ -18,8 +18,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时20分 ~ 22时20分]"
+          "appearance_count": 9,
+          "time_info": "[17时20分 ~ 23时21分]"
         },
         {
           "title": "现代汽车股价延续早盘涨势，最新上涨11%，触及历史新高，报315,000韩元。",
@@ -76,6 +76,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
+        },
+        {
+          "title": "美国总统特朗普敦促立即制造紧凑型汽车（tiny cars）。",
+          "url": "https://wallstreetcn.com/livenews/3016010",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         },
         {
           "title": "商务部部长王文涛：促进大宗耐用商品消费，推进汽车流通消费改革试点，全链条扩大汽车消费",
