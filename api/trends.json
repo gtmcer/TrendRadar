@@ -1,23 +1,12 @@
 {
-  "generated_at": "2025-12-06T02:26:20.119504+08:00",
-  "total_titles_processed": 415,
+  "generated_at": "2025-12-06T03:16:18.060915+08:00",
+  "total_titles_processed": 434,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
       "match_count": 2,
       "titles": [
-        {
-          "title": "保加利亚、捷克、意大利、波兰、匈牙利和斯洛伐克呼吁欧盟允许混合动力汽车或采用其他绿色技术的发动机在2035年之后继续使用。",
-          "url": "https://flash.jin10.com/detail/20251206020940694800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时26分"
-        },
         {
           "title": "车评人陈震偷税被查，多个平台被禁言，这对以人设信誉为生的车评人意味着什么？如何看待汽车自媒体行业现状？",
           "url": "https://www.zhihu.com/question/1980256801569130289",
@@ -26,8 +15,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 02时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 03时16分]"
+        },
+        {
+          "title": "保加利亚、捷克、意大利、波兰、匈牙利和斯洛伐克呼吁欧盟允许混合动力汽车或采用其他绿色技术的发动机在2035年之后继续使用。",
+          "url": "https://flash.jin10.com/detail/20251206020940694800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时26分 ~ 03时16分]"
         }
       ]
     }
