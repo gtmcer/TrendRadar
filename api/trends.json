@@ -1,23 +1,12 @@
 {
-  "generated_at": "2025-12-05T20:39:41.944053+08:00",
-  "total_titles_processed": 1764,
+  "generated_at": "2025-12-05T21:32:30.379252+08:00",
+  "total_titles_processed": 1853,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
       "match_count": 9,
       "titles": [
-        {
-          "title": "现代汽车股价延续早盘涨势，最新上涨11%，触及历史新高，报315,000韩元。",
-          "url": "https://flash.jin10.com/detail/20251205135814783800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时31分"
-        },
         {
           "title": "车评人陈震偷税被查，多个平台被禁言，这对以人设信誉为生的车评人意味着什么？如何看待汽车自媒体行业现状？",
           "url": "https://www.zhihu.com/question/1980256801569130289",
@@ -29,8 +18,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时20分 ~ 20时39分]"
+          "appearance_count": 6,
+          "time_info": "[17时20分 ~ 21时32分]"
+        },
+        {
+          "title": "现代汽车股价延续早盘涨势，最新上涨11%，触及历史新高，报315,000韩元。",
+          "url": "https://flash.jin10.com/detail/20251205135814783800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时31分"
         },
         {
           "title": "本田中国11月终端汽车销量同比下降33.8%。",
