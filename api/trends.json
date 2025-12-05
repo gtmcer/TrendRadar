@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-05T18:21:09.746059+08:00",
-  "total_titles_processed": 1563,
+  "generated_at": "2025-12-05T19:18:48.443667+08:00",
+  "total_titles_processed": 1656,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "现代汽车股价延续早盘涨势，最新上涨11%，触及历史新高，报315,000韩元。",
@@ -36,11 +36,12 @@
           "source": "知乎",
           "ranks": [
             15,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时20分 ~ 18时21分]"
+          "appearance_count": 4,
+          "time_info": "[17时20分 ~ 19时18分]"
         },
         {
           "title": "美国国家公路交通安全管理局：福特汽车(F.N)正在召回11,852辆美国车辆。",
@@ -76,6 +77,17 @@
           "time_info": "06时18分"
         },
         {
+          "title": "商务部部长王文涛：促进大宗耐用商品消费，推进汽车流通消费改革试点，全链条扩大汽车消费",
+          "url": "https://wallstreetcn.com/livenews/3015856",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
+        },
+        {
           "title": "花旗在2026年展望中将欧洲汽车板块的评级从“减配”上调至“中性”。",
           "url": "https://flash.jin10.com/detail/20251205143447339800",
           "source": "金十数据",
@@ -101,7 +113,7 @@
     },
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "恒生指数收涨0.58%，恒生科技指数涨0.84%。保险股领涨，中国平安涨近7%，中国人寿涨超5%。百度集团涨逾5%，领涨科网股；新能源车概念股反弹，小鹏汽车、蔚来涨逾2%。",
@@ -113,6 +125,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
+        },
+        {
+          "title": "蓝思科技切入小米汽车供应链，明年车载玻璃产能或达150万套",
+          "url": "https://wallstreetcn.com/livenews/3015900",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
         },
         {
           "title": "恒生科技指数转涨，此前一度跌超1%。小米集团涨近2%，蔚来、中芯国际、百度等涨超1%。",
