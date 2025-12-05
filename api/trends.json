@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-05T14:31:06.553600+08:00",
-  "total_titles_processed": 1167,
+  "generated_at": "2025-12-05T15:20:38.271286+08:00",
+  "total_titles_processed": 1257,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "现代汽车股价延续早盘涨势，最新上涨11%，触及历史新高，报315,000韩元。",
@@ -14,7 +14,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时31分"
         },
@@ -51,6 +51,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
+        },
+        {
+          "title": "花旗在2026年展望中将欧洲汽车板块的评级从“减配”上调至“中性”。",
+          "url": "https://flash.jin10.com/detail/20251205143447339800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
         },
         {
           "title": "欧洲股市收涨超0.4%，雷诺、奔驰、保时捷、宝马等汽车概念股至少涨超4%",
