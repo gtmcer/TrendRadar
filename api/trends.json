@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-05T17:20:59.005646+08:00",
-  "total_titles_processed": 1465,
+  "generated_at": "2025-12-05T18:21:09.746059+08:00",
+  "total_titles_processed": 1563,
   "failed_sources": [],
   "trends": [
     {
@@ -31,6 +31,18 @@
           "time_info": "[11时18分 ~ 12时28分]"
         },
         {
+          "title": "车评人陈震偷税被查，多个平台被禁言，这对以人设信誉为生的车评人意味着什么？如何看待汽车自媒体行业现状？",
+          "url": "https://www.zhihu.com/question/1980256801569130289",
+          "source": "知乎",
+          "ranks": [
+            15,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时20分 ~ 18时21分]"
+        },
+        {
           "title": "美国国家公路交通安全管理局：福特汽车(F.N)正在召回11,852辆美国车辆。",
           "url": "https://flash.jin10.com/detail/20251205160508277800",
           "source": "金十数据",
@@ -40,17 +52,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
-        },
-        {
-          "title": "车评人陈震偷税被查，多个平台被禁言，这对以人设信誉为生的车评人意味着什么？如何看待汽车自媒体行业现状？",
-          "url": "https://www.zhihu.com/question/1980256801569130289",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时20分"
         },
         {
           "title": "金十图示：2025年12月05日（周五）全球汽车制造商市值变化",
