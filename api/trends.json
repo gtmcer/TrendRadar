@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-06T15:17:38.014583+08:00",
-  "total_titles_processed": 1049,
+  "generated_at": "2025-12-06T16:23:12.501753+08:00",
+  "total_titles_processed": 1115,
   "failed_sources": [],
   "trends": [
     {
@@ -37,11 +37,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            14
+            14,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时26分 ~ 15时17分]"
+          "appearance_count": 3,
+          "time_info": "[14时26分 ~ 16时23分]"
         },
         {
           "title": "长安汽车金融：有不法分子冒名发送催收短信，不排除存在持续大规模发送情况",
@@ -115,8 +116,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时18分 ~ 15时17分]"
+          "appearance_count": 4,
+          "time_info": "[13时18分 ~ 16时23分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收涨1.3%，本周累涨约0.5%、实现V形反转。 热门中概股里，百度初步收涨5.8%，万国数据涨4.5%，小鹏涨2.7%，新东方涨2.5%，小马智行则跌2.8%，阿特斯太阳能跌3.7%。",
