@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-06T17:18:32.904089+08:00",
-  "total_titles_processed": 1180,
+  "generated_at": "2025-12-06T18:18:57.494244+08:00",
+  "total_titles_processed": 1237,
   "failed_sources": [],
   "trends": [
     {
@@ -36,22 +36,12 @@
           "url": "https://flash.jin10.com/detail/20251206170334832800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时18分"
-        },
-        {
-          "title": "大众汽车首席执行官：大众汽车将在未来五年内总计投资1600亿欧元。",
-          "url": "https://flash.jin10.com/detail/20251206170000625800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时18分 ~ 18时18分]"
         },
         {
           "title": "六国呼吁欧盟放宽2035年内燃机汽车禁令",
@@ -65,6 +55,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时26分 ~ 16时23分]"
+        },
+        {
+          "title": "大众汽车首席执行官：大众汽车将在未来五年内总计投资1600亿欧元。",
+          "url": "https://flash.jin10.com/detail/20251206170000625800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时18分 ~ 18时18分]"
         },
         {
           "title": "长安汽车金融：有不法分子冒名发送催收短信，不排除存在持续大规模发送情况",
