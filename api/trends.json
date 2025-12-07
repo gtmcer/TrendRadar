@@ -1,7 +1,25 @@
 {
-  "generated_at": "2025-12-07T07:17:32.122102+08:00",
-  "total_titles_processed": 401,
+  "generated_at": "2025-12-07T09:40:27.555330+08:00",
+  "total_titles_processed": 527,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "“马斯克专属估值”？SpaceX以1/6的特斯拉收入，超过特斯拉一半的估值，考虑2026年IPO",
+          "url": "https://wallstreetcn.com/articles/3760842",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://gtmcer.github.io/TrendRadar/img/news.jpg"
 }
