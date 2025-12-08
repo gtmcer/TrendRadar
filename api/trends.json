@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-08T19:18:23.787639+08:00",
-  "total_titles_processed": 1460,
+  "generated_at": "2025-12-08T20:39:51.563401+08:00",
+  "total_titles_processed": 1564,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "广东“十五五”规划建议：大力提振消费 清理汽车、住房等消费不合理限制性措施",
@@ -30,8 +30,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时24分 ~ 19时18分]"
+          "appearance_count": 14,
+          "time_info": "[09时24分 ~ 20时39分]"
         },
         {
           "title": "净网：网民造谣汽车造成8杀被查处",
@@ -41,8 +41,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时24分 ~ 19时18分]"
+          "appearance_count": 14,
+          "time_info": "[09时24分 ~ 20时39分]"
         },
         {
           "title": "央视曝光汽车智驾神器成夺命陷阱",
@@ -211,9 +211,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
+        },
+        {
+          "title": "墨西哥11月汽车出口279,342辆。",
+          "url": "https://flash.jin10.com/detail/20251208200338809800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时39分"
         },
         {
           "title": "深交所：港股通标的证券名单调整，调入富卫集团、奥克斯电气、银诺医药-B、奇瑞汽车，12月08日起生效。",
@@ -238,13 +249,24 @@
           "time_info": "16时29分"
         },
         {
+          "title": "欧盟委员会发言人：欧盟将于年底前推出汽车一揽子计划。",
+          "url": "https://flash.jin10.com/detail/20251208195011955800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时39分"
+        },
+        {
           "title": "欧盟委员会文件草案显示，欧盟将把包括二氧化碳排放在内的汽车行业相关提案推迟至12月16日、把关于碳边境关税的提案推迟至12月16日。",
           "url": "https://flash.jin10.com/detail/20251208182858518800",
           "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         }
@@ -262,11 +284,12 @@
             16,
             19,
             10,
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时22分 ~ 19时18分]"
+          "appearance_count": 7,
+          "time_info": "[15时22分 ~ 20时39分]"
         },
         {
           "title": "特斯拉(TSLA.O)盘前跌超1%，摩根士丹利将其评级从超配下调至中性。",
@@ -373,7 +396,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         }
