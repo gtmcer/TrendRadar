@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T04:20:11.461226+08:00",
-  "total_titles_processed": 546,
+  "generated_at": "2025-12-10T05:21:42.342227+08:00",
+  "total_titles_processed": 602,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "特斯拉机器人摔倒前做出「摘头显」动作被疑受远程操控，这算露馅了吗？从专业角度分析，可能是什么原因？",
@@ -13,11 +13,23 @@
           "source": "知乎",
           "ranks": [
             3,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 04时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 05时21分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数初步收跌1.3%。 热门中概股里，百度跌4.6%，贝壳、小鹏、文远知行、理想跌超3%，世纪互联则涨1.8%，晶科能源涨2.3%，大全新能源涨3.3%。",
+          "url": "https://wallstreetcn.com/livenews/3017882",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
         },
         {
           "title": "特斯拉CEO埃隆·马斯克：欧盟委员会应该解散，由民选机构取代，欧盟主席也应该由直接选举产生。目前的体制是官僚统治，而非民主。",
@@ -56,8 +68,19 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "周二（12月9日），彭博电动汽车价格回报指数跌0.76%，报3438.75点，亚太早盘持续下跌，后续低位震荡。",
+          "url": "https://wallstreetcn.com/livenews/3017888",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
         {
           "title": "吉利副总裁陈政痛批部分车企拉低中国车设计高度，汽车行业设计存在哪些乱象？",
           "url": "https://www.zhihu.com/question/1981421077650511816",
