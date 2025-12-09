@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-09T20:41:06.262169+08:00",
-  "total_titles_processed": 1839,
+  "generated_at": "2025-12-09T21:35:40.270187+08:00",
+  "total_titles_processed": 1924,
   "failed_sources": [],
   "trends": [
     {
@@ -21,19 +21,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时28分 ~ 20时41分]"
-        },
-        {
-          "title": "金十图示：2025年12月09日（周二）全球汽车制造商市值变化",
-          "url": "https://flash.jin10.com/detail/20251209110729382800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时18分"
+          "appearance_count": 14,
+          "time_info": "[12时28分 ~ 21时35分]"
         },
         {
           "title": "近半省市“十五五”规划建议发布 汽车产业转向“集群发展”、跨领域深度融合",
@@ -45,8 +34,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时23分 ~ 20时41分]"
+          "appearance_count": 6,
+          "time_info": "[17时23分 ~ 21时35分]"
+        },
+        {
+          "title": "金十图示：2025年12月09日（周二）全球汽车制造商市值变化",
+          "url": "https://flash.jin10.com/detail/20251209110729382800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时18分"
         },
         {
           "title": "比亚迪 11 月首次跻身韩国进口车汽车月销量前五，超越雷克萨斯、丰田、大众，这释放了哪些信号？",
@@ -168,19 +168,8 @@
     },
     {
       "keyword_group": "华为汽车 鸿蒙智行 问界 尚界 尊界 智界 享界 乾崑",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
-        {
-          "title": "余承东透露明年或将推出问界M6",
-          "url": "https://wallstreetcn.com/livenews/3017688",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时41分"
-        },
         {
           "title": "余承东透露享界将推新车型",
           "url": "https://wallstreetcn.com/livenews/3017553",
@@ -192,6 +181,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时23分 ~ 18时23分]"
+        },
+        {
+          "title": "余承东透露明年或将推出问界M6",
+          "url": "https://wallstreetcn.com/livenews/3017688",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时41分 ~ 21时35分]"
         },
         {
           "title": "鸿蒙智行全面深化战略合作",
@@ -240,6 +241,17 @@
           "time_info": "15时22分"
         },
         {
+          "title": "鸿蒙智行 12 月 9 日的年度直播，哪个环节最打动你？有哪些值得关注的信息？",
+          "url": "https://www.zhihu.com/question/1981689062365622846",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
+        },
+        {
           "title": "鸿蒙智行官宣首款MPV命名为智界V9。",
           "url": "https://wallstreetcn.com/livenews/3017600",
           "source": "华尔街见闻-快讯",
@@ -249,6 +261,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
+        },
+        {
+          "title": "问界M7达成19万公里辅助驾驶里程",
+          "url": "https://www.toutiao.com/trending/7580970951677739058/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
         },
         {
           "title": "余承东官宣尚界首款轿跑明年上市",
@@ -276,7 +299,7 @@
     },
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "「马斯克兵败印度」特斯拉 2 个月只卖出 100 多辆，印度市场有何商业特点，什么商品在印度才会有竞争力？",
@@ -355,6 +378,17 @@
           "time_info": "05时17分"
         },
         {
+          "title": "理想汽车：L4级自动驾驶的实现将是汽车行业真正的“iPhone 4时刻”，理想预计三年内推出首款L4级自动驾驶汽车",
+          "url": "https://wallstreetcn.com/livenews/3017719",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
+        },
+        {
           "title": "如何评价理想语文研究所连挑中华书局和上海古籍出版社编校错误？",
           "url": "https://www.zhihu.com/question/1980924593326792808",
           "source": "知乎",
@@ -375,6 +409,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
+        },
+        {
+          "title": "特斯拉机器人摔倒前做出「摘头显」动作被疑受远程操控，这算露馅了吗？从专业角度分析，可能是什么原因？",
+          "url": "https://www.zhihu.com/question/1981656074458199100",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
         }
       ]
     }
