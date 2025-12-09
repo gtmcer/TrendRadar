@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-09T07:20:51.149857+08:00",
-  "total_titles_processed": 673,
+  "generated_at": "2025-12-09T09:24:40.089454+08:00",
+  "total_titles_processed": 828,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "「马斯克兵败印度」特斯拉 2 个月只卖出 100 多辆，印度市场有何商业特点，什么商品在印度才会有竞争力？",
@@ -49,6 +49,18 @@
           "time_info": "[06时18分 ~ 07时20分]"
         },
         {
+          "title": "美股三大指数集体收跌 特斯拉跌超3%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E6%94%B6%E8%B7%8C+%E7%89%B9%E6%96%AF%E6%8B%89%E8%B7%8C%E8%B6%853%25",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时20分 ~ 09时24分]"
+        },
+        {
           "title": "标普500指数初步收跌超0.4%，电信板块跌1.9%，原材料、可选消费、公用事业、保健、能源板块至多跌超1.6%，科技板块则涨0.7%。 纳斯达克100指数初步收跌0.3%，迈威尔科技跌7%，Fortinet跌4%，奈飞、特斯拉跌3.4%。",
           "url": "https://wallstreetcn.com/livenews/3017157",
           "source": "华尔街见闻-快讯",
@@ -60,15 +72,15 @@
           "time_info": "05时17分"
         },
         {
-          "title": "美股三大指数集体收跌 特斯拉跌超3%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E6%94%B6%E8%B7%8C+%E7%89%B9%E6%96%AF%E6%8B%89%E8%B7%8C%E8%B6%853%25",
-          "source": "百度热搜",
+          "title": "如何评价理想语文研究所连挑中华书局和上海古籍出版社编校错误？",
+          "url": "https://www.zhihu.com/question/1980924593326792808",
+          "source": "知乎",
           "ranks": [
-            15
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时20分"
+          "time_info": "09时24分"
         },
         {
           "title": "美股收盘：三大股指收跌 特斯拉跌超3%",
@@ -85,7 +97,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "周一（12月8日），彭博电动汽车价格回报指数涨1.11%，报3465.35点。 亚太盘初持续走高，北京时间14:35刷新日高至3479.12点，之后持续高位震荡；美股开盘后回吐部分涨幅。",
@@ -99,6 +111,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时17分 ~ 07时20分]"
+        },
+        {
+          "title": "比亚迪 11 月首次跻身韩国进口车汽车月销量前五，超越雷克萨斯、丰田、大众，这释放了哪些信号？",
+          "url": "https://www.zhihu.com/question/1979627712625800414",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
         }
       ]
     }
