@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-10T18:23:03.090074+08:00",
-  "total_titles_processed": 1669,
+  "generated_at": "2025-12-10T19:18:18.043018+08:00",
+  "total_titles_processed": 1762,
   "failed_sources": [],
   "trends": [
     {
@@ -41,25 +41,27 @@
         },
         {
           "title": "警方通报“小鹏汽车车展不雅视频”",
-          "url": "https://www.toutiao.com/trending/7582161338932186634/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时22分 ~ 18时23分]"
-        },
-        {
-          "title": "警方通报“小鹏汽车车展不雅视频”",
           "url": "https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E2%80%9C%E5%B0%8F%E9%B9%8F%E6%B1%BD%E8%BD%A6%E8%BD%A6%E5%B1%95%E4%B8%8D%E9%9B%85%E8%A7%86%E9%A2%91%E2%80%9D",
           "source": "百度热搜",
           "ranks": [
-            14
+            14,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时22分 ~ 18时23分]"
+          "appearance_count": 3,
+          "time_info": "[18时22分 ~ 19时18分]"
+        },
+        {
+          "title": "警方通报“小鹏汽车车展不雅视频”",
+          "url": "https://www.toutiao.com/trending/7582161338932186634/",
+          "source": "今日头条",
+          "ranks": [
+            11,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时22分 ~ 19时18分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌1.3%。 热门中概股里，百度跌4.6%，贝壳、小鹏、文远知行、理想跌超3%，世纪互联则涨1.8%，晶科能源涨2.3%，大全新能源涨3.3%。",
@@ -133,8 +135,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时22分 ~ 18时23分]"
+          "appearance_count": 6,
+          "time_info": "[15时22分 ~ 19时18分]"
         },
         {
           "title": "鸿蒙智行尊界 S800 轿车连续三月登顶 70 万级以上豪华车销冠，其核心竞争力是什么？",
@@ -142,11 +144,12 @@
           "source": "知乎",
           "ranks": [
             11,
-            20
+            20,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时31分 ~ 18时23分]"
+          "appearance_count": 7,
+          "time_info": "[14时31分 ~ 19时18分]"
         },
         {
           "title": "鸿蒙智行享界12月交付目标过万",
@@ -239,7 +242,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
         },
