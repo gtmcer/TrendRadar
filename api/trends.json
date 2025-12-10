@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-12-10T15:22:33.404184+08:00",
-  "total_titles_processed": 1399,
+  "generated_at": "2025-12-10T16:27:36.558854+08:00",
+  "total_titles_processed": 1497,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为汽车 鸿蒙智行 问界 尚界 尊界 智界 享界 乾崑",
       "match_count": 8,
       "titles": [
+        {
+          "title": "11月新能源车企销量TOP10：鸿蒙智行、小米同比几近翻倍 特斯拉环比飙升超180%",
+          "url": "https://www.cls.cn/detail/2224821",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时22分 ~ 16时27分]"
+        },
         {
           "title": "鸿蒙智行尊界 S800 轿车连续三月登顶 70 万级以上豪华车销冠，其核心竞争力是什么？",
           "url": "https://www.zhihu.com/question/1979268269694277414",
@@ -15,8 +27,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时31分 ~ 15时22分]"
+          "appearance_count": 3,
+          "time_info": "[14时31分 ~ 16时27分]"
         },
         {
           "title": "鸿蒙智行享界12月交付目标过万",
@@ -62,17 +74,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时21分 ~ 11时22分]"
-        },
-        {
-          "title": "11月新能源车企销量TOP10：鸿蒙智行、小米同比几近翻倍 特斯拉环比飙升超180%",
-          "url": "https://www.cls.cn/detail/2224821",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时22分"
         },
         {
           "title": "鸿蒙智行五界全面深化合作",
@@ -126,11 +127,12 @@
             13,
             10,
             11,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时21分 ~ 15时22分]"
+          "appearance_count": 7,
+          "time_info": "[11时21分 ~ 16时27分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌1.3%。 热门中概股里，百度跌4.6%，贝壳、小鹏、文远知行、理想跌超3%，世纪互联则涨1.8%，晶科能源涨2.3%，大全新能源涨3.3%。",
@@ -201,8 +203,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时21分 ~ 15时22分]"
+          "appearance_count": 7,
+          "time_info": "[11时21分 ~ 16时27分]"
         },
         {
           "title": "周二（12月9日），彭博电动汽车价格回报指数跌0.76%，报3438.75点，亚太早盘持续下跌，后续低位震荡。",
@@ -245,7 +247,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         },
