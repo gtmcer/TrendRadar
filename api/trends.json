@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T09:27:02.833283+08:00",
-  "total_titles_processed": 878,
+  "generated_at": "2025-12-10T11:22:21.053294+08:00",
+  "total_titles_processed": 1033,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "特斯拉机器人摔倒前做出「摘头显」动作被疑受远程操控，这算露馅了吗？从专业角度分析，可能是什么原因？",
@@ -21,6 +21,17 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时26分 ~ 09时27分]"
+        },
+        {
+          "title": "史上最大IPO明年来袭？SpaceX拟募资超300亿美元，目标估值超特斯拉！",
+          "url": "https://www.cls.cn/detail/2224862",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时21分 ~ 11时22分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌1.3%。 热门中概股里，百度跌4.6%，贝壳、小鹏、文远知行、理想跌超3%，世纪互联则涨1.8%，晶科能源涨2.3%，大全新能源涨3.3%。",
@@ -81,7 +92,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "周二（12月9日），彭博电动汽车价格回报指数跌0.76%，报3438.75点，亚太早盘持续下跌，后续低位震荡。",
@@ -94,6 +105,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时21分 ~ 06时20分]"
+        },
+        {
+          "title": "充“劣质电”致汽车自燃？谣言",
+          "url": "https://www.toutiao.com/trending/7581803443355615295/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时21分 ~ 11时22分]"
         },
         {
           "title": "余承东：中国智能电动汽车发展加速",
@@ -124,9 +146,48 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "华为汽车 鸿蒙智行 问界 尚界 尊界 智界 享界 乾崑",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "鸿蒙智行享界12月交付目标过万",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%B8%BF%E8%92%99%E6%99%BA%E8%A1%8C%E4%BA%AB%E7%95%8C12%E6%9C%88%E4%BA%A4%E4%BB%98%E7%9B%AE%E6%A0%87%E8%BF%87%E4%B8%87%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时21分 ~ 11时22分]"
+        },
+        {
+          "title": "中国超豪华车市场为何尊界能成功",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%B6%85%E8%B1%AA%E5%8D%8E%E8%BD%A6%E5%B8%82%E5%9C%BA%E4%B8%BA%E4%BD%95%E5%B0%8A%E7%95%8C%E8%83%BD%E6%88%90%E5%8A%9F%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时21分 ~ 11时22分]"
+        },
+        {
+          "title": "智界明年将推跑车级SUV",
+          "url": "https://www.toutiao.com/trending/7581760731440775209/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时21分 ~ 11时22分]"
         }
       ]
     },
