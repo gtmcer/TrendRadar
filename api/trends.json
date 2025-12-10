@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-10T22:21:53.383845+08:00",
-  "total_titles_processed": 2034,
+  "generated_at": "2025-12-10T23:23:45.610692+08:00",
+  "total_titles_processed": 2115,
   "failed_sources": [],
   "trends": [
     {
@@ -150,11 +150,12 @@
             14,
             2,
             4,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时22分 ~ 22时21分]"
+          "appearance_count": 7,
+          "time_info": "[18时22分 ~ 23时23分]"
         },
         {
           "title": "史上最大IPO明年来袭？SpaceX拟募资超300亿美元，目标估值超特斯拉！",
@@ -181,11 +182,12 @@
             4,
             8,
             18,
-            19
+            19,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时22分 ~ 22时21分]"
+          "appearance_count": 7,
+          "time_info": "[18时22分 ~ 23时23分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌1.3%。 热门中概股里，百度跌4.6%，贝壳、小鹏、文远知行、理想跌超3%，世纪互联则涨1.8%，晶科能源涨2.3%，大全新能源涨3.3%。",
