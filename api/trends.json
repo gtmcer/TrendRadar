@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-11T18:23:15.116733+08:00",
-  "total_titles_processed": 1766,
+  "generated_at": "2025-12-11T19:18:40.671471+08:00",
+  "total_titles_processed": 1851,
   "failed_sources": [],
   "trends": [
     {
@@ -148,20 +148,6 @@
       "match_count": 6,
       "titles": [
         {
-          "title": "特斯拉机器人摔倒摘镜被群嘲",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347877&amp;topic_name=%E7%89%B9%E6%96%AF%E6%8B%89%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%91%94%E5%80%92%E6%91%98%E9%95%9C%E8%A2%AB%E7%BE%A4%E5%98%B2",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            5,
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时24分 ~ 18时23分]"
-        },
-        {
           "title": "警方通报“小鹏汽车车展不雅视频”",
           "url": "https://www.toutiao.com/trending/7582161338932186634/",
           "source": "今日头条",
@@ -173,6 +159,21 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时26分 ~ 07时17分]"
+        },
+        {
+          "title": "特斯拉机器人摔倒摘镜被群嘲",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347877&amp;topic_name=%E7%89%B9%E6%96%AF%E6%8B%89%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%91%94%E5%80%92%E6%91%98%E9%95%9C%E8%A2%AB%E7%BE%A4%E5%98%B2",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            5,
+            6,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[11时24分 ~ 19时18分]"
         },
         {
           "title": "蔚来沈斐称「在补能基础设施越来越完善的当下，大电池增程是一种资源浪费」，你认同吗？",
