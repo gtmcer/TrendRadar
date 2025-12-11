@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-12T06:19:33.244723+08:00",
-  "total_titles_processed": 647,
+  "generated_at": "2025-12-12T07:19:06.610595+08:00",
+  "total_titles_processed": 689,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时28分 ~ 06时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时28分 ~ 07时19分]"
         },
         {
           "title": "“特斯拉劲敌”Rivian开发AI芯片，用于在未来车型中取代英伟达产品。 其AI平台的性能是之前款式英伟达系统的四倍。",
@@ -70,7 +70,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
         },
@@ -109,11 +109,12 @@
           "ranks": [
             16,
             8,
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时28分 ~ 06时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时28分 ~ 07时19分]"
         }
       ]
     },
