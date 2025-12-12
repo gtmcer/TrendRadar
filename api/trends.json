@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-12T14:31:37.409915+08:00",
-  "total_titles_processed": 1314,
+  "generated_at": "2025-12-12T15:22:26.914708+08:00",
+  "total_titles_processed": 1399,
   "failed_sources": [],
   "trends": [
     {
@@ -20,8 +20,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时28分 ~ 14时31分]"
+          "appearance_count": 17,
+          "time_info": "[00时28分 ~ 15时22分]"
         },
         {
           "title": "【恒指高开0.9%，恒生科技指数涨1.02%】京东健康涨超3%，蔚来涨超2%，网易涨近2%，快手、阿里巴巴等涨超1%。",
@@ -136,7 +136,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时31分"
         }
