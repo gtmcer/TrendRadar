@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-13T04:21:33.587860+08:00",
-  "total_titles_processed": 533,
+  "generated_at": "2025-12-13T05:17:41.716595+08:00",
+  "total_titles_processed": 552,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 04时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 05时17分]"
         },
         {
           "title": "美国公布对英国汽车的第一季度和第二季度关税配额。根据美国公告，配额内的英国汽车将被征收7.5%的关税。",
@@ -38,11 +38,12 @@
           "ranks": [
             9,
             13,
-            17
+            17,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时30分 ~ 04时21分]"
+          "appearance_count": 4,
+          "time_info": "[02时30分 ~ 05时17分]"
         },
         {
           "title": "通用汽车回吐涨幅，美国发布英国关税的税率配额。",
@@ -70,8 +71,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 04时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 05时17分]"
         },
         {
           "title": "纳斯达克100指数跌幅扩大至1%，半导体指数跌超2.5%。 成分股中，博通跌9.6%，美光科技跌4.5%，Applovin跌3%跌幅第三大，阿斯麦ADR跌1.5%，特斯拉则涨1.8%表现靠前，奈飞涨2.4%，Adobe涨3%，（宣布CEO离职的）露露柠檬涨10.3%领跑。",
