@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-13T03:17:16.553313+08:00",
-  "total_titles_processed": 501,
+  "generated_at": "2025-12-13T04:21:33.587860+08:00",
+  "total_titles_processed": 533,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             10,
-            13
+            13,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 03时17分]"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 04时21分]"
         },
         {
           "title": "美国公布对英国汽车的第一季度和第二季度关税配额。根据美国公告，配额内的英国汽车将被征收7.5%的关税。",
@@ -31,6 +32,19 @@
           "time_info": "01时19分"
         },
         {
+          "title": "美国汽车零部件供应商First Brands Group LLC.寻求扩充流动性。",
+          "url": "https://wallstreetcn.com/livenews/3020104",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时30分 ~ 04时21分]"
+        },
+        {
           "title": "通用汽车回吐涨幅，美国发布英国关税的税率配额。",
           "url": "https://wallstreetcn.com/livenews/3020082",
           "source": "华尔街见闻-快讯",
@@ -41,18 +55,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时19分 ~ 02时30分]"
-        },
-        {
-          "title": "美国汽车零部件供应商First Brands Group LLC.寻求扩充流动性。",
-          "url": "https://wallstreetcn.com/livenews/3020104",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时30分 ~ 03时17分]"
         }
       ]
     },
@@ -68,8 +70,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 03时17分]"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 04时21分]"
         },
         {
           "title": "纳斯达克100指数跌幅扩大至1%，半导体指数跌超2.5%。 成分股中，博通跌9.6%，美光科技跌4.5%，Applovin跌3%跌幅第三大，阿斯麦ADR跌1.5%，特斯拉则涨1.8%表现靠前，奈飞涨2.4%，Adobe涨3%，（宣布CEO离职的）露露柠檬涨10.3%领跑。",
