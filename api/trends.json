@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-13T09:22:11.134344+08:00",
-  "total_titles_processed": 717,
+  "generated_at": "2025-12-13T11:15:16.735517+08:00",
+  "total_titles_processed": 824,
   "failed_sources": [],
   "trends": [
     {
@@ -79,11 +79,12 @@
             10,
             13,
             9,
-            7
+            7,
+            19
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时23分 ~ 09时22分]"
+          "appearance_count": 17,
+          "time_info": "[00时23分 ~ 11时15分]"
         },
         {
           "title": "美国公布对英国汽车的第一季度和第二季度关税配额。根据美国公告，配额内的英国汽车将被征收7.5%的关税。",
@@ -134,6 +135,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时19分 ~ 02时30分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源汽车",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "30-40 万新能源汽车市场竞争日益升温，若想兼具格调与实用，哪款更值得入手？",
+          "url": "https://www.zhihu.com/question/1982603963074355711",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时14分 ~ 11时15分]"
         }
       ]
     }
