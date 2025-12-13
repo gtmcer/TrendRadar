@@ -1,113 +1,22 @@
 {
-  "generated_at": "2025-12-13T23:18:31.562263+08:00",
-  "total_titles_processed": 1566,
+  "generated_at": "2025-12-14T00:22:36.557496+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 9,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "汽车在高速上跑了 3 个小时，有必要停车给发动机散热吗？",
-          "url": "https://www.zhihu.com/question/476474620",
-          "source": "知乎",
-          "ranks": [
-            10,
-            13,
-            9,
-            7,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时23分 ~ 11时15分]"
-        },
-        {
-          "title": "美国公布对英国汽车的第一季度和第二季度关税配额。根据美国公告，配额内的英国汽车将被征收7.5%的关税。",
-          "url": "https://flash.jin10.com/detail/20251213004753343800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
-        },
         {
           "title": "长城汽车：全面审视井持续强化内部价格合规管理体系建设",
           "url": "https://wallstreetcn.com/livenews/3020253",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时18分"
-        },
-        {
-          "title": "奇瑞汽车：全面审视全链条价格行为，持续加强合规管理和体系建设",
-          "url": "https://wallstreetcn.com/livenews/3020245",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时26分 ~ 23时18分]"
-        },
-        {
-          "title": "美国汽车零部件供应商First Brands Group LLC.寻求扩充流动性。",
-          "url": "https://wallstreetcn.com/livenews/3020104",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            13,
-            17,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时30分 ~ 05时17分]"
-        },
-        {
-          "title": "欧盟拟放宽2035年燃油车禁令，欧洲汽车业获关键喘息期",
-          "url": "https://flash.jin10.com/detail/20251213181358599800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            22,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时15分 ~ 21时26分]"
-        },
-        {
-          "title": "周五（12月12日），彭博电动汽车价格回报指数涨1.00%，报3478.36点。 本周，该指数累计上涨1.49%，周一和周五涨幅突出。",
-          "url": "https://wallstreetcn.com/livenews/3020143",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            15,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时19分 ~ 09时22分]"
-        },
-        {
-          "title": "通用汽车回吐涨幅，美国发布英国关税的税率配额。",
-          "url": "https://wallstreetcn.com/livenews/3020082",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时19分 ~ 02时30分]"
+          "time_info": "00时22分"
         },
         {
           "title": "据巴勒斯坦媒体：以色列空袭加沙城西一辆汽车造成的伤亡人数已上升至4人死亡，20多人受伤。",
@@ -116,90 +25,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 5,
-      "titles": [
+          "time_info": "00时22分"
+        },
         {
-          "title": "服务追不上销量？小米汽车再遇“成长烦恼”：交付环节混乱 售后网点配置不足",
-          "url": "https://www.cls.cn/detail/2228075",
-          "source": "财联社热门",
+          "title": "奇瑞汽车：全面审视全链条价格行为，持续加强合规管理和体系建设",
+          "url": "https://wallstreetcn.com/livenews/3020245",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
             11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时23分 ~ 07时19分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜英伟达收跌约3.3%，特斯拉则涨2.7%",
-          "url": "https://wallstreetcn.com/livenews/3020139",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            19,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时19分 ~ 09时22分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌0.30%，报7750.11点，本周累计下跌1.04%。 热门中概股里，小马智行初步收跌5.6%，文远知行跌3.2%，百度、蔚来跌超2%，小鹏跌1.1%，阿里巴巴跌0.9%，拼多多持平，理想涨0.3%，百胜中国涨1.8%，新东方与网易涨2.1%。",
-          "url": "https://wallstreetcn.com/livenews/3020137",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时19分"
-        },
-        {
-          "title": "纳斯达克100指数跌幅扩大至1%，半导体指数跌超2.5%。 成分股中，博通跌9.6%，美光科技跌4.5%，Applovin跌3%跌幅第三大，阿斯麦ADR跌1.5%，特斯拉则涨1.8%表现靠前，奈飞涨2.4%，Adobe涨3%，（宣布CEO离职的）露露柠檬涨10.3%领跑。",
-          "url": "https://wallstreetcn.com/livenews/3020053",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌0.30%，报7750.11点，本周累计下跌1.04%。 热门中概股里，小马智行初步收跌5.6%，文远知行跌3.2%，百度、蔚来跌超2%，小鹏跌1.1%，阿里巴巴跌0.9%，拼多多持平，理想涨0.3%，百胜中国涨1.8%，新东方与网易涨2.1%。 ETF中，中国科技指数ETF（CQQQ）收跌0.62%，中概互联网指数ETF（KWEB）收跌0.32%。XtrackersHarvest中证50（ASHS）收涨0.48%，德银嘉实沪深300指数ETF（ASHR）收涨0.09%。",
-          "url": "https://wallstreetcn.com/livenews/3020137",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新能源汽车",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "30-40 万新能源汽车市场竞争日益升温，若想兼具格调与实用，哪款更值得入手？",
-          "url": "https://www.zhihu.com/question/1982603963074355711",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时14分 ~ 11时15分]"
+          "time_info": "00时22分"
         }
       ]
     }
