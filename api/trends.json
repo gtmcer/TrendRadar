@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T07:17:43.582436+08:00",
-  "total_titles_processed": 420,
+  "generated_at": "2025-12-14T09:40:55.593497+08:00",
+  "total_titles_processed": 560,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "url": "https://flash.jin10.com/detail/20251213222834029800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时22分 ~ 07时17分]"
+          "appearance_count": 9,
+          "time_info": "[00时22分 ~ 09时40分]"
         },
         {
           "title": "奇瑞汽车：全面审视全链条价格行为，持续加强合规管理和体系建设",
@@ -55,6 +56,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时16分 ~ 07时17分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "特斯拉教练车现身杭州 学费五千多",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E6%95%99%E7%BB%83%E8%BD%A6%E7%8E%B0%E8%BA%AB%E6%9D%AD%E5%B7%9E+%E5%AD%A6%E8%B4%B9%E4%BA%94%E5%8D%83%E5%A4%9A",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
         }
       ]
     }
