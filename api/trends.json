@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-15T21:40:38.220123+08:00",
-  "total_titles_processed": 1735,
+  "generated_at": "2025-12-15T22:24:41.992191+08:00",
+  "total_titles_processed": 1807,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "汽车与家电零售跌幅扩大，中国11月社会消费品零售同比增速降至1.3%",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时39分 ~ 21时40分]"
+          "appearance_count": 11,
+          "time_info": "[12时39分 ~ 22时24分]"
         },
         {
           "title": "金十图示：2025年12月15日（周一）全球汽车制造商市值变化",
@@ -98,6 +98,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
+        },
+        {
+          "title": "墨西哥经济部长：关税不会显著提高亚洲汽车的价格。",
+          "url": "https://flash.jin10.com/detail/20251215215758175800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "极米科技：全资子公司宜宾市极米光电有限公司于近日收到某国内知名汽车主机厂的开发定点通知，宜宾极米将成为该客户某车型的车载投影供应商。",
