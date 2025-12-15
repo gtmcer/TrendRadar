@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-15T22:24:41.992191+08:00",
-  "total_titles_processed": 1807,
+  "generated_at": "2025-12-15T23:23:49.020401+08:00",
+  "total_titles_processed": 1909,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时39分 ~ 22时24分]"
+          "appearance_count": 12,
+          "time_info": "[12时39分 ~ 23时23分]"
         },
         {
           "title": "金十图示：2025年12月15日（周一）全球汽车制造商市值变化",
@@ -106,7 +106,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时24分"
         },
@@ -136,7 +136,7 @@
     },
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "蔚来在上海建成500座充换电站",
@@ -166,6 +166,17 @@
           "time_info": "09时29分"
         },
         {
+          "title": "真无人驾驶来了！马斯克：特斯拉启动无安全员Robotaxi路测",
+          "url": "https://www.cls.cn/detail/2229889",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
+        },
+        {
           "title": "小鹏第三个海外本地化生产项目落地马来西亚",
           "url": "https://wallstreetcn.com/livenews/3020770",
           "source": "华尔街见闻-快讯",
@@ -175,6 +186,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时23分"
+        },
+        {
+          "title": "特斯拉涨约4.9%，报481.37美元，逼近2024年12月顶部488.54美元。",
+          "url": "https://wallstreetcn.com/livenews/3021057",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数盘初跌0.9%。 热门中概股小马智行跌2.9%，百度跌2.7%，阿里巴巴跌1.9%，理想跌1.7%，文远知行跌1.2%，拼多多和网易至多涨0.26%，新东方涨3.36%。",
+          "url": "https://wallstreetcn.com/livenews/3021052",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
         },
         {
           "title": "小鹏汽车与EPMB签署车辆组装协议",
