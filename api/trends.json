@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-12-15T13:24:46.840749+08:00",
-  "total_titles_processed": 916,
+  "generated_at": "2025-12-15T14:33:19.290335+08:00",
+  "total_titles_processed": 1035,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
       "match_count": 4,
       "titles": [
+        {
+          "title": "汽车与家电零售跌幅扩大，中国11月社会消费品零售同比增速降至1.3%",
+          "url": "https://wallstreetcn.com/articles/3761393",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时39分 ~ 14时33分]"
+        },
         {
           "title": "金十图示：2025年12月15日（周一）全球汽车制造商市值变化",
           "url": "https://flash.jin10.com/detail/20251215110628788800",
@@ -17,18 +30,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
-        },
-        {
-          "title": "汽车与家电零售跌幅扩大，中国11月社会消费品零售同比增速降至1.3%",
-          "url": "https://wallstreetcn.com/articles/3761393",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时39分 ~ 13时24分]"
         },
         {
           "title": "市场监管总局：11月共7家汽车生产企业宣布召回共计24.45万辆汽车",
@@ -57,7 +58,7 @@
     },
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "蔚来在上海建成500座充换电站",
@@ -85,12 +86,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时29分"
+        },
+        {
+          "title": "小鹏汽车与EPMB签署车辆组装协议",
+          "url": "https://wallstreetcn.com/livenews/3020733",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
         }
       ]
     },
     {
       "keyword_group": "华为汽车 鸿蒙智行 问界 尚界 尊界 智界 享界 乾崑",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "极氪、小米、问界等超20家车企宣布兜底购置税，最高省1.5万",
@@ -107,6 +119,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时22分 ~ 06时17分]"
+        },
+        {
+          "title": "华为乾崑探索智能汽车无人区",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E4%B9%BE%E5%B4%91%E6%8E%A2%E7%B4%A2%E6%99%BA%E8%83%BD%E6%B1%BD%E8%BD%A6%E6%97%A0%E4%BA%BA%E5%8C%BA%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
         }
       ]
     }
