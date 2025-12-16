@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-16T17:26:06.037555+08:00",
-  "total_titles_processed": 1604,
+  "generated_at": "2025-12-16T18:24:24.348608+08:00",
+  "total_titles_processed": 1700,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时27分 ~ 17时26分]"
+          "appearance_count": 9,
+          "time_info": "[09时27分 ~ 18时24分]"
         },
         {
           "title": "美股收盘：AI概念股继续承压 三大指数集体收跌 特斯拉涨超3%",
@@ -192,7 +192,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "汽车与家电零售跌幅扩大，中国11月社会消费品零售同比增速降至1.3%",
@@ -302,7 +302,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时26分"
         },
@@ -349,6 +349,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时59分"
+        },
+        {
+          "title": "工信部：公开征求《汽车车门把手安全技术要求》等7项强制性国家标准（报批稿）等意见",
+          "url": "https://wallstreetcn.com/livenews/3021606",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
         },
         {
           "title": "车主新买汽车还未开出园区便撞倒人",
