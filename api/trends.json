@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-17T03:19:04.908513+08:00",
-  "total_titles_processed": 503,
+  "generated_at": "2025-12-17T04:23:03.105376+08:00",
+  "total_titles_processed": 558,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 03时19分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 04时23分]"
         },
         {
           "title": "欧盟拟放弃2035年燃油车禁令 只因“卷”不过特斯拉和比亚迪…",
@@ -29,8 +29,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 03时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时27分 ~ 04时23分]"
         },
         {
           "title": "特斯拉：为德国柏林-勃兰登堡超级工厂创造条件，自2027年起实现年产高达8吉瓦时（GWh）的电池单元。 将在德国的电池单元生产领域再投入数亿欧元。",
@@ -38,11 +38,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            10
+            10,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时30分 ~ 03时19分]"
+          "appearance_count": 3,
+          "time_info": "[02时30分 ~ 04时23分]"
         },
         {
           "title": "2025年自动驾驶出租车行业报告：Waymo谋划全球扩张，Zoox、特斯拉还处在起跑线",
@@ -50,11 +51,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             11,
-            15
+            15,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时30分 ~ 03时19分]"
+          "appearance_count": 3,
+          "time_info": "[02时30分 ~ 04时23分]"
         },
         {
           "title": "大摩：特斯拉Robotaxi车队2026年有望增至1000辆",
@@ -205,7 +207,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时19分"
         }
