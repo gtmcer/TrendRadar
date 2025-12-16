@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-17T06:19:06.666518+08:00",
-  "total_titles_processed": 639,
+  "generated_at": "2025-12-17T07:18:53.635962+08:00",
+  "total_titles_processed": 678,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "非农前夕，科技股续跌拖累大盘，特斯拉年内新高，加密货币跌，人民币走强，金银走高",
@@ -30,8 +30,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时27分 ~ 06时19分]"
+          "appearance_count": 13,
+          "time_info": "[00时27分 ~ 07时18分]"
         },
         {
           "title": "特斯拉收涨3.1%，时隔一年再创收盘历史新高。",
@@ -131,6 +131,17 @@
           "time_info": "[02时30分 ~ 03时19分]"
         },
         {
+          "title": "美股收盘：三大指数涨跌不一 特斯拉创历史新高",
+          "url": "https://www.cls.cn/detail/2231583",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时18分"
+        },
+        {
           "title": "纳斯达克金龙中国指数初步收跌0.3%。 热门中概股里，网易、百胜中国、拼多多初步收跌超1%，蔚来涨0.6%，小鹏涨1.1%，文远知行涨2.8%，小马智行涨7.8%。",
           "url": "https://wallstreetcn.com/livenews/3021903",
           "source": "华尔街见闻-快讯",
@@ -192,7 +203,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
         },
@@ -203,7 +214,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
         },
@@ -222,7 +233,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "德国汽车工业协会VDA：欧盟提案障碍重重，很可能在实践中无法发挥作用。",
@@ -283,6 +294,17 @@
           "time_info": "[00时28分 ~ 01时23分]"
         },
         {
+          "title": "日本考虑对电动汽车征收新的税种。（日经新闻）",
+          "url": "https://wallstreetcn.com/livenews/3021936",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时18分"
+        },
+        {
           "title": "大众汽车：欧盟委员会关于新二氧化碳目标的务实草案提案在整体上具有经济合理性",
           "url": "https://flash.jin10.com/detail/20251217003154513800",
           "source": "金十数据",
@@ -303,6 +325,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
+        },
+        {
+          "title": "L3级自动驾驶车型产品获准入许可，智能网联汽车迈入量产应用",
+          "url": "https://wallstreetcn.com/livenews/3021929",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时18分"
         },
         {
           "title": "美国多州起诉特朗普政府冻结电动汽车充电桩资金",
