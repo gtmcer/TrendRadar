@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-16T18:24:24.348608+08:00",
-  "total_titles_processed": 1700,
+  "generated_at": "2025-12-16T19:18:39.899438+08:00",
+  "total_titles_processed": 1778,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时27分 ~ 18时24分]"
+          "appearance_count": 10,
+          "time_info": "[09时27分 ~ 19时18分]"
         },
         {
           "title": "美股收盘：AI概念股继续承压 三大指数集体收跌 特斯拉涨超3%",
@@ -357,7 +357,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         },
