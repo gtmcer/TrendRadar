@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-17T21:33:52.029321+08:00",
-  "total_titles_processed": 1982,
+  "generated_at": "2025-12-17T22:21:33.826699+08:00",
+  "total_titles_processed": 2075,
   "failed_sources": [],
   "trends": [
     {
@@ -67,7 +67,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时33分"
         },
@@ -318,7 +318,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时33分"
         },
@@ -359,7 +359,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "德国汽车工业协会VDA：欧盟提案障碍重重，很可能在实践中无法发挥作用。",
@@ -418,6 +418,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时28分 ~ 01时23分]"
+        },
+        {
+          "title": "美国次级汽车贷款机构Tricolor创始人被起诉 此前曾引发信贷危机担忧",
+          "url": "https://flash.jin10.com/detail/20251217221303435800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         },
         {
           "title": "日本汽车工会会长担心日本央行加息可能阻碍工资增长",
