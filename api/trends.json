@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-18T02:31:03.631337+08:00",
-  "total_titles_processed": 460,
+  "generated_at": "2025-12-18T03:19:17.417597+08:00",
+  "total_titles_processed": 503,
   "failed_sources": [],
   "trends": [
     {
@@ -17,6 +17,40 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时26分 ~ 01时22分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "特斯拉(TSLA.O)下跌3.2%，前一交易日上涨3%。",
+          "url": "https://flash.jin10.com/detail/20251218023211737800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "汽车",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "标普全球评级：预计中国高端汽车市场持续严峻的市场环境将拖累大众汽车的盈利能力和自由现金流。预计大众汽车在短期内缺乏有效手段抵消美国进口关税的影响。",
+          "url": "https://flash.jin10.com/detail/20251218022645812800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时19分"
         }
       ]
     }
