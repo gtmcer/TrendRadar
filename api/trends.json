@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-17T13:21:48.372951+08:00",
-  "total_titles_processed": 1163,
+  "generated_at": "2025-12-17T14:31:09.544603+08:00",
+  "total_titles_processed": 1256,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
         {
           "title": "非农前夕，科技股续跌拖累大盘，特斯拉年内新高，加密货币跌，人民币走强，金银走高",
@@ -21,6 +21,19 @@
           "time_info": "[00时28分 ~ 06时19分]"
         },
         {
+          "title": "美股收盘：三大指数涨跌不一 特斯拉创历史新高",
+          "url": "https://www.cls.cn/detail/2231583",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时18分 ~ 14时31分]"
+        },
+        {
           "title": "欧盟拟放弃2035年燃油车禁令 只因“卷”不过特斯拉和比亚迪…",
           "url": "https://www.cls.cn/detail/2231185",
           "source": "财联社热门",
@@ -34,19 +47,6 @@
           "time_info": "[00时27分 ~ 07时18分]"
         },
         {
-          "title": "美股收盘：三大指数涨跌不一 特斯拉创历史新高",
-          "url": "https://www.cls.cn/detail/2231583",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时18分 ~ 13时21分]"
-        },
-        {
           "title": "特斯拉创历史新高！大摩大胆预测：2035年Robotaxi规模将达百万辆",
           "url": "https://www.cls.cn/detail/2231654",
           "source": "财联社热门",
@@ -56,8 +56,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时22分 ~ 13时21分]"
+          "appearance_count": 7,
+          "time_info": "[09时22分 ~ 14时31分]"
         },
         {
           "title": "特斯拉收涨3.1%，时隔一年再创收盘历史新高。",
@@ -190,6 +190,17 @@
           "time_info": "02时30分"
         },
         {
+          "title": "何小鹏：当前没有AI泡沫，未来AI的市场有着巨大机遇",
+          "url": "https://wallstreetcn.com/livenews/3022172",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时31分"
+        },
+        {
           "title": "特斯拉(TSLA.O)：为此，我们正向德国的电池电芯生产再投资数亿美元。",
           "url": "https://flash.jin10.com/detail/20251217015003911800",
           "source": "金十数据",
@@ -199,6 +210,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时30分"
+        },
+        {
+          "title": "何小鹏：人形机器人将是巨头的竞争，机会非常多",
+          "url": "https://wallstreetcn.com/livenews/3022170",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时31分"
         },
         {
           "title": "特斯拉(TSLA.O)：正在柏林-勃兰登堡超级工厂创造条件，计划从2027年起每年生产高达8吉瓦时（GWh）的电池电芯。",
@@ -243,6 +265,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
+        },
+        {
+          "title": "韩国央行行长李昌镛：韩元走弱在很大程度上是由国内因素导致的。 外汇政策可以同时解决波动性和水平问题。 考虑到价格和增长风险，目前的汇率水平不太理想。",
+          "url": "https://wallstreetcn.com/livenews/3022152",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时31分"
         },
         {
           "title": "特斯拉在美国加州被要求限期整改 否则将被暂停销售",
@@ -337,7 +370,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时21分"
         },
