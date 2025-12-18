@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-18T17:26:19.119856+08:00",
-  "total_titles_processed": 1552,
+  "generated_at": "2025-12-18T18:22:15.735610+08:00",
+  "total_titles_processed": 1644,
   "failed_sources": [],
   "trends": [
     {
@@ -119,8 +119,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时28分 ~ 17时26分]"
+          "appearance_count": 4,
+          "time_info": "[16时28分 ~ 18时22分]"
         },
         {
           "title": "广州汽车新购补贴再加码3亿元，名额超6万个",
@@ -203,28 +203,8 @@
       ]
     },
     {
-      "keyword_group": "华为汽车 鸿蒙智行 问界 尚界 尊界 智界 享界 乾崑",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "如何评价尊界第 10000 台车下线？",
-          "url": "https://www.zhihu.com/question/1984308487723960153",
-          "source": "知乎",
-          "ranks": [
-            4,
-            12,
-            13,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 06时19分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "新能源汽车",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "炒作新能源汽车负面信息团伙被打掉",
@@ -241,6 +221,37 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时23分 ~ 16时28分]"
+        },
+        {
+          "title": "山东破获炒作新能源汽车网络水军案",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E7%A0%B4%E8%8E%B7%E7%82%92%E4%BD%9C%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E7%BD%91%E7%BB%9C%E6%B0%B4%E5%86%9B%E6%A1%88%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时21分 ~ 18时22分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "华为汽车 鸿蒙智行 问界 尚界 尊界 智界 享界 乾崑",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何评价尊界第 10000 台车下线？",
+          "url": "https://www.zhihu.com/question/1984308487723960153",
+          "source": "知乎",
+          "ranks": [
+            4,
+            12,
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时26分 ~ 06时19分]"
         }
       ]
     }
