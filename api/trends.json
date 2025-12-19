@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-19T19:18:03.856296+08:00",
-  "total_titles_processed": 1886,
+  "generated_at": "2025-12-19T20:38:53.355547+08:00",
+  "total_titles_processed": 1999,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "全球知名科技分析师Dan Ives：中国正在发生创新，AI革命将是中美两国更紧密的合作，就像特斯拉、苹果主动积极拥抱中国",
@@ -108,6 +108,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
+        },
+        {
+          "title": "德意志银行：将特斯拉(TSLA.O)目标价从470美元上调至500美元。",
+          "url": "https://flash.jin10.com/detail/20251219195722549800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
         },
         {
           "title": "恒生科技指数涨幅扩大至1%。地平线机器人涨近7%，小鹏汽车涨近5%。",
