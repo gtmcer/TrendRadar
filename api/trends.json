@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T15:18:03.684948+08:00",
-  "total_titles_processed": 1136,
+  "generated_at": "2025-12-20T16:24:23.960320+08:00",
+  "total_titles_processed": 1198,
   "failed_sources": [],
   "trends": [
     {
@@ -31,8 +31,22 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时19分 ~ 15时18分]"
+          "appearance_count": 6,
+          "time_info": "[13时19分 ~ 16时24分]"
+        },
+        {
+          "title": "小米给全国汽车经销商发超一亿元“红包”",
+          "url": "https://wallstreetcn.com/livenews/3024239",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            7,
+            8,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时19分 ~ 16时24分]"
         },
         {
           "title": "汽车高速路上刹车失灵该怎么做",
@@ -47,19 +61,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时22分 ~ 13时19分]"
-        },
-        {
-          "title": "小米给全国汽车经销商发超一亿元“红包”",
-          "url": "https://wallstreetcn.com/livenews/3024239",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时19分 ~ 15时18分]"
         },
         {
           "title": "周五（12月19日），彭博电动汽车价格回报指数涨1.62%，报3431.81点，本周累计下跌1.28%，整体呈现出W形走势。",
@@ -101,8 +102,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时14分 ~ 15时18分]"
+          "appearance_count": 9,
+          "time_info": "[11时14分 ~ 16时24分]"
         },
         {
           "title": "特拉华州高级法院判定：马斯克2018年特斯拉薪酬计划必须被恢复",
@@ -155,11 +156,12 @@
             12,
             15,
             17,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时15分 ~ 15时18分]"
+          "appearance_count": 6,
+          "time_info": "[11时15分 ~ 16时24分]"
         }
       ]
     }
