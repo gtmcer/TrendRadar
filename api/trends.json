@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-12-20T18:19:04.010453+08:00",
-  "total_titles_processed": 1303,
+  "generated_at": "2025-12-20T19:16:03.401177+08:00",
+  "total_titles_processed": 1352,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
       "match_count": 7,
       "titles": [
+        {
+          "title": "日本一列车与汽车发生碰撞，汽车起火",
+          "url": "https://news.ifeng.com/c/8pEfXfFWcFz",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[13时19分 ~ 19时16分]"
+        },
         {
           "title": "汽车高速路上刹车失灵该怎么做",
           "url": "https://www.toutiao.com/trending/7585458879367089705/",
@@ -22,17 +33,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时25分 ~ 11时15分]"
-        },
-        {
-          "title": "日本一列车与汽车发生碰撞，汽车起火",
-          "url": "https://news.ifeng.com/c/8pEfXfFWcFz",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时19分 ~ 18时19分]"
         },
         {
           "title": "小米给全国汽车经销商发超一亿元“红包”",
@@ -83,11 +83,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            10
+            10,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时19分 ~ 18时19分]"
+          "appearance_count": 3,
+          "time_info": "[17时19分 ~ 19时16分]"
         },
         {
           "title": "存在溜车风险，福特在美国召回超27万辆电动和混动汽车",
@@ -116,8 +117,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时14分 ~ 18时19分]"
+          "appearance_count": 14,
+          "time_info": "[11时14分 ~ 19时16分]"
         },
         {
           "title": "特拉华州高级法院判定：马斯克2018年特斯拉薪酬计划必须被恢复",
