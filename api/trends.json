@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T21:26:57.470298+08:00",
-  "total_titles_processed": 1483,
+  "generated_at": "2025-12-20T22:17:05.190110+08:00",
+  "total_titles_processed": 1537,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[13时19分 ~ 21时26分]"
+          "appearance_count": 15,
+          "time_info": "[13时19分 ~ 22时17分]"
         },
         {
           "title": "汽车高速路上刹车失灵该怎么做",
@@ -32,8 +32,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时25分 ~ 21时26分]"
+          "appearance_count": 15,
+          "time_info": "[00时25分 ~ 22时17分]"
         },
         {
           "title": "小米给全国汽车经销商发超一亿元“红包”",
@@ -57,11 +57,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            4
+            4,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时35分 ~ 21时26分]"
+          "appearance_count": 3,
+          "time_info": "[20时35分 ~ 22时17分]"
         },
         {
           "title": "巴西电动“飞行汽车”原型机完成首飞",
@@ -132,8 +133,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时14分 ~ 21时26分]"
+          "appearance_count": 18,
+          "time_info": "[11时14分 ~ 22时17分]"
         },
         {
           "title": "特拉华州高级法院判定：马斯克2018年特斯拉薪酬计划必须被恢复",
