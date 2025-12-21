@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T15:18:43.354045+08:00",
-  "total_titles_processed": 934,
+  "generated_at": "2025-12-21T16:24:51.214568+08:00",
+  "total_titles_processed": 998,
   "failed_sources": [],
   "trends": [
     {
@@ -61,11 +61,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            10
+            10,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时28分 ~ 15时18分]"
+          "appearance_count": 3,
+          "time_info": "[14时28分 ~ 16时24分]"
         },
         {
           "title": "为什么我国没有推出太阳能用于汽车上的技术?",
