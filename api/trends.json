@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T22:17:55.917959+08:00",
-  "total_titles_processed": 1309,
+  "generated_at": "2025-12-21T23:18:20.529638+08:00",
+  "total_titles_processed": 1369,
   "failed_sources": [],
   "trends": [
     {
@@ -80,6 +80,24 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时19分 ~ 06时17分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "华为汽车 鸿蒙智行 问界 尚界 尊界 智界 享界 乾崑",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "鸿蒙智行「鸿蒙大饭店」服务收缩，为何多数车主对此表示支持？",
+          "url": "https://www.zhihu.com/question/1984701869549983625",
+          "source": "知乎",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时17分 ~ 23时18分]"
         }
       ]
     },
