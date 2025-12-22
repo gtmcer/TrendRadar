@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-23T02:29:34.988708+08:00",
-  "total_titles_processed": 439,
+  "generated_at": "2025-12-23T03:17:13.672660+08:00",
+  "total_titles_processed": 468,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 02时29分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 03时17分]"
         },
         {
           "title": "吉利汽车：极氪私有化交易完成",
@@ -24,11 +24,12 @@
           "source": "百度热搜",
           "ranks": [
             23,
-            24
+            24,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时17分 ~ 02时29分]"
+          "appearance_count": 5,
+          "time_info": "[01时17分 ~ 03时17分]"
         },
         {
           "title": "旧金山大停电，谷歌无人车Waymo乱作一团，特斯拉赢麻了",
@@ -38,8 +39,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 02时29分]"
+          "appearance_count": 3,
+          "time_info": "[01时18分 ~ 03时17分]"
         },
         {
           "title": "特斯拉涨约3.6%，刷新盘中历史高位至496.74美元，盘中市值大约1.65万亿美元。",
@@ -66,8 +67,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 02时29分]"
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 03时17分]"
         }
       ]
     }
