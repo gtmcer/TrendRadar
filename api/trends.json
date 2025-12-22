@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-22T12:39:24.959808+08:00",
-  "total_titles_processed": 878,
+  "generated_at": "2025-12-22T13:23:26.227621+08:00",
+  "total_titles_processed": 943,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "source": "百度热搜",
           "ranks": [
             20,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时41分 ~ 12时39分]"
+          "appearance_count": 3,
+          "time_info": "[11时41分 ~ 13时23分]"
         },
         {
           "title": "特斯拉提交新专利：将Starlink接收器嵌入天窗，绕过网络运营商",
@@ -87,11 +88,12 @@
           "url": "https://flash.jin10.com/detail/20251222115711938800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时39分 ~ 13时23分]"
         },
         {
           "title": "美国移民与海关执法局特工遭汽车撞击后向司机开枪",
@@ -101,8 +103,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时41分 ~ 12时39分]"
+          "appearance_count": 3,
+          "time_info": "[11时41分 ~ 13时23分]"
         },
         {
           "title": "泰国11月国内汽车销量同比增长20.65%（10月为同比增长24.78%）。",
@@ -111,7 +113,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时39分"
         },
@@ -122,7 +124,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时39分"
         }
