@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-22T18:21:53.917155+08:00",
-  "total_titles_processed": 1418,
+  "generated_at": "2025-12-22T19:17:48.999827+08:00",
+  "total_titles_processed": 1536,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "现代汽车集团将阐述通过人机协作加速人工智能机器人商业化的战略。",
@@ -124,6 +124,17 @@
           "time_info": "12时39分"
         },
         {
+          "title": "俄军中将遭汽车炸弹爆炸身亡",
+          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E5%86%9B%E4%B8%AD%E5%B0%86%E9%81%AD%E6%B1%BD%E8%BD%A6%E7%82%B8%E5%BC%B9%E7%88%86%E7%82%B8%E8%BA%AB%E4%BA%A1",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
+        },
+        {
           "title": "俄罗斯调查委员会称，一名将军在莫斯科的汽车爆炸中身亡。",
           "url": "https://flash.jin10.com/detail/20251222145334036800",
           "source": "金十数据",
@@ -149,7 +160,7 @@
     },
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "特斯拉人形机器人“上岗”卖爆米花",
@@ -199,6 +210,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时40分"
+        },
+        {
+          "title": "德意志银行下调特斯拉Q4交付预期 但长期前景仍保持乐观",
+          "url": "https://flash.jin10.com/detail/20251222184520064800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
         },
         {
           "title": "比尔·阿克曼：我持有SpaceX和xAI，但并不持有特斯拉股份。",
