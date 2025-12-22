@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-22T17:27:39.896952+08:00",
-  "total_titles_processed": 1347,
+  "generated_at": "2025-12-22T18:21:53.917155+08:00",
+  "total_titles_processed": 1418,
   "failed_sources": [],
   "trends": [
     {
@@ -54,6 +54,19 @@
           "time_info": "[12时39分 ~ 13时23分]"
         },
         {
+          "title": "俄军一高官在汽车炸弹爆炸中身亡",
+          "url": "https://www.toutiao.com/trending/7586567701565489215/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            19,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时28分 ~ 18时21分]"
+        },
+        {
           "title": "和十几年前相比，如今的汽车大降价了，是不是材料被「偷工减料」了，品质大不如以前了？",
           "url": "https://www.zhihu.com/question/1935860756613674447",
           "source": "知乎",
@@ -75,18 +88,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时41分 ~ 13时23分]"
-        },
-        {
-          "title": "俄军一高官在汽车炸弹爆炸中身亡",
-          "url": "https://www.toutiao.com/trending/7586567701565489215/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时28分 ~ 17时27分]"
         },
         {
           "title": "俄武装力量总参谋部作战训练局长在汽车炸弹爆炸中身亡",
