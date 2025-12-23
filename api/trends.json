@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-23T20:40:53.162020+08:00",
-  "total_titles_processed": 1783,
+  "generated_at": "2025-12-23T21:35:29.458841+08:00",
+  "total_titles_processed": 1869,
   "failed_sources": [],
   "trends": [
     {
@@ -60,11 +60,12 @@
           "ranks": [
             15,
             17,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时24分 ~ 20时40分]"
+          "appearance_count": 4,
+          "time_info": "[17时24分 ~ 21时35分]"
         },
         {
           "title": "欧洲汽车制造商协会：欧洲11月汽车销量同比增长2.4%，达108万辆。",
@@ -159,8 +160,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时26分 ~ 20时40分]"
+          "appearance_count": 12,
+          "time_info": "[09时26分 ~ 21时35分]"
         },
         {
           "title": "旧金山大停电，谷歌无人车Waymo乱作一团，特斯拉赢麻了",
@@ -175,8 +176,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时18分 ~ 20时40分]"
+          "appearance_count": 19,
+          "time_info": "[01时18分 ~ 21时35分]"
         },
         {
           "title": "科技股反弹引领市场！美股高开，“Mag7”普涨，特斯拉创盘中历史高位，油价反弹超2%",
