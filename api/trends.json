@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-23T16:28:31.488176+08:00",
-  "total_titles_processed": 1427,
+  "generated_at": "2025-12-23T17:24:44.791669+08:00",
+  "total_titles_processed": 1524,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "俄中将遭汽车炸弹袭击身亡，目击者发声",
@@ -17,17 +17,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时24分 ~ 07时19分]"
-        },
-        {
-          "title": "乘联分会崔东树：11月中国汽车实现出口81万辆，同比增48%，环比降2%",
-          "url": "https://wallstreetcn.com/livenews/3025483",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时28分"
         },
         {
           "title": "纳斯达克金龙中国指数初步收涨0.5%。 热门中概股里，阿特斯太阳能初步收涨10.7%，小马智行、携程、亚朵、晶科能源、名创优品、汽车之家涨超1%，阿里巴巴涨0.8%。",
@@ -50,6 +39,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
+        },
+        {
+          "title": "乘联分会崔东树：11月中国汽车实现出口81万辆，同比增48%，环比降2%",
+          "url": "https://wallstreetcn.com/livenews/3025483",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时28分 ~ 17时24分]"
         },
         {
           "title": "欧洲汽车制造商协会：欧洲11月汽车销量同比增长2.4%，达108万辆。",
@@ -97,13 +98,24 @@
           "time_info": "13时22分"
         },
         {
+          "title": "汽车角度分析COD之父车祸",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B1%BD%E8%BD%A6%E8%A7%92%E5%BA%A6%E5%88%86%E6%9E%90COD%E4%B9%8B%E7%88%B6%E8%BD%A6%E7%A5%B8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
+        {
           "title": "美国国家公路交通安全管理局：福特汽车公司召回45,047辆美国车辆。",
           "url": "https://flash.jin10.com/detail/20251223160519545800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         },
@@ -136,6 +148,17 @@
       "match_count": 10,
       "titles": [
         {
+          "title": "\"圣诞行情\"开启，标普逼近历史高位，特斯拉盘中新高，金银铜齐新高，原油大涨",
+          "url": "https://wallstreetcn.com/articles/3761821",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时26分 ~ 17时24分]"
+        },
+        {
           "title": "旧金山大停电，谷歌无人车Waymo乱作一团，特斯拉赢麻了",
           "url": "https://wallstreetcn.com/articles/3761857",
           "source": "华尔街见闻",
@@ -148,19 +171,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时18分 ~ 16时28分]"
-        },
-        {
-          "title": "\"圣诞行情\"开启，标普逼近历史高位，特斯拉盘中新高，金银铜齐新高，原油大涨",
-          "url": "https://wallstreetcn.com/articles/3761821",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时26分 ~ 16时28分]"
+          "appearance_count": 15,
+          "time_info": "[01时18分 ~ 17时24分]"
         },
         {
           "title": "科技股反弹引领市场！美股高开，“Mag7”普涨，特斯拉创盘中历史高位，油价反弹超2%",
