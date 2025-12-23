@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-23T17:24:44.791669+08:00",
-  "total_titles_processed": 1524,
+  "generated_at": "2025-12-23T18:22:34.887411+08:00",
+  "total_titles_processed": 1602,
   "failed_sources": [],
   "trends": [
     {
@@ -46,11 +46,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            23
+            23,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时28分 ~ 17时24分]"
+          "appearance_count": 3,
+          "time_info": "[16时28分 ~ 18时22分]"
         },
         {
           "title": "欧洲汽车制造商协会：欧洲11月汽车销量同比增长2.4%，达108万辆。",
@@ -63,6 +64,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时22分 ~ 14时31分]"
+        },
+        {
+          "title": "汽车角度分析COD之父车祸",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B1%BD%E8%BD%A6%E8%A7%92%E5%BA%A6%E5%88%86%E6%9E%90COD%E4%B9%8B%E7%88%B6%E8%BD%A6%E7%A5%B8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时24分 ~ 18时22分]"
         },
         {
           "title": "金十图示：2025年12月23日（周二）全球汽车制造商市值变化",
@@ -96,17 +109,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时22分"
-        },
-        {
-          "title": "汽车角度分析COD之父车祸",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B1%BD%E8%BD%A6%E8%A7%92%E5%BA%A6%E5%88%86%E6%9E%90COD%E4%B9%8B%E7%88%B6%E8%BD%A6%E7%A5%B8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时24分"
         },
         {
           "title": "美国国家公路交通安全管理局：福特汽车公司召回45,047辆美国车辆。",
@@ -152,11 +154,12 @@
           "url": "https://wallstreetcn.com/articles/3761821",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时26分 ~ 17时24分]"
+          "appearance_count": 9,
+          "time_info": "[09时26分 ~ 18时22分]"
         },
         {
           "title": "旧金山大停电，谷歌无人车Waymo乱作一团，特斯拉赢麻了",
@@ -171,8 +174,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时18分 ~ 17时24分]"
+          "appearance_count": 16,
+          "time_info": "[01时18分 ~ 18时22分]"
         },
         {
           "title": "科技股反弹引领市场！美股高开，“Mag7”普涨，特斯拉创盘中历史高位，油价反弹超2%",
