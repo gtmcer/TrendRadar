@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-23T14:31:45.397372+08:00",
-  "total_titles_processed": 1238,
+  "generated_at": "2025-12-23T15:23:10.941831+08:00",
+  "total_titles_processed": 1316,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             7,
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时18分 ~ 14时31分]"
+          "appearance_count": 13,
+          "time_info": "[01时18分 ~ 15时23分]"
         },
         {
           "title": "科技股反弹引领市场！美股高开，“Mag7”普涨，特斯拉创盘中历史高位，油价反弹超2%",
@@ -41,8 +42,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时26分 ~ 14时31分]"
+          "appearance_count": 6,
+          "time_info": "[09时26分 ~ 15时23分]"
         },
         {
           "title": "吉利汽车：极氪私有化交易完成",
@@ -62,6 +63,19 @@
           "time_info": "[01时17分 ~ 07时19分]"
         },
         {
+          "title": "特斯拉股价逼近500美元创新高 马斯克薪酬案翻盘+FSD稳跑",
+          "url": "https://www.cls.cn/detail/2237015",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时26分 ~ 15时23分]"
+        },
+        {
           "title": "欧洲汽车制造商协会：11月份，特斯拉在欧盟、英国和欧洲自由贸易联盟的市场份额降至2.1%，而比亚迪的市场份额为2%；特斯拉纯电动汽车的市场份额为9%。",
           "url": "https://flash.jin10.com/detail/20251223130253694800",
           "source": "金十数据",
@@ -71,18 +85,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时22分"
-        },
-        {
-          "title": "特斯拉股价逼近500美元创新高 马斯克薪酬案翻盘+FSD稳跑",
-          "url": "https://www.cls.cn/detail/2237015",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时26分 ~ 14时31分]"
         },
         {
           "title": "欧洲汽车制造商协会：特斯拉11月欧盟新车注册量下降34%，比亚迪11月欧盟新车注册量增长235%。",
