@@ -1,8 +1,136 @@
 {
-  "generated_at": "2025-12-23T15:23:10.941831+08:00",
-  "total_titles_processed": 1316,
+  "generated_at": "2025-12-23T16:28:31.488176+08:00",
+  "total_titles_processed": 1427,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "汽车",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "俄中将遭汽车炸弹袭击身亡，目击者发声",
+          "url": "https://news.ifeng.com/c/8pIN9NpA1ze",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时24分 ~ 07时19分]"
+        },
+        {
+          "title": "乘联分会崔东树：11月中国汽车实现出口81万辆，同比增48%，环比降2%",
+          "url": "https://wallstreetcn.com/livenews/3025483",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数初步收涨0.5%。 热门中概股里，阿特斯太阳能初步收涨10.7%，小马智行、携程、亚朵、晶科能源、名创优品、汽车之家涨超1%，阿里巴巴涨0.8%。",
+          "url": "https://wallstreetcn.com/livenews/3025125",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时18分"
+        },
+        {
+          "title": "美国总统特朗普：希望让14家大型医疗保险公司降费。 我们将会见其他保险公司。 汽车、住房的保费都已经上涨。",
+          "url": "https://wallstreetcn.com/livenews/3025174",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
+          "title": "欧洲汽车制造商协会：欧洲11月汽车销量同比增长2.4%，达108万辆。",
+          "url": "https://wallstreetcn.com/livenews/3025368",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时22分 ~ 14时31分]"
+        },
+        {
+          "title": "金十图示：2025年12月23日（周二）全球汽车制造商市值变化",
+          "url": "https://flash.jin10.com/detail/20251223110524092800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时25分"
+        },
+        {
+          "title": "欧洲汽车制造商协会：丰田11月在欧盟的新车注册量下降9.2%，斯泰兰蒂斯(STLA.N)注册量增长0.3%。",
+          "url": "https://flash.jin10.com/detail/20251223130118471800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时22分"
+        },
+        {
+          "title": "欧洲汽车制造商协会：欧盟1月至11月新车注册量增长1.4%，达到9,860,092辆。欧盟11月新车注册量增长2.1%，至887,491辆。11月欧盟新注册车辆中，电动汽车市场份额为65.6%。",
+          "url": "https://flash.jin10.com/detail/20251223130042677800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时22分"
+        },
+        {
+          "title": "美国国家公路交通安全管理局：福特汽车公司召回45,047辆美国车辆。",
+          "url": "https://flash.jin10.com/detail/20251223160519545800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨0.58%，报7683.26点。 热门中概股里，阿特斯太阳能初步收涨10.7%，小马智行、携程、亚朵、晶科能源、名创优品、汽车之家涨超1%，阿里巴巴涨0.8%。 ETF中，中国科技指数ETF（CQQQ）收涨1.62%，中概互联网指数ETF（KWEB）收涨1.03%。 XtrackersHarvest中证50（ASHS）收涨1.15%，德银嘉实沪深300指数ETF（ASHR）收涨0.83%。",
+          "url": "https://wallstreetcn.com/livenews/3025125",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时19分"
+        },
+        {
+          "title": "国家能源局：截至2025年11月底我国电动汽车充电基础设施（枪）总数达到1932.2万个 同比增长52.0%",
+          "url": "https://wallstreetcn.com/livenews/3025284",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时25分"
+        }
+      ]
+    },
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
       "match_count": 10,
@@ -20,8 +148,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时18分 ~ 15时23分]"
+          "appearance_count": 14,
+          "time_info": "[01时18分 ~ 16时28分]"
+        },
+        {
+          "title": "\"圣诞行情\"开启，标普逼近历史高位，特斯拉盘中新高，金银铜齐新高，原油大涨",
+          "url": "https://wallstreetcn.com/articles/3761821",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时26分 ~ 16时28分]"
         },
         {
           "title": "科技股反弹引领市场！美股高开，“Mag7”普涨，特斯拉创盘中历史高位，油价反弹超2%",
@@ -33,17 +172,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时24分 ~ 05时18分]"
-        },
-        {
-          "title": "\"圣诞行情\"开启，标普逼近历史高位，特斯拉盘中新高，金银铜齐新高，原油大涨",
-          "url": "https://wallstreetcn.com/articles/3761821",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时26分 ~ 15时23分]"
         },
         {
           "title": "吉利汽车：极氪私有化交易完成",
@@ -129,112 +257,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "汽车",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "俄中将遭汽车炸弹袭击身亡，目击者发声",
-          "url": "https://news.ifeng.com/c/8pIN9NpA1ze",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时24分 ~ 07时19分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数初步收涨0.5%。 热门中概股里，阿特斯太阳能初步收涨10.7%，小马智行、携程、亚朵、晶科能源、名创优品、汽车之家涨超1%，阿里巴巴涨0.8%。",
-          "url": "https://wallstreetcn.com/livenews/3025125",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时18分"
-        },
-        {
-          "title": "美国总统特朗普：希望让14家大型医疗保险公司降费。 我们将会见其他保险公司。 汽车、住房的保费都已经上涨。",
-          "url": "https://wallstreetcn.com/livenews/3025174",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时19分"
-        },
-        {
-          "title": "欧洲汽车制造商协会：欧洲11月汽车销量同比增长2.4%，达108万辆。",
-          "url": "https://wallstreetcn.com/livenews/3025368",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时22分 ~ 14时31分]"
-        },
-        {
-          "title": "金十图示：2025年12月23日（周二）全球汽车制造商市值变化",
-          "url": "https://flash.jin10.com/detail/20251223110524092800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时25分"
-        },
-        {
-          "title": "欧洲汽车制造商协会：丰田11月在欧盟的新车注册量下降9.2%，斯泰兰蒂斯(STLA.N)注册量增长0.3%。",
-          "url": "https://flash.jin10.com/detail/20251223130118471800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时22分"
-        },
-        {
-          "title": "欧洲汽车制造商协会：欧盟1月至11月新车注册量增长1.4%，达到9,860,092辆。欧盟11月新车注册量增长2.1%，至887,491辆。11月欧盟新注册车辆中，电动汽车市场份额为65.6%。",
-          "url": "https://flash.jin10.com/detail/20251223130042677800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时22分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收涨0.58%，报7683.26点。 热门中概股里，阿特斯太阳能初步收涨10.7%，小马智行、携程、亚朵、晶科能源、名创优品、汽车之家涨超1%，阿里巴巴涨0.8%。 ETF中，中国科技指数ETF（CQQQ）收涨1.62%，中概互联网指数ETF（KWEB）收涨1.03%。 XtrackersHarvest中证50（ASHS）收涨1.15%，德银嘉实沪深300指数ETF（ASHR）收涨0.83%。",
-          "url": "https://wallstreetcn.com/livenews/3025125",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时19分"
-        },
-        {
-          "title": "国家能源局：截至2025年11月底我国电动汽车充电基础设施（枪）总数达到1932.2万个 同比增长52.0%",
-          "url": "https://wallstreetcn.com/livenews/3025284",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时25分"
         }
       ]
     }
