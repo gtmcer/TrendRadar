@@ -1,23 +1,12 @@
 {
-  "generated_at": "2025-12-23T11:25:52.411368+08:00",
-  "total_titles_processed": 955,
+  "generated_at": "2025-12-23T12:37:28.205848+08:00",
+  "total_titles_processed": 1072,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
       "match_count": 7,
       "titles": [
-        {
-          "title": "科技股反弹引领市场！美股高开，“Mag7”普涨，特斯拉创盘中历史高位，油价反弹超2%",
-          "url": "https://wallstreetcn.com/articles/3761821",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 05时18分]"
-        },
         {
           "title": "旧金山大停电，谷歌无人车Waymo乱作一团，特斯拉赢麻了",
           "url": "https://wallstreetcn.com/articles/3761857",
@@ -30,8 +19,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时18分 ~ 11时25分]"
+          "appearance_count": 10,
+          "time_info": "[01时18分 ~ 12时37分]"
+        },
+        {
+          "title": "科技股反弹引领市场！美股高开，“Mag7”普涨，特斯拉创盘中历史高位，油价反弹超2%",
+          "url": "https://wallstreetcn.com/articles/3761821",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 05时18分]"
         },
         {
           "title": "吉利汽车：极氪私有化交易完成",
@@ -58,8 +58,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时26分 ~ 11时25分]"
+          "appearance_count": 3,
+          "time_info": "[09时26分 ~ 12时37分]"
         },
         {
           "title": "特斯拉股价逼近500美元创新高 马斯克薪酬案翻盘+FSD稳跑",
@@ -70,8 +70,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时26分 ~ 11时25分]"
+          "appearance_count": 3,
+          "time_info": "[09时26分 ~ 12时37分]"
         },
         {
           "title": "周一（12月22日），彭博电动汽车价格回报指数涨0.82%，报3462.47点，亚太早盘显著上涨——北京时间09:29出现一波跳空上涨行情，后续高位震荡，美股开盘后，随着特斯拉股价创盘中历史最高、逼近500美元。 成分股EVgo、Lucid集团、微宏控股（MVST）涨超3领跑，小马智行涨约2.1%，特斯拉和沃尔沃涨超1%表现靠前。 “特斯拉劲敌”Rivian、禾赛科技、普拉格动力公司则跌超3%。",
@@ -141,7 +141,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
         },
@@ -163,7 +163,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
         }
