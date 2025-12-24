@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-24T14:32:00.957199+08:00",
-  "total_titles_processed": 1170,
+  "generated_at": "2025-12-24T15:23:11.329347+08:00",
+  "total_titles_processed": 1260,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "\"圣诞行情\"开启，标普逼近历史高位，特斯拉盘中新高，金银铜齐新高，原油大涨",
@@ -41,6 +41,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时21分 ~ 05时18分]"
+        },
+        {
+          "title": "吉利为何亲手终结极氪的独立梦",
+          "url": "https://www.toutiao.com/trending/7587277812264881702/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时22分 ~ 15时23分]"
         },
         {
           "title": "美股七巨头收盘播报｜英伟达收涨3%，亚马逊、谷歌A至多涨超1.6%，特斯拉回撤超0.6%",
@@ -93,11 +104,12 @@
             1,
             15,
             19,
-            17
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时25分 ~ 14时32分]"
+          "appearance_count": 17,
+          "time_info": "[00时25分 ~ 15时23分]"
         },
         {
           "title": "金十图示：2025年12月24日（周三）全球汽车制造商市值变化",
@@ -130,8 +142,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时31分 ~ 14时32分]"
+          "appearance_count": 4,
+          "time_info": "[14时31分 ~ 15时23分]"
         },
         {
           "title": "俄罗斯调查委员会：莫斯科汽车爆炸致两名警察及另一人身亡。",
@@ -140,7 +152,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
         },
