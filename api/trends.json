@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-24T11:23:25.153402+08:00",
-  "total_titles_processed": 922,
+  "generated_at": "2025-12-24T12:35:34.212619+08:00",
+  "total_titles_processed": 1024,
   "failed_sources": [],
   "trends": [
     {
@@ -71,7 +71,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
         }
@@ -90,11 +90,12 @@
             4,
             3,
             5,
-            1
+            1,
+            15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 09时26分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 12时35分]"
         },
         {
           "title": "金十图示：2025年12月24日（周三）全球汽车制造商市值变化",
@@ -103,7 +104,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
         },
