@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-25T16:27:15.455390+08:00",
-  "total_titles_processed": 1349,
+  "generated_at": "2025-12-25T17:22:20.551181+08:00",
+  "total_titles_processed": 1440,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "汽车角度分析COD之父车祸",
@@ -107,6 +107,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时24分 ~ 01时17分]"
+        },
+        {
+          "title": "智己汽车发布内部信，12月首次实现全成本口径盈利",
+          "url": "https://wallstreetcn.com/livenews/3026675",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
         },
         {
           "title": "丰田：11月份丰田集团海外汽车产量同比下降3.4%，至563,546辆。",
