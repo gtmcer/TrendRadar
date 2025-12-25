@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-25T20:39:03.873710+08:00",
-  "total_titles_processed": 1673,
+  "generated_at": "2025-12-25T21:31:59.099167+08:00",
+  "total_titles_processed": 1760,
   "failed_sources": [],
   "trends": [
     {
@@ -110,6 +110,18 @@
           "time_info": "[03时16分 ~ 05时18分]"
         },
         {
+          "title": "紫光国微：全资子公司拟与宁德时代全资子公司等共同投资设立公司 从事汽车域控芯片业务",
+          "url": "https://wallstreetcn.com/livenews/3026737",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时39分 ~ 21时31分]"
+        },
+        {
           "title": "亚马逊旗下自动驾驶汽车公司Zoox因软件问题召回332辆车",
           "url": "https://wallstreetcn.com/livenews/3026274",
           "source": "华尔街见闻-快讯",
@@ -120,17 +132,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时24分 ~ 01时17分]"
-        },
-        {
-          "title": "紫光国微：全资子公司拟与宁德时代全资子公司等共同投资设立公司 从事汽车域控芯片业务",
-          "url": "https://wallstreetcn.com/livenews/3026737",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时39分"
         },
         {
           "title": "丰田：11月份丰田集团海外汽车产量同比下降3.4%，至563,546辆。",
