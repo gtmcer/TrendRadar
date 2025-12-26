@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T18:21:14.562086+08:00",
-  "total_titles_processed": 1410,
+  "generated_at": "2025-12-26T19:18:22.688098+08:00",
+  "total_titles_processed": 1500,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
@@ -104,7 +104,7 @@
     },
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "小鹏P7送官方店检修，被私拆4个轮胎",
@@ -140,6 +140,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时21分 ~ 18时21分]"
+        },
+        {
+          "title": "极氪001车队首穿天山胜利隧道",
+          "url": "https://www.baidu.com/s?wd=%E6%9E%81%E6%B0%AA001%E8%BD%A6%E9%98%9F%E9%A6%96%E7%A9%BF%E5%A4%A9%E5%B1%B1%E8%83%9C%E5%88%A9%E9%9A%A7%E9%81%93",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
         }
       ]
     },
