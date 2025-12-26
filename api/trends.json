@@ -1,12 +1,84 @@
 {
-  "generated_at": "2025-12-26T23:20:16.517070+08:00",
-  "total_titles_processed": 1836,
+  "generated_at": "2025-12-27T00:22:59.741747+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "汽车",
-      "match_count": 13,
+      "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
+      "match_count": 4,
       "titles": [
+        {
+          "title": "优信集团与蔚来资本等签署5000万美元融资协议",
+          "url": "https://wallstreetcn.com/livenews/3027402",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        },
+        {
+          "title": "小鹏汽车(XPEV.N)涨超8%。",
+          "url": "https://flash.jin10.com/detail/20251226232713729800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数短线拉升，涨幅扩大至0.8%。热门中概股小鹏涨7.5%，理想涨3.1%，蔚来涨3.2%，拼多多涨2.1%，阿里巴巴涨1.7%。",
+          "url": "https://wallstreetcn.com/livenews/3027400",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数盘初涨0.44%。 热门中概股叮咚买菜涨8.46%，小鹏涨3.78%，理想涨2.59%，蔚来涨1.1%，阿特斯太阳能、百胜中国、百度、阿里巴巴、贝壳、京东、华住、万国数据等至多涨0.74%。 再鼎医药跌1.83%，文远知行跌1.93%，小马智行跌3.89%。",
+          "url": "https://wallstreetcn.com/livenews/3027381",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "汽车",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "全球销量前十电动汽车8款来自中国",
+          "url": "https://www.toutiao.com/trending/7587201669700583430/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        },
+        {
+          "title": "全球销量前十电动汽车8款来自中国",
+          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E9%94%80%E9%87%8F%E5%89%8D%E5%8D%81%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A68%E6%AC%BE%E6%9D%A5%E8%87%AA%E4%B8%AD%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        },
         {
           "title": "汽车坠河一家5口遇难，知情人：车主能吃苦，前几年才在广州买房",
           "url": "https://news.ifeng.com/c/8pP745uL2xK",
@@ -15,265 +87,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[20时38分 ~ 23时20分]"
-        },
-        {
-          "title": "中国首批L3级自动驾驶汽车开启规模化上路运行",
-          "url": "https://wallstreetcn.com/livenews/3027223",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时21分"
-        },
-        {
-          "title": "汽车零部件巨头变机器人新势力？中鼎股份子公司出资3000万元，与逐际动力等共同经营人形机器人代工",
-          "url": "https://wallstreetcn.com/livenews/3026785",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            15,
-            22,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 04时21分]"
-        },
-        {
-          "title": "乘联分会崔东树：2025年1-11月中国汽车进口45万辆降30%",
-          "url": "https://wallstreetcn.com/livenews/3027360",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时19分 ~ 23时20分]"
-        },
-        {
-          "title": "广东江门一汽车坠河 一家五口遇难",
-          "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E6%B1%9F%E9%97%A8%E4%B8%80%E6%B1%BD%E8%BD%A6%E5%9D%A0%E6%B2%B3+%E4%B8%80%E5%AE%B6%E4%BA%94%E5%8F%A3%E9%81%87%E9%9A%BE",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时23分 ~ 12时34分]"
-        },
-        {
-          "title": "全球销量前十电动汽车8款来自中国",
-          "url": "https://www.toutiao.com/trending/7587201669700583430/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时19分 ~ 23时20分]"
-        },
-        {
-          "title": "金十图示：2025年12月26日（周五）全球汽车制造商市值变化",
-          "url": "https://flash.jin10.com/detail/20251226110616887800",
-          "source": "金十数据",
-          "ranks": [
-            21,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时34分 ~ 13时21分]"
-        },
-        {
-          "title": "全球销量前十电动汽车8款来自中国",
-          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E9%94%80%E9%87%8F%E5%89%8D%E5%8D%81%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A68%E6%AC%BE%E6%9D%A5%E8%87%AA%E4%B8%AD%E5%9B%BD",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时19分 ~ 23时20分]"
-        },
-        {
-          "title": "LG新能源：弗雷德里希斯贝格电池动力系统（Freudenberg Battery Power Systems）取消电动汽车电池供应协议，原因系该公司已放弃电池业务计划。被取消的合同预计金额约为3.92万亿韩元。",
-          "url": "https://flash.jin10.com/detail/20251226164211880800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时21分"
-        },
-        {
-          "title": "消息称丰田汽车预计其2026年产量将超过1000万辆",
-          "url": "https://flash.jin10.com/detail/20251226164044512800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时21分"
-        },
-        {
-          "title": "全球首个电动汽车电耗限值强制性标准明年起实施",
-          "url": "https://wallstreetcn.com/livenews/3026963",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时24分"
-        },
-        {
-          "title": "封关后的海南汽车到底能不能买",
-          "url": "https://www.toutiao.com/trending/7588108901032136233/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时19分"
-        },
-        {
-          "title": "李锐谈离开湖南卫视做飞行汽车原因",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%94%90%E8%B0%88%E7%A6%BB%E5%BC%80%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E5%81%9A%E9%A3%9E%E8%A1%8C%E6%B1%BD%E8%BD%A6%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "小鹏P7送官方店检修，被私拆4个轮胎",
-          "url": "https://news.ifeng.com/c/8pOQBr9pPQh",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时23分 ~ 16时26分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数盘初涨0.44%。 热门中概股叮咚买菜涨8.46%，小鹏涨3.78%，理想涨2.59%，蔚来涨1.1%，阿特斯太阳能、百胜中国、百度、阿里巴巴、贝壳、京东、华住、万国数据等至多涨0.74%。 再鼎医药跌1.83%，文远知行跌1.93%，小马智行跌3.89%。",
-          "url": "https://wallstreetcn.com/livenews/3027381",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时20分"
-        },
-        {
-          "title": "卢伟冰发布小米汽车最新交付成绩",
-          "url": "https://www.toutiao.com/trending/7586845024520863807/",
-          "source": "今日头条",
-          "ranks": [
-            25,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 01时18分]"
-        },
-        {
-          "title": "小鹏正式进入毛里求斯市场",
-          "url": "https://wallstreetcn.com/livenews/3027183",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时21分 ~ 18时21分]"
-        },
-        {
-          "title": "纳斯达克中国金龙指数上涨0.3%，小鹏汽车(XPEV.N)涨超5%，蔚来汽车(NIO.N)、理想汽车(LI.O)涨超2%，阿里巴巴(BABA.N)涨0.8%。",
-          "url": "https://flash.jin10.com/detail/20251226225038654800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时20分"
-        },
-        {
-          "title": "极氪001车队首穿天山胜利隧道",
-          "url": "https://www.baidu.com/s?wd=%E6%9E%81%E6%B0%AA001%E8%BD%A6%E9%98%9F%E9%A6%96%E7%A9%BF%E5%A4%A9%E5%B1%B1%E8%83%9C%E5%88%A9%E9%9A%A7%E9%81%93",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "华为汽车 鸿蒙智行 问界 尚界 尊界 智界 享界 乾崑",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "享界让豪华轿车市场四分天下",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%AB%E7%95%8C%E8%AE%A9%E8%B1%AA%E5%8D%8E%E8%BD%BF%E8%BD%A6%E5%B8%82%E5%9C%BA%E5%9B%9B%E5%88%86%E5%A4%A9%E4%B8%8B%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时23分 ~ 11时24分]"
-        },
-        {
-          "title": "问界M9上市两周年交付超26万台",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%97%AE%E7%95%8CM9%E4%B8%8A%E5%B8%82%E4%B8%A4%E5%91%A8%E5%B9%B4%E4%BA%A4%E4%BB%98%E8%B6%8526%E4%B8%87%E5%8F%B0%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新能源汽车",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "国家发改委：对新能源汽车、锂电池、光伏等“新三样”产业，关键在于规范秩序、创新引领",
-          "url": "https://wallstreetcn.com/livenews/3026952",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时24分"
+          "time_info": "00时22分"
         }
       ]
     }
