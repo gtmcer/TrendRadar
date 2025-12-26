@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T20:39:17.984867+08:00",
-  "total_titles_processed": 1613,
+  "generated_at": "2025-12-26T21:32:23.373748+08:00",
+  "total_titles_processed": 1696,
   "failed_sources": [],
   "trends": [
     {
@@ -33,6 +33,17 @@
           "time_info": "[00时24分 ~ 04时21分]"
         },
         {
+          "title": "汽车坠河一家5口遇难，知情人：车主能吃苦，前几年才在广州买房",
+          "url": "https://news.ifeng.com/c/8pP745uL2xK",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时38分 ~ 21时32分]"
+        },
+        {
           "title": "广东江门一汽车坠河 一家五口遇难",
           "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E6%B1%9F%E9%97%A8%E4%B8%80%E6%B1%BD%E8%BD%A6%E5%9D%A0%E6%B2%B3+%E4%B8%80%E5%AE%B6%E4%BA%94%E5%8F%A3%E9%81%87%E9%9A%BE",
           "source": "百度热搜",
@@ -43,17 +54,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时23分 ~ 12时34分]"
-        },
-        {
-          "title": "汽车坠河一家5口遇难，知情人：车主能吃苦，前几年才在广州买房",
-          "url": "https://news.ifeng.com/c/8pP745uL2xK",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时38分 ~ 20时39分]"
         },
         {
           "title": "金十图示：2025年12月26日（周五）全球汽车制造商市值变化",
