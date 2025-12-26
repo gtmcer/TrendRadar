@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T01:17:34.010002+08:00",
-  "total_titles_processed": 369,
+  "generated_at": "2025-12-27T02:28:30.808117+08:00",
+  "total_titles_processed": 413,
   "failed_sources": [],
   "trends": [
     {
@@ -64,11 +64,12 @@
           "url": "https://www.toutiao.com/trending/7587201669700583430/",
           "source": "今日头条",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 02时28分]"
         },
         {
           "title": "全球销量前十电动汽车8款来自中国",
@@ -79,8 +80,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 02时28分]"
         },
         {
           "title": "汽车坠河一家5口遇难，知情人：车主能吃苦，前几年才在广州买房",
@@ -90,8 +91,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 02时28分]"
         }
       ]
     }
