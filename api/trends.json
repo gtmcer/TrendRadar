@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-26T14:31:47.891388+08:00",
-  "total_titles_processed": 1057,
+  "generated_at": "2025-12-26T15:21:18.923154+08:00",
+  "total_titles_processed": 1129,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "汽车零部件巨头变机器人新势力？中鼎股份子公司出资3000万元，与逐际动力等共同经营人形机器人代工",
@@ -55,6 +55,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
+        },
+        {
+          "title": "李锐谈离开湖南卫视做飞行汽车原因",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%94%90%E8%B0%88%E7%A6%BB%E5%BC%80%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E5%81%9A%E9%A3%9E%E8%A1%8C%E6%B1%BD%E8%BD%A6%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
         }
       ]
     },
@@ -70,8 +81,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时23分 ~ 14时31分]"
+          "appearance_count": 7,
+          "time_info": "[11时23分 ~ 15时21分]"
         },
         {
           "title": "卢伟冰发布小米汽车最新交付成绩",
