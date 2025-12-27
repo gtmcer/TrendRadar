@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T15:18:33.471862+08:00",
-  "total_titles_processed": 1007,
+  "generated_at": "2025-12-27T16:26:13.075751+08:00",
+  "total_titles_processed": 1076,
   "failed_sources": [],
   "trends": [
     {
@@ -115,7 +115,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "全球销量前十电动汽车8款来自中国",
@@ -199,6 +199,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时24分 ~ 09时25分]"
+        },
+        {
+          "title": "日本57车连撞 烧焦汽车骨架堆满公路",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC57%E8%BD%A6%E8%BF%9E%E6%92%9E+%E7%83%A7%E7%84%A6%E6%B1%BD%E8%BD%A6%E9%AA%A8%E6%9E%B6%E5%A0%86%E6%BB%A1%E5%85%AC%E8%B7%AF",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时25分 ~ 16时26分]"
         }
       ]
     }
