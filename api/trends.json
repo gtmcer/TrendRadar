@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T06:18:43.661406+08:00",
-  "total_titles_processed": 399,
+  "generated_at": "2025-12-28T07:18:31.754110+08:00",
+  "total_titles_processed": 405,
   "failed_sources": [],
   "trends": [
     {
@@ -16,19 +16,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时22分 ~ 06时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时22分 ~ 07时18分]"
         },
         {
           "title": "台湾地震 房屋狂摇汽车警报响成一片",
           "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E5%9C%B0%E9%9C%87+%E6%88%BF%E5%B1%8B%E7%8B%82%E6%91%87%E6%B1%BD%E8%BD%A6%E8%AD%A6%E6%8A%A5%E5%93%8D%E6%88%90%E4%B8%80%E7%89%87",
           "source": "百度热搜",
           "ranks": [
-            7
+            7,
+            17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时16分 ~ 06时18分]"
+          "appearance_count": 9,
+          "time_info": "[01时16分 ~ 07时18分]"
         }
       ]
     },
@@ -44,11 +45,12 @@
             25,
             23,
             28,
-            24
+            24,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时26分 ~ 06时18分]"
+          "appearance_count": 8,
+          "time_info": "[02时26分 ~ 07时18分]"
         }
       ]
     }
