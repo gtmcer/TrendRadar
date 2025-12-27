@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-27T07:19:08.091950+08:00",
-  "total_titles_processed": 532,
+  "generated_at": "2025-12-27T09:25:17.027008+08:00",
+  "total_titles_processed": 654,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "纳斯达克金龙中国指数初步收涨0.2%，本周累涨约0.6%。 热门中概股里，小鹏初步收涨6.2%，蔚来涨4.1%，理想涨3.9%，小米涨2.1%，阿里巴巴涨1.4%。",
@@ -41,6 +41,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时17分 ~ 07时19分]"
+        },
+        {
+          "title": "哪个文学人物，活成了你理想中的样子？",
+          "url": "https://www.zhihu.com/question/1983640286719678186",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时24分 ~ 09时25分]"
         },
         {
           "title": "纳斯达克金龙中国指数收涨0.72%，报7688.52点。 热门中概股里，小鹏初步收涨6.2%，蔚来涨4.1%，理想涨3.9%，小米涨2.1%，阿里巴巴涨1.4%。 ETF中，XtrackersHarvest中证50（ASHS）收涨1.82%，德银嘉实沪深300指数ETF（ASHR）收涨0.88%。 中概互联网指数ETF（KWEB）收涨0.93%，中国科技指数ETF（CQQQ）收涨0.64%。",
@@ -104,7 +115,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "全球销量前十电动汽车8款来自中国",
@@ -115,11 +126,12 @@
             7,
             14,
             18,
-            6
+            6,
+            27
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 07时19分]"
+          "appearance_count": 13,
+          "time_info": "[00时22分 ~ 09时25分]"
         },
         {
           "title": "全球销量前十电动汽车8款来自中国",
@@ -143,11 +155,12 @@
           "url": "https://news.ifeng.com/c/8pP745uL2xK",
           "source": "凤凰网",
           "ranks": [
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 07时19分]"
+          "appearance_count": 13,
+          "time_info": "[00时22分 ~ 09时25分]"
         },
         {
           "title": "周五（12月26日），彭博电动汽车价格回报指数涨0.34%，报3502.38点，本周（连续五个交易日）累涨1.98%，整体持续走高。",
@@ -174,6 +187,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时20分 ~ 06时19分]"
+        },
+        {
+          "title": "广东汽车坠江致5死事件情况通报",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E6%B1%BD%E8%BD%A6%E5%9D%A0%E6%B1%9F%E8%87%B45%E6%AD%BB%E4%BA%8B%E4%BB%B6%E6%83%85%E5%86%B5%E9%80%9A%E6%8A%A5%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时24分 ~ 09时25分]"
         }
       ]
     }
