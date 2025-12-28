@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-28T20:37:47.421445+08:00",
-  "total_titles_processed": 1151,
+  "generated_at": "2025-12-28T21:29:01.805918+08:00",
+  "total_titles_processed": 1216,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "吉利汽车旗下公司起诉电池企业欣旺达「电芯存在质量问题」，索赔 23 亿元，将对其业务造成哪些冲击？",
@@ -59,6 +59,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[15时19分 ~ 19时16分]"
+        },
+        {
+          "title": "极石汽车闫枫：2026年极石全球销量目标3万辆",
+          "url": "https://flash.jin10.com/detail/20251228210951843800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
         },
         {
           "title": "重庆追加汽车置换、汽车报废更新补贴",
@@ -135,11 +146,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            18
+            18,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时16分 ~ 20时37分]"
+          "appearance_count": 3,
+          "time_info": "[19时16分 ~ 21时29分]"
         },
         {
           "title": "特斯拉回应女子30多万买到老款车",
@@ -148,9 +160,9 @@
           "ranks": [
             29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时37分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时37分 ~ 21时29分]"
         }
       ]
     },
