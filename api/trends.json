@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T17:19:23.905573+08:00",
-  "total_titles_processed": 929,
+  "generated_at": "2025-12-28T18:20:16.251813+08:00",
+  "total_titles_processed": 996,
   "failed_sources": [],
   "trends": [
     {
@@ -47,27 +47,29 @@
           "time_info": "[09时45分 ~ 16时25分]"
         },
         {
-          "title": "重庆追加汽车置换、汽车报废更新补贴",
-          "url": "https://flash.jin10.com/detail/20251228164730984800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时19分"
-        },
-        {
           "title": "史上最严电动汽车电耗国标来了",
           "url": "https://www.baidu.com/s?wd=%E5%8F%B2%E4%B8%8A%E6%9C%80%E4%B8%A5%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E7%94%B5%E8%80%97%E5%9B%BD%E6%A0%87%E6%9D%A5%E4%BA%86",
           "source": "百度热搜",
           "ranks": [
             2,
-            7
+            7,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时19分 ~ 17时19分]"
+          "appearance_count": 5,
+          "time_info": "[15时19分 ~ 18时20分]"
+        },
+        {
+          "title": "重庆追加汽车置换、汽车报废更新补贴",
+          "url": "https://flash.jin10.com/detail/20251228164730984800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时19分 ~ 18时20分]"
         },
         {
           "title": "深圳一汽车连轧多条实线变道下高速",
@@ -105,22 +107,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            4
+            4,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时25分 ~ 17时19分]"
+          "appearance_count": 3,
+          "time_info": "[16时25分 ~ 18时20分]"
         },
         {
           "title": "小鹏汽车联合北大提出全新视觉Token剪枝框架",
           "url": "https://flash.jin10.com/detail/20251228163923165800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时19分 ~ 18时20分]"
         }
       ]
     },
@@ -148,11 +152,12 @@
           "url": "https://flash.jin10.com/detail/20251228164627469800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时19分 ~ 18时20分]"
         }
       ]
     }
