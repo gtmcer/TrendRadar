@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-30T13:23:41.600336+08:00",
-  "total_titles_processed": 1099,
+  "generated_at": "2025-12-30T14:31:31.479942+08:00",
+  "total_titles_processed": 1187,
   "failed_sources": [],
   "trends": [
     {
@@ -122,6 +122,17 @@
           "time_info": "07时19分"
         },
         {
+          "title": "将推出飞行汽车？比亚迪高管否认",
+          "url": "https://www.toutiao.com/trending/7588521891170664467/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时27分 ~ 14时31分]"
+        },
+        {
           "title": "金十图示：2025年12月30日（周二）全球汽车制造商市值变化",
           "url": "https://flash.jin10.com/detail/20251230110841139800",
           "source": "金十数据",
@@ -132,17 +143,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时27分 ~ 12时38分]"
-        },
-        {
-          "title": "将推出飞行汽车？比亚迪高管否认",
-          "url": "https://www.toutiao.com/trending/7588521891170664467/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时27分 ~ 13时23分]"
         },
         {
           "title": "周一（12月29日），彭博电动汽车价格回报指数跌0.44%，报3465.63点。 北京时间09:30之前，指数“跳空”反弹，刷新日高至3516.09点，后续逐步回落，22:30美股开盘时快速下挫。",
@@ -168,7 +168,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
         }
