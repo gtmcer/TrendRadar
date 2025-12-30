@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-31T02:29:33.792892+08:00",
-  "total_titles_processed": 422,
+  "generated_at": "2025-12-31T03:17:08.202978+08:00",
+  "total_titles_processed": 473,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,34 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 02时29分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 03时17分]"
+        },
+        {
+          "title": "汽车以旧换新国补将按车价比例补贴",
+          "url": "https://www.baidu.com/s?wd=%E6%B1%BD%E8%BD%A6%E4%BB%A5%E6%97%A7%E6%8D%A2%E6%96%B0%E5%9B%BD%E8%A1%A5%E5%B0%86%E6%8C%89%E8%BD%A6%E4%BB%B7%E6%AF%94%E4%BE%8B%E8%A1%A5%E8%B4%B4",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 03时17分]"
+        },
+        {
+          "title": "汽车以旧换新国补将按车价比例补贴",
+          "url": "https://www.toutiao.com/trending/7589611017433517578/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 03时17分]"
         },
         {
           "title": "商务部等8部门办公厅印发《2026年汽车以旧换新补贴实施细则》通知",
@@ -43,30 +69,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时25分 ~ 01时20分]"
-        },
-        {
-          "title": "汽车以旧换新国补将按车价比例补贴",
-          "url": "https://www.baidu.com/s?wd=%E6%B1%BD%E8%BD%A6%E4%BB%A5%E6%97%A7%E6%8D%A2%E6%96%B0%E5%9B%BD%E8%A1%A5%E5%B0%86%E6%8C%89%E8%BD%A6%E4%BB%B7%E6%AF%94%E4%BE%8B%E8%A1%A5%E8%B4%B4",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 02时29分]"
-        },
-        {
-          "title": "汽车以旧换新国补将按车价比例补贴",
-          "url": "https://www.toutiao.com/trending/7589611017433517578/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 02时29分]"
         }
       ]
     },
