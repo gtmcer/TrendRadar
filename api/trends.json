@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-30T14:31:31.479942+08:00",
-  "total_titles_processed": 1187,
+  "generated_at": "2025-12-30T15:21:57.924798+08:00",
+  "total_titles_processed": 1272,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "宝马销冠试行特斯拉「一口价」8 天卖出 11 台，这对传统车企销售模式有何借鉴意义？",
@@ -103,6 +103,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
+        },
+        {
+          "title": "车顶维权女车主被特斯拉申请限高",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%BD%A6%E9%A1%B6%E7%BB%B4%E6%9D%83%E5%A5%B3%E8%BD%A6%E4%B8%BB%E8%A2%AB%E7%89%B9%E6%96%AF%E6%8B%89%E7%94%B3%E8%AF%B7%E9%99%90%E9%AB%98%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
         }
       ]
     },
@@ -110,6 +121,17 @@
       "keyword_group": "汽车",
       "match_count": 4,
       "titles": [
+        {
+          "title": "将推出飞行汽车？比亚迪高管否认",
+          "url": "https://www.toutiao.com/trending/7588521891170664467/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时27分 ~ 15时21分]"
+        },
         {
           "title": "法拉第未来计划更名为法拉第未来人工智能电动汽车公司， 法拉第未来将于明年2月13日召开特别会议。",
           "url": "https://flash.jin10.com/detail/20251230065611933800",
@@ -120,17 +142,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
-        },
-        {
-          "title": "将推出飞行汽车？比亚迪高管否认",
-          "url": "https://www.toutiao.com/trending/7588521891170664467/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时27分 ~ 14时31分]"
         },
         {
           "title": "金十图示：2025年12月30日（周二）全球汽车制造商市值变化",
