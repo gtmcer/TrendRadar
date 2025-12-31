@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-31T09:28:27.403796+08:00",
-  "total_titles_processed": 773,
+  "generated_at": "2025-12-31T11:26:18.963219+08:00",
+  "total_titles_processed": 911,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 9,
+      "match_count": 13,
       "titles": [
         {
           "title": "2026年国补方案出炉：新增智能产品，剔除家装、电动自行车，调整家电、汽车补贴标准",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时25分 ~ 09时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时25分 ~ 11时26分]"
         },
         {
           "title": "汽车以旧换新国补将按车价比例补贴",
@@ -55,9 +55,31 @@
           "ranks": [
             1
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时28分 ~ 11时26分]"
+        },
+        {
+          "title": "金十图示：2025年12月31日（周三）全球汽车制造商市值变化",
+          "url": "https://flash.jin10.com/detail/20251231111053110800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时28分"
+          "time_info": "11时26分"
+        },
+        {
+          "title": "2026年汽车国补细则",
+          "url": "https://www.douyin.com/hot/2352698",
+          "source": "抖音",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
         },
         {
           "title": "商务部等8部门办公厅印发《2026年汽车以旧换新补贴实施细则》通知",
@@ -97,24 +119,47 @@
           "time_info": "[05时19分 ~ 06时18分]"
         },
         {
+          "title": "2026年将扩大汽车报废更新补贴范围",
+          "url": "https://www.baidu.com/s?wd=2026%E5%B9%B4%E5%B0%86%E6%89%A9%E5%A4%A7%E6%B1%BD%E8%BD%A6%E6%8A%A5%E5%BA%9F%E6%9B%B4%E6%96%B0%E8%A1%A5%E8%B4%B4%E8%8C%83%E5%9B%B4",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时28分 ~ 11时26分]"
+        },
+        {
+          "title": "2026年汽车“国补”细则来了",
+          "url": "https://www.cls.cn/detail/2244801",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        },
+        {
+          "title": "2026年我国将扩大汽车报废更新补贴支持范围",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32289197",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        },
+        {
           "title": "2026年我国将扩大汽车报废更新补贴支持范围",
           "url": "https://flash.jin10.com/detail/20251231080119270800",
           "source": "金十数据",
           "ranks": [
             27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时28分"
-        },
-        {
-          "title": "2026年将扩大汽车报废更新补贴范围",
-          "url": "https://www.baidu.com/s?wd=2026%E5%B9%B4%E5%B0%86%E6%89%A9%E5%A4%A7%E6%B1%BD%E8%BD%A6%E6%8A%A5%E5%BA%9F%E6%9B%B4%E6%96%B0%E8%A1%A5%E8%B4%B4%E8%8C%83%E5%9B%B4",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
         }
@@ -122,7 +167,7 @@
     },
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "恒指低开0.21%，报25801.49点；恒生科技指数跌0.22%。蔚来涨超3%，小鹏汽车涨超2%；携程跌2%，京东健康、京东集团、网易、快手跌超1%。",
@@ -131,7 +176,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
         },
@@ -159,13 +204,24 @@
           "time_info": "[06时18分 ~ 07时18分]"
         },
         {
+          "title": "特斯拉罕见展开预期管理 印度称其GDP已超日本 | 环球市场",
+          "url": "https://www.cls.cn/detail/2244770",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        },
+        {
           "title": "何小鹏开特斯拉点麦当劳失败",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BD%95%E5%B0%8F%E9%B9%8F%E5%BC%80%E7%89%B9%E6%96%AF%E6%8B%89%E7%82%B9%E9%BA%A6%E5%BD%93%E5%8A%B3%E5%A4%B1%E8%B4%A5%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
         },
