@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-31T13:24:10.507670+08:00",
-  "total_titles_processed": 1066,
+  "generated_at": "2025-12-31T14:31:36.239903+08:00",
+  "total_titles_processed": 1164,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时25分 ~ 13时24分]"
+          "appearance_count": 13,
+          "time_info": "[00时25分 ~ 14时31分]"
         },
         {
           "title": "汽车以旧换新国补将按车价比例补贴",
@@ -56,8 +56,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时37分 ~ 13时24分]"
+          "appearance_count": 5,
+          "time_info": "[12时37分 ~ 14时31分]"
         },
         {
           "title": "2026年汽车“国补”细则来了",
@@ -68,8 +68,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时26分 ~ 13时24分]"
+          "appearance_count": 6,
+          "time_info": "[11时26分 ~ 14时31分]"
         },
         {
           "title": "2026年汽车国补细则",
@@ -80,8 +80,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时26分 ~ 13时24分]"
+          "appearance_count": 6,
+          "time_info": "[11时26分 ~ 14时31分]"
         },
         {
           "title": "【早报】2026年“国补”政策来了；汽车以旧换新补贴实施细则出炉",
@@ -95,18 +95,6 @@
           "time_info": "[09时28分 ~ 11时26分]"
         },
         {
-          "title": "2026汽车报废置换补贴解读",
-          "url": "https://search.bilibili.com/all?keyword=2026%E6%B1%BD%E8%BD%A6%E6%8A%A5%E5%BA%9F%E7%BD%AE%E6%8D%A2%E8%A1%A5%E8%B4%B4%E8%A7%A3%E8%AF%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时37分 ~ 13时24分]"
-        },
-        {
           "title": "2026年将扩大汽车报废更新补贴范围",
           "url": "https://www.baidu.com/s?wd=2026%E5%B9%B4%E5%B0%86%E6%89%A9%E5%A4%A7%E6%B1%BD%E8%BD%A6%E6%8A%A5%E5%BA%9F%E6%9B%B4%E6%96%B0%E8%A1%A5%E8%B4%B4%E8%8C%83%E5%9B%B4",
           "source": "百度热搜",
@@ -117,8 +105,21 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时28分 ~ 13时24分]"
+          "appearance_count": 7,
+          "time_info": "[09时28分 ~ 14时31分]"
+        },
+        {
+          "title": "2026汽车报废置换补贴解读",
+          "url": "https://search.bilibili.com/all?keyword=2026%E6%B1%BD%E8%BD%A6%E6%8A%A5%E5%BA%9F%E7%BD%AE%E6%8D%A2%E8%A1%A5%E8%B4%B4%E8%A7%A3%E8%AF%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时37分 ~ 14时31分]"
         },
         {
           "title": "2026年我国将扩大汽车报废更新补贴支持范围",
@@ -127,11 +128,12 @@
           "ranks": [
             17,
             15,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时26分 ~ 13时24分]"
+          "appearance_count": 6,
+          "time_info": "[11时26分 ~ 14时31分]"
         },
         {
           "title": "商务部等8部门办公厅印发《2026年汽车以旧换新补贴实施细则》通知",
