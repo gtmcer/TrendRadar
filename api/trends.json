@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-31T15:22:51.067202+08:00",
-  "total_titles_processed": 1239,
+  "generated_at": "2025-12-31T16:28:46.564896+08:00",
+  "total_titles_processed": 1338,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时25分 ~ 15时22分]"
+          "appearance_count": 15,
+          "time_info": "[00时25分 ~ 16时28分]"
         },
         {
           "title": "明年汽车“国补”调整为按比例补贴：购新能源车最高补12%",
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时37分 ~ 15时22分]"
+          "appearance_count": 7,
+          "time_info": "[12时37分 ~ 16时28分]"
         },
         {
           "title": "汽车以旧换新国补将按车价比例补贴",
@@ -61,6 +61,19 @@
           "time_info": "[00时25分 ~ 07时18分]"
         },
         {
+          "title": "2026年汽车国补细则",
+          "url": "https://www.douyin.com/hot/2352698",
+          "source": "抖音",
+          "ranks": [
+            4,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时26分 ~ 16时28分]"
+        },
+        {
           "title": "2026年汽车“国补”细则来了",
           "url": "https://www.cls.cn/detail/2244801",
           "source": "财联社热门",
@@ -71,29 +84,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时26分 ~ 15时22分]"
-        },
-        {
-          "title": "2026年汽车国补细则",
-          "url": "https://www.douyin.com/hot/2352698",
-          "source": "抖音",
-          "ranks": [
-            4,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时26分 ~ 15时22分]"
-        },
-        {
-          "title": "【早报】2026年“国补”政策来了；汽车以旧换新补贴实施细则出炉",
-          "url": "https://www.cls.cn/detail/2244743",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时28分 ~ 11时26分]"
         },
         {
           "title": "2026年我国将扩大汽车报废更新补贴支持范围",
@@ -107,8 +97,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时26分 ~ 15时22分]"
+          "appearance_count": 8,
+          "time_info": "[11时26分 ~ 16时28分]"
+        },
+        {
+          "title": "【早报】2026年“国补”政策来了；汽车以旧换新补贴实施细则出炉",
+          "url": "https://www.cls.cn/detail/2244743",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时28分 ~ 11时26分]"
         },
         {
           "title": "2026年将扩大汽车报废更新补贴范围",
@@ -204,7 +205,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         }
@@ -212,7 +213,7 @@
     },
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "特斯拉罕见展开预期管理 印度称其GDP已超日本 | 环球市场",
@@ -237,6 +238,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
+        },
+        {
+          "title": "大空头迈克尔月初表示特斯拉“估值高得离谱” 但称并未做空",
+          "url": "https://flash.jin10.com/detail/20251231154821196800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
         },
         {
           "title": "纳斯达克金龙中国指数高开低走，初步收跌0.2%。 热门中概股里，百度初步收涨4.5%，小鹏涨3.8%，蔚来涨3.2%，文远知行、小米涨超1%，理想涨0.5%，阿里巴巴跌0.6%，百胜中国跌1.4%，小马智行跌1.7%，京东跌1.8%。",
@@ -268,7 +280,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         },
