@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T01:19:09.075229+08:00",
-  "total_titles_processed": 359,
+  "generated_at": "2026-01-02T02:28:46.627583+08:00",
+  "total_titles_processed": 390,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 01时19分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 02时28分]"
         },
         {
           "title": "2天20小时、零接管横穿美国，特斯拉FSD已通过“物理图灵测试”？",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 01时19分]"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 02时28分]"
         },
         {
           "title": "特斯拉车主首度实现“全程自动驾驶横穿美国” 马斯克：酷",
@@ -38,8 +38,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 01时19分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 02时28分]"
         }
       ]
     },
@@ -73,8 +73,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 01时19分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 02时28分]"
         }
       ]
     }
