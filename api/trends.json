@@ -1,107 +1,11 @@
 {
-  "generated_at": "2026-01-01T09:46:20.918116+08:00",
-  "total_titles_processed": 759,
+  "generated_at": "2026-01-01T11:49:34.680989+08:00",
+  "total_titles_processed": 897,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "纳斯达克金龙中国指数初步收跌1.1%。 热门中概股里，蔚来初步收跌7.3%，小鹏跌4.7%，文远知行跌2.5%，网易、理想、百度、新东方、小马智行跌超1%。",
-          "url": "https://wallstreetcn.com/livenews/3029482",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时18分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌1.13%，报7529.74点，12月份累计下跌3.38%，四季度累计下跌12.81%，2025年累计上涨超过11.33%。 热门中概股里，蔚来初步收跌7.3%，小鹏跌4.7%，文远知行跌2.5%，网易、理想、百度、新东方、小马智行跌超1%。 ETF中，中概互联网指数ETF（KWEB）收跌0.99%，中国科技指数ETF（CQQQ）收跌0.63%，德银嘉实沪深300指数ETF（ASHR）收跌0.33%，XtrackersHarvest中证50（ASHS）收涨0.30%。 2025年，ASHS累涨39.49%，CQQQ涨35.05%，ASHR涨27.13%，KWEB涨23.54%。",
-          "url": "https://wallstreetcn.com/livenews/3029482",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时19分 ~ 07时19分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数跌幅扩大至1.1%。 热门中概股蔚来跌7.7%，小鹏跌5.5%，理想跌4.6%，网易跌2.1%，百度跌1.4%，阿里跌1%。",
-          "url": "https://wallstreetcn.com/livenews/3029407",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 01时18分]"
-        },
-        {
-          "title": "小米汽车12月交付量超过5万台，推出新年0息购车政策",
-          "url": "https://wallstreetcn.com/livenews/3029522",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时46分"
-        },
-        {
-          "title": "行业机构：法国12月新车注册量下降5.84%。 特斯拉12月在法国的新车注册量下降66.04%。 法国2025年新车注册量下降5.02%。",
-          "url": "https://wallstreetcn.com/livenews/3029518",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时46分"
-        },
-        {
-          "title": "小米汽车：2025年12月，小米汽车交付量超过5万台。",
-          "url": "https://flash.jin10.com/detail/20260101090520861800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时46分"
-        },
-        {
-          "title": "2025年12月法国新车注册量下降5.84%，特斯拉注册量下降66.04%。",
-          "url": "https://flash.jin10.com/detail/20260101085127541800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时46分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数盘初跌0.76%。 热门中概股蔚来跌5%，小鹏跌4.46%，理想跌3.6%，新东方跌2.1%，网易跌1.5%，百度跌1%，文远知行跌0.6%，阿里跌0.3%，百胜中国涨0.3%。",
-          "url": "https://wallstreetcn.com/livenews/3029402",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
-        }
-      ]
-    },
-    {
       "keyword_group": "汽车",
-      "match_count": 7,
+      "match_count": 12,
       "titles": [
         {
           "title": "2026年我国将扩大汽车报废更新补贴支持范围",
@@ -158,7 +62,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时46分"
         },
@@ -169,9 +73,53 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时46分"
+        },
+        {
+          "title": "金十图示：2026年01月01日（周四）全球汽车制造商市值变化",
+          "url": "https://flash.jin10.com/detail/20260101110745884800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时49分"
+        },
+        {
+          "title": "海南：汽车以旧换新最高补贴2万元",
+          "url": "https://wallstreetcn.com/livenews/3029543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时49分"
+        },
+        {
+          "title": "岚图汽车2025年交付超15万辆，同比增87%",
+          "url": "https://wallstreetcn.com/livenews/3029539",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时49分"
+        },
+        {
+          "title": "智己汽车公布，2025年销量81,017台，全年销量再创新高。",
+          "url": "https://wallstreetcn.com/livenews/3029537",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时49分"
         },
         {
           "title": "2026年汽车“两新”政策落地",
@@ -183,6 +131,124 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
+        },
+        {
+          "title": "岚图汽车：2025全年累计交付150169辆，实现“十连涨”，同比增长87%",
+          "url": "https://flash.jin10.com/detail/20260101101429406800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "纳斯达克金龙中国指数初步收跌1.1%。 热门中概股里，蔚来初步收跌7.3%，小鹏跌4.7%，文远知行跌2.5%，网易、理想、百度、新东方、小马智行跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3029482",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时18分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌1.13%，报7529.74点，12月份累计下跌3.38%，四季度累计下跌12.81%，2025年累计上涨超过11.33%。 热门中概股里，蔚来初步收跌7.3%，小鹏跌4.7%，文远知行跌2.5%，网易、理想、百度、新东方、小马智行跌超1%。 ETF中，中概互联网指数ETF（KWEB）收跌0.99%，中国科技指数ETF（CQQQ）收跌0.63%，德银嘉实沪深300指数ETF（ASHR）收跌0.33%，XtrackersHarvest中证50（ASHS）收涨0.30%。 2025年，ASHS累涨39.49%，CQQQ涨35.05%，ASHR涨27.13%，KWEB涨23.54%。",
+          "url": "https://wallstreetcn.com/livenews/3029482",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时19分 ~ 07时19分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数跌幅扩大至1.1%。 热门中概股蔚来跌7.7%，小鹏跌5.5%，理想跌4.6%，网易跌2.1%，百度跌1.4%，阿里跌1%。",
+          "url": "https://wallstreetcn.com/livenews/3029407",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 01时18分]"
+        },
+        {
+          "title": "小米汽车12月交付量超过5万台，推出新年0息购车政策",
+          "url": "https://wallstreetcn.com/livenews/3029522",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
+          "title": "行业机构：法国12月新车注册量下降5.84%。 特斯拉12月在法国的新车注册量下降66.04%。 法国2025年新车注册量下降5.02%。",
+          "url": "https://wallstreetcn.com/livenews/3029518",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
+          "title": "小米汽车：2025年12月，小米汽车交付量超过5万台。",
+          "url": "https://flash.jin10.com/detail/20260101090520861800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
+          "title": "2025年12月法国新车注册量下降5.84%，特斯拉注册量下降66.04%。",
+          "url": "https://flash.jin10.com/detail/20260101085127541800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
+          "title": "理想汽车2025年12月交付44,246辆汽车。 截至2025年12月31日，理想汽车累计交付量已达1,540,215辆。",
+          "url": "https://wallstreetcn.com/livenews/3029536",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时49分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数盘初跌0.76%。 热门中概股蔚来跌5%，小鹏跌4.46%，理想跌3.6%，新东方跌2.1%，网易跌1.5%，百度跌1%，文远知行跌0.6%，阿里跌0.3%，百胜中国涨0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3029402",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时25分"
         }
       ]
     },
@@ -197,7 +263,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时46分"
         },
@@ -208,7 +274,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时46分"
         }
@@ -223,11 +289,12 @@
           "url": "https://www.zhihu.com/question/1989014402733717101",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时46分 ~ 11时49分]"
         }
       ]
     }
