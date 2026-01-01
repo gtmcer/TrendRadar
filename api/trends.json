@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T11:49:34.680989+08:00",
-  "total_titles_processed": 897,
+  "generated_at": "2026-01-01T12:47:10.024130+08:00",
+  "total_titles_processed": 967,
   "failed_sources": [],
   "trends": [
     {
@@ -56,6 +56,54 @@
           "time_info": "[05时18分 ~ 06时19分]"
         },
         {
+          "title": "金十图示：2026年01月01日（周四）全球汽车制造商市值变化",
+          "url": "https://flash.jin10.com/detail/20260101110745884800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时49分 ~ 12时47分]"
+        },
+        {
+          "title": "海南：汽车以旧换新最高补贴2万元",
+          "url": "https://wallstreetcn.com/livenews/3029543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时49分 ~ 12时47分]"
+        },
+        {
+          "title": "岚图汽车2025年交付超15万辆，同比增87%",
+          "url": "https://wallstreetcn.com/livenews/3029539",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时49分 ~ 12时47分]"
+        },
+        {
+          "title": "智己汽车公布，2025年销量81,017台，全年销量再创新高。",
+          "url": "https://wallstreetcn.com/livenews/3029537",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时49分 ~ 12时47分]"
+        },
+        {
           "title": "零跑汽车全系12月交付达60423台，同比增长42%；2025年全年累计交付达596555台，同比增长103%。",
           "url": "https://wallstreetcn.com/livenews/3029523",
           "source": "华尔街见闻-快讯",
@@ -78,50 +126,6 @@
           "time_info": "09时46分"
         },
         {
-          "title": "金十图示：2026年01月01日（周四）全球汽车制造商市值变化",
-          "url": "https://flash.jin10.com/detail/20260101110745884800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时49分"
-        },
-        {
-          "title": "海南：汽车以旧换新最高补贴2万元",
-          "url": "https://wallstreetcn.com/livenews/3029543",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时49分"
-        },
-        {
-          "title": "岚图汽车2025年交付超15万辆，同比增87%",
-          "url": "https://wallstreetcn.com/livenews/3029539",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时49分"
-        },
-        {
-          "title": "智己汽车公布，2025年销量81,017台，全年销量再创新高。",
-          "url": "https://wallstreetcn.com/livenews/3029537",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时49分"
-        },
-        {
           "title": "2026年汽车“两新”政策落地",
           "url": "https://www.toutiao.com/trending/7589961604490333734/",
           "source": "今日头条",
@@ -139,7 +143,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时49分"
         }
@@ -147,7 +151,7 @@
     },
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "纳斯达克金龙中国指数初步收跌1.1%。 热门中概股里，蔚来初步收跌7.3%，小鹏跌4.7%，文远知行跌2.5%，网易、理想、百度、新东方、小马智行跌超1%。",
@@ -173,6 +177,17 @@
           "time_info": "[06时19分 ~ 07时19分]"
         },
         {
+          "title": "特斯拉车主首度实现“全程自动驾驶横穿美国” 马斯克：酷",
+          "url": "https://www.cls.cn/detail/2245979",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时46分 ~ 12时47分]"
+        },
+        {
           "title": "纳斯达克金龙中国指数跌幅扩大至1.1%。 热门中概股蔚来跌7.7%，小鹏跌5.5%，理想跌4.6%，网易跌2.1%，百度跌1.4%，阿里跌1%。",
           "url": "https://wallstreetcn.com/livenews/3029407",
           "source": "华尔街见闻-快讯",
@@ -183,6 +198,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时25分 ~ 01时18分]"
+        },
+        {
+          "title": "理想汽车2025年12月交付44,246辆汽车。 截至2025年12月31日，理想汽车累计交付量已达1,540,215辆。",
+          "url": "https://wallstreetcn.com/livenews/3029536",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时49分 ~ 12时47分]"
         },
         {
           "title": "小米汽车12月交付量超过5万台，推出新年0息购车政策",
@@ -229,17 +256,6 @@
           "time_info": "09时46分"
         },
         {
-          "title": "理想汽车2025年12月交付44,246辆汽车。 截至2025年12月31日，理想汽车累计交付量已达1,540,215辆。",
-          "url": "https://wallstreetcn.com/livenews/3029536",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时49分"
-        },
-        {
           "title": "纳斯达克金龙中国指数盘初跌0.76%。 热门中概股蔚来跌5%，小鹏跌4.46%，理想跌3.6%，新东方跌2.1%，网易跌1.5%，百度跌1%，文远知行跌0.6%，阿里跌0.3%，百胜中国涨0.3%。",
           "url": "https://wallstreetcn.com/livenews/3029402",
           "source": "华尔街见闻-快讯",
@@ -254,8 +270,19 @@
     },
     {
       "keyword_group": "华为汽车 鸿蒙智行 问界 尚界 尊界 智界 享界 乾崑",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "鸿蒙智行2025年全年交付589107台",
+          "url": "https://www.toutiao.com/trending/7589575642552500260/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时46分 ~ 12时47分]"
+        },
         {
           "title": "鸿蒙智行12月交付89611台",
           "url": "https://wallstreetcn.com/livenews/3029507",
@@ -290,11 +317,12 @@
           "source": "知乎",
           "ranks": [
             10,
-            6
+            6,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时46分 ~ 11时49分]"
+          "appearance_count": 4,
+          "time_info": "[09时46分 ~ 12时47分]"
         }
       ]
     }
