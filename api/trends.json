@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-03T03:13:44.636802+08:00",
-  "total_titles_processed": 412,
+  "generated_at": "2026-01-03T04:21:55.758494+08:00",
+  "total_titles_processed": 441,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 03时13分]"
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 04时21分]"
         },
         {
           "title": "意大利交通部：2025年12月特斯拉(TSLA.O)新车注册量同比增长85.22%，而全年新车注册量较2024年下降17.91%。",
@@ -25,11 +25,12 @@
           "ranks": [
             4,
             14,
-            18
+            18,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时18分 ~ 03时13分]"
+          "appearance_count": 4,
+          "time_info": "[01时18分 ~ 04时21分]"
         },
         {
           "title": "特斯拉(TSLA.O)股价走势逆转，现跌1.7%。",
@@ -37,11 +38,12 @@
           "source": "金十数据",
           "ranks": [
             8,
-            12
+            12,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时28分 ~ 03时13分]"
+          "appearance_count": 3,
+          "time_info": "[02时28分 ~ 04时21分]"
         },
         {
           "title": "2025年交付460万辆！比亚迪增长7.7% vs 特斯拉预计下滑，坐稳“全球电车老大”",
@@ -91,8 +93,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 03时13分]"
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 04时21分]"
         },
         {
           "title": "10大汽车集团12月及全年成绩单来了",
@@ -102,8 +104,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时28分"
+          "appearance_count": 2,
+          "time_info": "[02时28分 ~ 04时21分]"
         }
       ]
     }
