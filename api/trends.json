@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T13:24:36.675428+08:00",
-  "total_titles_processed": 862,
+  "generated_at": "2026-01-02T14:31:47.964552+08:00",
+  "total_titles_processed": 936,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时24分 ~ 13时24分]"
+          "appearance_count": 17,
+          "time_info": "[00时24分 ~ 14时31分]"
         },
         {
           "title": "特斯拉车主首度实现“全程自动驾驶横穿美国” 马斯克：酷",
@@ -50,11 +50,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            13
+            13,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时40分 ~ 13时24分]"
+          "appearance_count": 3,
+          "time_info": "[12时40分 ~ 14时31分]"
         },
         {
           "title": "蔚来李斌新年全员信：即将迎来第100万辆量产车，2026年将加大下沉市场布局",
@@ -142,8 +143,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时29分 ~ 13时24分]"
+          "appearance_count": 5,
+          "time_info": "[09时29分 ~ 14时31分]"
         }
       ]
     },
