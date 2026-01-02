@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-02T18:21:15.908731+08:00",
-  "total_titles_processed": 1259,
+  "generated_at": "2026-01-02T19:17:44.414166+08:00",
+  "total_titles_processed": 1332,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
           "title": "2天20小时、零接管横穿美国，特斯拉FSD已通过“物理图灵测试”？",
@@ -30,8 +30,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时24分 ~ 18时21分]"
+          "appearance_count": 24,
+          "time_info": "[00时24分 ~ 19时17分]"
         },
         {
           "title": "特斯拉车主首度实现“全程自动驾驶横穿美国” 马斯克：酷",
@@ -43,6 +43,28 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时24分 ~ 07时19分]"
+        },
+        {
+          "title": "西班牙汽车制造商协会（ANFAC）：西班牙特斯拉(TSLA.O)新车注册量在12月同比下降44.2%，至1794辆。",
+          "url": "https://flash.jin10.com/detail/20260102190626728800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
+        },
+        {
+          "title": "特斯拉在欧洲市场遭遇惨淡的一年 销量大幅下滑",
+          "url": "https://wallstreetcn.com/livenews/3029819",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
         },
         {
           "title": "新势力年终交卷：零跑近60万辆夺冠，蔚来、小鹏创历史新高",
@@ -81,13 +103,24 @@
           "time_info": "[17时23分 ~ 18时21分]"
         },
         {
+          "title": "2025比亚迪销量或超特斯拉成全球第1",
+          "url": "https://www.baidu.com/s?wd=2025%E6%AF%94%E4%BA%9A%E8%BF%AA%E9%94%80%E9%87%8F%E6%88%96%E8%B6%85%E7%89%B9%E6%96%AF%E6%8B%89%E6%88%90%E5%85%A8%E7%90%83%E7%AC%AC1",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
+        },
+        {
           "title": "2025年交付460万辆！比亚迪增长7.7% vs 特斯拉预计下滑，坐稳“全球电车老大”",
           "url": "https://wallstreetcn.com/articles/3762446",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
@@ -120,7 +153,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
@@ -150,7 +183,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "“新汽车”放榜2025",
@@ -166,6 +199,28 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时24分 ~ 07时19分]"
+        },
+        {
+          "title": "西班牙汽车制造商协会（ANFAC）：西班牙12月新车销量同比下滑2.2%。",
+          "url": "https://flash.jin10.com/detail/20260102190458966800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
+        },
+        {
+          "title": "西班牙汽车制造商协会（ANFAC）：西班牙2025年新车销量同比增长12.9%。",
+          "url": "https://flash.jin10.com/detail/20260102190443086800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
         },
         {
           "title": "金十图示：2026年01月02日（周五）全球汽车制造商市值变化",
@@ -234,8 +289,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时29分 ~ 18时21分]"
+          "appearance_count": 10,
+          "time_info": "[09时29分 ~ 19时17分]"
         }
       ]
     },
