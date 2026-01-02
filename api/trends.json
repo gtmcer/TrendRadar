@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-02T09:29:20.237098+08:00",
-  "total_titles_processed": 609,
+  "generated_at": "2026-01-02T11:29:58.379511+08:00",
+  "total_titles_processed": 740,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "2天20小时、零接管横穿美国，特斯拉FSD已通过“物理图灵测试”？",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时25分 ~ 09时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时25分 ~ 11时29分]"
         },
         {
           "title": "新势力年终收官：零跑、小鹏全年销量同比增超100% 理想“失速”、蔚来下半年“反弹”",
@@ -29,8 +30,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时24分 ~ 09时29分]"
+          "appearance_count": 14,
+          "time_info": "[00时24分 ~ 11时29分]"
         },
         {
           "title": "特斯拉车主首度实现“全程自动驾驶横穿美国” 马斯克：酷",
@@ -42,6 +43,60 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时24分 ~ 07时19分]"
+        },
+        {
+          "title": "蔚来李斌新年全员信：即将迎来第100万辆量产车，2026年将加大下沉市场布局",
+          "url": "https://wallstreetcn.com/livenews/3029687",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "汽车",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "“新汽车”放榜2025",
+          "url": "https://www.toutiao.com/trending/7589897031116816427/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            1,
+            4,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时24分 ~ 07时19分]"
+        },
+        {
+          "title": "金十图示：2026年01月02日（周五）全球汽车制造商市值变化",
+          "url": "https://flash.jin10.com/detail/20260102110545552800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时29分"
+        },
+        {
+          "title": "一条视频看懂2026汽车国补",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E6%9D%A1%E8%A7%86%E9%A2%91%E7%9C%8B%E6%87%822026%E6%B1%BD%E8%BD%A6%E5%9B%BD%E8%A1%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时29分"
         }
       ]
     },
@@ -54,11 +109,12 @@
           "url": "https://wallstreetcn.com/articles/3762434",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时29分 ~ 11时29分]"
         }
       ]
     },
@@ -76,27 +132,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "汽车",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "“新汽车”放榜2025",
-          "url": "https://www.toutiao.com/trending/7589897031116816427/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            1,
-            4,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时24分 ~ 07时19分]"
         }
       ]
     }
