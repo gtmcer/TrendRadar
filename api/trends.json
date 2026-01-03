@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-03T15:18:57.432098+08:00",
-  "total_titles_processed": 921,
+  "generated_at": "2026-01-03T16:25:25.857521+08:00",
+  "total_titles_processed": 1010,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时24分 ~ 15时18分]"
+          "appearance_count": 7,
+          "time_info": "[09时24分 ~ 16时25分]"
         },
         {
           "title": "新势力年终收官：零跑、小鹏全年销量同比增超100% 理想“失速”、蔚来下半年“反弹”",
@@ -29,8 +29,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时24分 ~ 15时18分]"
+          "appearance_count": 19,
+          "time_info": "[00时24分 ~ 16时25分]"
         },
         {
           "title": "意大利交通部：2025年12月特斯拉(TSLA.O)新车注册量同比增长85.22%，而全年新车注册量较2024年下降17.91%。",
@@ -45,6 +45,35 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时18分 ~ 07时18分]"
+        },
+        {
+          "title": "比亚迪新晋全球纯电销冠！特斯拉2025年交付量跌逾8%至164万辆",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32302605",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            11,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时21分 ~ 16时25分]"
+        },
+        {
+          "title": "比亚迪超越特斯拉成全球电车销冠",
+          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E8%B6%85%E8%B6%8A%E7%89%B9%E6%96%AF%E6%8B%89%E6%88%90%E5%85%A8%E7%90%83%E7%94%B5%E8%BD%A6%E9%94%80%E5%86%A0",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            22,
+            20,
+            27,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时21分 ~ 16时25分]"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收跌2.6%，连跌七天",
@@ -81,31 +110,16 @@
           "time_info": "[06时20分 ~ 14时29分]"
         },
         {
-          "title": "比亚迪超越特斯拉成全球电车销冠",
-          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E8%B6%85%E8%B6%8A%E7%89%B9%E6%96%AF%E6%8B%89%E6%88%90%E5%85%A8%E7%90%83%E7%94%B5%E8%BD%A6%E9%94%80%E5%86%A0",
-          "source": "百度热搜",
+          "title": "特斯拉“全球最大电动车销售商”宝座让位比亚迪，Q4交付量418227辆",
+          "url": "https://wallstreetcn.com/articles/3762459",
+          "source": "华尔街见闻",
           "ranks": [
             7,
-            22,
-            20,
-            27
+            6
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[11时21分 ~ 15时18分]"
-        },
-        {
-          "title": "比亚迪新晋全球纯电销冠！特斯拉2025年交付量跌逾8%至164万辆",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32302605",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时21分 ~ 15时18分]"
+          "time_info": "[11时22分 ~ 16时25分]"
         },
         {
           "title": "特斯拉(TSLA.O)股价走势逆转，现跌1.7%。",
@@ -119,18 +133,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时28分 ~ 07时18分]"
-        },
-        {
-          "title": "特斯拉“全球最大电动车销售商”宝座让位比亚迪，Q4交付量418227辆",
-          "url": "https://wallstreetcn.com/articles/3762459",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时22分 ~ 15时18分]"
         },
         {
           "title": "2025年交付460万辆！比亚迪增长7.7% vs 特斯拉预计下滑，坐稳“全球电车老大”",
@@ -153,8 +155,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时20分 ~ 15时18分]"
+          "appearance_count": 4,
+          "time_info": "[13时20分 ~ 16时25分]"
         },
         {
           "title": "蔚来李斌：计划2026年换电站总数超4600座",
@@ -242,11 +244,12 @@
             8,
             9,
             11,
-            16
+            16,
+            22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时24分 ~ 15时18分]"
+          "appearance_count": 7,
+          "time_info": "[09时24分 ~ 16时25分]"
         },
         {
           "title": "以色列汽车进口商协会：中国汽车奇瑞捷途7为2025年销量冠军",
