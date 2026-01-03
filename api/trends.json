@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-04T00:23:21.806083+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-04T01:16:55.229347+08:00",
+  "total_titles_processed": 398,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时16分]"
         },
         {
           "title": "2026欧股开门红，美股反弹艰难，芯片股力撑但特斯拉拖累，百度大涨15%，人民币两年多新高",
@@ -26,19 +26,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时16分]"
         },
         {
           "title": "特斯拉“全球最大电动车销售商”宝座让位比亚迪，Q4交付量418227辆",
           "url": "https://wallstreetcn.com/articles/3762459",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时16分]"
         },
         {
           "title": "特斯拉全年交付数据下降 8.6%，丢掉全球电车销冠王座，主要原因是什么？特斯拉发展遇到了哪些问题？",
@@ -48,8 +49,32 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时16分]"
+        },
+        {
+          "title": "特斯拉电动车年销量首次被比亚迪超越",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32302638",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时16分]"
+        },
+        {
+          "title": "特斯拉电动汽车年销量被比亚迪超越",
+          "url": "https://www.toutiao.com/trending/7590811655605616659/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时16分]"
         },
         {
           "title": "雷军公开小米汽车年交付量",
@@ -63,33 +88,11 @@
           "time_info": "00时23分"
         },
         {
-          "title": "特斯拉电动车年销量首次被比亚迪超越",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32302638",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
           "title": "雷军：2026年小米汽车交付目标55万辆",
           "url": "https://wallstreetcn.com/livenews/3030084",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "特斯拉电动汽车年销量被比亚迪超越",
-          "url": "https://www.toutiao.com/trending/7590811655605616659/",
-          "source": "今日头条",
-          "ranks": [
-            29
           ],
           "is_new": false,
           "appearance_count": 1,
