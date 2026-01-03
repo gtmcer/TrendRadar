@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-04T01:16:55.229347+08:00",
-  "total_titles_processed": 398,
+  "generated_at": "2026-01-04T02:27:21.663962+08:00",
+  "total_titles_processed": 472,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 01时16分]"
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 02时27分]"
         },
         {
           "title": "2026欧股开门红，美股反弹艰难，芯片股力撑但特斯拉拖累，百度大涨15%，人民币两年多新高",
           "url": "https://wallstreetcn.com/articles/3762449",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 01时16分]"
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 02时27分]"
         },
         {
           "title": "特斯拉“全球最大电动车销售商”宝座让位比亚迪，Q4交付量418227辆",
@@ -38,19 +39,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 01时16分]"
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 02时27分]"
         },
         {
           "title": "特斯拉全年交付数据下降 8.6%，丢掉全球电车销冠王座，主要原因是什么？特斯拉发展遇到了哪些问题？",
           "url": "https://www.zhihu.com/question/1990694648226789131",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 01时16分]"
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 02时27分]"
         },
         {
           "title": "特斯拉电动车年销量首次被比亚迪超越",
@@ -61,8 +63,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 01时16分]"
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 02时27分]"
         },
         {
           "title": "特斯拉电动汽车年销量被比亚迪超越",
