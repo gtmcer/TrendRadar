@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-03T18:19:56.538917+08:00",
-  "total_titles_processed": 1166,
+  "generated_at": "2026-01-03T19:16:21.768142+08:00",
+  "total_titles_processed": 1257,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,22 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时24分 ~ 19时16分]"
+        },
+        {
+          "title": "特斯拉“全球最大电动车销售商”宝座让位比亚迪，Q4交付量418227辆",
+          "url": "https://wallstreetcn.com/articles/3762459",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5,
+            8
+          ],
+          "is_new": false,
           "appearance_count": 9,
-          "time_info": "[09时24分 ~ 18时19分]"
+          "time_info": "[11时22分 ~ 19时16分]"
         },
         {
           "title": "比亚迪新晋全球纯电销冠！特斯拉2025年交付量跌逾8%至164万辆",
@@ -30,8 +44,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时21分 ~ 18时19分]"
+          "appearance_count": 11,
+          "time_info": "[11时21分 ~ 19时16分]"
         },
         {
           "title": "新势力年终收官：零跑、小鹏全年销量同比增超100% 理想“失速”、蔚来下半年“反弹”",
@@ -57,25 +71,12 @@
             22,
             20,
             27,
-            24
+            24,
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时21分 ~ 18时19分]"
-        },
-        {
-          "title": "特斯拉“全球最大电动车销售商”宝座让位比亚迪，Q4交付量418227辆",
-          "url": "https://wallstreetcn.com/articles/3762459",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时22分 ~ 18时19分]"
+          "appearance_count": 11,
+          "time_info": "[11时21分 ~ 19时16分]"
         },
         {
           "title": "意大利交通部：2025年12月特斯拉(TSLA.O)新车注册量同比增长85.22%，而全年新车注册量较2024年下降17.91%。",
@@ -90,6 +91,22 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时18分 ~ 07时18分]"
+        },
+        {
+          "title": "特斯拉全年交付数据下降 8.6%，丢掉全球电车销冠王座，主要原因是什么？特斯拉发展遇到了哪些问题？",
+          "url": "https://www.zhihu.com/question/1990694648226789131",
+          "source": "知乎",
+          "ranks": [
+            14,
+            11,
+            10,
+            9,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时20分 ~ 19时16分]"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收跌2.6%，连跌七天",
@@ -124,21 +141,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[06时20分 ~ 14时29分]"
-        },
-        {
-          "title": "特斯拉全年交付数据下降 8.6%，丢掉全球电车销冠王座，主要原因是什么？特斯拉发展遇到了哪些问题？",
-          "url": "https://www.zhihu.com/question/1990694648226789131",
-          "source": "知乎",
-          "ranks": [
-            14,
-            11,
-            10,
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时20分 ~ 18时19分]"
         },
         {
           "title": "特斯拉(TSLA.O)股价走势逆转，现跌1.7%。",
@@ -301,7 +303,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -312,7 +314,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         }
