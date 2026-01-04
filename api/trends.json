@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-04T20:37:56.832746+08:00",
-  "total_titles_processed": 1440,
+  "generated_at": "2026-01-04T21:29:16.493668+08:00",
+  "total_titles_processed": 1502,
   "failed_sources": [],
   "trends": [
     {
@@ -32,6 +32,20 @@
           "time_info": "[00时23分 ~ 07时18分]"
         },
         {
+          "title": "开发委内瑞拉“全球第一的原油储备”？特朗普“理想很丰满”，但“现实很骨感”",
+          "url": "https://wallstreetcn.com/articles/3762494",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时29分 ~ 21时29分]"
+        },
+        {
           "title": "特斯拉“全球最大电动车销售商”宝座让位比亚迪，Q4交付量418227辆",
           "url": "https://wallstreetcn.com/articles/3762459",
           "source": "华尔街见闻",
@@ -58,20 +72,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时23分 ~ 07时18分]"
-        },
-        {
-          "title": "开发委内瑞拉“全球第一的原油储备”？特朗普“理想很丰满”，但“现实很骨感”",
-          "url": "https://wallstreetcn.com/articles/3762494",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时29分 ~ 20时37分]"
         },
         {
           "title": "特斯拉电动车年销量首次被比亚迪超越",
@@ -226,8 +226,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时47分 ~ 20时37分]"
+          "appearance_count": 14,
+          "time_info": "[12时47分 ~ 21时29分]"
         }
       ]
     }
