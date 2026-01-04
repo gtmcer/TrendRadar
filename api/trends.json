@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-04T13:25:17.778912+08:00",
-  "total_titles_processed": 983,
+  "generated_at": "2026-01-04T14:29:42.940545+08:00",
+  "total_titles_processed": 1043,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "比亚迪新晋全球纯电销冠！特斯拉2025年交付量跌逾8%至164万辆",
@@ -96,6 +96,17 @@
           "time_info": "[00时23分 ~ 01时16分]"
         },
         {
+          "title": "开发委内瑞拉“全球第一的原油储备”？特朗普“理想很丰满”，但“现实很骨感”",
+          "url": "https://wallstreetcn.com/articles/3762494",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
+        },
+        {
           "title": "雷军公开小米汽车年交付量",
           "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%85%AC%E5%BC%80%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E5%B9%B4%E4%BA%A4%E4%BB%98%E9%87%8F%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -131,8 +142,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时47分 ~ 13时25分]"
+          "appearance_count": 5,
+          "time_info": "[12时47分 ~ 14时29分]"
         }
       ]
     },
@@ -150,8 +161,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时46分 ~ 13时25分]"
+          "appearance_count": 8,
+          "time_info": "[09时46分 ~ 14时29分]"
         }
       ]
     }
