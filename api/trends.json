@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-04T07:18:56.137553+08:00",
-  "total_titles_processed": 599,
+  "generated_at": "2026-01-04T09:46:32.412087+08:00",
+  "total_titles_processed": 735,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "比亚迪新晋全球纯电销冠！特斯拉2025年交付量跌逾8%至164万辆",
@@ -84,6 +84,17 @@
           "time_info": "[00时23分 ~ 01时16分]"
         },
         {
+          "title": "小鹏汽车发布消息称，新款小鹏P7+和G7正式开启一车双能时代，1月8日将在中国正式上市，1月9日正式在欧洲上市。",
+          "url": "https://flash.jin10.com/detail/20260104090622804800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
           "title": "雷军公开小米汽车年交付量",
           "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%85%AC%E5%BC%80%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E5%B9%B4%E4%BA%A4%E4%BB%98%E9%87%8F%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -104,6 +115,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "汽车",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "两名中国公民在日本被汽车严重撞伤",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%A4%E5%90%8D%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%9C%A8%E6%97%A5%E6%9C%AC%E8%A2%AB%E6%B1%BD%E8%BD%A6%E4%B8%A5%E9%87%8D%E6%92%9E%E4%BC%A4",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
         }
       ]
     }
