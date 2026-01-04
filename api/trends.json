@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-04T11:50:15.293396+08:00",
-  "total_titles_processed": 878,
+  "generated_at": "2026-01-04T12:48:12.626142+08:00",
+  "total_titles_processed": 943,
   "failed_sources": [],
   "trends": [
     {
@@ -120,6 +120,23 @@
       ]
     },
     {
+      "keyword_group": "华为汽车 鸿蒙智行 问界 尚界 尊界 智界 享界 乾崑",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何评价媒体报道智界 R7 展车保险杠内现零食，2024 年出厂竟有 2025 年检验的配件？",
+          "url": "https://www.zhihu.com/question/1990567196741613476",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时47分 ~ 12时48分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "汽车",
       "match_count": 1,
       "titles": [
@@ -129,11 +146,12 @@
           "source": "百度热搜",
           "ranks": [
             9,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时46分 ~ 11时50分]"
+          "appearance_count": 5,
+          "time_info": "[09时46分 ~ 12时48分]"
         }
       ]
     }
