@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-04T21:29:16.493668+08:00",
-  "total_titles_processed": 1502,
+  "generated_at": "2026-01-04T22:18:11.211042+08:00",
+  "total_titles_processed": 1546,
   "failed_sources": [],
   "trends": [
     {
@@ -42,8 +42,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时29分 ~ 21时29分]"
+          "appearance_count": 8,
+          "time_info": "[14时29分 ~ 22时18分]"
         },
         {
           "title": "特斯拉“全球最大电动车销售商”宝座让位比亚迪，Q4交付量418227辆",
@@ -226,8 +226,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时47分 ~ 21时29分]"
+          "appearance_count": 16,
+          "time_info": "[12时47分 ~ 22时18分]"
         }
       ]
     }
