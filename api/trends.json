@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-05T04:21:54.551010+08:00",
-  "total_titles_processed": 419,
+  "generated_at": "2026-01-05T05:18:24.959241+08:00",
+  "total_titles_processed": 440,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 04时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 05时18分]"
         },
         {
           "title": "雷军带网友参观小米汽车实验室",
@@ -31,8 +31,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 04时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 05时18分]"
         }
       ]
     }
