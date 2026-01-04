@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-04T19:16:22.163955+08:00",
-  "total_titles_processed": 1335,
+  "generated_at": "2026-01-04T20:37:56.832746+08:00",
+  "total_titles_processed": 1440,
   "failed_sources": [],
   "trends": [
     {
@@ -66,11 +66,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时29分 ~ 19时16分]"
+          "appearance_count": 6,
+          "time_info": "[14时29分 ~ 20时37分]"
         },
         {
           "title": "特斯拉电动车年销量首次被比亚迪超越",
@@ -221,11 +222,12 @@
           "source": "知乎",
           "ranks": [
             3,
-            2
+            2,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时47分 ~ 19时16分]"
+          "appearance_count": 12,
+          "time_info": "[12时47分 ~ 20时37分]"
         }
       ]
     }
