@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-05T07:19:07.804622+08:00",
-  "total_titles_processed": 507,
+  "generated_at": "2026-01-05T09:46:17.873152+08:00",
+  "total_titles_processed": 694,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 07时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 09时46分]"
         },
         {
           "title": "雷军带网友参观小米汽车实验室",
@@ -29,11 +29,46 @@
             23,
             26,
             24,
-            18
+            18,
+            28
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 07时19分]"
+          "appearance_count": 13,
+          "time_info": "[00时23分 ~ 09时46分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "华为汽车 鸿蒙智行 问界 尚界 尊界 智界 享界 乾崑",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "小米将入局增程赛道 理想问界如何接招",
+          "url": "https://www.toutiao.com/trending/7591490558862822966/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时45分 ~ 09时46分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "汽车",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "雷军新年首播确认汽车业务降速",
+          "url": "https://www.toutiao.com/trending/7591654215894715914/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时45分 ~ 09时46分]"
         }
       ]
     }
