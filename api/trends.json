@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-05T11:54:41.380956+08:00",
-  "total_titles_processed": 843,
+  "generated_at": "2026-01-05T12:56:37.700311+08:00",
+  "total_titles_processed": 941,
   "failed_sources": [],
   "trends": [
     {
@@ -30,22 +30,24 @@
             26,
             24,
             18,
-            28
+            28,
+            25
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时23分 ~ 11时54分]"
+          "appearance_count": 15,
+          "time_info": "[00时23分 ~ 12时56分]"
         },
         {
           "title": "比亚迪超越特斯拉，成为 2025 年纯电汽车全球销冠，这意味着什么？你觉得未来电动汽车市场拼的是什么？",
           "url": "https://www.zhihu.com/question/1990770031445942920",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时54分 ~ 12时56分]"
         }
       ]
     },
@@ -71,7 +73,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时54分"
         }
@@ -91,6 +93,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时45分 ~ 09时46分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源汽车",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "九部门：促进汽车绿色消费 支持消费者购买新能源汽车",
+          "url": "https://www.cls.cn/detail/2247462",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时56分"
         }
       ]
     }
