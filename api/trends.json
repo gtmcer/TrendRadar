@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-06T20:41:22.847841+08:00",
-  "total_titles_processed": 1869,
+  "generated_at": "2026-01-06T21:37:09.544050+08:00",
+  "total_titles_processed": 1951,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时28分 ~ 20时41分]"
+          "appearance_count": 11,
+          "time_info": "[11时28分 ~ 21时37分]"
         },
         {
           "title": "黄仁勋：未来十年很多汽车是自动驾驶",
@@ -48,17 +48,6 @@
           "time_info": "11时28分"
         },
         {
-          "title": "中国汽车流通协会：预计1月汽车市场将呈现“开门红”的局面",
-          "url": "https://wallstreetcn.com/livenews/3031685",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时41分"
-        },
-        {
           "title": "英伟达发布首个专为自动驾驶汽车设计的“推理”AI",
           "url": "https://wallstreetcn.com/livenews/3031121",
           "source": "华尔街见闻-快讯",
@@ -81,6 +70,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时20分 ~ 06时21分]"
+        },
+        {
+          "title": "中国汽车流通协会：预计1月汽车市场将呈现“开门红”的局面",
+          "url": "https://wallstreetcn.com/livenews/3031685",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时41分 ~ 21时37分]"
         },
         {
           "title": "周一（1月5日），彭博电动汽车价格回报指数涨1.12%，报3523.49点，全天持续上涨。",
@@ -286,7 +287,7 @@
     },
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "雷军聊小米汽车试验室",
@@ -302,6 +303,17 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时26分 ~ 07时19分]"
+        },
+        {
+          "title": "美国掠夺万亿贵金属？理想丰满但难操作丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20260106210654369800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         },
         {
           "title": "特斯拉ModelYL首次推出5年0息",
@@ -324,6 +336,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
+        },
+        {
+          "title": "比亚迪去年在欧洲两大电动车市场销量超越特斯拉",
+          "url": "https://wallstreetcn.com/livenews/3031703",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉涨3.1%，苹果跌约1.4%",
@@ -361,6 +384,18 @@
           "time_info": "[18时21分 ~ 19时18分]"
         },
         {
+          "title": "理想汽车调整产品线",
+          "url": "https://wallstreetcn.com/livenews/3031677",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时41分 ~ 21时37分]"
+        },
+        {
           "title": "特斯拉为何甩出购车“王炸”",
           "url": "https://www.toutiao.com/trending/7592123343231258158/",
           "source": "今日头条",
@@ -396,15 +431,15 @@
           "time_info": "[14时32分 ~ 16时29分]"
         },
         {
-          "title": "理想汽车调整产品线",
-          "url": "https://wallstreetcn.com/livenews/3031677",
+          "title": "围绕长寿命电池和换电网络 宁德时代与蔚来签署五年战略合作协议",
+          "url": "https://wallstreetcn.com/livenews/3031689",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时41分"
+          "time_info": "21时37分"
         },
         {
           "title": "何小鹏零下20度冬测P7+和G7",
