@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-07T13:24:53.641349+08:00",
-  "total_titles_processed": 1197,
+  "generated_at": "2026-01-07T14:32:23.518821+08:00",
+  "total_titles_processed": 1288,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             1,
             2,
             4,
-            9
+            9,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时28分 ~ 13时24分]"
+          "appearance_count": 8,
+          "time_info": "[09时28分 ~ 14时32分]"
         },
         {
           "title": "特斯拉市值一夜蒸发超4300亿元",
@@ -32,8 +33,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时28分 ~ 13时24分]"
+          "appearance_count": 8,
+          "time_info": "[09时28分 ~ 14时32分]"
         },
         {
           "title": "恒指低开0.41%，报26601.83点；恒生科技指数跌0.28%。阿里巴巴、蔚来跌超2%，百度、理想汽车、小鹏汽车等跌超1%。",
