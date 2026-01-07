@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-07T09:29:09.093004+08:00",
-  "total_titles_processed": 890,
+  "generated_at": "2026-01-07T11:28:34.962978+08:00",
+  "total_titles_processed": 1041,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.toutiao.com/trending/7592391355918192191/",
           "source": "今日头条",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时28分 ~ 09时29分]"
+          "appearance_count": 3,
+          "time_info": "[09时28分 ~ 11时28分]"
         },
         {
           "title": "恒指低开0.41%，报26601.83点；恒生科技指数跌0.28%。阿里巴巴、蔚来跌超2%，百度、理想汽车、小鹏汽车等跌超1%。",
@@ -25,7 +26,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时29分"
         },
@@ -42,6 +43,18 @@
           "time_info": "[05时20分 ~ 06时20分]"
         },
         {
+          "title": "特斯拉市值一夜蒸发超4300亿元",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E5%B8%82%E5%80%BC%E4%B8%80%E5%A4%9C%E8%92%B8%E5%8F%91%E8%B6%854300%E4%BA%BF%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时28分 ~ 11时28分]"
+        },
+        {
           "title": "周二（1月6日），彭博电动汽车价格回报指数涨2.36%，报3604.19点，亚太盘初以来持续上涨。 成分股中，禾赛科技涨10.9%，Aurora Innovation涨10.1%，美国雅宝ALB涨8.4%，小马智行涨5.5%，MobilEye涨5.4%，意法半导体涨5.3%，特斯拉则跌4.2%表现最差。",
           "url": "https://wallstreetcn.com/livenews/3031893",
           "source": "华尔街见闻-快讯",
@@ -52,17 +65,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时20分 ~ 06时20分]"
-        },
-        {
-          "title": "特斯拉市值一夜蒸发超4300亿元",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E5%B8%82%E5%80%BC%E4%B8%80%E5%A4%9C%E8%92%B8%E5%8F%91%E8%B6%854300%E4%BA%BF%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时28分 ~ 09时29分]"
         },
         {
           "title": "特斯拉为何甩出购车“王炸”",
@@ -113,7 +115,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "物理AI的ChatGPT时刻！英伟达“内驱”无人驾驶汽车将至，将于一季度在美国上路",
@@ -140,13 +142,24 @@
           "time_info": "[06时20分 ~ 07时20分]"
         },
         {
+          "title": "金十图示：2026年01月07日（周三）全球汽车制造商市值变化",
+          "url": "https://flash.jin10.com/detail/20260107110710417800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
+        },
+        {
           "title": "长安汽车：网传“取消年终奖”信息不实 已推进激励计划保障员工权益",
           "url": "https://wallstreetcn.com/livenews/3031982",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时29分"
         }
