@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T15:24:20.158678+08:00",
-  "total_titles_processed": 1338,
+  "generated_at": "2026-01-08T16:29:24.722592+08:00",
+  "total_titles_processed": 1455,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "金十图示：2026年01月08日（周四）全球汽车制造商市值变化",
@@ -66,6 +66,17 @@
           "time_info": "05时19分"
         },
         {
+          "title": "崔东树：汽车行业内卷降价现象明显减弱，行业运行压力改善",
+          "url": "https://wallstreetcn.com/livenews/3033101",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
+        },
+        {
           "title": "据Globe报道：加拿大要求韩国与德国在汽车（投资）问题上作出承诺。",
           "url": "https://wallstreetcn.com/livenews/3032711",
           "source": "华尔街见闻-快讯",
@@ -113,7 +124,7 @@
     },
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "一线|特斯拉推“超长贷”、小米新车涨价预售 2026车市开年即遭“抢单”",
@@ -138,15 +149,37 @@
           "time_info": "05时19分"
         },
         {
+          "title": "何小鹏：2026年中国和美国将迎来真正的自动驾驶元年",
+          "url": "https://wallstreetcn.com/livenews/3033103",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
+        },
+        {
           "title": "智谱AI CEO张鹏谈梁文锋选择彻底开源：有技术上的理想，没想靠它挣钱",
           "url": "https://wallstreetcn.com/livenews/3033026",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
+        },
+        {
+          "title": "新款小鹏P7+自带空间魔法",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E6%AC%BE%E5%B0%8F%E9%B9%8FP7%2B%E8%87%AA%E5%B8%A6%E7%A9%BA%E9%97%B4%E9%AD%94%E6%B3%95%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
         },
         {
           "title": "蔚来今年将进军澳大利亚和新西兰市场，蔚来将于3月进入泰国市场。（道琼斯）",
@@ -166,9 +199,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
+        },
+        {
+          "title": "小鹏开年发布四款新车，今年将规模量产人形机器人和飞行汽车",
+          "url": "https://wallstreetcn.com/livenews/3033081",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
         }
       ]
     }
