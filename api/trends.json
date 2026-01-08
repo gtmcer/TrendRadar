@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-08T12:38:59.263260+08:00",
-  "total_titles_processed": 1084,
+  "generated_at": "2026-01-08T13:24:14.359887+08:00",
+  "total_titles_processed": 1142,
   "failed_sources": [],
   "trends": [
     {
@@ -43,6 +43,18 @@
           "time_info": "[02时31分 ~ 03时19分]"
         },
         {
+          "title": "法拉第未来（FF）：目标在2026年生产和销售约250辆汽车。",
+          "url": "https://flash.jin10.com/detail/20260108114920450800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时38分 ~ 13时24分]"
+        },
+        {
           "title": "美国财长贝森特：对于在2025至2028年期间购买的新款美国本土组装车辆，符合条件的纳税人每年可抵扣最高1万美元的汽车贷款利息。",
           "url": "https://flash.jin10.com/detail/20260108041952628800",
           "source": "金十数据",
@@ -52,17 +64,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时19分"
-        },
-        {
-          "title": "法拉第未来（FF）：目标在2026年生产和销售约250辆汽车。",
-          "url": "https://flash.jin10.com/detail/20260108114920450800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时38分"
         },
         {
           "title": "据Globe报道：加拿大要求韩国与德国在汽车（投资）问题上作出承诺。",
