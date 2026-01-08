@@ -1,330 +1,39 @@
 {
-  "generated_at": "2026-01-08T23:25:02.698809+08:00",
-  "total_titles_processed": 2158,
+  "generated_at": "2026-01-09T00:28:53.663672+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 14,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "一线|特斯拉推“超长贷”、小米新车涨价预售 2026车市开年即遭“抢单”",
-          "url": "https://www.cls.cn/detail/2250706",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 03时19分]"
-        },
         {
           "title": "特斯拉完全自动驾驶系统 FSD 零接管横穿美国，做到这点有多难？算是自动驾驶系统的里程碑吗？",
           "url": "https://www.zhihu.com/question/1990475866191464200",
           "source": "知乎",
           "ranks": [
-            17,
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[22时24分 ~ 23时25分]"
-        },
-        {
-          "title": "1704公里小鹏G7续航长长长长长长长长",
-          "url": "https://s.weibo.com/weibo?q=%231704%E5%85%AC%E9%87%8C%E5%B0%8F%E9%B9%8FG7%E7%BB%AD%E8%88%AA%E9%95%BF%E9%95%BF%E9%95%BF%E9%95%BF%E9%95%BF%E9%95%BF%E9%95%BF%E9%95%BF%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时27分 ~ 18时23分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数初步收跌1.5%。 热门中概股里，新东方初步收涨0.4%，百度涨0.3%，蔚来涨0.1%，拼多多、小米、腾讯音乐、京东、美团跌超1%，阿里巴巴跌2.6%，网易跌3%。",
-          "url": "https://wallstreetcn.com/livenews/3032690",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时19分"
-        },
-        {
-          "title": "何小鹏：2026年中国和美国将迎来真正的自动驾驶元年",
-          "url": "https://wallstreetcn.com/livenews/3033103",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时29分"
-        },
-        {
-          "title": "智谱AI CEO张鹏谈梁文锋选择彻底开源：有技术上的理想，没想靠它挣钱",
-          "url": "https://wallstreetcn.com/livenews/3033026",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时24分"
-        },
-        {
-          "title": "小鹏轿车卖得比SUV好？何小鹏：今年将推出4款全新SUV",
-          "url": "https://wallstreetcn.com/livenews/3033227",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时20分"
-        },
-        {
-          "title": "新款小鹏P7+自带空间魔法",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E6%AC%BE%E5%B0%8F%E9%B9%8FP7%2B%E8%87%AA%E5%B8%A6%E7%A9%BA%E9%97%B4%E9%AD%94%E6%B3%95%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时29分"
-        },
-        {
-          "title": "何小鹏：Robotaxi还是需要方向盘和刹车",
-          "url": "https://wallstreetcn.com/livenews/3033226",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时20分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数转涨。 热门中概股小马智行美股盘初跌2.69%，百度跌2%，文远知行跌1.1%，拼多多、网易、京东、蔚来、理想至少跌0.47%，阿里涨0.4%，百胜中国涨0.5%，新东方、房多多、小鹏至多涨1.6%。",
-          "url": "https://wallstreetcn.com/livenews/3033398",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时25分"
-        },
-        {
-          "title": "蔚来今年将进军澳大利亚和新西兰市场，蔚来将于3月进入泰国市场。（道琼斯）",
-          "url": "https://wallstreetcn.com/livenews/3032969",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时32分"
-        },
-        {
-          "title": "据特斯拉官方微博，特斯拉上海超级工厂第500万台电驱系统今日下线。",
-          "url": "https://wallstreetcn.com/livenews/3033022",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时24分"
-        },
-        {
-          "title": "2025年小鹏汽车全球累计交付429445万台，同比增长126%",
-          "url": "https://wallstreetcn.com/livenews/3033295",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时42分"
-        },
-        {
-          "title": "小鹏开年发布四款新车，今年将规模量产人形机器人和飞行汽车",
-          "url": "https://wallstreetcn.com/livenews/3033081",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时29分"
+          "time_info": "00时28分"
         }
       ]
     },
     {
       "keyword_group": "汽车",
-      "match_count": 14,
+      "match_count": 1,
       "titles": [
         {
-          "title": "通用汽车去年在华新能源车交付创新高，与上汽两家合资公司销量增幅均超20%",
-          "url": "https://wallstreetcn.com/livenews/3033349",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时40分"
-        },
-        {
-          "title": "德国大众汽车与高通进入长期合作关系。",
+          "title": "高通将从2027年起为德国大众汽车提供车载娱乐芯片",
           "url": "https://wallstreetcn.com/livenews/3033420",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时25分"
-        },
-        {
-          "title": "金十图示：2026年01月08日（周四）全球汽车制造商市值变化",
-          "url": "https://flash.jin10.com/detail/20260108110632702800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时29分"
-        },
-        {
-          "title": "周三（1月7日），彭博电动汽车价格回报指数跌0.07%，报3603.72点。 北京时间13:49跌至3588.10点刷新日低，脱离11:25刷新的日高3615.17点，全天呈现出U形走势。",
-          "url": "https://wallstreetcn.com/livenews/3032695",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
             27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时19分 ~ 06时20分]"
-        },
-        {
-          "title": "现代Mobis与高通签署谅解备忘录，合作开发汽车解决方案。",
-          "url": "https://flash.jin10.com/detail/20260108020222862800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时31分 ~ 03时19分]"
-        },
-        {
-          "title": "法拉第未来（FF）：目标在2026年生产和销售约250辆汽车。",
-          "url": "https://flash.jin10.com/detail/20260108114920450800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时38分 ~ 13时24分]"
-        },
-        {
-          "title": "广州：以汽车企业应用为牵引 推动自主可控汽车芯片的规模化应用",
-          "url": "https://wallstreetcn.com/livenews/3033160",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时27分"
-        },
-        {
-          "title": "美国财长贝森特：对于在2025至2028年期间购买的新款美国本土组装车辆，符合条件的纳税人每年可抵扣最高1万美元的汽车贷款利息。",
-          "url": "https://flash.jin10.com/detail/20260108041952628800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时19分"
-        },
-        {
-          "title": "崔东树：汽车行业内卷降价现象明显减弱，行业运行压力改善",
-          "url": "https://wallstreetcn.com/livenews/3033101",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时29分"
-        },
-        {
-          "title": "据Globe报道：加拿大要求韩国与德国在汽车（投资）问题上作出承诺。",
-          "url": "https://wallstreetcn.com/livenews/3032711",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时20分"
-        },
-        {
-          "title": "吉利汽车获L3级自动驾驶道路测试牌照",
-          "url": "https://wallstreetcn.com/livenews/3032882",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时29分"
-        },
-        {
-          "title": "中信证券：旅游、汽车、芯片等行业具有较好的配置价值",
-          "url": "https://wallstreetcn.com/livenews/3032800",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时29分"
-        },
-        {
-          "title": "美国财长贝森特：正推进美国汽车贷款利息减免政策。 2025-28年购车，贷款利息将每年减少1万美元。",
-          "url": "https://wallstreetcn.com/livenews/3032674",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时19分"
-        },
-        {
-          "title": "福特汽车(F.N)涨1.9%，此前派杰投资将评级从中性上调至超配。",
-          "url": "https://flash.jin10.com/detail/20260108223554180800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时25分"
+          "time_info": "00时28分"
         }
       ]
     }
