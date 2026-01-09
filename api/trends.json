@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-09T20:41:51.399964+08:00",
-  "total_titles_processed": 1928,
+  "generated_at": "2026-01-09T21:37:45.705850+08:00",
+  "total_titles_processed": 2033,
   "failed_sources": [],
   "trends": [
     {
@@ -20,8 +20,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时24分 ~ 20时41分]"
+          "appearance_count": 10,
+          "time_info": "[15时24分 ~ 21时37分]"
         },
         {
           "title": "马斯克：大力发展电动汽车、光伏储能，我说的那些设想都被中国实现了",
@@ -65,7 +65,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时41分"
         },
@@ -76,7 +76,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时41分"
         },
@@ -142,9 +142,9 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时41分 ~ 21时37分]"
         },
         {
           "title": "小米汽车发文表示，小米YU7连续4个月中大型SUV销量第一。",
@@ -193,6 +193,34 @@
       ]
     },
     {
+      "keyword_group": "华为汽车 鸿蒙智行 问界 尚界 尊界 智界 享界 乾崑",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "如何评价尚界 Z7 与保时捷极其相似？对标 SU7 产品力有优势吗？",
+          "url": "https://www.zhihu.com/question/1992317987076723194",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时17分 ~ 07时18分]"
+        },
+        {
+          "title": "赵长江称智界V9三年之内难有对手",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%95%BF%E6%B1%9F%E7%A7%B0%E6%99%BA%E7%95%8CV9%E4%B8%89%E5%B9%B4%E4%B9%8B%E5%86%85%E9%9A%BE%E6%9C%89%E5%AF%B9%E6%89%8B%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        }
+      ]
+    },
+    {
       "keyword_group": "新能源汽车",
       "match_count": 2,
       "titles": [
@@ -217,23 +245,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "华为汽车 鸿蒙智行 问界 尚界 尊界 智界 享界 乾崑",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "如何评价尚界 Z7 与保时捷极其相似？对标 SU7 产品力有优势吗？",
-          "url": "https://www.zhihu.com/question/1992317987076723194",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时17分 ~ 07时18分]"
         }
       ]
     }
