@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T00:26:40.355449+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-01-10T01:22:59.047931+08:00",
+  "total_titles_processed": 377,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E7%89%B9%E6%96%AF%E6%8B%89%E4%BD%8E%E6%81%AF%E6%94%BF%E7%AD%96%E8%83%8C%E5%90%8E",
           "source": "bilibili 热搜",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 01时22分]"
         },
         {
           "title": "小米汽车深夜怒怼“绿化带战神”",
@@ -40,11 +41,12 @@
           "url": "https://www.zhihu.com/question/1992542028232410497",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 01时22分]"
         }
       ]
     }
