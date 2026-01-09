@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-09T19:19:00.154019+08:00",
-  "total_titles_processed": 1813,
+  "generated_at": "2026-01-09T20:41:51.399964+08:00",
+  "total_titles_processed": 1928,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "20 万的纯电汽车，电池就要 10 万块钱，是不是相当于买了辆 10 万的油车预存了 10 万油费？",
@@ -16,11 +16,12 @@
             14,
             12,
             5,
-            7
+            7,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时24分 ~ 19时19分]"
+          "appearance_count": 9,
+          "time_info": "[15时24分 ~ 20时41分]"
         },
         {
           "title": "马斯克：大力发展电动汽车、光伏储能，我说的那些设想都被中国实现了",
@@ -53,9 +54,31 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
+        },
+        {
+          "title": "瑞穗银行：将通用汽车(GM.N)目标价从90美元上调至100美元。",
+          "url": "https://flash.jin10.com/detail/20260109195232032800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
+          "title": "德国汽车工业协会：南方共同市场协议将成出口增长强心针",
+          "url": "https://flash.jin10.com/detail/20260109194913182800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
         },
         {
           "title": "通用汽车四季度因裁减电动汽车业务而计提60亿美元。 非电动汽车相关计提大约11亿美元。",
@@ -75,7 +98,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
         },
@@ -94,7 +117,7 @@
     },
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "特斯拉完全自动驾驶系统 FSD 零接管横穿美国，做到这点有多难？算是自动驾驶系统的里程碑吗？",
@@ -111,6 +134,17 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时28分 ~ 09时29分]"
+        },
+        {
+          "title": "解读特斯拉低息政策背后",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E7%89%B9%E6%96%AF%E6%8B%89%E4%BD%8E%E6%81%AF%E6%94%BF%E7%AD%96%E8%83%8C%E5%90%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
         },
         {
           "title": "小米汽车发文表示，小米YU7连续4个月中大型SUV销量第一。",
