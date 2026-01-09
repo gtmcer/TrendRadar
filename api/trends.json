@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T01:22:59.047931+08:00",
-  "total_titles_processed": 377,
+  "generated_at": "2026-01-10T02:31:25.270642+08:00",
+  "total_titles_processed": 451,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 02时31分]"
         },
         {
           "title": "小米汽车深夜怒怼“绿化带战神”",
@@ -45,8 +45,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 02时31分]"
         }
       ]
     }
