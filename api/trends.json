@@ -1,8 +1,97 @@
 {
-  "generated_at": "2026-01-09T18:22:10.329593+08:00",
-  "total_titles_processed": 1707,
+  "generated_at": "2026-01-09T19:19:00.154019+08:00",
+  "total_titles_processed": 1813,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "汽车",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "20 万的纯电汽车，电池就要 10 万块钱，是不是相当于买了辆 10 万的油车预存了 10 万油费？",
+          "url": "https://www.zhihu.com/question/1992542028232410497",
+          "source": "知乎",
+          "ranks": [
+            11,
+            14,
+            12,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时24分 ~ 19时19分]"
+        },
+        {
+          "title": "马斯克：大力发展电动汽车、光伏储能，我说的那些设想都被中国实现了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32342568",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时28分 ~ 18时22分]"
+        },
+        {
+          "title": "2025年12月本田在中国的终端汽车销量为66,765辆，同比下降40.3%。",
+          "url": "https://wallstreetcn.com/livenews/3033727",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时29分 ~ 12时39分]"
+        },
+        {
+          "title": "通富微电：拟定增募资不超过44亿元，用于存储芯片封测产能提升项目、汽车等新兴应用领域封测产能提升项目、晶圆级封测产能提升项目、高性能计算及通信领域封测产能提升项目、补充流动资金及偿还银行贷款。",
+          "url": "https://wallstreetcn.com/livenews/3034057",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
+        },
+        {
+          "title": "通用汽车四季度因裁减电动汽车业务而计提60亿美元。 非电动汽车相关计提大约11亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3033559",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时20分"
+        },
+        {
+          "title": "交运股份：筹划将所持有的乘用车销售与汽车后服务板块、汽车零部件制造与销售服务板块相关资产与控股股东及其关联方持有的文体娱乐业、旅游业相关业务资产进行置换",
+          "url": "https://wallstreetcn.com/livenews/3034041",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
+        },
+        {
+          "title": "高通将从2027年起为德国大众汽车提供车载娱乐芯片",
+          "url": "https://wallstreetcn.com/livenews/3033420",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时28分"
+        }
+      ]
+    },
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
       "match_count": 5,
@@ -66,72 +155,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "汽车",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "20 万的纯电汽车，电池就要 10 万块钱，是不是相当于买了辆 10 万的油车预存了 10 万油费？",
-          "url": "https://www.zhihu.com/question/1992542028232410497",
-          "source": "知乎",
-          "ranks": [
-            11,
-            14,
-            12,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时24分 ~ 18时22分]"
-        },
-        {
-          "title": "马斯克：大力发展电动汽车、光伏储能，我说的那些设想都被中国实现了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32342568",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时28分 ~ 18时22分]"
-        },
-        {
-          "title": "2025年12月本田在中国的终端汽车销量为66,765辆，同比下降40.3%。",
-          "url": "https://wallstreetcn.com/livenews/3033727",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时29分 ~ 12时39分]"
-        },
-        {
-          "title": "通用汽车四季度因裁减电动汽车业务而计提60亿美元。 非电动汽车相关计提大约11亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3033559",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时20分"
-        },
-        {
-          "title": "高通将从2027年起为德国大众汽车提供车载娱乐芯片",
-          "url": "https://wallstreetcn.com/livenews/3033420",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
         }
       ]
     },
