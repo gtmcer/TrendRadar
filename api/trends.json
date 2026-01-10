@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T14:29:25.280247+08:00",
-  "total_titles_processed": 1111,
+  "generated_at": "2026-01-10T15:19:00.307469+08:00",
+  "total_titles_processed": 1165,
   "failed_sources": [],
   "trends": [
     {
@@ -20,8 +20,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时26分 ~ 14时29分]"
+          "appearance_count": 17,
+          "time_info": "[00时26分 ~ 15时19分]"
         },
         {
           "title": "小米汽车：新一代SU7将全系搭载小米超级电机V6s Plus",
@@ -29,11 +29,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时20分 ~ 14时29分]"
+          "appearance_count": 3,
+          "time_info": "[13时20分 ~ 15时19分]"
         },
         {
           "title": "据外媒报道，吉利控股正考虑向美国市场扩张，极氪和领克等品牌或是首选。针对该消息，截至发稿前，吉利控股方面暂未置评。（新浪科技）",
@@ -42,11 +43,12 @@
           "ranks": [
             9,
             15,
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时33分 ~ 14时29分]"
+          "appearance_count": 4,
+          "time_info": "[12时33分 ~ 15时19分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌约1.3%，本周累跌约2.1%。 热门中概股里，小鹏初步收跌2.6%，阿里跌2.3%，蔚来跌2%，百度涨1.5%。",
@@ -148,11 +150,12 @@
           "ranks": [
             4,
             10,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时33分 ~ 14时29分]"
+          "appearance_count": 4,
+          "time_info": "[12时33分 ~ 15时19分]"
         },
         {
           "title": "问界M7全系累计交付突破40万台",
