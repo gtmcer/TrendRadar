@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T07:19:49.603156+08:00",
-  "total_titles_processed": 684,
+  "generated_at": "2026-01-10T09:26:58.117518+08:00",
+  "total_titles_processed": 816,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             6,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 07时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 09时26分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌约1.3%，本周累跌约2.1%。 热门中概股里，小鹏初步收跌2.6%，阿里跌2.3%，蔚来跌2%，百度涨1.5%。",
@@ -76,11 +77,12 @@
           "ranks": [
             12,
             13,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 07时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 09时26分]"
         },
         {
           "title": "周五（1月9日），彭博电动汽车价格回报指数涨0.22%，报3580.74点，本周累计上涨2.76%，1月5-6日显著上涨，后续高位震荡。",
