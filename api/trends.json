@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T18:19:45.424870+08:00",
-  "total_titles_processed": 1364,
+  "generated_at": "2026-01-10T19:16:45.567199+08:00",
+  "total_titles_processed": 1418,
   "failed_sources": [],
   "trends": [
     {
@@ -18,11 +18,12 @@
             11,
             9,
             8,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时26分 ~ 18时19分]"
+          "appearance_count": 21,
+          "time_info": "[00时26分 ~ 19时16分]"
         },
         {
           "title": "小米汽车：新一代SU7将全系搭载小米超级电机V6s Plus",
@@ -40,6 +41,20 @@
           "time_info": "[13时20分 ~ 17时19分]"
         },
         {
+          "title": "雷军：特斯拉确实强，但并非不可战胜",
+          "url": "https://wallstreetcn.com/livenews/3034514",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            13,
+            20,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时25分 ~ 19时16分]"
+        },
+        {
           "title": "据外媒报道，吉利控股正考虑向美国市场扩张，极氪和领克等品牌或是首选。针对该消息，截至发稿前，吉利控股方面暂未置评。（新浪科技）",
           "url": "https://wallstreetcn.com/livenews/3034485",
           "source": "华尔街见闻-快讯",
@@ -52,19 +67,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时33分 ~ 15时19分]"
-        },
-        {
-          "title": "雷军：特斯拉确实强，但并非不可战胜",
-          "url": "https://wallstreetcn.com/livenews/3034514",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            13,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时25分 ~ 18时19分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌约1.3%，本周累跌约2.1%。 热门中概股里，小鹏初步收跌2.6%，阿里跌2.3%，蔚来跌2%，百度涨1.5%。",
@@ -159,11 +161,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时19分 ~ 18时19分]"
+          "appearance_count": 3,
+          "time_info": "[17时19分 ~ 19时16分]"
         },
         {
           "title": "美国加州州长提议为电动汽车税收减免提供2亿美元新资金。",
