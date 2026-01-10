@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T21:28:59.861376+08:00",
-  "total_titles_processed": 1550,
+  "generated_at": "2026-01-10T22:18:28.964856+08:00",
+  "total_titles_processed": 1618,
   "failed_sources": [],
   "trends": [
     {
@@ -46,11 +46,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            8
+            8,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时37分 ~ 21时28分]"
+          "appearance_count": 3,
+          "time_info": "[20时37分 ~ 22时18分]"
         },
         {
           "title": "何小鹏：将全力推进全球化 海外生产制造布局节奏会进一步加快",
@@ -58,11 +59,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            7
+            7,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时37分 ~ 21时28分]"
+          "appearance_count": 3,
+          "time_info": "[20时37分 ~ 22时18分]"
         },
         {
           "title": "雷军：特斯拉确实强，但并非不可战胜",
@@ -151,7 +153,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "20 万的纯电汽车，电池就要 10 万块钱，是不是相当于买了辆 10 万的油车预存了 10 万油费？",
@@ -166,6 +168,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时26分 ~ 09时26分]"
+        },
+        {
+          "title": "比亚迪汽车： 2026款宋Pro DM-i 220km长续航版汽车上市，售价11.98万起。",
+          "url": "https://flash.jin10.com/detail/20260110214003614800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         },
         {
           "title": "周五（1月9日），彭博电动汽车价格回报指数涨0.22%，报3580.74点，本周累计上涨2.76%，1月5-6日显著上涨，后续高位震荡。",
