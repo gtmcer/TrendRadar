@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T09:26:58.117518+08:00",
-  "total_titles_processed": 816,
+  "generated_at": "2026-01-10T11:24:10.215138+08:00",
+  "total_titles_processed": 929,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             6,
             7,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时26分 ~ 09时26分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 11时24分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌约1.3%，本周累跌约2.1%。 热门中概股里，小鹏初步收跌2.6%，阿里跌2.3%，蔚来跌2%，百度涨1.5%。",
