@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-11T19:17:01.021085+08:00",
-  "total_titles_processed": 1122,
+  "generated_at": "2026-01-11T20:38:16.724346+08:00",
+  "total_titles_processed": 1221,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             8,
             7,
             5,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时49分 ~ 19时17分]"
+          "appearance_count": 14,
+          "time_info": "[11时49分 ~ 20时38分]"
         },
         {
           "title": "何小鹏：将全力推进全球化 海外生产制造布局节奏会进一步加快",
