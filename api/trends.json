@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-12T21:41:57.114119+08:00",
-  "total_titles_processed": 1687,
+  "generated_at": "2026-01-12T22:25:10.518096+08:00",
+  "total_titles_processed": 1751,
   "failed_sources": [],
   "trends": [
     {
@@ -96,8 +96,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时31分 ~ 21时41分]"
+          "appearance_count": 9,
+          "time_info": "[17时31分 ~ 22时25分]"
         },
         {
           "title": "商务部关于中欧电动汽车案磋商进展的通报",
@@ -109,8 +109,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时19分 ~ 21时41分]"
+          "appearance_count": 6,
+          "time_info": "[19时19分 ~ 22时25分]"
         },
         {
           "title": "商务部通报中欧电动汽车案磋商进展：有必要向中国出口商提供关于价格承诺的通用指导",
@@ -123,6 +123,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时32分 ~ 18时24分]"
+        },
+        {
+          "title": "大众汽车集团中国市场2025年交付量同比减少8%",
+          "url": "https://flash.jin10.com/detail/20260112211657853800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时41分 ~ 22时25分]"
         },
         {
           "title": "金十图示：2026年01月12日（周一）全球汽车制造商市值变化",
@@ -145,17 +157,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
-        },
-        {
-          "title": "大众汽车集团中国市场2025年交付量同比减少8%",
-          "url": "https://flash.jin10.com/detail/20260112211657853800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时41分"
         }
       ]
     }
