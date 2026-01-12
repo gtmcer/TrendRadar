@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-12T12:49:37.087597+08:00",
-  "total_titles_processed": 867,
+  "generated_at": "2026-01-12T13:29:15.926264+08:00",
+  "total_titles_processed": 932,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时43分 ~ 12时49分]"
+          "appearance_count": 5,
+          "time_info": "[09时43分 ~ 13时29分]"
         },
         {
           "title": "何小鹏：小鹏汽车海外和国内销量比例未来有望达到1:1",
@@ -25,11 +25,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            13
+            13,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时48分 ~ 12时49分]"
+          "appearance_count": 3,
+          "time_info": "[11时48分 ~ 13时29分]"
         }
       ]
     },
