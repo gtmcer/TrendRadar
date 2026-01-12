@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-01-12T07:19:07.572397+08:00",
-  "total_titles_processed": 464,
+  "generated_at": "2026-01-12T09:43:39.959323+08:00",
+  "total_titles_processed": 627,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "极氪被曝「食言」购置税兜底，对品牌信誉和消费者权益有何影响？",
+          "url": "https://www.zhihu.com/question/1992178724473442687",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时43分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://gtmcer.github.io/TrendRadar/img/news.jpg"
 }
