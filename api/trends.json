@@ -1,326 +1,50 @@
 {
-  "generated_at": "2026-01-13T23:24:25.729524+08:00",
-  "total_titles_processed": 2134,
+  "generated_at": "2026-01-14T00:31:20.328005+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "汽车",
-      "match_count": 14,
-      "titles": [
-        {
-          "title": "中欧电动汽车案磋商进展",
-          "url": "https://www.douyin.com/hot/2365467",
-          "source": "抖音",
-          "ranks": [
-            8,
-            11,
-            19,
-            13,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时25分 ~ 14时32分]"
-        },
-        {
-          "title": "涉中国电动汽车关税，欧盟出台新方案",
-          "url": "https://news.ifeng.com/c/8ps7ee57XE0",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时25分 ~ 15时24分]"
-        },
-        {
-          "title": "中国汽车流通协会：2025年12月全国二手车市场交易量187.11万辆 环比增长7.15%",
-          "url": "https://wallstreetcn.com/livenews/3035993",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时27分 ~ 18时22分]"
-        },
-        {
-          "title": "现代汽车系市值本月激增240亿美元 机器人叙事催化扩张行情",
-          "url": "https://flash.jin10.com/detail/20260113114920665800",
-          "source": "金十数据",
-          "ranks": [
-            15,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时39分 ~ 13时25分]"
-        },
-        {
-          "title": "1条视频看懂2026汽车国补政策",
-          "url": "https://www.toutiao.com/trending/7594786097649946122/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时40分 ~ 21时41分]"
-        },
-        {
-          "title": "韩国KOSPI指数连续第八个交易日上涨，汽车和电池板块领涨。",
-          "url": "https://flash.jin10.com/detail/20260113143654516800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时24分"
-        },
-        {
-          "title": "周一（1月12日），彭博电动汽车价格回报指数涨0.73%，报3606.27点，亚太早盘出现一波显著的跳水行情，随后不断上扬。",
-          "url": "https://wallstreetcn.com/livenews/3035577",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时21分"
-        },
-        {
-          "title": "印度汽车制造商协会SIAM：印度12月国内乘用车销量为399,216辆。",
-          "url": "https://flash.jin10.com/detail/20260113133241901800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时32分"
-        },
-        {
-          "title": "工信部发布关于公开征求《道路车辆 用于评估主动安全功能的目标车辆、易受伤害的道路使用者和其他物体的测试设备 第3部分：乘用车3D目标物要求》等2项汽车行业推荐性国家标准报批意见的公示。",
-          "url": "https://wallstreetcn.com/livenews/3036055",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时19分"
-        },
-        {
-          "title": "分析师上调目标价后，现代汽车股价飙升10%。",
-          "url": "https://flash.jin10.com/detail/20260113133041185800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时32分"
-        },
-        {
-          "title": "韩国现代汽车股价上涨10%，此前分析师上调其预期目标价。",
-          "url": "https://wallstreetcn.com/livenews/3035835",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时32分"
-        },
-        {
-          "title": "汇丰银行：将通用汽车(GM.N)目标股价从48美元上调至75美元。",
-          "url": "https://flash.jin10.com/detail/20260113142259551800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时24分"
-        },
-        {
-          "title": "中欧电动汽车案“柔性破局”：价格承诺取代关税，释放积极信号",
-          "url": "https://wallstreetcn.com/livenews/3036211",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时24分"
-        },
-        {
-          "title": "汇丰银行：将大众汽车目标股价从127欧元上调至135欧元。",
-          "url": "https://flash.jin10.com/detail/20260113182907721800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时19分"
-        }
-      ]
-    },
-    {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 5,
+      "match_count": 2,
       "titles": [
         {
           "title": "理想汽车单季净亏 6.2 亿，交付仅目标 63%，李想急调管理模式，透露出哪些信息？",
           "url": "https://www.zhihu.com/question/1993982530886590703",
           "source": "知乎",
           "ranks": [
-            18,
-            12,
-            5,
-            6,
-            8,
-            4,
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时24分 ~ 23时24分]"
+          "appearance_count": 2,
+          "time_info": "[00时30分 ~ 00时31分]"
         },
         {
           "title": "小鹏汽车无明显短板，为何陷入销量困境？",
           "url": "https://www.zhihu.com/question/667028399",
           "source": "知乎",
           "ranks": [
-            20,
-            16,
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时19分 ~ 23时24分]"
-        },
-        {
-          "title": "美股盘前，英特尔涨超2%，AMD涨超1%；部分热门中概股走低，百度跌超3%、小鹏汽车跌超2%。",
-          "url": "https://wallstreetcn.com/livenews/3035989",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            15
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时27分 ~ 18时22分]"
-        },
-        {
-          "title": "现代汽车集团：任命前特斯拉、英伟达工程师领导自动驾驶业务。",
-          "url": "https://flash.jin10.com/detail/20260113155113818800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时29分"
-        },
-        {
-          "title": "部分热门中概股盘前走低，百度(BIDU.O)跌超3%、小鹏汽车(XPEV.N)和拼多多(PDD.O)跌超2%。",
-          "url": "https://flash.jin10.com/detail/20260113170109129800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时27分"
+          "time_info": "[00时30分 ~ 00时31分]"
         }
       ]
     },
     {
       "keyword_group": "华为汽车 鸿蒙智行 问界 尚界 尊界 智界 享界 乾崑",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "问界未来两年销量目标年均50万辆",
-          "url": "https://wallstreetcn.com/livenews/3035779",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            11,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时27分 ~ 13时25分]"
-        },
-        {
-          "title": "赵长江称智界是纯血鸿蒙",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%95%BF%E6%B1%9F%E7%A7%B0%E6%99%BA%E7%95%8C%E6%98%AF%E7%BA%AF%E8%A1%80%E9%B8%BF%E8%92%99%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时39分 ~ 13时25分]"
-        },
-        {
-          "title": "余承东：鸿蒙智行问界第100万辆正式下线",
-          "url": "https://wallstreetcn.com/livenews/3036058",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时19分"
-        },
         {
           "title": "前比亚迪老将赵长江官宣加入智界，曾放言鸿蒙智行 MPV「三年内无对手」，能做到吗？会给市场带来什么影响？",
           "url": "https://www.zhihu.com/question/1994407929697236628",
           "source": "知乎",
           "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新能源汽车",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "新能源汽车的电池寿命有多久？",
-          "url": "https://www.zhihu.com/question/1887877649495479265",
-          "source": "知乎",
-          "ranks": [
-            7,
-            17,
-            15
+            17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时39分 ~ 16时29分]"
-        },
-        {
-          "title": "深圳首次实现新能源汽车向电网放电的电费结算",
-          "url": "https://wallstreetcn.com/livenews/3036166",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时41分"
+          "appearance_count": 2,
+          "time_info": "[00时30分 ~ 00时31分]"
         }
       ]
     }
