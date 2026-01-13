@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-13T13:25:12.754656+08:00",
-  "total_titles_processed": 1164,
+  "generated_at": "2026-01-13T14:32:27.571723+08:00",
+  "total_titles_processed": 1242,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "中欧电动汽车案磋商进展",
@@ -19,8 +19,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时25分 ~ 13时25分]"
+          "appearance_count": 18,
+          "time_info": "[00时25分 ~ 14时32分]"
         },
         {
           "title": "涉中国电动汽车关税，欧盟出台新方案",
@@ -31,8 +31,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时25分 ~ 13时25分]"
+          "appearance_count": 7,
+          "time_info": "[09时25分 ~ 14时32分]"
         },
         {
           "title": "现代汽车系市值本月激增240亿美元 机器人叙事催化扩张行情",
@@ -56,6 +56,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
+        },
+        {
+          "title": "印度汽车制造商协会SIAM：印度12月国内乘用车销量为399,216辆。",
+          "url": "https://flash.jin10.com/detail/20260113133241901800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时32分"
+        },
+        {
+          "title": "分析师上调目标价后，现代汽车股价飙升10%。",
+          "url": "https://flash.jin10.com/detail/20260113133041185800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时32分"
+        },
+        {
+          "title": "韩国现代汽车股价上涨10%，此前分析师上调其预期目标价。",
+          "url": "https://wallstreetcn.com/livenews/3035835",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时32分"
         }
       ]
     },
@@ -100,11 +133,12 @@
           "source": "知乎",
           "ranks": [
             7,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时39分 ~ 13时25分]"
+          "appearance_count": 4,
+          "time_info": "[12时39分 ~ 14时32分]"
         }
       ]
     }
