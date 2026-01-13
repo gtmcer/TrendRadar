@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-13T12:39:33.290452+08:00",
-  "total_titles_processed": 1118,
+  "generated_at": "2026-01-13T13:25:12.754656+08:00",
+  "total_titles_processed": 1164,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             8,
             11,
             19,
-            13
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时25分 ~ 12时39分]"
+          "appearance_count": 17,
+          "time_info": "[00时25分 ~ 13时25分]"
         },
         {
           "title": "涉中国电动汽车关税，欧盟出台新方案",
@@ -30,8 +31,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时25分 ~ 12时39分]"
+          "appearance_count": 6,
+          "time_info": "[09时25分 ~ 13时25分]"
+        },
+        {
+          "title": "现代汽车系市值本月激增240亿美元 机器人叙事催化扩张行情",
+          "url": "https://flash.jin10.com/detail/20260113114920665800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时39分 ~ 13时25分]"
         },
         {
           "title": "周一（1月12日），彭博电动汽车价格回报指数涨0.73%，报3606.27点，亚太早盘出现一波显著的跳水行情，随后不断上扬。",
@@ -43,17 +56,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
-        },
-        {
-          "title": "现代汽车系市值本月激增240亿美元 机器人叙事催化扩张行情",
-          "url": "https://flash.jin10.com/detail/20260113114920665800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时39分"
         }
       ]
     },
@@ -67,22 +69,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            11
+            11,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时27分 ~ 12时39分]"
+          "appearance_count": 3,
+          "time_info": "[11时27分 ~ 13时25分]"
         },
         {
           "title": "赵长江称智界是纯血鸿蒙",
           "url": "https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%95%BF%E6%B1%9F%E7%A7%B0%E6%99%BA%E7%95%8C%E6%98%AF%E7%BA%AF%E8%A1%80%E9%B8%BF%E8%92%99%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
           "ranks": [
-            29
+            29,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时39分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时39分 ~ 13时25分]"
         }
       ]
     },
@@ -95,11 +99,12 @@
           "url": "https://www.zhihu.com/question/1887877649495479265",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时39分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时39分 ~ 13时25分]"
         }
       ]
     }
