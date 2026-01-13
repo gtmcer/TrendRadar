@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-13T15:24:43.307156+08:00",
-  "total_titles_processed": 1336,
+  "generated_at": "2026-01-13T16:29:40.316726+08:00",
+  "total_titles_processed": 1436,
   "failed_sources": [],
   "trends": [
     {
@@ -53,7 +53,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
         },
@@ -108,7 +108,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
         }
@@ -147,18 +147,30 @@
     },
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "理想汽车单季净亏 6.2 亿，交付仅目标 63%，李想急调管理模式，透露出哪些信息？",
           "url": "https://www.zhihu.com/question/1993982530886590703",
           "source": "知乎",
           "ranks": [
-            18
+            18,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时24分 ~ 16时29分]"
+        },
+        {
+          "title": "现代汽车集团：任命前特斯拉、英伟达工程师领导自动驾驶业务。",
+          "url": "https://flash.jin10.com/detail/20260113155113818800",
+          "source": "金十数据",
+          "ranks": [
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时24分"
+          "time_info": "16时29分"
         }
       ]
     },
@@ -176,8 +188,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时39分 ~ 15时24分]"
+          "appearance_count": 6,
+          "time_info": "[12时39分 ~ 16时29分]"
         }
       ]
     }
