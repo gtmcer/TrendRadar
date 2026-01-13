@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-13T17:27:41.165510+08:00",
-  "total_titles_processed": 1535,
+  "generated_at": "2026-01-13T18:22:58.169748+08:00",
+  "total_titles_processed": 1599,
   "failed_sources": [],
   "trends": [
     {
@@ -35,6 +35,18 @@
           "time_info": "[09时25分 ~ 15时24分]"
         },
         {
+          "title": "中国汽车流通协会：2025年12月全国二手车市场交易量187.11万辆 环比增长7.15%",
+          "url": "https://wallstreetcn.com/livenews/3035993",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时27分 ~ 18时22分]"
+        },
+        {
           "title": "现代汽车系市值本月激增240亿美元 机器人叙事催化扩张行情",
           "url": "https://flash.jin10.com/detail/20260113114920665800",
           "source": "金十数据",
@@ -45,17 +57,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时39分 ~ 13时25分]"
-        },
-        {
-          "title": "中国汽车流通协会：2025年12月全国二手车市场交易量187.11万辆 环比增长7.15%",
-          "url": "https://wallstreetcn.com/livenews/3035993",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时27分"
         },
         {
           "title": "韩国KOSPI指数连续第八个交易日上涨，汽车和电池板块领涨。",
@@ -136,11 +137,24 @@
           "ranks": [
             18,
             12,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时24分 ~ 17时27分]"
+          "appearance_count": 4,
+          "time_info": "[15时24分 ~ 18时22分]"
+        },
+        {
+          "title": "美股盘前，英特尔涨超2%，AMD涨超1%；部分热门中概股走低，百度跌超3%、小鹏汽车跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3035989",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时27分 ~ 18时22分]"
         },
         {
           "title": "现代汽车集团：任命前特斯拉、英伟达工程师领导自动驾驶业务。",
@@ -160,18 +174,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时27分"
-        },
-        {
-          "title": "美股盘前，英特尔涨超2%，AMD涨超1%；部分热门中概股走低，百度跌超3%、小鹏汽车跌超2%。",
-          "url": "https://wallstreetcn.com/livenews/3035989",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
         }
