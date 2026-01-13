@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-13T14:32:27.571723+08:00",
-  "total_titles_processed": 1242,
+  "generated_at": "2026-01-13T15:24:43.307156+08:00",
+  "total_titles_processed": 1336,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "中欧电动汽车案磋商进展",
@@ -31,8 +31,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时25分 ~ 14时32分]"
+          "appearance_count": 8,
+          "time_info": "[09时25分 ~ 15时24分]"
         },
         {
           "title": "现代汽车系市值本月激增240亿美元 机器人叙事催化扩张行情",
@@ -45,6 +45,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时39分 ~ 13时25分]"
+        },
+        {
+          "title": "韩国KOSPI指数连续第八个交易日上涨，汽车和电池板块领涨。",
+          "url": "https://flash.jin10.com/detail/20260113143654516800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         },
         {
           "title": "周一（1月12日），彭博电动汽车价格回报指数涨0.73%，报3606.27点，亚太早盘出现一波显著的跳水行情，随后不断上扬。",
@@ -64,7 +75,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
         },
@@ -75,7 +86,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
         },
@@ -86,9 +97,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
+        },
+        {
+          "title": "汇丰银行：将通用汽车(GM.N)目标股价从48美元上调至75美元。",
+          "url": "https://flash.jin10.com/detail/20260113142259551800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         }
       ]
     },
@@ -124,6 +146,23 @@
       ]
     },
     {
+      "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "理想汽车单季净亏 6.2 亿，交付仅目标 63%，李想急调管理模式，透露出哪些信息？",
+          "url": "https://www.zhihu.com/question/1993982530886590703",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        }
+      ]
+    },
+    {
       "keyword_group": "新能源汽车",
       "match_count": 1,
       "titles": [
@@ -137,8 +176,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时39分 ~ 14时32分]"
+          "appearance_count": 5,
+          "time_info": "[12时39分 ~ 15时24分]"
         }
       ]
     }
