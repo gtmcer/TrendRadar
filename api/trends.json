@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-13T19:19:56.086005+08:00",
-  "total_titles_processed": 1700,
+  "generated_at": "2026-01-13T20:43:57.867100+08:00",
+  "total_titles_processed": 1825,
   "failed_sources": [],
   "trends": [
     {
@@ -98,7 +98,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
         },
@@ -142,7 +142,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
         }
@@ -161,11 +161,12 @@
             12,
             5,
             6,
-            8
+            8,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时24分 ~ 19时19分]"
+          "appearance_count": 6,
+          "time_info": "[15时24分 ~ 20时43分]"
         },
         {
           "title": "美股盘前，英特尔涨超2%，AMD涨超1%；部分热门中概股走低，百度跌超3%、小鹏汽车跌超2%。",
@@ -208,7 +209,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
         }
@@ -250,7 +251,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
         }
