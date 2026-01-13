@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T06:21:20.573138+08:00",
-  "total_titles_processed": 658,
+  "generated_at": "2026-01-14T07:19:26.284265+08:00",
+  "total_titles_processed": 712,
   "failed_sources": [],
   "trends": [
     {
@@ -68,11 +68,12 @@
             2,
             1,
             4,
-            11
+            11,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时30分 ~ 04时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时30分 ~ 07时19分]"
         },
         {
           "title": "小鹏汽车无明显短板，为何陷入销量困境？",
@@ -116,8 +117,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时30分 ~ 06时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时30分 ~ 07时19分]"
         }
       ]
     }
