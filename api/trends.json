@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-15T03:19:07.863050+08:00",
-  "total_titles_processed": 526,
+  "generated_at": "2026-01-15T04:20:55.905944+08:00",
+  "total_titles_processed": 572,
   "failed_sources": [],
   "trends": [
     {
@@ -43,22 +43,24 @@
             13,
             15,
             16,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 03时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 04时20分]"
         },
         {
           "title": "公开与特朗普对骂遭停职，福特工人获得汽车工会力挺",
           "url": "https://wallstreetcn.com/livenews/3037256",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时19分 ~ 04时20分]"
         }
       ]
     },
@@ -74,8 +76,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 03时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 04时20分]"
         }
       ]
     }
