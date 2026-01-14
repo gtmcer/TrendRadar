@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T12:46:02.783913+08:00",
-  "total_titles_processed": 1109,
+  "generated_at": "2026-01-14T13:23:49.297594+08:00",
+  "total_titles_processed": 1172,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时46分 ~ 12时46分]"
+          "appearance_count": 4,
+          "time_info": "[11时46分 ~ 13时23分]"
         },
         {
           "title": "美国总统特朗普：通用汽车和Stellantis公司发展势头良好。",
