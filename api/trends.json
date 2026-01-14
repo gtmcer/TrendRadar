@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T14:32:17.114049+08:00",
-  "total_titles_processed": 1263,
+  "generated_at": "2026-01-14T15:25:01.688124+08:00",
+  "total_titles_processed": 1370,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 10,
+      "match_count": 14,
       "titles": [
         {
           "title": "工信部：加快突破全固态电池、高级别自动驾驶等技术 进一步扩大汽车消费",
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时46分 ~ 14时32分]"
+          "appearance_count": 8,
+          "time_info": "[11时46分 ~ 15时25分]"
         },
         {
           "title": "中汽协：中国12月汽车销量同比下降6.2%。",
@@ -27,7 +27,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
         },
@@ -56,6 +56,18 @@
           "time_info": "[05时20分 ~ 06时21分]"
         },
         {
+          "title": "德勤报告称超 6 成国人的下一辆车预算在 30 万以上，普通人应该怎样看待汽车消费？",
+          "url": "https://www.zhihu.com/question/1994712035158619020",
+          "source": "知乎",
+          "ranks": [
+            17,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时31分 ~ 15时25分]"
+        },
+        {
           "title": "特朗普参观汽车工厂遭工人辱骂",
           "url": "https://www.douyin.com/hot/2367043",
           "source": "抖音",
@@ -77,17 +89,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时25分 ~ 02时29分]"
-        },
-        {
-          "title": "德勤报告称超 6 成国人的下一辆车预算在 30 万以上，普通人应该怎样看待汽车消费？",
-          "url": "https://www.zhihu.com/question/1994712035158619020",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时31分 ~ 14时32分]"
         },
         {
           "title": "金十图示：2026年01月14日（周三）全球汽车制造商市值变化",
@@ -112,6 +113,17 @@
           "time_info": "09时42分"
         },
         {
+          "title": "中汽协：预计2026年电动汽车和插电式混合动力汽车销量将增长15.2%。",
+          "url": "https://flash.jin10.com/detail/20260114143427052800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
           "title": "白宫新闻秘书莱维特：预计福特汽车(F.N)将于今日发布公告，福特宣布增加就业和生产天然气。",
           "url": "https://flash.jin10.com/detail/20260114005446089800",
           "source": "金十数据",
@@ -121,12 +133,117 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时25分"
+        },
+        {
+          "title": "中汽协：预计2026年中国汽车出口将增长4.3%。",
+          "url": "https://flash.jin10.com/detail/20260114143415698800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
+          "title": "中汽协：预计2026年中国汽车总销量3,475万辆，同比增1%。",
+          "url": "https://flash.jin10.com/detail/20260114142750561800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
+          "title": "中汽协：2025年12月汽车产销环比分别下降6.7%和4.6%",
+          "url": "https://wallstreetcn.com/livenews/3036737",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源汽车",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "工信部部长李乐成主持召开节能与新能源汽车产业发展部际联席会议2026年度工作会议",
+          "url": "https://wallstreetcn.com/livenews/3036544",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时42分"
+        },
+        {
+          "title": "【2025年汽车产销量再创历史新高 连续17年稳居全球第一】中国汽车工业协会今天（14日）发布的最新数据显示，2025年，我国汽车行业继续展现出强大的发展韧性和活力，多项经济指标再创新高。2025年，汽车产销量分别为3453.1万辆和3440万辆，同比分别增长10.4%和9.4%，产销量再创历史新高，连续17年稳居全球第一。新动能加快释放，新能源汽车产销量超1600万辆，其中国内新车销量占比超50%，成为我国汽车市场主导力量。在对外贸易方面，呈现出较强韧性，汽车出口超700万辆，出口规模再上新台阶。其中，新能源汽车出口261.5万辆，同比增长1倍。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3036701",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时32分"
+        },
+        {
+          "title": "中汽协：2025年12月新能源汽车产销同比分别增长12.3%和7.2%",
+          "url": "https://wallstreetcn.com/livenews/3036736",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
+          "title": "中汽协：中国2025新能源汽车销量同比增长28.2%。",
+          "url": "https://flash.jin10.com/detail/20260114142209223800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
+          "title": "中汽协：中国12月新能源汽车销量同比增长7.2%。",
+          "url": "https://flash.jin10.com/detail/20260114142153016800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
+          "title": "中汽协：预计2026年新能源汽车销量有望达1900万辆，同比增长15.2%",
+          "url": "https://wallstreetcn.com/livenews/3036730",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
         }
       ]
     },
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "理想汽车单季净亏 6.2 亿，交付仅目标 63%，李想急调管理模式，透露出哪些信息？",
@@ -168,6 +285,17 @@
           "time_info": "04时23分"
         },
         {
+          "title": "马斯克：特斯拉将于2月14日之后停止销售FSD一次性买断方案，此后，FSD将仅以月度订阅方式提供。",
+          "url": "https://flash.jin10.com/detail/20260114143258552800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
           "title": "特斯拉高管朱晓彤获超52万股期权",
           "url": "https://www.toutiao.com/trending/7594379136919994410/",
           "source": "今日头条",
@@ -177,34 +305,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时46分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新能源汽车",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "工信部部长李乐成主持召开节能与新能源汽车产业发展部际联席会议2026年度工作会议",
-          "url": "https://wallstreetcn.com/livenews/3036544",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时42分"
-        },
-        {
-          "title": "【2025年汽车产销量再创历史新高 连续17年稳居全球第一】中国汽车工业协会今天（14日）发布的最新数据显示，2025年，我国汽车行业继续展现出强大的发展韧性和活力，多项经济指标再创新高。2025年，汽车产销量分别为3453.1万辆和3440万辆，同比分别增长10.4%和9.4%，产销量再创历史新高，连续17年稳居全球第一。新动能加快释放，新能源汽车产销量超1600万辆，其中国内新车销量占比超50%，成为我国汽车市场主导力量。在对外贸易方面，呈现出较强韧性，汽车出口超700万辆，出口规模再上新台阶。其中，新能源汽车出口261.5万辆，同比增长1倍。（央视）",
-          "url": "https://wallstreetcn.com/livenews/3036701",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时32分"
         }
       ]
     },
