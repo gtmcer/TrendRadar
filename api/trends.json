@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-01-14T19:21:07.432264+08:00",
-  "total_titles_processed": 1782,
+  "generated_at": "2026-01-14T20:42:45.125777+08:00",
+  "total_titles_processed": 1895,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
       "match_count": 17,
       "titles": [
+        {
+          "title": "中国汽车产销量再创历史新高",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E4%BA%A7%E9%94%80%E9%87%8F%E5%86%8D%E5%88%9B%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时28分 ~ 20时42分]"
+        },
         {
           "title": "工信部：加快突破全固态电池、高级别自动驾驶等技术 进一步扩大汽车消费",
           "url": "https://www.cls.cn/detail/2257032",
@@ -21,17 +32,6 @@
           "time_info": "[11时46分 ~ 18时24分]"
         },
         {
-          "title": "中国汽车产销量再创历史新高",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E4%BA%A7%E9%94%80%E9%87%8F%E5%86%8D%E5%88%9B%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时28分 ~ 19时21分]"
-        },
-        {
           "title": "德勤报告称超 6 成国人的下一辆车预算在 30 万以上，普通人应该怎样看待汽车消费？",
           "url": "https://www.zhihu.com/question/1994712035158619020",
           "source": "知乎",
@@ -39,11 +39,12 @@
             17,
             12,
             13,
-            14
+            14,
+            11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时31分 ~ 19时21分]"
+          "appearance_count": 13,
+          "time_info": "[14时31分 ~ 20时42分]"
         },
         {
           "title": "中汽协：中国12月汽车销量同比下降6.2%。",
