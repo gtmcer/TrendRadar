@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T18:19:48.298863+08:00",
-  "total_titles_processed": 1256,
+  "generated_at": "2026-01-17T19:17:05.721766+08:00",
+  "total_titles_processed": 1335,
   "failed_sources": [],
   "trends": [
     {
@@ -56,11 +56,12 @@
             5,
             8,
             12,
-            16
+            16,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时29分 ~ 18时19分]"
+          "appearance_count": 6,
+          "time_info": "[14时29分 ~ 19时17分]"
         },
         {
           "title": "长城汽车总裁称“打死不做增程”",
