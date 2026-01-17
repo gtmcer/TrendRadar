@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-17T07:19:57.611727+08:00",
-  "total_titles_processed": 614,
+  "generated_at": "2026-01-17T09:26:18.029997+08:00",
+  "total_titles_processed": 743,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "常熟观致汽车工厂二次拍卖流拍：无人出价，姚振华此前曾公开举报",
@@ -13,11 +13,12 @@
           "source": "澎湃新闻",
           "ranks": [
             9,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 07时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 09时26分]"
         },
         {
           "title": "涉中国电动汽车，卡尼宣布大消息",
@@ -26,11 +27,12 @@
           "ranks": [
             13,
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 07时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 09时26分]"
         },
         {
           "title": "怎么看待「万能的大熊」、「汽车之家」等汽车自媒体被处置？",
@@ -40,8 +42,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 07时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 09时26分]"
         },
         {
           "title": "长城汽车总裁称“打死不做增程”",
@@ -55,6 +57,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时31分 ~ 07时19分]"
+        },
+        {
+          "title": "中欧电动汽车案“软着陆”有积极意义",
+          "url": "https://www.toutiao.com/trending/7595946374470848036/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时25分 ~ 09时26分]"
+        },
+        {
+          "title": "20位汽车央企负责人2024年度薪酬披露，中国一汽董事长邱现东以107万元居首",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32391517",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时25分 ~ 09时26分]"
         },
         {
           "title": "涉及中国电动汽车 卡尼宣布大消息",
