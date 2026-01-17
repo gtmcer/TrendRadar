@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T15:18:57.497890+08:00",
-  "total_titles_processed": 1077,
+  "generated_at": "2026-01-17T16:25:27.461038+08:00",
+  "total_titles_processed": 1137,
   "failed_sources": [],
   "trends": [
     {
@@ -53,11 +53,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时29分 ~ 15时18分]"
+          "appearance_count": 3,
+          "time_info": "[14时29分 ~ 16时25分]"
         },
         {
           "title": "长城汽车总裁称“打死不做增程”",
@@ -71,6 +72,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时31分 ~ 07时19分]"
+        },
+        {
+          "title": "乘联分会崔东树：2025年汽车企业整车出口超强",
+          "url": "https://flash.jin10.com/detail/20260117142340959800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时18分 ~ 16时25分]"
         },
         {
           "title": "中欧电动汽车案“软着陆”有积极意义",
@@ -105,17 +118,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时27分 ~ 01时23分]"
-        },
-        {
-          "title": "乘联分会崔东树：2025年汽车企业整车出口超强",
-          "url": "https://flash.jin10.com/detail/20260117142340959800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时18分"
         },
         {
           "title": "周五（1月16日），彭博电动汽车价格回报指数跌0.72%，报3595.34点，本周累计上涨0.43%。",
@@ -154,11 +156,12 @@
             3,
             8,
             10,
-            22
+            22,
+            30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时22分 ~ 15时18分]"
+          "appearance_count": 6,
+          "time_info": "[11时22分 ~ 16时25分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌1.1%，本周累涨0.4%，整体“高开”低走。 热门中概股里，小米初步收跌3.5%，阿里跌3%，美团跌2%，腾讯、京东、理想跌超1%，拼多多跌0.6%，网易涨1.3%，蔚来涨1.4%，文远知行涨1.5%，华住涨1.9%，小马智行涨2.4%。",
