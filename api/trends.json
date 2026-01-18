@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-01-18T11:45:31.000530+08:00",
-  "total_titles_processed": 680,
+  "generated_at": "2026-01-18T12:41:43.118232+08:00",
+  "total_titles_processed": 739,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "百大视角看汽车区发展",
+          "url": "https://search.bilibili.com/all?keyword=%E7%99%BE%E5%A4%A7%E8%A7%86%E8%A7%92%E7%9C%8B%E6%B1%BD%E8%BD%A6%E5%8C%BA%E5%8F%91%E5%B1%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
         {
           "title": "加拿大总理卡尼：进口4.9万辆中国电动汽车，税率从100%降至6.1%",
           "url": "https://m.thepaper.cn/newsDetail_forward_32405963",
@@ -32,6 +43,23 @@
       ]
     },
     {
+      "keyword_group": "华为汽车 鸿蒙智行 问界 尚界 尊界 智界 享界 乾崑",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "问界 M9 拿下年度 50 万级 SUV 销冠，将对高端豪华汽车市场带来什么影响？",
+          "url": "https://www.zhihu.com/question/1995435058304133023",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        }
+      ]
+    },
+    {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
       "match_count": 1,
       "titles": [
@@ -41,11 +69,12 @@
           "source": "知乎",
           "ranks": [
             9,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时45分 ~ 11时45分]"
+          "appearance_count": 3,
+          "time_info": "[09时45分 ~ 12时41分]"
         }
       ]
     }
