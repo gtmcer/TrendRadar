@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-18T15:19:18.431515+08:00",
-  "total_titles_processed": 884,
+  "generated_at": "2026-01-18T16:25:37.275603+08:00",
+  "total_titles_processed": 952,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             9,
             10,
             8,
-            5
+            5,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时45分 ~ 15时19分]"
+          "appearance_count": 7,
+          "time_info": "[09时45分 ~ 16时25分]"
         },
         {
           "title": "蔚来：2026年1月18日，在正式开启交付后的第120天，蔚来全新ES8成功交付突破50000台。",
@@ -27,11 +28,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            2
+            2,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时29分 ~ 15时19分]"
+          "appearance_count": 3,
+          "time_info": "[14时29分 ~ 16时25分]"
         },
         {
           "title": "蔚来：2026年1月18日，在正式开启交付后的第120天，蔚来全新ES8成功交付突破50000台。",
@@ -39,11 +41,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            5
+            5,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时29分 ~ 15时19分]"
+          "appearance_count": 3,
+          "time_info": "[14时29分 ~ 16时25分]"
         }
       ]
     },
@@ -57,11 +60,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             10,
-            22
+            22,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时41分 ~ 13时22分]"
+          "appearance_count": 3,
+          "time_info": "[12时41分 ~ 16时25分]"
         },
         {
           "title": "加拿大总理卡尼：进口4.9万辆中国电动汽车，税率从100%降至6.1%",
