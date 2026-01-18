@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-19T04:22:01.336807+08:00",
-  "total_titles_processed": 389,
+  "generated_at": "2026-01-19T05:18:06.021952+08:00",
+  "total_titles_processed": 420,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 04时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 05时18分]"
         },
         {
           "title": "电动汽车电池寿命可达13年",
