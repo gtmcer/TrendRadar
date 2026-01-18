@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-18T22:18:06.109545+08:00",
-  "total_titles_processed": 1357,
+  "generated_at": "2026-01-18T23:19:22.464598+08:00",
+  "total_titles_processed": 1419,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时28分 ~ 22时18分]"
+          "appearance_count": 4,
+          "time_info": "[21时28分 ~ 23时19分]"
         },
         {
           "title": "百大视角看汽车区发展",
@@ -28,11 +28,12 @@
             29,
             28,
             26,
-            23
+            23,
+            30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时41分 ~ 21时28分]"
+          "appearance_count": 7,
+          "time_info": "[12时41分 ~ 23时19分]"
         },
         {
           "title": "一汽-大众汽车有限公司领导班子成员调整",
