@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-01-20T06:21:17.245314+08:00",
-  "total_titles_processed": 564,
+  "generated_at": "2026-01-20T07:19:56.860919+08:00",
+  "total_titles_processed": 604,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "汽车",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "雷诺汽车将助力法国发展无人机产业",
+          "url": "https://flash.jin10.com/detail/20260120063627017800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
+          "title": "货车碰撞多辆汽车 中山警方通报",
+          "url": "https://www.douyin.com/hot/2373531",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 01时23分]"
+        }
+      ]
+    },
     {
       "keyword_group": "华为汽车 鸿蒙智行 问界 尚界 尊界 智界 享界 乾崑",
       "match_count": 1,
@@ -18,23 +46,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时22分 ~ 05时19分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "汽车",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "货车碰撞多辆汽车 中山警方通报",
-          "url": "https://www.douyin.com/hot/2373531",
-          "source": "抖音",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 01时23分]"
         }
       ]
     }
