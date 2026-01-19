@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-19T15:28:12.550068+08:00",
-  "total_titles_processed": 1109,
+  "generated_at": "2026-01-19T16:32:06.537560+08:00",
+  "total_titles_processed": 1213,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 7,
+      "match_count": 11,
       "titles": [
         {
           "title": "中国汽车业拿下两个连续全球第一",
@@ -42,6 +42,39 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时23分 ~ 04时22分]"
+        },
+        {
+          "title": "大众汽车、宝马和梅赛德斯-奔驰集团欧股下跌3%至6%。",
+          "url": "https://flash.jin10.com/detail/20260119160509651800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
+          "title": "法国汽车零部件供应商佛瑞亚、法雷奥和OPmobility 股价下跌3.1%至3.8%。",
+          "url": "https://flash.jin10.com/detail/20260119160420016800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
+          "title": "欧股集体低开，汽车股跌幅居前",
+          "url": "https://wallstreetcn.com/livenews/3039626",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         },
         {
           "title": "金十图示：2026年01月19日（周一）全球汽车制造商市值变化",
@@ -83,9 +116,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
+        },
+        {
+          "title": "波兰军队正考虑禁止中国电动汽车进入军事基地？外交部回应",
+          "url": "https://wallstreetcn.com/livenews/3039605",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         }
       ]
     },
@@ -103,6 +147,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时27分 ~ 15时28分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "马斯克：特斯拉将重启Dojo 3项目",
+          "url": "https://www.toutiao.com/trending/7596908680889516051/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 16时32分]"
         }
       ]
     }
