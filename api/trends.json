@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T22:32:05.012509+08:00",
-  "total_titles_processed": 1996,
+  "generated_at": "2026-01-20T23:31:21.147596+08:00",
+  "total_titles_processed": 2105,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "百度热搜",
           "ranks": [
             4,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时45分 ~ 22时32分]"
+          "appearance_count": 7,
+          "time_info": "[20时45分 ~ 23时31分]"
         },
         {
           "title": "雷诺汽车将助力法国发展无人机产业",
