@@ -1,8 +1,96 @@
 {
-  "generated_at": "2026-01-21T09:42:31.610921+08:00",
-  "total_titles_processed": 884,
+  "generated_at": "2026-01-21T11:43:05.124312+08:00",
+  "total_titles_processed": 1034,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "汽车",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "南京一车主回应雪天把汽车开上墙",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%97%E4%BA%AC%E4%B8%80%E8%BD%A6%E4%B8%BB%E5%9B%9E%E5%BA%94%E9%9B%AA%E5%A4%A9%E6%8A%8A%E6%B1%BD%E8%BD%A6%E5%BC%80%E4%B8%8A%E5%A2%99",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            15,
+            24,
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时34分 ~ 07时21分]"
+        },
+        {
+          "title": "力拓(RIO.N)：全球电动汽车销量的快速增长增强了对锂行业的信心。",
+          "url": "https://flash.jin10.com/detail/20260121053947822800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 07时21分]"
+        },
+        {
+          "title": "现代汽车股价上涨逾9%，创下历史新高。",
+          "url": "https://flash.jin10.com/detail/20260121091901987800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时42分"
+        },
+        {
+          "title": "据日经新闻：三菱汽车总裁Kato将于4月1日起出任首席执行官兼董事长。",
+          "url": "https://flash.jin10.com/detail/20260121110927475800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时43分"
+        },
+        {
+          "title": "韩股跌幅收窄，芯片和汽车股上扬",
+          "url": "https://flash.jin10.com/detail/20260121110906973800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时43分"
+        },
+        {
+          "title": "我国电动汽车充电基础设施数量突破2000万大关",
+          "url": "https://wallstreetcn.com/livenews/3040902",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时43分"
+        },
+        {
+          "title": "金十图示：2026年01月21日（周三）全球汽车制造商市值变化",
+          "url": "https://flash.jin10.com/detail/20260121110559104800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时43分"
+        }
+      ]
+    },
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
       "match_count": 6,
@@ -12,11 +100,12 @@
           "url": "https://www.cls.cn/detail/2264320",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时42分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时42分 ~ 11时43分]"
         },
         {
           "title": "纳斯达克100指数跌幅收窄至不足1%。 成分股Strategy目前跌6.6%，FAST跌4%，Shopify跌3.9%，博通跌3.5%跌幅第四大，英伟达跌2.9%、特斯拉跌2.8%、铿腾电子（芯片软件设计/EDA公司）跌2.8%、科磊跌2.8%跌幅居前，美光科技则涨3.3%，西部数据涨3.4%，英特尔涨5.3%。",
@@ -72,51 +161,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "汽车",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "南京一车主回应雪天把汽车开上墙",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%97%E4%BA%AC%E4%B8%80%E8%BD%A6%E4%B8%BB%E5%9B%9E%E5%BA%94%E9%9B%AA%E5%A4%A9%E6%8A%8A%E6%B1%BD%E8%BD%A6%E5%BC%80%E4%B8%8A%E5%A2%99",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            15,
-            24,
-            28,
-            29
-          ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时34分 ~ 07时21分]"
-        },
-        {
-          "title": "力拓(RIO.N)：全球电动汽车销量的快速增长增强了对锂行业的信心。",
-          "url": "https://flash.jin10.com/detail/20260121053947822800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时22分 ~ 07时21分]"
-        },
-        {
-          "title": "现代汽车股价上涨逾9%，创下历史新高。",
-          "url": "https://flash.jin10.com/detail/20260121091901987800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "09时42分"
         }
