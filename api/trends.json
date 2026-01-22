@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-22T19:22:42.252597+08:00",
-  "total_titles_processed": 1777,
+  "generated_at": "2026-01-22T20:45:09.117349+08:00",
+  "total_titles_processed": 1897,
   "failed_sources": [],
   "trends": [
     {
@@ -155,11 +155,12 @@
           "ranks": [
             6,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时32分 ~ 19时22分]"
+          "appearance_count": 5,
+          "time_info": "[17时32分 ~ 20时45分]"
         },
         {
           "title": "恒指高开0.62%，报26750.51点；恒生科技指数涨0.85%。百度、金蝶国际涨超3%，蔚来、华虹半导体涨超2%。",
