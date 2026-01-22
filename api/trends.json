@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-23T00:34:47.312776+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-23T01:28:17.577238+08:00",
+  "total_titles_processed": 398,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
+          "appearance_count": 2,
+          "time_info": "[00时34分 ~ 01时28分]"
         },
         {
           "title": "马斯克：特斯拉将在今年底、或明年向公众销售人形机器人",
