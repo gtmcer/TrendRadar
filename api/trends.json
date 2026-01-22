@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-22T17:32:23.975383+08:00",
-  "total_titles_processed": 1582,
+  "generated_at": "2026-01-22T18:26:18.551434+08:00",
+  "total_titles_processed": 1685,
   "failed_sources": [],
   "trends": [
     {
@@ -83,7 +83,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时32分"
         },
@@ -146,18 +146,19 @@
     },
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "给你 9 亿 3458 万 3642.99 元预算，你会制作出一款什么样的理想中的游戏？",
           "url": "https://www.zhihu.com/question/1995210642081215149",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时32分 ~ 18时26分]"
         },
         {
           "title": "恒指高开0.62%，报26750.51点；恒生科技指数涨0.85%。百度、金蝶国际涨超3%，蔚来、华虹半导体涨超2%。",
@@ -169,6 +170,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时42分"
+        },
+        {
+          "title": "旺仔现身机场喜提新年旺车极氪009",
+          "url": "https://www.baidu.com/s?wd=%E6%97%BA%E4%BB%94%E7%8E%B0%E8%BA%AB%E6%9C%BA%E5%9C%BA%E5%96%9C%E6%8F%90%E6%96%B0%E5%B9%B4%E6%97%BA%E8%BD%A6%E6%9E%81%E6%B0%AA009",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
         }
       ]
     }
