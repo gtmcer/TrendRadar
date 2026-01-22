@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-23T01:28:17.577238+08:00",
-  "total_titles_processed": 398,
+  "generated_at": "2026-01-23T02:31:27.113736+08:00",
+  "total_titles_processed": 470,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "给你 9 亿 3458 万 3642.99 元预算，你会制作出一款什么样的理想中的游戏？",
@@ -15,8 +15,30 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时28分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 02时31分]"
+        },
+        {
+          "title": "特斯拉涨3.3%，刷新日高，马斯克称在美国得州的无人驾驶出租车RoboTaxi取消安全监督员。",
+          "url": "https://wallstreetcn.com/livenews/3042252",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时31分"
+        },
+        {
+          "title": "马斯克：特斯拉开始在美国得州尝试不配置安全监督员的RoboTaxi驾驶服务。",
+          "url": "https://wallstreetcn.com/livenews/3042250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时31分"
         },
         {
           "title": "马斯克：特斯拉将在今年底、或明年向公众销售人形机器人",
@@ -28,6 +50,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
+        },
+        {
+          "title": "特斯拉CEO埃隆·马斯克：特斯拉Robotaxi在奥斯汀启动无人驾驶测试，车内无安全员。",
+          "url": "https://flash.jin10.com/detail/20260123020209881800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时31分"
         },
         {
           "title": "马斯克讲话之际，特斯拉(TSLA.O)上涨1.8%，创盘中新高。马斯克表示，到明年年底将向公众出售人形机器人。",
