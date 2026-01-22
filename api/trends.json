@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-22T15:26:38.972308+08:00",
-  "total_titles_processed": 1374,
+  "generated_at": "2026-01-22T16:31:42.363527+08:00",
+  "total_titles_processed": 1483,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "韩国现代汽车工会：未经同意，我们绝不允许现代部署人形机器人。",
@@ -77,13 +77,24 @@
           "time_info": "11时47分"
         },
         {
+          "title": "欧股汽车股上涨，宝马、保时捷股份、梅赛德斯-奔驰股价上涨2.4%至3.7%。",
+          "url": "https://flash.jin10.com/detail/20260122161150187800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
           "title": "大众汽车在初步财年净现金流公布后股价盘前上涨4.4%。",
           "url": "https://flash.jin10.com/detail/20260122144647711800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
         },
@@ -97,6 +108,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
+        },
+        {
+          "title": "比亚迪起诉汽车博主获赔201万",
+          "url": "https://www.toutiao.com/trending/7598033832219557926/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
+          "title": "大众汽车股价在汽车部门初步全年净现金流公布后上涨5.2%。",
+          "url": "https://flash.jin10.com/detail/20260122160343971800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
         }
       ]
     },
