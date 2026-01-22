@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-01-22T13:27:47.032963+08:00",
-  "total_titles_processed": 1161,
+  "generated_at": "2026-01-22T14:33:11.023810+08:00",
+  "total_titles_processed": 1277,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "韩国现代汽车工会：未经同意，我们绝不允许现代部署人形机器人。",
+          "url": "https://flash.jin10.com/detail/20260122142306502800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
+        },
         {
           "title": "你知道哪些汽车上的「偷工减料」？",
           "url": "https://www.zhihu.com/question/1994757151827199913",
@@ -64,6 +75,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时47分"
+        },
+        {
+          "title": "欧洲汽车行业拒绝签署“欧洲制造”倡议",
+          "url": "https://flash.jin10.com/detail/20260122132315009800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
         }
       ]
     },
