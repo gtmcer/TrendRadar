@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-23T07:20:46.629966+08:00",
-  "total_titles_processed": 753,
+  "generated_at": "2026-01-23T09:29:27.325208+08:00",
+  "total_titles_processed": 902,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "给你 9 亿 3458 万 3642.99 元预算，你会制作出一款什么样的理想中的游戏？",
@@ -87,6 +87,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
+        },
+        {
+          "title": "马斯克亮相达沃斯：批评美国太阳能关税 透露特斯拉自动驾驶进展",
+          "url": "https://www.cls.cn/detail/2267117",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时29分"
         },
         {
           "title": "马斯克：特斯拉人形机器人预计2027年底向公众销售",
