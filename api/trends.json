@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-01-24T02:31:45.618311+08:00",
-  "total_titles_processed": 424,
+  "generated_at": "2026-01-24T03:24:15.113522+08:00",
+  "total_titles_processed": 460,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "在美国和加拿大，新购的特斯拉车辆将继续配备交通感知巡航控制系统。",
+          "url": "https://flash.jin10.com/detail/20260124022417840800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        },
+        {
+          "title": "在美国和加拿大，新购的特斯拉车辆的自动转向功能将仅面向FSD（需人工监督）版本。",
+          "url": "https://flash.jin10.com/detail/20260124022350622800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        }
+      ]
+    },
     {
       "keyword_group": "汽车",
       "match_count": 1,
