@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-23T21:42:19.047315+08:00",
-  "total_titles_processed": 2059,
+  "generated_at": "2026-01-23T22:24:49.870589+08:00",
+  "total_titles_processed": 2139,
   "failed_sources": [],
   "trends": [
     {
@@ -215,11 +215,12 @@
           "source": "百度热搜",
           "ranks": [
             2,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时20分 ~ 21时42分]"
+          "appearance_count": 5,
+          "time_info": "[19时20分 ~ 22时24分]"
         },
         {
           "title": "奇瑞汽车股份有限公司召回部分奇瑞牌探索06、全新瑞虎7 1.6T车型",
@@ -328,7 +329,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
         }
