@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T06:18:03.757787+08:00",
-  "total_titles_processed": 554,
+  "generated_at": "2026-01-24T07:20:52.949652+08:00",
+  "total_titles_processed": 576,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时24分 ~ 06时18分]"
+          "appearance_count": 5,
+          "time_info": "[03时24分 ~ 07时20分]"
         },
         {
           "title": "在美国和加拿大，新购的特斯拉车辆的自动转向功能将仅面向FSD（需人工监督）版本。",
@@ -39,8 +39,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时24分 ~ 06时18分]"
+          "appearance_count": 5,
+          "time_info": "[03时24分 ~ 07时20分]"
         },
         {
           "title": "特斯拉在美国和加拿大停用基本驾驶辅助系统Autopilot",
@@ -61,7 +61,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
         }
@@ -78,11 +78,12 @@
           "ranks": [
             19,
             20,
-            26
+            26,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 06时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 07时20分]"
         },
         {
           "title": "周五（1月23日），彭博电动汽车价格回报指数涨0.86%，报3716.46点，本周累计上涨3.07%，整体持续走高。",
@@ -91,7 +92,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
         }
