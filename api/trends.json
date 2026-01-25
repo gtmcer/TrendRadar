@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T22:18:45.402677+08:00",
-  "total_titles_processed": 1301,
+  "generated_at": "2026-01-25T23:19:57.007414+08:00",
+  "total_titles_processed": 1354,
   "failed_sources": [],
   "trends": [
     {
@@ -51,11 +51,12 @@
           "url": "https://flash.jin10.com/detail/20260125214440737800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时18分 ~ 23时19分]"
         },
         {
           "title": "蔚来乐道：本月内将完成超8000块电池增投目标",
@@ -95,11 +96,12 @@
           "ranks": [
             1,
             4,
-            5
+            5,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时39分 ~ 22时18分]"
+          "appearance_count": 4,
+          "time_info": "[20时39分 ~ 23时19分]"
         },
         {
           "title": "110%降至10%：印度对欧开放汽车市场 设五年缓冲期保护本土电车",
@@ -107,11 +109,12 @@
           "source": "金十数据",
           "ranks": [
             7,
-            11
+            11,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时32分 ~ 22时18分]"
+          "appearance_count": 3,
+          "time_info": "[21时32分 ~ 23时19分]"
         }
       ]
     }
