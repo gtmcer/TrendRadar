@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-26T03:16:49.909759+08:00",
-  "total_titles_processed": 373,
+  "generated_at": "2026-01-26T04:22:54.217294+08:00",
+  "total_titles_processed": 388,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://flash.jin10.com/detail/20260125214440737800",
           "source": "金十数据",
           "ranks": [
-            12
+            12,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 03时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 04时22分]"
         },
         {
           "title": "雷军：小米汽车熔岩橙配色敢买的太少",
           "url": "https://www.toutiao.com/trending/7599142490826096646/",
           "source": "今日头条",
           "ranks": [
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 04时22分]"
         }
       ]
     },
@@ -43,19 +45,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 03时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 04时22分]"
         },
         {
           "title": "110%降至10%：印度对欧开放汽车市场 设五年缓冲期保护本土电车",
           "url": "https://flash.jin10.com/detail/20260125203014022800",
           "source": "金十数据",
           "ranks": [
-            22
+            22,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 03时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 04时22分]"
         }
       ]
     }
