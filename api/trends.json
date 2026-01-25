@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-26T02:28:50.650491+08:00",
-  "total_titles_processed": 360,
+  "generated_at": "2026-01-26T03:16:49.909759+08:00",
+  "total_titles_processed": 373,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 02时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 03时16分]"
         },
         {
           "title": "雷军：小米汽车熔岩橙配色敢买的太少",
@@ -43,8 +43,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 02时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 03时16分]"
         },
         {
           "title": "110%降至10%：印度对欧开放汽车市场 设五年缓冲期保护本土电车",
@@ -54,8 +54,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 02时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 03时16分]"
         }
       ]
     }
