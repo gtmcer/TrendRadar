@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-27T21:45:57.591042+08:00",
-  "total_titles_processed": 1954,
+  "generated_at": "2026-01-27T22:29:17.706227+08:00",
+  "total_titles_processed": 2015,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "开回去太累 12306托运汽车订单火爆",
@@ -17,8 +17,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时31分 ~ 21时45分]"
+          "appearance_count": 7,
+          "time_info": "[17时31分 ~ 22时29分]"
         },
         {
           "title": "中国汽车出口第一目的国易主",
@@ -27,11 +27,12 @@
           "ranks": [
             27,
             2,
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时22分 ~ 21时45分]"
+          "appearance_count": 4,
+          "time_info": "[19时22分 ~ 22时29分]"
         },
         {
           "title": "印度大幅削减对欧盟汽车关税 配额扩大至英方协议的六倍",
@@ -87,11 +88,12 @@
           "source": "微博",
           "ranks": [
             9,
-            20
+            20,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时22分 ~ 21时45分]"
+          "appearance_count": 4,
+          "time_info": "[19时22分 ~ 22时29分]"
         },
         {
           "title": "乘联分会崔东树：2025年汽车行业利润4610亿元，同比增0.6%",
@@ -204,6 +206,17 @@
           "time_info": "16时31分"
         },
         {
+          "title": "通用汽车(GM.N)：为将工厂带回美国而采取的举措以及供应链转移将在2026年使公司利润减少10亿至15亿美元。",
+          "url": "https://flash.jin10.com/detail/20260127215840861800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
+        },
+        {
           "title": "欧洲汽车制造商协会：12月欧盟、英国和欧洲自由贸易联盟的乘用车注册量同比增长7.6%，2025年同比增长2.4%。",
           "url": "https://flash.jin10.com/detail/20260127130050053800",
           "source": "金十数据",
@@ -235,6 +248,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
+        },
+        {
+          "title": "通用汽车(GM.N)CFO：预计2026年关税成本将在30亿至40亿美元之间。",
+          "url": "https://flash.jin10.com/detail/20260127215228049800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
         },
         {
           "title": "欧盟表示，根据印欧协议，汽车关税将逐步降至10%，每年配额为25万辆。",
