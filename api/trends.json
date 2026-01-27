@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-01-27T18:27:00.756104+08:00",
-  "total_titles_processed": 1643,
+  "generated_at": "2026-01-27T19:22:35.016371+08:00",
+  "total_titles_processed": 1734,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
+        {
+          "title": "开回去太累 12306托运汽车订单火爆",
+          "url": "https://www.baidu.com/s?wd=%E5%BC%80%E5%9B%9E%E5%8E%BB%E5%A4%AA%E7%B4%AF+12306%E6%89%98%E8%BF%90%E6%B1%BD%E8%BD%A6%E8%AE%A2%E5%8D%95%E7%81%AB%E7%88%86",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时31分 ~ 19时22分]"
+        },
         {
           "title": "印度大幅削减对欧盟汽车关税 配额扩大至英方协议的六倍",
           "url": "https://flash.jin10.com/detail/20260127152318522800",
@@ -28,18 +40,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
-        },
-        {
-          "title": "开回去太累 12306托运汽车订单火爆",
-          "url": "https://www.baidu.com/s?wd=%E5%BC%80%E5%9B%9E%E5%8E%BB%E5%A4%AA%E7%B4%AF+12306%E6%89%98%E8%BF%90%E6%B1%BD%E8%BD%A6%E8%AE%A2%E5%8D%95%E7%81%AB%E7%88%86",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时31分 ~ 18时27分]"
         },
         {
           "title": "汽车爱好者打卡“长春第一冰锅”漂移绕圈，运营方：设计角度不会翻车",
@@ -77,6 +77,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
+        },
+        {
+          "title": "德国汽车协会主席：印欧贸易协定传递强烈信号",
+          "url": "https://flash.jin10.com/detail/20260127183239342800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
+          "title": "12306托运汽车订单火爆",
+          "url": "https://s.weibo.com/weibo?q=%2312306%E6%89%98%E8%BF%90%E6%B1%BD%E8%BD%A6%E8%AE%A2%E5%8D%95%E7%81%AB%E7%88%86%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
         },
         {
           "title": "欧洲汽车销量在12月增长7.6%，达到117万辆。",
@@ -187,6 +209,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
+        },
+        {
+          "title": "中国汽车出口第一目的国易主",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E5%87%BA%E5%8F%A3%E7%AC%AC%E4%B8%80%E7%9B%AE%E7%9A%84%E5%9B%BD%E6%98%93%E4%B8%BB",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
         },
         {
           "title": "欧盟表示，根据印欧协议，汽车关税将逐步降至10%，每年配额为25万辆。",
