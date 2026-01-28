@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T00:35:40.677120+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-29T01:31:58.138718+08:00",
+  "total_titles_processed": 367,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2273158",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
+          "appearance_count": 2,
+          "time_info": "[00时35分 ~ 01时31分]"
         }
       ]
     },
@@ -29,11 +30,12 @@
           "url": "https://flash.jin10.com/detail/20260129000602442800",
           "source": "金十数据",
           "ranks": [
-            13
+            13,
+            26
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
+          "appearance_count": 2,
+          "time_info": "[00时35分 ~ 01时31分]"
         }
       ]
     }
