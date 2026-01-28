@@ -1,8 +1,37 @@
 {
-  "generated_at": "2026-01-29T01:31:58.138718+08:00",
-  "total_titles_processed": 367,
+  "generated_at": "2026-01-29T02:36:02.187760+08:00",
+  "total_titles_processed": 434,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "汽车",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "印度将立即削减大幅欧洲汽车关税至30%至35%",
+          "url": "https://flash.jin10.com/detail/20260129000602442800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时35分 ~ 01时31分]"
+        },
+        {
+          "title": "据加拿大《环球邮报》援引文件报道，加拿大与韩国签署谅解备忘录，旨在将韩国汽车制造业和投资引入加拿大。",
+          "url": "https://flash.jin10.com/detail/20260129020850193800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
+        }
+      ]
+    },
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
       "match_count": 1,
@@ -16,26 +45,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时35分 ~ 01时31分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "汽车",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "印度将立即削减大幅欧洲汽车关税至30%至35%",
-          "url": "https://flash.jin10.com/detail/20260129000602442800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时35分 ~ 01时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时35分 ~ 02时36分]"
         }
       ]
     }
