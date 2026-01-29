@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T16:37:35.895410+08:00",
-  "total_titles_processed": 1529,
+  "generated_at": "2026-01-29T17:41:25.638186+08:00",
+  "total_titles_processed": 1632,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 46,
+      "match_count": 48,
       "titles": [
         {
           "title": "美股期指走高 美联储决议来袭 微软、Meta和特斯拉盘后公布财报 | 今夜看点",
@@ -25,11 +25,26 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            6
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时53分 ~ 17时41分]"
+        },
+        {
+          "title": "特斯拉Q4盈利高于预期，开始局部真正无人驾驶，投资xAI 20亿，Cybecab和机器人待量产，盘后跳涨丨财报见闻",
+          "url": "https://wallstreetcn.com/articles/3764408",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[09时53分 ~ 16时37分]"
+          "time_info": "[12时07分 ~ 17时41分]"
         },
         {
           "title": "特斯拉首席财务官：特斯拉可能在几个月内发布Optimus机器人。",
@@ -49,7 +64,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         },
@@ -140,19 +155,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
-        },
-        {
-          "title": "特斯拉Q4盈利高于预期，开始局部真正无人驾驶，投资xAI 20亿，Cybecab和机器人待量产，盘后跳涨丨财报见闻",
-          "url": "https://wallstreetcn.com/articles/3764408",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时07分 ~ 16时37分]"
         },
         {
           "title": "特斯拉与XAI框架达成协议，评估人工智能合作。",
@@ -337,6 +339,17 @@
           "time_info": "15时39分"
         },
         {
+          "title": "特斯拉重大战略调整，将停产 Model S 和 X，生产线转向发力 Optimus 机器人，怎样解读？",
+          "url": "https://www.zhihu.com/question/2000138565615576779",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时41分"
+        },
+        {
           "title": "特斯拉(TSLA.O)：我们计划在今年第一季度发布Optimus的第三代版本。",
           "url": "https://flash.jin10.com/detail/20260129050459592800",
           "source": "金十数据",
@@ -513,6 +526,17 @@
           "time_info": "07时25分"
         },
         {
+          "title": "美股盘前：Meta涨约7%，微软跌约6%，特斯拉涨约2%",
+          "url": "https://wallstreetcn.com/livenews/3046315",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时41分"
+        },
+        {
           "title": "特斯拉营收下滑 盘后涨超3%",
           "url": "https://flash.jin10.com/detail/20260129061942377800",
           "source": "金十数据",
@@ -527,7 +551,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "意法半导体Q4销售回升 汽车芯片需求仍疲弱",
@@ -536,7 +560,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         },
@@ -561,8 +585,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时42分 ~ 16时37分]"
+          "appearance_count": 5,
+          "time_info": "[13时42分 ~ 17时41分]"
         },
         {
           "title": "印度将立即削减大幅欧洲汽车关税至30%至35%",
@@ -627,7 +651,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         },
@@ -654,6 +678,17 @@
           "time_info": "14时44分"
         },
         {
+          "title": "国办：选择部分城市开展试点，支持在汽车后市场重点领域先行先试，探索开展汽车改装分级分类管理",
+          "url": "https://wallstreetcn.com/livenews/3046320",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时41分"
+        },
+        {
           "title": "现代汽车：将回购价值3670亿韩元的库存股。",
           "url": "https://flash.jin10.com/detail/20260129130900221800",
           "source": "金十数据",
@@ -671,7 +706,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         },
@@ -704,7 +739,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         },
