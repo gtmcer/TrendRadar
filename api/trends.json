@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T00:42:02.773596+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-30T01:37:04.854145+08:00",
+  "total_titles_processed": 405,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "特斯拉电话会：停产Model S/X全力转向AI，本季度发布第三代Optimus，今年是资本开支大年",
@@ -14,20 +14,72 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时42分 ~ 01时37分]"
         },
         {
           "title": "特斯拉Q4盈利高于预期，开始局部真正无人驾驶，投资xAI 20亿，Cybecab和机器人待量产，盘后跳涨丨财报见闻",
           "url": "https://wallstreetcn.com/articles/3764408",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时42分 ~ 01时37分]"
+        },
+        {
+          "title": "特斯拉(TSLA.O)：我们会继续为Model S和X项目提供支持，只要人们还拥有这些车辆。",
+          "url": "https://flash.jin10.com/detail/20260130003639373800",
+          "source": "金十数据",
+          "ranks": [
+            28
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时42分"
+          "time_info": "01时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "汽车",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "汽车节目主持人哈蒙德入驻B站",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B1%BD%E8%BD%A6%E8%8A%82%E7%9B%AE%E4%B8%BB%E6%8C%81%E4%BA%BA%E5%93%88%E8%92%99%E5%BE%B7%E5%85%A5%E9%A9%BBB%E7%AB%99",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 01时37分]"
+        },
+        {
+          "title": "美国总统特朗普：通用汽车、福特汽车的表现是它们从未有过的。",
+          "url": "https://wallstreetcn.com/livenews/3046612",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时37分"
+        },
+        {
+          "title": "美国总统特朗普：福特和通用汽车的表现比以往任何时候都好。",
+          "url": "https://flash.jin10.com/detail/20260130005557703800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时37分"
         }
       ]
     },
@@ -43,25 +95,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 00时42分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "汽车",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "汽车节目主持人哈蒙德入驻B站",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B1%BD%E8%BD%A6%E8%8A%82%E7%9B%AE%E4%B8%BB%E6%8C%81%E4%BA%BA%E5%93%88%E8%92%99%E5%BE%B7%E5%85%A5%E9%A9%BBB%E7%AB%99",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 00时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 01时37分]"
         }
       ]
     }
