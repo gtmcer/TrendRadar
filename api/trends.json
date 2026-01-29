@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T21:59:57.104870+08:00",
-  "total_titles_processed": 2051,
+  "generated_at": "2026-01-29T22:46:08.245981+08:00",
+  "total_titles_processed": 2122,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 52,
+      "match_count": 53,
       "titles": [
         {
           "title": "特斯拉电话会：停产Model S/X全力转向AI，本季度发布第三代Optimus，今年是资本开支大年",
@@ -17,8 +17,22 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时53分 ~ 21时59分]"
+          "appearance_count": 12,
+          "time_info": "[09时53分 ~ 22时46分]"
+        },
+        {
+          "title": "特斯拉重大战略调整，将停产 Model S 和 X，生产线转向发力 Optimus 机器人，怎样解读？",
+          "url": "https://www.zhihu.com/question/2000138565615576779",
+          "source": "知乎",
+          "ranks": [
+            14,
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时41分 ~ 22时46分]"
         },
         {
           "title": "特斯拉Q4盈利高于预期，开始局部真正无人驾驶，投资xAI 20亿，Cybecab和机器人待量产，盘后跳涨丨财报见闻",
@@ -32,8 +46,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时07分 ~ 21时59分]"
+          "appearance_count": 11,
+          "time_info": "[12时07分 ~ 22时46分]"
         },
         {
           "title": "美股期指走高 美联储决议来袭 微软、Meta和特斯拉盘后公布财报 | 今夜看点",
@@ -46,20 +60,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时35分 ~ 09时53分]"
-        },
-        {
-          "title": "特斯拉重大战略调整，将停产 Model S 和 X，生产线转向发力 Optimus 机器人，怎样解读？",
-          "url": "https://www.zhihu.com/question/2000138565615576779",
-          "source": "知乎",
-          "ranks": [
-            14,
-            7,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时41分 ~ 21时59分]"
         },
         {
           "title": "特斯拉首席财务官：特斯拉可能在几个月内发布Optimus机器人。",
@@ -159,6 +159,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
+        },
+        {
+          "title": "特斯拉CEO埃隆·马斯克：Optimus 4将提高在得州的产量。",
+          "url": "https://flash.jin10.com/detail/20260129222523566800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
         },
         {
           "title": "特斯拉：2026年资本开支将超过200亿美元，那将支持“重大投资（年）”。",
@@ -614,8 +625,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时42分 ~ 21时59分]"
+          "appearance_count": 11,
+          "time_info": "[13时42分 ~ 22时46分]"
         },
         {
           "title": "意法半导体Q4销售回升 汽车芯片需求仍疲弱",
@@ -638,6 +649,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时53分"
+        },
+        {
+          "title": "驾驶员疑故意放倒电动车碰瓷汽车",
+          "url": "https://www.toutiao.com/trending/7600209862546964499/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时59分 ~ 22时46分]"
         },
         {
           "title": "印度将立即削减大幅欧洲汽车关税至30%至35%",
@@ -751,17 +774,6 @@
           "time_info": "17时41分"
         },
         {
-          "title": "驾驶员疑故意放倒电动车碰瓷汽车",
-          "url": "https://www.toutiao.com/trending/7600209862546964499/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时59分"
-        },
-        {
           "title": "现代汽车：将回购价值3670亿韩元的库存股。",
           "url": "https://flash.jin10.com/detail/20260129130900221800",
           "source": "金十数据",
@@ -862,9 +874,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时59分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时59分 ~ 22时46分]"
         }
       ]
     }
