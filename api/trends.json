@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T12:07:17.645993+08:00",
-  "total_titles_processed": 1081,
+  "generated_at": "2026-01-29T13:42:44.825075+08:00",
+  "total_titles_processed": 1214,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 43,
+      "match_count": 44,
       "titles": [
         {
           "title": "美股期指走高 美联储决议来袭 微软、Meta和特斯拉盘后公布财报 | 今夜看点",
@@ -151,8 +151,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时53分 ~ 12时07分]"
+          "appearance_count": 3,
+          "time_info": "[09时53分 ~ 13时42分]"
         },
         {
           "title": "特斯拉将投资20亿美元购买XAI公司的E系列优先股。",
@@ -203,6 +203,17 @@
           "time_info": "[05时28分 ~ 06时25分]"
         },
         {
+          "title": "特斯拉Q4盈利高于预期，开始局部真正无人驾驶，投资xAI 20亿，Cybecab和机器人待量产，盘后跳涨丨财报见闻",
+          "url": "https://wallstreetcn.com/articles/3764408",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时07分 ~ 13时42分]"
+        },
+        {
           "title": "特斯拉：无人驾驶出租车RoboTaxi服务将投放美国更多城市。",
           "url": "https://wallstreetcn.com/livenews/3045882",
           "source": "华尔街见闻-快讯",
@@ -242,18 +253,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时07分"
-        },
-        {
-          "title": "特斯拉Q4盈利高于预期，开始局部真正无人驾驶，投资xAI 20亿，Cybecab和机器人待量产，盘后跳涨丨财报见闻",
-          "url": "https://wallstreetcn.com/articles/3764408",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
         },
@@ -412,6 +412,17 @@
           "time_info": "06时25分"
         },
         {
+          "title": "特斯拉4680电池悄悄回归Model Y",
+          "url": "https://www.toutiao.com/trending/7600608459670818355/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时42分"
+        },
+        {
           "title": "特斯拉CEO埃隆·马斯克：预计下个季度将逐步停产Model S和X。",
           "url": "https://flash.jin10.com/detail/20260129063752077800",
           "source": "金十数据",
@@ -492,7 +503,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 5,
+      "match_count": 13,
       "titles": [
         {
           "title": "LG能源与印尼新公司签署谅解备忘录以实现供应多元化。预计美国电动汽车需求下半年将温和复苏。",
@@ -518,6 +529,17 @@
           "time_info": "[00时35分 ~ 01时31分]"
         },
         {
+          "title": "汽车节目主持人哈蒙德入驻B站",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B1%BD%E8%BD%A6%E8%8A%82%E7%9B%AE%E4%B8%BB%E6%8C%81%E4%BA%BA%E5%93%88%E8%92%99%E5%BE%B7%E5%85%A5%E9%A9%BBB%E7%AB%99",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时42分"
+        },
+        {
           "title": "LG：北美电动汽车需求短期内不太可能复苏。",
           "url": "https://wallstreetcn.com/livenews/3045979",
           "source": "华尔街见闻-快讯",
@@ -540,15 +562,92 @@
           "time_info": "02时36分"
         },
         {
+          "title": "现代汽车：美国关税削减在第四季度的影响有限。",
+          "url": "https://flash.jin10.com/detail/20260129132139586800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时42分"
+        },
+        {
+          "title": "现代汽车股价回吐涨幅，因盈利不及预期。",
+          "url": "https://wallstreetcn.com/livenews/3046112",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时42分"
+        },
+        {
+          "title": "现代汽车股价上涨1.9%。",
+          "url": "https://flash.jin10.com/detail/20260129131233414800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时42分"
+        },
+        {
+          "title": "现代汽车：将回购价值3670亿韩元的库存股。",
+          "url": "https://flash.jin10.com/detail/20260129130900221800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时42分"
+        },
+        {
+          "title": "现代汽车第四季度营业利润1.70万亿韩元，预估2.7万亿韩元。 净利润1.03万亿韩元，预估2.49万亿韩元。 销售额46.84万亿韩元，预估48.5万亿韩元。",
+          "url": "https://wallstreetcn.com/livenews/3046108",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时42分"
+        },
+        {
+          "title": "现代汽车：将支付每股普通股2500韩元的季度股息。",
+          "url": "https://flash.jin10.com/detail/20260129130810361800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时42分"
+        },
+        {
           "title": "曝奇瑞将用捷豹路虎英国工厂生产汽车",
           "url": "https://www.toutiao.com/trending/7599537063838957622/",
           "source": "今日头条",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
+        },
+        {
+          "title": "现代汽车：韩元走软在第四季度对营业利润产生了7100亿韩元的正面影响。",
+          "url": "https://flash.jin10.com/detail/20260129130002032800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时42分"
         }
       ]
     }
