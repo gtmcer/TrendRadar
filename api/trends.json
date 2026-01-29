@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T03:31:09.675084+08:00",
-  "total_titles_processed": 489,
+  "generated_at": "2026-01-30T04:31:16.434391+08:00",
+  "total_titles_processed": 524,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 03时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时42分 ~ 04时31分]"
         },
         {
           "title": "特斯拉Q4盈利高于预期，开始局部真正无人驾驶，投资xAI 20亿，Cybecab和机器人待量产，盘后跳涨丨财报见闻",
@@ -27,8 +27,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 03时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时42分 ~ 04时31分]"
         },
         {
           "title": "特斯拉(TSLA.O)：我们会继续为Model S和X项目提供支持，只要人们还拥有这些车辆。",
@@ -54,11 +54,12 @@
           "ranks": [
             14,
             20,
-            23
+            23,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时41分 ~ 03时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时41分 ~ 04时31分]"
         },
         {
           "title": "美国总统特朗普：通用汽车、福特汽车的表现是它们从未有过的。",
@@ -96,8 +97,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时41分 ~ 03时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时41分 ~ 04时31分]"
         }
       ]
     }
