@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T17:41:25.638186+08:00",
-  "total_titles_processed": 1632,
+  "generated_at": "2026-01-29T18:36:01.080822+08:00",
+  "total_titles_processed": 1733,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时53分 ~ 17时41分]"
+          "appearance_count": 8,
+          "time_info": "[09时53分 ~ 18时36分]"
         },
         {
           "title": "特斯拉Q4盈利高于预期，开始局部真正无人驾驶，投资xAI 20亿，Cybecab和机器人待量产，盘后跳涨丨财报见闻",
@@ -43,8 +43,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时07分 ~ 17时41分]"
+          "appearance_count": 7,
+          "time_info": "[12时07分 ~ 18时36分]"
         },
         {
           "title": "特斯拉首席财务官：特斯拉可能在几个月内发布Optimus机器人。",
@@ -179,6 +179,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时28分 ~ 06时25分]"
+        },
+        {
+          "title": "特斯拉重大战略调整，将停产 Model S 和 X，生产线转向发力 Optimus 机器人，怎样解读？",
+          "url": "https://www.zhihu.com/question/2000138565615576779",
+          "source": "知乎",
+          "ranks": [
+            14,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时41分 ~ 18时36分]"
         },
         {
           "title": "特斯拉将投资20亿美元购买XAI公司的E系列优先股。",
@@ -337,17 +349,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时39分"
-        },
-        {
-          "title": "特斯拉重大战略调整，将停产 Model S 和 X，生产线转向发力 Optimus 机器人，怎样解读？",
-          "url": "https://www.zhihu.com/question/2000138565615576779",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时41分"
         },
         {
           "title": "特斯拉(TSLA.O)：我们计划在今年第一季度发布Optimus的第三代版本。",
@@ -532,7 +533,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时41分"
         },
@@ -554,6 +555,20 @@
       "match_count": 20,
       "titles": [
         {
+          "title": "汽车节目主持人哈蒙德入驻B站",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B1%BD%E8%BD%A6%E8%8A%82%E7%9B%AE%E4%B8%BB%E6%8C%81%E4%BA%BA%E5%93%88%E8%92%99%E5%BE%B7%E5%85%A5%E9%A9%BBB%E7%AB%99",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            10,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时42分 ~ 18时36分]"
+        },
+        {
           "title": "意法半导体Q4销售回升 汽车芯片需求仍疲弱",
           "url": "https://flash.jin10.com/detail/20260129162442665800",
           "source": "金十数据",
@@ -574,19 +589,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时53分"
-        },
-        {
-          "title": "汽车节目主持人哈蒙德入驻B站",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B1%BD%E8%BD%A6%E8%8A%82%E7%9B%AE%E4%B8%BB%E6%8C%81%E4%BA%BA%E5%93%88%E8%92%99%E5%BE%B7%E5%85%A5%E9%A9%BBB%E7%AB%99",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时42分 ~ 17时41分]"
         },
         {
           "title": "印度将立即削减大幅欧洲汽车关税至30%至35%",
@@ -684,7 +686,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时41分"
         },
