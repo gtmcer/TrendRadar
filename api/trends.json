@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-31T06:24:28.400486+08:00",
-  "total_titles_processed": 575,
+  "generated_at": "2026-01-31T07:24:16.863602+08:00",
+  "total_titles_processed": 598,
   "failed_sources": [],
   "trends": [
     {
@@ -23,11 +23,12 @@
           "url": "https://www.zhihu.com/question/1999568077138973825",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时37分 ~ 00时38分]"
+          "appearance_count": 4,
+          "time_info": "[00时37分 ~ 07时24分]"
         },
         {
           "title": "美国民主党参议员沃伦：沃什并非美联储主席的理想人选",
@@ -48,7 +49,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
         },
@@ -59,7 +60,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
         }
