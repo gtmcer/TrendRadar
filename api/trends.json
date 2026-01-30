@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T07:25:50.849126+08:00",
-  "total_titles_processed": 688,
+  "generated_at": "2026-01-30T09:54:27.815885+08:00",
+  "total_titles_processed": 859,
   "failed_sources": [],
   "trends": [
     {
@@ -52,7 +52,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         },
@@ -74,7 +74,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         },
@@ -96,7 +96,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         }
@@ -115,11 +115,12 @@
             20,
             23,
             8,
-            30
+            30,
+            24
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时41分 ~ 07时25分]"
+          "appearance_count": 13,
+          "time_info": "[00时41分 ~ 09时54分]"
         },
         {
           "title": "高级监管官员：美国加州将于下周公布该州针对新电动汽车提供的2亿美元税收抵免的详细信息。",
@@ -190,8 +191,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时41分 ~ 07时25分]"
+          "appearance_count": 15,
+          "time_info": "[00时41分 ~ 09时54分]"
         }
       ]
     }
