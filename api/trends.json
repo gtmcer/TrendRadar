@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T16:37:24.790016+08:00",
-  "total_titles_processed": 1440,
+  "generated_at": "2026-01-30T17:37:08.032506+08:00",
+  "total_titles_processed": 1546,
   "failed_sources": [],
   "trends": [
     {
@@ -43,8 +43,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时44分 ~ 16时37分]"
+          "appearance_count": 7,
+          "time_info": "[13时44分 ~ 17时37分]"
         },
         {
           "title": "理想汽车高管确认切入人形机器人",
@@ -53,7 +53,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         },
@@ -75,11 +75,12 @@
           "source": "百度热搜",
           "ranks": [
             29,
-            27
+            27,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时39分 ~ 16时37分]"
+          "appearance_count": 4,
+          "time_info": "[15时39分 ~ 17时37分]"
         },
         {
           "title": "SpaceX据悉正在考虑与特斯拉或xAI合并",
