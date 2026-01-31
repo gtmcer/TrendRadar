@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-31T18:23:26.302369+08:00",
-  "total_titles_processed": 1191,
+  "generated_at": "2026-01-31T19:19:47.310857+08:00",
+  "total_titles_processed": 1278,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时49分 ~ 18时23分]"
+          "appearance_count": 11,
+          "time_info": "[09时49分 ~ 19时19分]"
         },
         {
           "title": "特斯拉(TSLA.O)涨超5%；此前特斯拉CEO埃隆·马斯克旗下其他公司正就IPO与SpaceX进行合并谈判。",
@@ -108,11 +108,12 @@
           "ranks": [
             1,
             6,
-            11
+            11,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时29分 ~ 18时23分]"
+          "appearance_count": 4,
+          "time_info": "[16时29分 ~ 19时19分]"
         }
       ]
     }
