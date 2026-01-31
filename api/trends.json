@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-31T07:24:16.863602+08:00",
-  "total_titles_processed": 598,
+  "generated_at": "2026-01-31T09:50:14.613546+08:00",
+  "total_titles_processed": 743,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "特斯拉(TSLA.O)涨超5%；此前特斯拉CEO埃隆·马斯克旗下其他公司正就IPO与SpaceX进行合并谈判。",
@@ -29,6 +29,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时37分 ~ 07时24分]"
+        },
+        {
+          "title": "特斯拉股价逆市走强 SpaceX上市在即曝马斯克整合大棋",
+          "url": "https://www.cls.cn/detail/2276362",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时49分 ~ 09时50分]"
         },
         {
           "title": "美国民主党参议员沃伦：沃什并非美联储主席的理想人选",
