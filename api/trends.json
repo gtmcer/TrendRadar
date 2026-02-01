@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-01T16:31:38.324739+08:00",
-  "total_titles_processed": 894,
+  "generated_at": "2026-02-01T17:29:59.763010+08:00",
+  "total_titles_processed": 970,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "特斯拉股价逆市走强 SpaceX上市在即曝马斯克整合大棋",
@@ -20,15 +20,27 @@
           "time_info": "[00时26分 ~ 15时36分]"
         },
         {
+          "title": "小鹏汽车：2026年1月共交付新车20011台。",
+          "url": "https://wallstreetcn.com/livenews/3047804",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
+        },
+        {
           "title": "蔚来公司1月交付同比增长96.1%，全新ES8完成第6万台新车交付",
           "url": "https://wallstreetcn.com/livenews/3047785",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 17时29分]"
         },
         {
           "title": "小米汽车：2026年1月，小米汽车交付量超过39000台。",
@@ -63,22 +75,35 @@
           "url": "https://flash.jin10.com/detail/20260201155521308800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 17时29分]"
         },
         {
           "title": "极氪1月交付量同比增加99.7%，极氪8X今年上半年上市",
           "url": "https://wallstreetcn.com/livenews/3047782",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 17时29分]"
+        },
+        {
+          "title": "小鹏机器人首秀摔倒 被抬离现场",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E9%B9%8F%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%A6%96%E7%A7%80%E6%91%94%E5%80%92+%E8%A2%AB%E6%8A%AC%E7%A6%BB%E7%8E%B0%E5%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时31分"
+          "time_info": "17时29分"
         },
         {
           "title": "法国汽车平台 （PFA）：法国1月新车注册量同比下降6.55%，至107,157辆。其中法国地区特斯拉注册量下降42.07%。",
@@ -128,22 +153,24 @@
           "source": "金十数据",
           "ranks": [
             3,
-            13
+            13,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时36分 ~ 16时31分]"
+          "appearance_count": 3,
+          "time_info": "[15时36分 ~ 17时29分]"
         },
         {
           "title": "长城汽车：1月新能源车销售18,029台。",
           "url": "https://wallstreetcn.com/livenews/3047772",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 17时29分]"
         }
       ]
     },
@@ -158,11 +185,12 @@
           "ranks": [
             2,
             5,
-            16
+            16,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时03分 ~ 16时31分]"
+          "appearance_count": 4,
+          "time_info": "[14时03分 ~ 17时29分]"
         },
         {
           "title": "鸿蒙智行2026年1月累计交付57915台，同比增长65.6%。",
@@ -177,6 +205,23 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时09分 ~ 15时36分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源汽车",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "赛力斯：1月新能源汽车销量43,034辆，同比增长140.33%；其中赛力斯汽车销量40,012辆，同比增长143.50%。",
+          "url": "https://wallstreetcn.com/livenews/3047795",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
         }
       ]
     }
