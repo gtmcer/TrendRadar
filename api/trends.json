@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-02T04:25:25.533645+08:00",
-  "total_titles_processed": 375,
+  "generated_at": "2026-02-02T05:21:50.204663+08:00",
+  "total_titles_processed": 390,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 04时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 05时21分]"
         },
         {
           "title": "吉利汽车2026年1月销量27万辆，同比增长1%",
@@ -30,8 +30,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 04时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 05时21分]"
         },
         {
           "title": "金十整理：造车新势力成绩单出炉——小米新年首月交付近4万台汽车，比亚迪产销均有所下滑",
@@ -39,11 +39,12 @@
           "source": "金十数据",
           "ranks": [
             18,
-            21
+            21,
+            26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 04时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 05时21分]"
         },
         {
           "title": "比亚迪电动汽车已获准在加拿大销售",
@@ -70,8 +71,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 04时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 05时21分]"
         },
         {
           "title": "比亚迪：2026年1月新能源汽车销量同比下降30.11%",
@@ -81,8 +82,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 04时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 05时21分]"
         },
         {
           "title": "赛力斯：1月新能源汽车销量43,034辆，同比增长140.33%；其中赛力斯汽车销量40,012辆，同比增长143.50%。",
@@ -92,8 +93,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 04时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 05时21分]"
         }
       ]
     },
@@ -109,8 +110,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 04时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 05时21分]"
         },
         {
           "title": "何小鹏回应IRON机器人走猫步时摔倒",
@@ -123,8 +124,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时23分 ~ 04时25分]"
+          "appearance_count": 5,
+          "time_info": "[01时23分 ~ 05时21分]"
         }
       ]
     }
