@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-02T06:23:03.412047+08:00",
-  "total_titles_processed": 406,
+  "generated_at": "2026-02-02T07:23:57.826311+08:00",
+  "total_titles_processed": 459,
   "failed_sources": [],
   "trends": [
     {
@@ -28,11 +28,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             14,
-            15
+            15,
+            30
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 06时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 07时23分]"
         },
         {
           "title": "金十整理：造车新势力成绩单出炉——小米新年首月交付近4万台汽车，比亚迪产销均有所下滑",
@@ -72,8 +73,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时28分 ~ 06时23分]"
+          "appearance_count": 9,
+          "time_info": "[00时28分 ~ 07时23分]"
         },
         {
           "title": "比亚迪：2026年1月新能源汽车销量同比下降30.11%",
@@ -113,11 +114,12 @@
             27,
             24,
             23,
-            30
+            30,
+            22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时23分 ~ 06时23分]"
+          "appearance_count": 8,
+          "time_info": "[01时23分 ~ 07时23分]"
         },
         {
           "title": "小鹏汽车：2026年1月共交付新车20011台。",
