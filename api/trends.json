@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-04T06:28:50.886883+08:00",
-  "total_titles_processed": 652,
+  "generated_at": "2026-02-04T07:27:36.101117+08:00",
+  "total_titles_processed": 720,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             10,
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时52分 ~ 06时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时52分 ~ 07时27分]"
         },
         {
           "title": "纳斯达克金龙中国指数收跌0.94%，报7610.01点，跳空低开之后，整体呈现出V形走势。 热门中概股里，大全新能源初步收跌5.6%，B站跌4%，金山云跌3.5%，阿里巴巴跌2.9%，百度、携程、Boss直聘、贝壳跌超2%，蔚来涨0.8%，小马智行涨2%，华住涨2.2%，新东方涨2.3%，理想涨2.7%，阿特斯涨4.1%，小鹏涨4.3%。 ETF中，中概互联网指数ETF（KWEB）收跌1.85%，中国科技指数ETF（CQQQ）收跌1.17%。 德银嘉实沪深300指数ETF（ASHR）收涨0.48%，XtrackersHarvest中证50（ASHS）收涨1.98%。",
