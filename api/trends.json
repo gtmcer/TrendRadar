@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-03T18:38:42.605053+08:00",
-  "total_titles_processed": 1526,
+  "generated_at": "2026-02-03T19:33:55.071820+08:00",
+  "total_titles_processed": 1621,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "事关汽车门把手安全，强制性国家标准发布",
@@ -15,11 +15,12 @@
             10,
             7,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时59分 ~ 18时38分]"
+          "appearance_count": 11,
+          "time_info": "[09时59分 ~ 19时33分]"
         },
         {
           "title": "事关汽车门把手 强制性国家标准发布",
@@ -33,6 +34,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时38分 ~ 07时27分]"
+        },
+        {
+          "title": "鄂尔多斯汽车撞路灯杆车主排除酒驾",
+          "url": "https://www.toutiao.com/trending/7602486731975213110/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时33分"
         },
         {
           "title": "聚焦三类汽车数据出境行为 八部门联合发布安全指引",
