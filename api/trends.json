@@ -1,200 +1,50 @@
 {
-  "generated_at": "2026-02-03T23:48:36.642767+08:00",
-  "total_titles_processed": 1980,
+  "generated_at": "2026-02-04T00:52:39.244476+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "汽车",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "事关汽车门把手安全，强制性国家标准发布",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32516211",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            7,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时59分 ~ 19时33分]"
-        },
-        {
-          "title": "事关汽车门把手 强制性国家标准发布",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%8B%E5%85%B3%E6%B1%BD%E8%BD%A6%E9%97%A8%E6%8A%8A%E6%89%8B+%E5%BC%BA%E5%88%B6%E6%80%A7%E5%9B%BD%E5%AE%B6%E6%A0%87%E5%87%86%E5%8F%91%E5%B8%83",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            17,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 07时27分]"
-        },
-        {
-          "title": "鄂尔多斯汽车撞路灯杆车主排除酒驾",
-          "url": "https://www.toutiao.com/trending/7602486731975213110/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时33分 ~ 20时56分]"
-        },
-        {
-          "title": "聚焦三类汽车数据出境行为 八部门联合发布安全指引",
-          "url": "https://wallstreetcn.com/livenews/3048963",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时35分"
-        },
-        {
-          "title": "印度官员：与美国的贸易协定，解决了华盛顿方面关于削减印度在汽车等领域高额关税的要求。 与美国的贸易协定涵盖了部分农产品。 根据协议，印度承诺购买的美国商品包括石油、国防产品、电子产品、制药产品、电信产品以及飞机。 关于涉及更多领域的更全面协议的谈判仍将继续。",
-          "url": "https://wallstreetcn.com/livenews/3048813",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时50分"
-        },
-        {
-          "title": "工业和信息化部等八部门印发《汽车数据出境安全指引（2026版）》",
-          "url": "https://wallstreetcn.com/livenews/3048956",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时35分"
-        },
-        {
-          "title": "美国加利福尼亚州政府表示，拟推出的2亿美元电动汽车激励计划将仅面向首次购车者，并要求参与的汽车制造商提供配套资金。",
-          "url": "https://flash.jin10.com/detail/20260203060828726800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时27分"
-        }
-      ]
-    },
-    {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 6,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "官网显示，特斯拉在美国将Model Y全轮驱动版的售价定为41,990美元。",
-          "url": "https://flash.jin10.com/detail/20260203093651376800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        },
         {
           "title": "小鹏机器人假人疑云后再翻车，线下首秀摔趴被抬走，问题可能出在哪里？双足机器人保持平衡到底有多难？",
           "url": "https://www.zhihu.com/question/2001257534565150999",
           "source": "知乎",
           "ranks": [
-            13,
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时04分 ~ 23时48分]"
-        },
-        {
-          "title": "雷军回应小米汽车交付量下滑",
-          "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E4%BA%A4%E4%BB%98%E9%87%8F%E4%B8%8B%E6%BB%91",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            25,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 07时27分]"
-        },
-        {
-          "title": "小鹏自动驾驶、智能座舱中心合并，新成立通用智能中心",
-          "url": "https://wallstreetcn.com/livenews/3049126",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时56分"
-        },
-        {
-          "title": "意大利交通部：特斯拉(TSLA.O)1月份在意大利的新车注册量同比增长0.5%。",
-          "url": "https://flash.jin10.com/detail/20260203010649552800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时37分"
+          "time_info": "00时52分"
         },
         {
           "title": "纳斯达克金龙中国指数盘初跌0.97%。 热门中概股阿里巴巴、百度跌超2%，京东、网易跌超1%，新东方涨超1%，文远知行、小鹏、小马智行涨约2%，世纪互联涨约3%，再鼎医药涨4.7%。 ETF中，KWEB跌1.37%，CQQQ跌0.59%，ASHR涨0.65%，ASHS涨2.58%。",
           "url": "https://wallstreetcn.com/livenews/3049196",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时48分"
+          "time_info": "00时52分"
         }
       ]
     },
     {
-      "keyword_group": "华为汽车 鸿蒙智行 问界 尚界 尊界 智界 享界 乾崑",
-      "match_count": 2,
+      "keyword_group": "汽车",
+      "match_count": 1,
       "titles": [
         {
-          "title": "问界M6汽车官图发布",
-          "url": "https://www.toutiao.com/trending/7601345846491467327/",
-          "source": "今日头条",
+          "title": "据报道，载有哥伦比亚总统古斯塔沃·佩特罗的汽车抵达白宫。",
+          "url": "https://flash.jin10.com/detail/20260203235532975800",
+          "source": "金十数据",
           "ranks": [
-            23,
-            28
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时50分 ~ 14时49分]"
-        },
-        {
-          "title": "多家车企新年首月销量出炉，鸿蒙智行交付增长超六成，理想交付新车超 2.7 万辆，如何评价各家表现？",
-          "url": "https://www.zhihu.com/question/2001246362277258317",
-          "source": "知乎",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 01时37分]"
+          "appearance_count": 1,
+          "time_info": "00时52分"
         }
       ]
     }
