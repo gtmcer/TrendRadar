@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-04T02:55:34.410659+08:00",
-  "total_titles_processed": 455,
+  "generated_at": "2026-02-04T03:47:20.074457+08:00",
+  "total_titles_processed": 507,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时52分 ~ 02时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时52分 ~ 03时47分]"
         },
         {
           "title": "特斯拉(TSLA.O)将于周三在参议院商务委员会作证，指出国会必须对自动驾驶汽车监管进行现代化改革。",
@@ -25,7 +25,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时55分"
         },
