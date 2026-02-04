@@ -1,49 +1,12 @@
 {
-  "generated_at": "2026-02-04T23:42:00.870653+08:00",
-  "total_titles_processed": 2122,
+  "generated_at": "2026-02-05T00:45:08.040824+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 18,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "长安汽车：拟以10亿元-20亿元回购股份。",
-          "url": "https://wallstreetcn.com/livenews/3049820",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时37分 ~ 19时32分]"
-        },
-        {
-          "title": "张艺兴汽车警铃舞",
-          "url": "https://www.douyin.com/hot/2389726",
-          "source": "抖音",
-          "ranks": [
-            30,
-            27,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时56分 ~ 23时42分]"
-        },
-        {
-          "title": "周二（2月3日）美股尾盘，彭博电动汽车价格回报指数涨1.72%，报3509.86点，全天持续走高。 成分股MP材料目前涨7.77%，Sona Blw Precision Forgings Ltd.收涨6.15%，中创新航科技集团H股收涨4.85%，禾赛科技涨4%，美国雅宝涨超3.7%，Panasonic株式会社收涨3.75%，广州汽车集团H股收涨3.39%表现第七，文远知行则跌超3.1%，MobilEye Global Inc.跌4.1%，安霸股份跌4.8%。",
-          "url": "https://wallstreetcn.com/livenews/3049320",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时33分 ~ 06时28分]"
-        },
         {
           "title": "券商2月金股出炉：电子行业最热，有色、汽车减配居前",
           "url": "https://m.thepaper.cn/newsDetail_forward_32524952",
@@ -53,276 +16,35 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[23时41分 ~ 23时42分]"
+          "time_info": "[00时44分 ~ 00时45分]"
         },
         {
-          "title": "零跑汽车员工吐槽年会 董事长回应",
-          "url": "https://www.baidu.com/s?wd=%E9%9B%B6%E8%B7%91%E6%B1%BD%E8%BD%A6%E5%91%98%E5%B7%A5%E5%90%90%E6%A7%BD%E5%B9%B4%E4%BC%9A+%E8%91%A3%E4%BA%8B%E9%95%BF%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时54分 ~ 12时11分]"
-        },
-        {
-          "title": "广东：拓展无人驾驶公共交通运营区域，扩大智能网联汽车道路测试与示范应用范围",
-          "url": "https://wallstreetcn.com/livenews/3049724",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时39分"
-        },
-        {
-          "title": "丰田计划到2028年将混合动力汽车产量提高至约670万辆，较2026年计划增加30%。（日经新闻)",
-          "url": "https://wallstreetcn.com/livenews/3049758",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时42分"
-        },
-        {
-          "title": "道达尔能源：道达尔能源与Tikehau资本共同打造电动汽车充电基础设施合资投资平台。合资企业旨在在比利时和荷兰的城市提供电动汽车充电服务。该平台由两家合作伙伴平等拥有。",
-          "url": "https://flash.jin10.com/detail/20260204152239604800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时43分"
-        },
-        {
-          "title": "消息人士：福特汽车(F.N)正与吉利就一项合作进行谈判，该合作可能涉及允许后者使用福特在欧洲的工厂空间。据悉谈判还包括建立一个潜在的技术共享框架，内容涵盖自动驾驶等车辆技术。",
-          "url": "https://flash.jin10.com/detail/20260204123732007800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时47分"
-        },
-        {
-          "title": "涉及智能网联汽车、生命健康等领域 32项国家计量技术规范发布",
-          "url": "https://wallstreetcn.com/livenews/3049654",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时43分"
-        },
-        {
-          "title": "据日经新闻：丰田计划到2028年将混合动力汽车产量提高至约670万辆，较2026年计划增加30%。",
-          "url": "https://flash.jin10.com/detail/20260204170430484800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时42分"
-        },
-        {
-          "title": "金十图示：2026年02月04日（周三）全球汽车制造商市值变化",
-          "url": "https://flash.jin10.com/detail/20260204110518139800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时11分"
-        },
-        {
-          "title": "据报道，载有哥伦比亚总统古斯塔沃·佩特罗的汽车抵达白宫。",
-          "url": "https://flash.jin10.com/detail/20260203235532975800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
-        },
-        {
-          "title": "锐新科技：正在筹划以发行股份及支付现金方式购买芜湖德恒汽车装备有限公司并募集配套资金事项，股票停牌。",
-          "url": "https://wallstreetcn.com/livenews/3049865",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时56分"
-        },
-        {
-          "title": "威瑞斯克分析公司：冬季风暴“弗恩”造成的财产和汽车保险行业损失可能高达40亿美元。",
-          "url": "https://flash.jin10.com/detail/20260204033233741800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时34分"
-        },
-        {
-          "title": "越南VinFast汽车：2025年第四季度在全球交付86,557辆电动汽车",
-          "url": "https://flash.jin10.com/detail/20260204231752802800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时42分"
-        },
-        {
-          "title": "我国发布88项汽车安全相关强制性国家标准",
-          "url": "https://wallstreetcn.com/livenews/3049684",
-          "source": "华尔街见闻-快讯",
+          "title": "张艺兴汽车警铃舞",
+          "url": "https://www.douyin.com/hot/2389726",
+          "source": "抖音",
           "ranks": [
             29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时39分"
-        },
-        {
-          "title": "“无人驾驶”将如何改写汽车行业",
-          "url": "https://www.toutiao.com/trending/7602949812626918931/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时03分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "小鹏机器人假人疑云后再翻车，线下首秀摔趴被抬走，问题可能出在哪里？双足机器人保持平衡到底有多难？",
-          "url": "https://www.zhihu.com/question/2001257534565150999",
-          "source": "知乎",
-          "ranks": [
-            10,
-            9,
-            7,
-            6,
-            11,
-            14,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时52分 ~ 13时47分]"
-        },
-        {
-          "title": "著名投资人段永平在雪球上谈及特斯拉时表示，“FSD确实好用，Model Y开起来也没啥不舒服的，现在开特斯拉已经是我的首选了。”",
-          "url": "https://wallstreetcn.com/livenews/3049546",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            26
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时11分 ~ 13时47分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌0.94%，报7610.01点，跳空低开之后，整体呈现出V形走势。 热门中概股里，大全新能源初步收跌5.6%，B站跌4%，金山云跌3.5%，阿里巴巴跌2.9%，百度、携程、Boss直聘、贝壳跌超2%，蔚来涨0.8%，小马智行涨2%，华住涨2.2%，新东方涨2.3%，理想涨2.7%，阿特斯涨4.1%，小鹏涨4.3%。 ETF中，中概互联网指数ETF（KWEB）收跌1.85%，中国科技指数ETF（CQQQ）收跌1.17%。 德银嘉实沪深300指数ETF（ASHR）收涨0.48%，XtrackersHarvest中证50（ASHS）收涨1.98%。",
-          "url": "https://wallstreetcn.com/livenews/3049324",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时33分 ~ 06时28分]"
-        },
-        {
-          "title": "特斯拉(TSLA.O)将于周三在参议院商务委员会作证，指出国会必须对自动驾驶汽车监管进行现代化改革。",
-          "url": "https://flash.jin10.com/detail/20260204020709699800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时55分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数盘初跌0.97%。 热门中概股阿里巴巴、百度跌超2%，京东、网易跌超1%，新东方涨超1%，文远知行、小鹏、小马智行涨约2%，世纪互联涨约3%，再鼎医药涨4.7%。 ETF中，KWEB跌1.37%，CQQQ跌0.59%，ASHR涨0.65%，ASHS涨2.58%。",
-          "url": "https://wallstreetcn.com/livenews/3049196",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
+          "time_info": "[00时44分 ~ 00时45分]"
         }
       ]
     },
     {
       "keyword_group": "新能源汽车",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
           "title": "2026 年中央一号文件提出「支持新能源汽车下乡」，这会产生什么影响？相关配套设施能否跟得上？",
           "url": "https://www.zhihu.com/question/2002346311593264005",
           "source": "知乎",
           "ranks": [
-            13,
-            12,
-            9,
-            4,
-            3
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时38分 ~ 23时42分]"
-        },
-        {
-          "title": "中央一号文件“点名”新能源汽车",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%E4%B8%80%E5%8F%B7%E6%96%87%E4%BB%B6%E2%80%9C%E7%82%B9%E5%90%8D%E2%80%9D%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6",
-          "source": "百度热搜",
-          "ranks": [
-            1,
-            2,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时54分 ~ 13时47分]"
-        },
-        {
-          "title": "新能源汽车行驶中底盘着火 2分钟爆燃",
-          "url": "https://www.toutiao.com/trending/7601536947350814739/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时11分"
+          "appearance_count": 2,
+          "time_info": "[00时44分 ~ 00时45分]"
         }
       ]
     }
