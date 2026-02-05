@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-06T00:45:15.820920+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-06T01:46:31.021966+08:00",
+  "total_titles_processed": 388,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 00时45分]"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 01时46分]"
         },
         {
           "title": "在 2025 全球销量前十的汽车集团中，丰田集团以 1,042 万辆成绩再次卫冕全球销冠，中国企业何时可超？",
           "url": "https://www.zhihu.com/question/2000151959752168666",
           "source": "知乎",
           "ranks": [
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 00时45分]"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 01时46分]"
         },
         {
           "title": "据华尔街日报：大众汽车公司与美国汽车工人联合会达成协议，将为田纳西州工厂的工人加薪20%。",
@@ -36,7 +37,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
         }
@@ -51,11 +52,12 @@
           "url": "https://www.zhihu.com/question/2002811539418284205",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 00时45分]"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 01时46分]"
         },
         {
           "title": "成立11年首次实现单季盈利！蔚来：2025年四季度调整经营利润7亿至12亿元",
@@ -65,8 +67,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 00时45分]"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 01时46分]"
         }
       ]
     }
