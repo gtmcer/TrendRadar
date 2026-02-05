@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-05T20:58:56.851378+08:00",
-  "total_titles_processed": 1862,
+  "generated_at": "2026-02-05T22:07:56.614343+08:00",
+  "total_titles_processed": 1979,
   "failed_sources": [],
   "trends": [
     {
@@ -36,20 +36,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时58分"
-        },
-        {
-          "title": "三菱汽车首席执行官：我们目前并未面临令人担忧的稀土短缺，而且在不久的将来也不太可能出现这种情况。",
-          "url": "https://flash.jin10.com/detail/20260205162108324800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时41分"
+          "time_info": "20时58分"
         },
         {
           "title": "中国汽车将不再使用隐藏式车门把手",
@@ -61,8 +50,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时39分 ~ 20时58分]"
+          "appearance_count": 4,
+          "time_info": "[18时39分 ~ 22时07分]"
+        },
+        {
+          "title": "三菱汽车首席执行官：我们目前并未面临令人担忧的稀土短缺，而且在不久的将来也不太可能出现这种情况。",
+          "url": "https://flash.jin10.com/detail/20260205162108324800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时41分"
         },
         {
           "title": "通用汽车CFO Paul Jacobson在芝加哥联储于汽车城底特律举办的活动上表示：我们希望，美国墨西哥加拿大贸易协议（USMCA）保留北美为（一个完整的）贸易区。",
