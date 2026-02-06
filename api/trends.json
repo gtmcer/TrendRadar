@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-06T18:38:03.830361+08:00",
-  "total_titles_processed": 1651,
+  "generated_at": "2026-02-06T19:33:10.473459+08:00",
+  "total_titles_processed": 1735,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时14分 ~ 18时38分]"
+          "appearance_count": 13,
+          "time_info": "[12时14分 ~ 19时33分]"
         },
         {
           "title": "中国汽车将不再使用隐藏式车门把手",
@@ -54,7 +54,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时38分"
         },
@@ -199,7 +199,7 @@
     },
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "如何评价蔚来四季度首次盈利？",
@@ -282,6 +282,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时52分 ~ 13时53分]"
+        },
+        {
+          "title": "雷军：小米汽车春节期间免费道路救援",
+          "url": "https://www.toutiao.com/trending/7603323463282098218/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时32分 ~ 19时33分]"
         },
         {
           "title": "据华尔街日报：消息人士称，xAI的投资者认为这家初创公司的未来与特斯拉CEO埃隆·马斯克的公司紧密交织在一起。SpaceX与xAI的合并以人工智能初创公司的资本流动为前提。",
