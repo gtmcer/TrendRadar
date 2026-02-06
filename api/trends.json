@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-06T13:53:13.184560+08:00",
-  "total_titles_processed": 1130,
+  "generated_at": "2026-02-06T14:53:17.534671+08:00",
+  "total_titles_processed": 1241,
   "failed_sources": [],
   "trends": [
     {
@@ -44,8 +44,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时14分 ~ 13时53分]"
+          "appearance_count": 5,
+          "time_info": "[12时14分 ~ 14时53分]"
         },
         {
           "title": "丰田汽车将2025/26财年日本销量预期下调为207万辆，此前预测为208万辆；将亚洲销量预期下调至182万辆，此前预期为184万辆；将欧洲销量预期下调为123万辆，此前预测为124万辆。",
@@ -54,7 +54,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
         },
@@ -65,7 +65,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
         },
@@ -136,7 +136,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
         },
@@ -200,7 +200,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
         },
