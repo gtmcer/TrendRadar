@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-02-06T17:41:05.971782+08:00",
-  "total_titles_processed": 1550,
+  "generated_at": "2026-02-06T18:38:03.830361+08:00",
+  "total_titles_processed": 1651,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
+        {
+          "title": "明年起我国将禁止使用隐藏式车门把手，隐藏式车门把手存在哪些隐患？将对汽车产业产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2003018992265164291",
+          "source": "知乎",
+          "ranks": [
+            7,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时14分 ~ 18时38分]"
+        },
         {
           "title": "中国汽车将不再使用隐藏式车门把手",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E5%B0%86%E4%B8%8D%E5%86%8D%E4%BD%BF%E7%94%A8%E9%9A%90%E8%97%8F%E5%BC%8F%E8%BD%A6%E9%97%A8%E6%8A%8A%E6%89%8B",
@@ -18,18 +30,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时44分 ~ 09时55分]"
-        },
-        {
-          "title": "明年起我国将禁止使用隐藏式车门把手，隐藏式车门把手存在哪些隐患？将对汽车产业产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2003018992265164291",
-          "source": "知乎",
-          "ranks": [
-            7,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时14分 ~ 17时41分]"
         },
         {
           "title": "在 2025 全球销量前十的汽车集团中，丰田集团以 1,042 万辆成绩再次卫冕全球销冠，中国企业何时可超？",
@@ -46,6 +46,17 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时44分 ~ 07时22分]"
+        },
+        {
+          "title": "印度政府文件显示，根据最新提案，印度将取消对重量为909公斤或以下汽车的燃料排放优惠措施。印度不会提供基于车辆重量的优惠，而是收紧规则以推动电动车型和混合动力车型的销售。",
+          "url": "https://flash.jin10.com/detail/20260206180709180800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
         },
         {
           "title": "丰田汽车将2025/26财年日本销量预期下调为207万辆，此前预测为208万辆；将亚洲销量预期下调至182万辆，此前预期为184万辆；将欧洲销量预期下调为123万辆，此前预测为124万辆。",
