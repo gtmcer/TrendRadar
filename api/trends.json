@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T12:07:53.578417+08:00",
-  "total_titles_processed": 899,
+  "generated_at": "2026-02-07T13:41:27.923540+08:00",
+  "total_titles_processed": 975,
   "failed_sources": [],
   "trends": [
     {
@@ -31,6 +31,19 @@
           "time_info": "05时29分"
         },
         {
+          "title": "博主发小米极氪对撞测试视频被捕",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%9A%E4%B8%BB%E5%8F%91%E5%B0%8F%E7%B1%B3%E6%9E%81%E6%B0%AA%E5%AF%B9%E6%92%9E%E6%B5%8B%E8%AF%95%E8%A7%86%E9%A2%91%E8%A2%AB%E6%8D%95",
+          "source": "百度热搜",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时53分 ~ 13时41分]"
+        },
+        {
           "title": "特斯拉据称寻求提高光伏产能 Stellantis“电动化”梦碎 | 环球市场",
           "url": "https://www.cls.cn/detail/2283596",
           "source": "财联社热门",
@@ -39,20 +52,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时53分 ~ 12时07分]"
-        },
-        {
-          "title": "博主发小米极氪对撞测试视频被捕",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%9A%E4%B8%BB%E5%8F%91%E5%B0%8F%E7%B1%B3%E6%9E%81%E6%B0%AA%E5%AF%B9%E6%92%9E%E6%B5%8B%E8%AF%95%E8%A7%86%E9%A2%91%E8%A2%AB%E6%8D%95",
-          "source": "百度热搜",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时53分 ~ 12时07分]"
+          "appearance_count": 4,
+          "time_info": "[09时53分 ~ 13时41分]"
         },
         {
           "title": "蔚来1亿次换电正式达成",
@@ -132,9 +133,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时07分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时07分 ~ 13时41分]"
         },
         {
           "title": "周五（2月6日）美股尾盘，彭博电动汽车价格回报指数涨1.51%，报3521.92点，本周迄今累计下跌0.78%，整体呈现出W形走势。",
@@ -156,9 +157,9 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时07分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时07分 ~ 13时41分]"
         },
         {
           "title": "俄罗斯统计局：俄罗斯2025年汽车产量同比下降11.8%，至67.3万辆。",
