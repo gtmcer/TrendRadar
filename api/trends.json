@@ -1,148 +1,11 @@
 {
-  "generated_at": "2026-02-07T19:21:06.715321+08:00",
-  "total_titles_processed": 1313,
+  "generated_at": "2026-02-07T20:44:10.698345+08:00",
+  "total_titles_processed": 1392,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "特斯拉据称寻求提高光伏产能 Stellantis“电动化”梦碎 | 环球市场",
-          "url": "https://www.cls.cn/detail/2283596",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时53分 ~ 19时21分]"
-        },
-        {
-          "title": "博主发小米极氪对撞测试视频被捕",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%9A%E4%B8%BB%E5%8F%91%E5%B0%8F%E7%B1%B3%E6%9E%81%E6%B0%AA%E5%AF%B9%E6%92%9E%E6%B5%8B%E8%AF%95%E8%A7%86%E9%A2%91%E8%A2%AB%E6%8D%95",
-          "source": "百度热搜",
-          "ranks": [
-            9,
-            7,
-            6,
-            10,
-            16,
-            22,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时53分 ~ 17时29分]"
-        },
-        {
-          "title": "如何评价李想官宣全新李想 L9 和 理想 L9 Livis？",
-          "url": "https://www.zhihu.com/question/2003068930118407794",
-          "source": "知乎",
-          "ranks": [
-            12,
-            8,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时31分 ~ 19时21分]"
-        },
-        {
-          "title": "特斯拉据称正在美布局多州建厂 以扩张太阳能电池制造版图",
-          "url": "https://www.cls.cn/detail/2283494",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时21分 ~ 09时54分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数初步收涨3.7%，本周涨1%整体V形反转。 热门中概股里，小马智行初步收涨9.4%，蔚来涨7.4%，理想涨6.6%，百度涨5%，小鹏涨4.9%，小米、比亚迪涨4.3%，拼多多涨3.6%，阿里巴巴中行那个3%，腾讯涨2.2%。",
-          "url": "https://wallstreetcn.com/livenews/3051620",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时29分"
-        },
-        {
-          "title": "特斯拉计划在中国市场加大AI软硬件和能源领域投入",
-          "url": "https://wallstreetcn.com/livenews/3051701",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            6,
-            12,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时30分 ~ 19时21分]"
-        },
-        {
-          "title": "蔚来1亿次换电正式达成",
-          "url": "https://www.toutiao.com/trending/7603295658937843748/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时53分 ~ 12时07分]"
-        },
-        {
-          "title": "道指飙涨超1000点，半导体指数目前涨5.4%。 Strategy涨24.6%，诺和诺德ADR涨8.3%，英伟达涨7.5%，蔚来涨7.1%，西部数据涨6.8%，英特尔涨5.7%，台积电涨5.4%，特斯拉涨4.2%，Sandisk涨3.5%，阿里巴巴涨2.5%。 现货白银日内涨幅达9.0%，报77.07美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3051576",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时48分 ~ 04时32分]"
-        },
-        {
-          "title": "特斯拉开展招聘并考虑建厂 以落实马斯克的太阳能战略",
-          "url": "https://flash.jin10.com/detail/20260207172525892800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时24分 ~ 19时21分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收涨3.71%，报7808.54点，本周累计上涨0.99%。 热门中概股里，小马智行初步收涨9.4%，蔚来涨7.4%，理想涨6.6%，百度涨5%，小鹏涨4.9%，小米、比亚迪涨4.3%，拼多多涨3.6%，阿里巴巴中行那个3%，腾讯涨2.2%。 ETF中，中国科技指数ETF（CQQQ）收涨3.16%，本周累跌3.58%，延续上周跌3.39%的表现； 中概互联网指数ETF（KWEB）收涨2.82%，本周累跌3.02%，延续上周跌1.45%的表现； XtrackersHarvest中证50（ASHS）收涨1.93%，本周累跌0.49%，延续上周回撤3.30%的表现； 德银嘉实沪深300指数ETF（ASHR）收涨1.45%，本周累涨0.72%。",
-          "url": "https://wallstreetcn.com/livenews/3051620",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时22分 ~ 07时24分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "汽车",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "汽车飞机二合一！国内首款首飞成功",
@@ -206,11 +69,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            5
+            5,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时24分 ~ 19时21分]"
+          "appearance_count": 3,
+          "time_info": "[18时24分 ~ 20时44分]"
         },
         {
           "title": "印度商业和工业部长皮尤什·戈亚尔：印度出口到美国的宝石、钻石、智能手机将享受零关税待遇。 机械设备和基本汽车零部件将享受美国零关税待遇。 并未降低对美国转基因作物的贸易壁垒。 与美国达成的协议是一项公平、公正、平衡的协议。",
@@ -219,11 +83,12 @@
           "ranks": [
             4,
             10,
-            14
+            14,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时29分 ~ 19时21分]"
+          "appearance_count": 4,
+          "time_info": "[17时29分 ~ 20时44分]"
         },
         {
           "title": "印度商业和工业部长皮尤什·戈亚尔：部分美国产品将面临最低进口价格限制。 预计未来印度与美国的双边贸易额将达到5000亿美元。 下周起，互惠关税将从25%降至18%。 电动汽车被排除在美国贸易协定范围之外。 将对葡萄酒设定最低进口价格。",
@@ -231,11 +96,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            9
+            9,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时24分 ~ 19时21分]"
+          "appearance_count": 3,
+          "time_info": "[18时24分 ~ 20时44分]"
         },
         {
           "title": "狗狗挨揍后拉三轮车去撞自家汽车",
@@ -263,6 +129,17 @@
           "time_info": "[05时29分 ~ 07时24分]"
         },
         {
+          "title": "外媒：加拿大政府向中国汽车制造商“示好”",
+          "url": "https://news.ifeng.com/c/8qYBr5CwOaY",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时43分 ~ 20时44分]"
+        },
+        {
           "title": "俄罗斯统计局：俄罗斯2025年汽车产量同比下降11.8%，至67.3万辆。",
           "url": "https://flash.jin10.com/detail/20260207000307845800",
           "source": "金十数据",
@@ -272,6 +149,147 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "如何评价李想官宣全新李想 L9 和 理想 L9 Livis？",
+          "url": "https://www.zhihu.com/question/2003068930118407794",
+          "source": "知乎",
+          "ranks": [
+            12,
+            8,
+            11,
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时31分 ~ 20时44分]"
+        },
+        {
+          "title": "特斯拉据称寻求提高光伏产能 Stellantis“电动化”梦碎 | 环球市场",
+          "url": "https://www.cls.cn/detail/2283596",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            9,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[09时53分 ~ 20时44分]"
+        },
+        {
+          "title": "博主发小米极氪对撞测试视频被捕",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%9A%E4%B8%BB%E5%8F%91%E5%B0%8F%E7%B1%B3%E6%9E%81%E6%B0%AA%E5%AF%B9%E6%92%9E%E6%B5%8B%E8%AF%95%E8%A7%86%E9%A2%91%E8%A2%AB%E6%8D%95",
+          "source": "百度热搜",
+          "ranks": [
+            9,
+            7,
+            6,
+            10,
+            16,
+            22,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时53分 ~ 17时29分]"
+        },
+        {
+          "title": "特斯拉计划在中国市场加大AI软硬件和能源领域投入",
+          "url": "https://wallstreetcn.com/livenews/3051701",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            6,
+            12,
+            16,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时30分 ~ 20时44分]"
+        },
+        {
+          "title": "特斯拉据称正在美布局多州建厂 以扩张太阳能电池制造版图",
+          "url": "https://www.cls.cn/detail/2283494",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时21分 ~ 09时54分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数初步收涨3.7%，本周涨1%整体V形反转。 热门中概股里，小马智行初步收涨9.4%，蔚来涨7.4%，理想涨6.6%，百度涨5%，小鹏涨4.9%，小米、比亚迪涨4.3%，拼多多涨3.6%，阿里巴巴中行那个3%，腾讯涨2.2%。",
+          "url": "https://wallstreetcn.com/livenews/3051620",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时29分"
+        },
+        {
+          "title": "特斯拉开展招聘并考虑建厂 以落实马斯克的太阳能战略",
+          "url": "https://flash.jin10.com/detail/20260207172525892800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            10,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时24分 ~ 20时44分]"
+        },
+        {
+          "title": "蔚来1亿次换电正式达成",
+          "url": "https://www.toutiao.com/trending/7603295658937843748/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时53分 ~ 12时07分]"
+        },
+        {
+          "title": "道指飙涨超1000点，半导体指数目前涨5.4%。 Strategy涨24.6%，诺和诺德ADR涨8.3%，英伟达涨7.5%，蔚来涨7.1%，西部数据涨6.8%，英特尔涨5.7%，台积电涨5.4%，特斯拉涨4.2%，Sandisk涨3.5%，阿里巴巴涨2.5%。 现货白银日内涨幅达9.0%，报77.07美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3051576",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时48分 ~ 04时32分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨3.71%，报7808.54点，本周累计上涨0.99%。 热门中概股里，小马智行初步收涨9.4%，蔚来涨7.4%，理想涨6.6%，百度涨5%，小鹏涨4.9%，小米、比亚迪涨4.3%，拼多多涨3.6%，阿里巴巴中行那个3%，腾讯涨2.2%。 ETF中，中国科技指数ETF（CQQQ）收涨3.16%，本周累跌3.58%，延续上周跌3.39%的表现； 中概互联网指数ETF（KWEB）收涨2.82%，本周累跌3.02%，延续上周跌1.45%的表现； XtrackersHarvest中证50（ASHS）收涨1.93%，本周累跌0.49%，延续上周回撤3.30%的表现； 德银嘉实沪深300指数ETF（ASHR）收涨1.45%，本周累涨0.72%。",
+          "url": "https://wallstreetcn.com/livenews/3051620",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 07时24分]"
         }
       ]
     },
