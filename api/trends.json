@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T09:54:21.529532+08:00",
-  "total_titles_processed": 774,
+  "generated_at": "2026-02-07T12:07:53.578417+08:00",
+  "total_titles_processed": 899,
   "failed_sources": [],
   "trends": [
     {
@@ -31,6 +31,42 @@
           "time_info": "05时29分"
         },
         {
+          "title": "特斯拉据称寻求提高光伏产能 Stellantis“电动化”梦碎 | 环球市场",
+          "url": "https://www.cls.cn/detail/2283596",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时53分 ~ 12时07分]"
+        },
+        {
+          "title": "博主发小米极氪对撞测试视频被捕",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%9A%E4%B8%BB%E5%8F%91%E5%B0%8F%E7%B1%B3%E6%9E%81%E6%B0%AA%E5%AF%B9%E6%92%9E%E6%B5%8B%E8%AF%95%E8%A7%86%E9%A2%91%E8%A2%AB%E6%8D%95",
+          "source": "百度热搜",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时53分 ~ 12时07分]"
+        },
+        {
+          "title": "蔚来1亿次换电正式达成",
+          "url": "https://www.toutiao.com/trending/7603295658937843748/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时53分 ~ 12时07分]"
+        },
+        {
           "title": "道指飙涨超1000点，半导体指数目前涨5.4%。 Strategy涨24.6%，诺和诺德ADR涨8.3%，英伟达涨7.5%，蔚来涨7.1%，西部数据涨6.8%，英特尔涨5.7%，台积电涨5.4%，特斯拉涨4.2%，Sandisk涨3.5%，阿里巴巴涨2.5%。 现货白银日内涨幅达9.0%，报77.07美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3051576",
           "source": "华尔街见闻-快讯",
@@ -42,39 +78,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时48分 ~ 04时32分]"
-        },
-        {
-          "title": "特斯拉据称寻求提高光伏产能 Stellantis“电动化”梦碎 | 环球市场",
-          "url": "https://www.cls.cn/detail/2283596",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时53分 ~ 09时54分]"
-        },
-        {
-          "title": "博主发小米极氪对撞测试视频被捕",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%9A%E4%B8%BB%E5%8F%91%E5%B0%8F%E7%B1%B3%E6%9E%81%E6%B0%AA%E5%AF%B9%E6%92%9E%E6%B5%8B%E8%AF%95%E8%A7%86%E9%A2%91%E8%A2%AB%E6%8D%95",
-          "source": "百度热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时53分 ~ 09时54分]"
-        },
-        {
-          "title": "蔚来1亿次换电正式达成",
-          "url": "https://www.toutiao.com/trending/7603295658937843748/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时53分 ~ 09时54分]"
         },
         {
           "title": "纳斯达克金龙中国指数收涨3.71%，报7808.54点，本周累计上涨0.99%。 热门中概股里，小马智行初步收涨9.4%，蔚来涨7.4%，理想涨6.6%，百度涨5%，小鹏涨4.9%，小米、比亚迪涨4.3%，拼多多涨3.6%，阿里巴巴中行那个3%，腾讯涨2.2%。 ETF中，中国科技指数ETF（CQQQ）收涨3.16%，本周累跌3.58%，延续上周跌3.39%的表现； 中概互联网指数ETF（KWEB）收涨2.82%，本周累跌3.02%，延续上周跌1.45%的表现； XtrackersHarvest中证50（ASHS）收涨1.93%，本周累跌0.49%，延续上周回撤3.30%的表现； 德银嘉实沪深300指数ETF（ASHR）收涨1.45%，本周累涨0.72%。",
@@ -92,7 +95,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "明年起我国将禁止使用隐藏式车门把手，隐藏式车门把手存在哪些隐患？将对汽车产业产生哪些影响？",
@@ -123,6 +126,17 @@
           "time_info": "[00时42分 ~ 07时24分]"
         },
         {
+          "title": "汽车飞机二合一！国内首款首飞成功",
+          "url": "https://www.baidu.com/s?wd=%E6%B1%BD%E8%BD%A6%E9%A3%9E%E6%9C%BA%E4%BA%8C%E5%90%88%E4%B8%80%EF%BC%81%E5%9B%BD%E5%86%85%E9%A6%96%E6%AC%BE%E9%A6%96%E9%A3%9E%E6%88%90%E5%8A%9F",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        },
+        {
           "title": "周五（2月6日）美股尾盘，彭博电动汽车价格回报指数涨1.51%，报3521.92点，本周迄今累计下跌0.78%，整体呈现出W形走势。",
           "url": "https://wallstreetcn.com/livenews/3051616",
           "source": "华尔街见闻-快讯",
@@ -134,6 +148,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时29分 ~ 07时24分]"
+        },
+        {
+          "title": "狗狗挨揍后拉三轮车去撞自家汽车",
+          "url": "https://www.toutiao.com/trending/7603631721698967595/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
         },
         {
           "title": "俄罗斯统计局：俄罗斯2025年汽车产量同比下降11.8%，至67.3万辆。",
