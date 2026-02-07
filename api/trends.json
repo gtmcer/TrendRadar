@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T05:25:48.208186+08:00",
-  "total_titles_processed": 419,
+  "generated_at": "2026-02-08T06:24:41.168696+08:00",
+  "total_titles_processed": 437,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 05时25分]"
+          "appearance_count": 10,
+          "time_info": "[00时28分 ~ 06时24分]"
         },
         {
           "title": "国内首款「汽车飞机二合一」首飞成功，在技术上克服了哪些难点？未来有哪些应用空间？",
@@ -29,8 +29,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 05时25分]"
+          "appearance_count": 10,
+          "time_info": "[00时28分 ~ 06时24分]"
         },
         {
           "title": "印度贸易部长戈亚尔：根据印美贸易安排，印度汽车零部件出口的一半将享受0%关税。",
@@ -40,8 +40,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 05时25分]"
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 06时24分]"
         },
         {
           "title": "加拿大总理公开表示进口中国汽车",
@@ -71,8 +71,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 05时25分]"
+          "appearance_count": 10,
+          "time_info": "[00时28分 ~ 06时24分]"
         },
         {
           "title": "如何评价李想官宣全新李想 L9 和 理想 L9 Livis？",
@@ -98,11 +98,12 @@
           "ranks": [
             3,
             4,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 05时25分]"
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 06时24分]"
         }
       ]
     }
