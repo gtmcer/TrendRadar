@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T03:23:02.610620+08:00",
-  "total_titles_processed": 384,
+  "generated_at": "2026-02-08T04:25:16.671129+08:00",
+  "total_titles_processed": 413,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://news.ifeng.com/c/8qYBr5CwOaY",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时28分 ~ 03时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 04时25分]"
         },
         {
           "title": "国内首款「汽车飞机二合一」首飞成功，在技术上克服了哪些难点？未来有哪些应用空间？",
@@ -28,8 +29,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时28分 ~ 03时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 04时25分]"
         },
         {
           "title": "印度贸易部长戈亚尔：根据印美贸易安排，印度汽车零部件出口的一半将享受0%关税。",
@@ -39,19 +40,20 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 03时23分]"
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 04时25分]"
         },
         {
           "title": "加拿大总理公开表示进口中国汽车",
           "url": "https://www.toutiao.com/trending/7603546935311794217/",
           "source": "今日头条",
           "ranks": [
-            28
+            28,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 00时29分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 04时25分]"
         }
       ]
     },
@@ -68,8 +70,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时28分 ~ 03时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 04时25分]"
         },
         {
           "title": "如何评价李想官宣全新李想 L9 和 理想 L9 Livis？",
@@ -94,11 +96,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 03时23分]"
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 04时25分]"
         }
       ]
     }
