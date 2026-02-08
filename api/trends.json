@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T22:26:49.602957+08:00",
-  "total_titles_processed": 1288,
+  "generated_at": "2026-02-08T23:24:59.593290+08:00",
+  "total_titles_processed": 1349,
   "failed_sources": [],
   "trends": [
     {
@@ -92,11 +92,12 @@
           "url": "https://www.zhihu.com/question/2003762044663460567",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时26分 ~ 23时24分]"
         },
         {
           "title": "加拿大总理公开表示进口中国汽车",
