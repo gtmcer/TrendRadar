@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-08T07:29:06.983902+08:00",
-  "total_titles_processed": 455,
+  "generated_at": "2026-02-08T10:25:56.114928+08:00",
+  "total_titles_processed": 589,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "外媒：加拿大政府向中国汽车制造商“示好”",
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时28分 ~ 07时29分]"
+          "appearance_count": 13,
+          "time_info": "[00时28分 ~ 10时25分]"
         },
         {
           "title": "国内首款「汽车飞机二合一」首飞成功，在技术上克服了哪些难点？未来有哪些应用空间？",
@@ -42,6 +42,28 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时29分 ~ 07时29分]"
+        },
+        {
+          "title": "全球第四大汽车巨头半年亏1500亿元",
+          "url": "https://www.toutiao.com/trending/7604010892535611446/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        },
+        {
+          "title": "全球第四大汽车巨头突然爆雷",
+          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E7%AC%AC%E5%9B%9B%E5%A4%A7%E6%B1%BD%E8%BD%A6%E5%B7%A8%E5%A4%B4%E7%AA%81%E7%84%B6%E7%88%86%E9%9B%B7",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
         },
         {
           "title": "加拿大总理公开表示进口中国汽车",
@@ -100,11 +122,12 @@
             4,
             6,
             7,
-            8
+            8,
+            18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 07时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 10时25分]"
         }
       ]
     }
