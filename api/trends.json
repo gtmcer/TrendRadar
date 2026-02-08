@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-09T06:25:49.383685+08:00",
-  "total_titles_processed": 432,
+  "generated_at": "2026-02-09T07:29:58.205277+08:00",
+  "total_titles_processed": 483,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 06时25分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 07时29分]"
         },
         {
           "title": "全球第四大汽车巨头半年亏1500亿元",
@@ -28,11 +28,12 @@
           "ranks": [
             23,
             6,
-            1
+            1,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时26分 ~ 06时25分]"
+          "appearance_count": 4,
+          "time_info": "[04时26分 ~ 07时29分]"
         }
       ]
     },
@@ -47,11 +48,12 @@
           "ranks": [
             1,
             8,
-            12
+            12,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时26分 ~ 06时25分]"
+          "appearance_count": 4,
+          "time_info": "[04时26分 ~ 07时29分]"
         }
       ]
     }
