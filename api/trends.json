@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T16:31:56.332047+08:00",
-  "total_titles_processed": 900,
+  "generated_at": "2026-02-08T17:29:47.718591+08:00",
+  "total_titles_processed": 962,
   "failed_sources": [],
   "trends": [
     {
@@ -43,8 +43,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时25分 ~ 16时31分]"
+          "appearance_count": 8,
+          "time_info": "[10时25分 ~ 17时29分]"
         },
         {
           "title": "全球第四大汽车巨头半年亏1500亿元",
@@ -54,11 +54,12 @@
             1,
             5,
             16,
-            21
+            21,
+            29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时25分 ~ 15时38分]"
+          "appearance_count": 7,
+          "time_info": "[10时25分 ~ 17时29分]"
         },
         {
           "title": "印度贸易部长戈亚尔：根据印美贸易安排，印度汽车零部件出口的一半将享受0%关税。",
