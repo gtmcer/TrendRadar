@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-09T15:56:13.953098+08:00",
-  "total_titles_processed": 1045,
+  "generated_at": "2026-02-09T16:52:26.417651+08:00",
+  "total_titles_processed": 1150,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 5,
+      "match_count": 10,
       "titles": [
         {
           "title": "特斯拉续航剩72公里 高速上突然断电",
@@ -57,6 +57,50 @@
           "time_info": "[12时59分 ~ 14时09分]"
         },
         {
+          "title": "特斯拉用户自述被FSD救命",
+          "url": "https://www.toutiao.com/trending/7604400890358923305/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
+        },
+        {
+          "title": "特斯拉陶琳：FSD在华落地尚无具体日期，已设立本地训练中心",
+          "url": "https://wallstreetcn.com/livenews/3052197",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
+        },
+        {
+          "title": "特斯拉拟扩大光伏电池制造业务 或成中国光伏产业增长新机遇",
+          "url": "https://www.cls.cn/detail/2284071",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
+        },
+        {
+          "title": "据特斯拉微博消息，赛博无人驾驶电动车Tesla Cybercab将在得州超级工厂开启量产并投入运营。",
+          "url": "https://wallstreetcn.com/livenews/3052180",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
+        },
+        {
           "title": "太原多部门约谈MCN机构，重点整治针对小米、理想等车企的恶意贬损乱象",
           "url": "https://wallstreetcn.com/livenews/3052023",
           "source": "华尔街见闻-快讯",
@@ -66,6 +110,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
+        },
+        {
+          "title": "特斯拉完全断电怎么搭电",
+          "url": "https://www.toutiao.com/trending/7604306205917446170/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
         }
       ]
     },
@@ -134,6 +189,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源汽车",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "工信部发布《减免车辆购置税的新能源汽车车型目录》（第二十七批），小米SU7、比亚迪方程豹钛3等多款车型在列。",
+          "url": "https://wallstreetcn.com/livenews/3052204",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
         }
       ]
     }
