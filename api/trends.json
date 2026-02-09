@@ -1,28 +1,11 @@
 {
-  "generated_at": "2026-02-10T01:52:53.768943+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-10T04:03:47.094341+08:00",
+  "total_titles_processed": 405,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "特斯拉续航剩 72 公里，高速突然断电，售后建议剩 100 公里就充电，这合理吗？表显续航与实际为何差这么多？",
-          "url": "https://www.zhihu.com/question/2004113846651085506",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时52分"
-        }
-      ]
-    },
-    {
       "keyword_group": "汽车",
-      "match_count": 1,
+      "match_count": 4,
       "titles": [
         {
           "title": "商务部召开汽车企业座谈会 多措并举推动汽车消费扩容提质",
@@ -32,8 +15,59 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时52分 ~ 04时03分]"
+        },
+        {
+          "title": "据日经新闻：本田汽车(HMC.N)将向研发部门提供资金，以委托研究的方式开展研发工作，由旗下子公司负责为新产品生成设计方案。",
+          "url": "https://flash.jin10.com/detail/20260210034505167800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时52分"
+          "time_info": "04时03分"
+        },
+        {
+          "title": "据日经新闻：本田汽车(HMC.N)将把汽车开发部门迁回其研发子公司。",
+          "url": "https://flash.jin10.com/detail/20260210034431771800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时03分"
+        },
+        {
+          "title": "惠誉评级：自动驾驶汽车为美国非寿险公司带来长期挑战与机遇。",
+          "url": "https://flash.jin10.com/detail/20260210025831224800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "特斯拉续航剩 72 公里，高速突然断电，售后建议剩 100 公里就充电，这合理吗？表显续航与实际为何差这么多？",
+          "url": "https://www.zhihu.com/question/2004113846651085506",
+          "source": "知乎",
+          "ranks": [
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时52分 ~ 04时03分]"
         }
       ]
     }
