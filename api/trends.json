@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-10T07:36:10.538116+08:00",
-  "total_titles_processed": 582,
+  "generated_at": "2026-02-10T10:13:26.109779+08:00",
+  "total_titles_processed": 749,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时52分 ~ 07时36分]"
+          "appearance_count": 8,
+          "time_info": "[01时52分 ~ 10时13分]"
         },
         {
           "title": "周一（2月9日）美股尾盘，彭博电动汽车价格回报指数涨2.11%，报3593.84点，整体持续走高。 成分股中，欧股意法半导体收涨9.76%，阿内卡矿业股份涨4.8%，中创新航科技集团H股收涨4.81%，蔚来集团H股则收跌0.51%，雅迪集团H股收跌1.56%，智利化工矿业公司（SQM）跌1.6%。",
@@ -41,7 +41,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时36分"
         },
@@ -82,8 +82,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时52分 ~ 07时36分]"
+          "appearance_count": 8,
+          "time_info": "[01时52分 ~ 10时13分]"
         },
         {
           "title": "据日经新闻：本田汽车(HMC.N)将向研发部门提供资金，以委托研究的方式开展研发工作，由旗下子公司负责为新产品生成设计方案。",
