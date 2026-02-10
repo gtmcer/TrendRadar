@@ -1,8 +1,114 @@
 {
-  "generated_at": "2026-02-10T10:13:26.109779+08:00",
-  "total_titles_processed": 749,
+  "generated_at": "2026-02-10T13:03:10.613879+08:00",
+  "total_titles_processed": 918,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "汽车",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "商务部召开汽车企业座谈会 多措并举推动汽车消费扩容提质",
+          "url": "https://www.cls.cn/detail/2284923",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时52分 ~ 10时13分]"
+        },
+        {
+          "title": "据日经新闻：本田汽车(HMC.N)将向研发部门提供资金，以委托研究的方式开展研发工作，由旗下子公司负责为新产品生成设计方案。",
+          "url": "https://flash.jin10.com/detail/20260210034505167800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时03分"
+        },
+        {
+          "title": "据日经新闻：本田汽车(HMC.N)将把汽车开发部门迁回其研发子公司。",
+          "url": "https://flash.jin10.com/detail/20260210034431771800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时03分"
+        },
+        {
+          "title": "印度汽车经销商协会联盟（FADA）：未来三个月，预计零售汽车销量将持续保持稳定增长态势。",
+          "url": "https://flash.jin10.com/detail/20260210113348289800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时03分"
+        },
+        {
+          "title": "印度汽车经销商协会联盟（FADA）：（对近期前景的看法）各细分市场需求持续可见，持谨慎乐观态度。",
+          "url": "https://flash.jin10.com/detail/20260210113252672800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时03分"
+        },
+        {
+          "title": "印度汽车经销商协会联盟（FADA）：1月乘用车零售销量同比增长7.22%。",
+          "url": "https://flash.jin10.com/detail/20260210113145874800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时03分"
+        },
+        {
+          "title": "印度汽车经销商协会联盟（FADA）：1月商用车零售销量同比增长15.07%。",
+          "url": "https://flash.jin10.com/detail/20260210113135752800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时03分"
+        },
+        {
+          "title": "印度汽车经销商协会联盟（FADA）：1月整体汽车零售同比增长17.61%。",
+          "url": "https://flash.jin10.com/detail/20260210113123007800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时03分"
+        },
+        {
+          "title": "惠誉评级：自动驾驶汽车为美国非寿险公司带来长期挑战与机遇。",
+          "url": "https://flash.jin10.com/detail/20260210025831224800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时03分"
+        }
+      ]
+    },
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
       "match_count": 5,
@@ -66,57 +172,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时35分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "汽车",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "商务部召开汽车企业座谈会 多措并举推动汽车消费扩容提质",
-          "url": "https://www.cls.cn/detail/2284923",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时52分 ~ 10时13分]"
-        },
-        {
-          "title": "据日经新闻：本田汽车(HMC.N)将向研发部门提供资金，以委托研究的方式开展研发工作，由旗下子公司负责为新产品生成设计方案。",
-          "url": "https://flash.jin10.com/detail/20260210034505167800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时03分"
-        },
-        {
-          "title": "据日经新闻：本田汽车(HMC.N)将把汽车开发部门迁回其研发子公司。",
-          "url": "https://flash.jin10.com/detail/20260210034431771800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时03分"
-        },
-        {
-          "title": "惠誉评级：自动驾驶汽车为美国非寿险公司带来长期挑战与机遇。",
-          "url": "https://flash.jin10.com/detail/20260210025831224800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时03分"
         }
       ]
     }
