@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-11T05:41:15.742009+08:00",
-  "total_titles_processed": 565,
+  "generated_at": "2026-02-11T06:38:25.248144+08:00",
+  "total_titles_processed": 617,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "纽约联储：第四季度汽车贷款、信用卡贷款和房屋净值信贷额度贷款的违约转移率保持稳定。",
@@ -19,15 +19,15 @@
           "time_info": "00时08分"
         },
         {
-          "title": "福特汽车四季度调整后每股收益（EPS）为0.13美元，分析师预期0.18美元。",
-          "url": "https://wallstreetcn.com/livenews/3053245",
+          "title": "福特汽车财报遭遇四年最大“爆冷”：关税成本拖累，但看好2026年复苏",
+          "url": "https://wallstreetcn.com/livenews/3053270",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时41分"
+          "time_info": "06时38分"
         },
         {
           "title": "消息人士：随着电动汽车亏损加剧，斯泰兰蒂斯(STLA.N)寻求退出与三星的电池合资企业。",
@@ -41,6 +41,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时20分 ~ 05时41分]"
+        },
+        {
+          "title": "福特汽车四季度调整后每股收益（EPS）为0.13美元，分析师预期0.18美元。",
+          "url": "https://wallstreetcn.com/livenews/3053245",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时41分 ~ 06时38分]"
         },
         {
           "title": "随着电动汽车亏损越来越大，斯泰兰蒂斯集团Stellantis寻求推出与Samsung SDI的合资公司。",
@@ -61,7 +73,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
         },
@@ -105,7 +117,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
         }
@@ -113,7 +125,7 @@
     },
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "芝商所（CME）：新增现金结算期货合约，将纳入包括Alphabet、Meta、英伟达和特斯拉在内的50多只美国顶级个股。",
@@ -145,7 +157,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
         },
@@ -170,6 +182,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨0.87%，报7885.55点。 热门中概股里，理想初步收涨2.9%，比亚迪、阿里巴巴涨超2%，蔚来、小鹏、新东方、京东涨超1%，腾讯跌1.4%，美团跌2.8%。 ETF中，中概互联网指数ETF（KWEB）收跌0.09%，中国科技指数ETF（CQQQ）收跌0.13%。 德银嘉实沪深300指数ETF（ASHR）收跌0.21%，XtrackersHarvest中证50（ASHS）收跌0.30%。",
+          "url": "https://wallstreetcn.com/livenews/3053240",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时38分"
         }
       ]
     },
@@ -182,11 +205,12 @@
           "url": "https://www.toutiao.com/trending/7605075450944880646/",
           "source": "今日头条",
           "ranks": [
-            2
+            2,
+            30
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时20分"
+          "appearance_count": 2,
+          "time_info": "[03时20分 ~ 06时38分]"
         }
       ]
     }
