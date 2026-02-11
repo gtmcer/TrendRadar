@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-11T16:56:28.708664+08:00",
-  "total_titles_processed": 1312,
+  "generated_at": "2026-02-11T17:53:19.665736+08:00",
+  "total_titles_processed": 1415,
   "failed_sources": [],
   "trends": [
     {
@@ -255,7 +255,7 @@
     },
     {
       "keyword_group": "华为汽车 鸿蒙智行 问界 尚界 尊界 智界 享界 乾崑",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "余承东：问界M9是新能源车保值率第一",
@@ -281,6 +281,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时37分 ~ 10时09分]"
+        },
+        {
+          "title": "鸿蒙智行：起诉“我是大彬同学”获赔150万",
+          "url": "https://www.cls.cn/detail/2286865",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
         }
       ]
     }
