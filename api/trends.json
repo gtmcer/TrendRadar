@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-02-13T03:04:30.206714+08:00",
-  "total_titles_processed": 473,
+  "generated_at": "2026-02-13T04:33:45.641060+08:00",
+  "total_titles_processed": 556,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
-        {
-          "title": "市场消息：特朗普领导下的美国环境保护署采取行动，推翻了前总统拜登此前制定的汽车尾气排放规定，这些规定原本旨在推动电动汽车产量提升。",
-          "url": "https://flash.jin10.com/detail/20260213023947090800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时04分"
-        },
         {
           "title": "福特汽车去年净亏损82亿美元，全球销量首次被比亚迪超越",
           "url": "https://m.thepaper.cn/newsDetail_forward_32585791",
@@ -26,8 +15,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 03时04分]"
+          "appearance_count": 6,
+          "time_info": "[00时56分 ~ 04时33分]"
         },
         {
           "title": "宝马将在全球召回数十万辆汽车",
@@ -38,8 +27,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 03时04分]"
+          "appearance_count": 6,
+          "time_info": "[00时56分 ~ 04时33分]"
         },
         {
           "title": "《汽车行业价格行为合规指南》发布：规范虚假促销等突出问题",
@@ -47,11 +36,45 @@
           "source": "澎湃新闻",
           "ranks": [
             14,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 03时04分]"
+          "appearance_count": 6,
+          "time_info": "[00时56分 ~ 04时33分]"
+        },
+        {
+          "title": "市场消息：特朗普领导下的美国环境保护署采取行动，推翻了前总统拜登此前制定的汽车尾气排放规定，这些规定原本旨在推动电动汽车产量提升。",
+          "url": "https://flash.jin10.com/detail/20260213023947090800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时04分"
+        },
+        {
+          "title": "美国国家公路交通安全管理局：梅赛德斯-奔驰美国因火灾风险召回11895辆汽车。",
+          "url": "https://flash.jin10.com/detail/20260213032445200800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时33分"
+        },
+        {
+          "title": "美国总统特朗普宣扬股市上涨。 特朗普称，环境保护署（EPA）的行动将有助于降低汽车价格。",
+          "url": "https://wallstreetcn.com/livenews/3054685",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时33分"
         }
       ]
     },
@@ -65,11 +88,12 @@
           "source": "百度热搜",
           "ranks": [
             25,
-            23
+            23,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 03时04分]"
+          "appearance_count": 6,
+          "time_info": "[00时56分 ~ 04时33分]"
         },
         {
           "title": "33岁男子开特斯拉跑货拉拉",
