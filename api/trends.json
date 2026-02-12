@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-12T19:39:16.067748+08:00",
-  "total_titles_processed": 1682,
+  "generated_at": "2026-02-12T21:04:16.039365+08:00",
+  "total_titles_processed": 1802,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "比亚迪和吉利竞购日产-奔驰墨西哥汽车工厂。（路透）",
@@ -14,7 +14,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         },
@@ -25,7 +25,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         },
@@ -39,8 +39,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时43分 ~ 19时39分]"
+          "appearance_count": 5,
+          "time_info": "[16时43分 ~ 21时04分]"
         },
         {
           "title": "福特汽车去年净亏损82亿美元，全球销量首次被比亚迪超越",
@@ -51,8 +51,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时43分 ~ 19时39分]"
+          "appearance_count": 4,
+          "time_info": "[18时43分 ~ 21时04分]"
         },
         {
           "title": "崔东树：规范汽车行业价格行为将有助于改善购车观望情绪",
@@ -107,7 +107,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         },
@@ -140,7 +140,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         },
@@ -211,6 +211,17 @@
           "time_info": "16时43分"
         },
         {
+          "title": "长城汽车表示，全力支持《汽车行业价格行为合规指南》，始终坚持长期主义，坚守合法合规，坚持诚信经营，积极维护国内市场秩序。",
+          "url": "https://wallstreetcn.com/livenews/3054493",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
           "title": "岚图汽车完成上市前置监管审批",
           "url": "https://www.toutiao.com/trending/7604872944066609194/",
           "source": "今日头条",
@@ -227,6 +238,31 @@
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
       "match_count": 7,
       "titles": [
+        {
+          "title": "男子结婚“摇”来约200台小米汽车",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%BB%93%E5%A9%9A%E2%80%9C%E6%91%87%E2%80%9D%E6%9D%A5%E7%BA%A6200%E5%8F%B0%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            26,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时43分 ~ 21时04分]"
+        },
+        {
+          "title": "李想到浙江请救人的理想车主吃饭",
+          "url": "https://www.toutiao.com/trending/7605057524961853491/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时39分 ~ 21时04分]"
+        },
         {
           "title": "小米汽车：支持《汽车行业价格行为合规指南》，坚决杜绝价格欺诈及不正当竞争行为",
           "url": "https://wallstreetcn.com/livenews/3054433",
@@ -252,18 +288,6 @@
           "time_info": "[05时33分 ~ 06时28分]"
         },
         {
-          "title": "男子结婚“摇”来约200台小米汽车",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%BB%93%E5%A9%9A%E2%80%9C%E6%91%87%E2%80%9D%E6%9D%A5%E7%BA%A6200%E5%8F%B0%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时43分 ~ 19时39分]"
-        },
-        {
           "title": "特斯拉副总裁等多名骨干离职",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E5%89%AF%E6%80%BB%E8%A3%81%E7%AD%89%E5%A4%9A%E5%90%8D%E9%AA%A8%E5%B9%B2%E7%A6%BB%E8%81%8C",
           "source": "百度热搜",
@@ -284,17 +308,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时01分"
-        },
-        {
-          "title": "李想到浙江请救人的理想车主吃饭",
-          "url": "https://www.toutiao.com/trending/7605057524961853491/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时39分"
         },
         {
           "title": "纳斯达克金龙中国指数跌幅扩大至0.5%。 热门中概股文远知行跌4.4%，再鼎医药跌4.2%，阿里巴巴跌1.9%，网易、小马智行跌约1.5%。 贝壳、华住涨1.8%，万国数据、理想涨超1.9%，B站涨超2.8%，世纪互联涨约5%，金山云涨10.2%。",
