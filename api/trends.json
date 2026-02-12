@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-12T15:51:44.164085+08:00",
-  "total_titles_processed": 1298,
+  "generated_at": "2026-02-12T16:43:48.802618+08:00",
+  "total_titles_processed": 1395,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "周三（2月11日）美股尾盘，彭博电动汽车价格回报指数涨1.32%，报3662.78点。 北京时间09:25出现一波快速上涨行情，10:15过后持续高位震荡。 成分股智利化工矿业公司（SQM）涨7.1%，美国雅宝涨4.3%，小米集团H股收涨4.27%，意法半导体欧股收涨2.92%，禾赛科技则跌6.2%，Lucid集团跌8.3%。",
@@ -26,7 +26,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时51分"
         },
@@ -64,15 +64,37 @@
           "time_info": "01时13分"
         },
         {
+          "title": "崔东树：规范汽车行业价格行为将有助于改善购车观望情绪",
+          "url": "https://wallstreetcn.com/livenews/3054360",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
+        },
+        {
           "title": "梅赛德斯-奔驰首席财务官：2025年标志着汽车投资的峰值。",
           "url": "https://flash.jin10.com/detail/20260212151826674800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时51分"
+        },
+        {
+          "title": "《汽车行业价格行为合规指南》发布：规范虚假促销等突出问题",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32590922",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
         },
         {
           "title": "消息人士称，随着初始质量提升，福特汽车(F.N)将全公司奖金上调至130%。",
@@ -106,6 +128,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时56分"
+        },
+        {
+          "title": "日产汽车预计全年销售净额11.90万亿日元，此前预计11.70万亿日元，市场预估12.13万亿日元。 预计全年经营亏损600.0亿日元，此前预计亏损2,750亿日元，市场预估亏损1,431.1亿日元。 第三季度经营利润175.5亿日元，市场预估亏损617.9亿日元。 第三季度净亏损283.0亿日元，市场预估亏损814.4亿日元。",
+          "url": "https://wallstreetcn.com/livenews/3054335",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
         }
       ]
     },
