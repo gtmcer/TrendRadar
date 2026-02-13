@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-13T13:58:40.694837+08:00",
-  "total_titles_processed": 1101,
+  "generated_at": "2026-02-13T15:05:31.580422+08:00",
+  "total_titles_processed": 1195,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "福特汽车去年净亏损82亿美元，全球销量首次被比亚迪超越",
@@ -57,6 +57,18 @@
           "time_info": "03时04分"
         },
         {
+          "title": "印度汽车行业组织SIAM：印度1月国内乘用车销量为449,616辆。",
+          "url": "https://flash.jin10.com/detail/20260213132930608800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时58分 ~ 15时05分]"
+        },
+        {
           "title": "美国国家公路交通安全管理局：梅赛德斯-奔驰美国因火灾风险召回11895辆汽车。",
           "url": "https://flash.jin10.com/detail/20260213032445200800",
           "source": "金十数据",
@@ -81,15 +93,15 @@
           "time_info": "[05时32分 ~ 06时31分]"
         },
         {
-          "title": "印度汽车行业组织SIAM：印度1月国内乘用车销量为449,616辆。",
-          "url": "https://flash.jin10.com/detail/20260213132930608800",
-          "source": "金十数据",
+          "title": "岚图汽车预计3月19日挂牌港交所",
+          "url": "https://www.toutiao.com/trending/7605954953656205363/",
+          "source": "今日头条",
           "ranks": [
-            8
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时58分"
+          "time_info": "15时05分"
         },
         {
           "title": "美国总统特朗普宣扬股市上涨。 特朗普称，环境保护署（EPA）的行动将有助于降低汽车价格。",
