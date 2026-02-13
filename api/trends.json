@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-13T20:56:19.045132+08:00",
-  "total_titles_processed": 1737,
+  "generated_at": "2026-02-13T22:02:34.395558+08:00",
+  "total_titles_processed": 1856,
   "failed_sources": [],
   "trends": [
     {
@@ -140,7 +140,7 @@
     },
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "男子结婚“摇”来约200台小米汽车",
@@ -205,6 +205,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时38分 ~ 19时31分]"
+        },
+        {
+          "title": "湖南安化回应“理想华莱公司黑茶营销模式涉及传销”：启动调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32594974",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         },
         {
           "title": "小米汽车最后一台初代SU7完成交付",
