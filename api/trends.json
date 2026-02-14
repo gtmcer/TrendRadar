@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-14T13:43:19.762600+08:00",
-  "total_titles_processed": 1004,
+  "generated_at": "2026-02-14T14:42:29.209657+08:00",
+  "total_titles_processed": 1070,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "据知情人士透露，随着现金日益紧张，汽车零部件制造商First Brands Group及其部分债权人正考虑将旗下部分业务转入《破产法》第7章清算程序。此举可能使其得以出售部分资产，并削减已消耗其破产贷款的顾问费用。",
@@ -54,6 +54,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
+        },
+        {
+          "title": "汽车隐藏式门把手 要说再见了",
+          "url": "https://www.baidu.com/s?wd=%E6%B1%BD%E8%BD%A6%E9%9A%90%E8%97%8F%E5%BC%8F%E9%97%A8%E6%8A%8A%E6%89%8B+%E8%A6%81%E8%AF%B4%E5%86%8D%E8%A7%81%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
         }
       ]
     },
