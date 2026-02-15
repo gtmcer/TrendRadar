@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-15T22:26:48.499131+08:00",
-  "total_titles_processed": 1264,
+  "generated_at": "2026-02-15T23:24:50.416980+08:00",
+  "total_titles_processed": 1318,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时53分 ~ 22时26分]"
+          "appearance_count": 14,
+          "time_info": "[12时53分 ~ 23时24分]"
         },
         {
           "title": "新国标拟增加汽车实体操纵件相关要求，工信部公开征求意见",
@@ -50,6 +50,21 @@
           "time_info": "[00时28分 ~ 10时05分]"
         },
         {
+          "title": "新国标拟增加汽车实体操纵件相关要求，工信部公开征求意见",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32616242",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时25分 ~ 23时24分]"
+        },
+        {
           "title": "新国标拟增加汽车实体操纵件相关要求 工业和信息化部公开征求意见",
           "url": "https://flash.jin10.com/detail/20260215145205197800",
           "source": "金十数据",
@@ -64,20 +79,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[15时38分 ~ 20时46分]"
-        },
-        {
-          "title": "新国标拟增加汽车实体操纵件相关要求，工信部公开征求意见",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32616242",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时25分 ~ 22时26分]"
         },
         {
           "title": "即将春节了，在不改变发动机硬件的前提下，有没有什么汽车养护策略？",
@@ -139,11 +140,12 @@
             11,
             16,
             20,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时25分 ~ 22时26分]"
+          "appearance_count": 6,
+          "time_info": "[18时25分 ~ 23时24分]"
         },
         {
           "title": "马斯克：特斯拉FSD将停止一次性付费服务，转为订阅制",
