@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-15T16:31:41.034562+08:00",
-  "total_titles_processed": 932,
+  "generated_at": "2026-02-15T17:31:10.971793+08:00",
+  "total_titles_processed": 990,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时53分 ~ 16时31分]"
+          "appearance_count": 8,
+          "time_info": "[12时53分 ~ 17时31分]"
         },
         {
           "title": "比亚迪、吉利或竞购墨西哥工厂，乘联分会崔东树：墨西哥为2025年中国汽车第一大出口国",
@@ -37,11 +37,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时38分 ~ 16时31分]"
+          "appearance_count": 3,
+          "time_info": "[15时38分 ~ 17时31分]"
         },
         {
           "title": "新国标拟增加汽车实体操纵件相关要求 工业和信息化部公开征求意见",
@@ -49,11 +50,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            12
+            12,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时38分 ~ 16时31分]"
+          "appearance_count": 3,
+          "time_info": "[15时38分 ~ 17时31分]"
         }
       ]
     },
@@ -78,6 +80,19 @@
           "time_info": "[00时27分 ~ 07时23分]"
         },
         {
+          "title": "马斯克：就我所能想象的未来而言，特斯拉(TSLA.O)将拥有规模最大的自动驾驶汽车车队。",
+          "url": "https://flash.jin10.com/detail/20260215144532247800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时38分 ~ 17时31分]"
+        },
+        {
           "title": "马斯克：特斯拉FSD将停止一次性付费服务，转为订阅制",
           "url": "https://flash.jin10.com/detail/20260215112402089800",
           "source": "金十数据",
@@ -89,18 +104,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时53分 ~ 14时50分]"
-        },
-        {
-          "title": "马斯克：就我所能想象的未来而言，特斯拉(TSLA.O)将拥有规模最大的自动驾驶汽车车队。",
-          "url": "https://flash.jin10.com/detail/20260215144532247800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时38分 ~ 16时31分]"
         }
       ]
     }
