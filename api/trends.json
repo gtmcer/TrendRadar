@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-15T20:46:33.894927+08:00",
-  "total_titles_processed": 1170,
+  "generated_at": "2026-02-15T21:44:27.431364+08:00",
+  "total_titles_processed": 1224,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时53分 ~ 20时46分]"
+          "appearance_count": 12,
+          "time_info": "[12时53分 ~ 21时44分]"
         },
         {
           "title": "比亚迪、吉利或竞购墨西哥工厂，乘联分会崔东树：墨西哥为2025年中国汽车第一大出口国",
@@ -41,11 +41,12 @@
             7,
             14,
             19,
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时38分 ~ 20时46分]"
+          "appearance_count": 7,
+          "time_info": "[15时38分 ~ 21时44分]"
         },
         {
           "title": "新国标拟增加汽车实体操纵件相关要求 工业和信息化部公开征求意见",
@@ -70,22 +71,24 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时25分 ~ 20时46分]"
+          "appearance_count": 4,
+          "time_info": "[18时25分 ~ 21时44分]"
         },
         {
           "title": "即将春节了，在不改变发动机硬件的前提下，有没有什么汽车养护策略？",
           "url": "https://www.zhihu.com/question/2006141796971983323",
           "source": "知乎",
           "ranks": [
-            16
+            16,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时46分 ~ 21时44分]"
         }
       ]
     },
@@ -132,11 +135,12 @@
           "ranks": [
             7,
             11,
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时25分 ~ 20时46分]"
+          "appearance_count": 4,
+          "time_info": "[18时25分 ~ 21时44分]"
         },
         {
           "title": "马斯克：特斯拉FSD将停止一次性付费服务，转为订阅制",
