@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-15T10:05:02.559411+08:00",
-  "total_titles_processed": 572,
+  "generated_at": "2026-02-15T12:53:23.321601+08:00",
+  "total_titles_processed": 721,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "特斯拉副总裁宣布离职，此前吴宇怀等多名骨干先后离开，如何评价特斯拉这轮「离职潮」？会带来哪些影响？",
@@ -22,12 +22,23 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时27分 ~ 07时23分]"
+        },
+        {
+          "title": "马斯克：特斯拉FSD将停止一次性付费服务，转为订阅制",
+          "url": "https://flash.jin10.com/detail/20260215112402089800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
         }
       ]
     },
     {
       "keyword_group": "汽车",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "比亚迪、吉利或竞购墨西哥工厂，乘联分会崔东树：墨西哥为2025年中国汽车第一大出口国",
@@ -40,6 +51,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时28分 ~ 10时05分]"
+        },
+        {
+          "title": "平台数据显示 26 年 1 月汽车上险量，比亚迪仅有 6.8 万，同比暴跌 62%，排名滑落到第四，到底是什么原因？",
+          "url": "https://www.zhihu.com/question/2005295793721081957",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
         }
       ]
     }
