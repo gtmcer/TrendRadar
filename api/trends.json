@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-16T01:25:15.951711+08:00",
-  "total_titles_processed": 342,
+  "generated_at": "2026-02-16T02:34:53.396068+08:00",
+  "total_titles_processed": 367,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 01时25分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 02时34分]"
         },
         {
           "title": "平台数据显示 26 年 1 月汽车上险量，比亚迪仅有 6.8 万，同比暴跌 62%，排名滑落到第四，到底是什么原因？",
@@ -28,8 +28,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 01时25分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 02时34分]"
         }
       ]
     },
@@ -45,8 +45,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 01时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 02时34分]"
         }
       ]
     }
