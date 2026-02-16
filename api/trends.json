@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-16T12:32:57.615908+08:00",
-  "total_titles_processed": 752,
+  "generated_at": "2026-02-16T14:06:04.237195+08:00",
+  "total_titles_processed": 840,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时28分 ~ 12时32分]"
+          "appearance_count": 14,
+          "time_info": "[00时28分 ~ 14时06分]"
         },
         {
           "title": "平台数据显示 26 年 1 月汽车上险量，比亚迪仅有 6.8 万，同比暴跌 62%，排名滑落到第四，到底是什么原因？",
@@ -42,7 +42,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
         },
@@ -53,7 +53,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
         }
@@ -76,6 +76,18 @@
           "time_info": "[00时28分 ~ 07时25分]"
         },
         {
+          "title": "蔚来换电单日总量创历史新高",
+          "url": "https://wallstreetcn.com/livenews/3055663",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时32分 ~ 14时06分]"
+        },
+        {
           "title": "马斯克：我的“净资产”几乎完全来自我在特斯拉和SpaceX的股份",
           "url": "https://flash.jin10.com/detail/20260216062745335800",
           "source": "金十数据",
@@ -85,17 +97,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
-        },
-        {
-          "title": "蔚来换电单日总量创历史新高",
-          "url": "https://wallstreetcn.com/livenews/3055663",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时32分"
         }
       ]
     }
