@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-17T07:28:31.825416+08:00",
-  "total_titles_processed": 602,
+  "generated_at": "2026-02-17T09:58:34.378464+08:00",
+  "total_titles_processed": 725,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             5,
             15,
-            19
+            19,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时27分 ~ 07时28分]"
+          "appearance_count": 4,
+          "time_info": "[05时27分 ~ 09时58分]"
         },
         {
           "title": "英媒：欧盟推动汽车供应链本土化 电动车70%零部件须“欧洲制造”",
