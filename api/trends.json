@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-17T12:23:19.950358+08:00",
-  "total_titles_processed": 852,
+  "generated_at": "2026-02-17T13:56:45.752778+08:00",
+  "total_titles_processed": 946,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "周一（2月16日），彭博电动汽车价格回报指数跌0.20%，报3624.68点。",
@@ -46,15 +46,37 @@
           "time_info": "[05时27分 ~ 06时27分]"
         },
         {
+          "title": "现在的汽车怎么掉价那么快，为什么？",
+          "url": "https://www.zhihu.com/question/1968985160482535223",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时56分"
+        },
+        {
           "title": "金十图示：2026年02月17日（周二）全球汽车制造商市值变化",
           "url": "https://flash.jin10.com/detail/20260217111421840800",
           "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时23分"
+        },
+        {
+          "title": "长安汽车董事长：智能汽车正在学会“思考”",
+          "url": "https://flash.jin10.com/detail/20260217125426443800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时56分"
         }
       ]
     }
