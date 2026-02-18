@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-19T06:31:41.007688+08:00",
-  "total_titles_processed": 632,
+  "generated_at": "2026-02-19T07:28:40.879421+08:00",
+  "total_titles_processed": 687,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 06时31分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 07时28分]"
         },
         {
           "title": "纳斯达克金龙中国指数收跌0.04%，报7580.87点。 热门中概股里，拼多多初步收涨超1%，美团、百胜中国、新东方、腾讯、比亚迪、百度、阿里至多涨超0.9%，理想跌0.3%，小马智行跌0.9%，文远知行跌3.8%。 ETF中，中国科技指数ETF（CQQQ）收涨0.79%，中概互联网指数ETF（KWEB）收涨0.52%。 XtrackersHarvest中证50（ASHS）收涨0.61%，德银嘉实沪深300指数ETF（ASHR）收涨0.44%。",
