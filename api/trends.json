@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-02-18T17:45:36.026181+08:00",
-  "total_titles_processed": 1345,
+  "generated_at": "2026-02-18T18:42:55.724756+08:00",
+  "total_titles_processed": 1425,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
       "match_count": 8,
       "titles": [
+        {
+          "title": "特斯拉首辆Cybercab下线：没有方向盘和踏板的汽车终于来了",
+          "url": "https://wallstreetcn.com/articles/3765831",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时52分 ~ 18时42分]"
+        },
         {
           "title": "特斯拉宣布，首辆Cybercab已在美国得州超级工厂下线。",
           "url": "https://wallstreetcn.com/livenews/3056196",
@@ -28,18 +40,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
-        },
-        {
-          "title": "特斯拉首辆Cybercab下线：没有方向盘和踏板的汽车终于来了",
-          "url": "https://wallstreetcn.com/articles/3765831",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时52分 ~ 17时45分]"
         },
         {
           "title": "特斯拉宣布，首辆赛博无人驾驶电动车Tesla Cybercab在美国得州超级工厂正式下线。",
