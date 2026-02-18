@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-02-18T07:28:08.764914+08:00",
-  "total_titles_processed": 662,
+  "generated_at": "2026-02-18T10:02:21.965661+08:00",
+  "total_titles_processed": 817,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 2,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "特斯拉宣布，首辆Cybercab已在美国得州超级工厂下线。",
+          "url": "https://wallstreetcn.com/livenews/3056196",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "自动驾驶功能营销实现合规 特斯拉成功避免加州30天销售禁令",
+          "url": "https://flash.jin10.com/detail/20260218095034855800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
         {
           "title": "特斯拉(TSLA.O)股价跌至逾一周低点，跌幅达3%。",
           "url": "https://flash.jin10.com/detail/20260218021059743800",
@@ -30,6 +52,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时34分 ~ 06时29分]"
+        },
+        {
+          "title": "监管审查压力下，特斯拉在英国和欧洲车载系统中加入Grok AI聊天机器人",
+          "url": "https://wallstreetcn.com/livenews/3056193",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "特斯拉(TSLA.O)宣布，首辆Cybercab在美国得州超级工厂正式下线。",
+          "url": "https://flash.jin10.com/detail/20260218092159880800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
         }
       ]
     }
