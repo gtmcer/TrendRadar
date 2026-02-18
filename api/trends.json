@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-18T14:01:17.719551+08:00",
-  "total_titles_processed": 1041,
+  "generated_at": "2026-02-18T15:13:18.062385+08:00",
+  "total_titles_processed": 1122,
   "failed_sources": [],
   "trends": [
     {
@@ -34,11 +34,25 @@
           "url": "https://wallstreetcn.com/articles/3765831",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时52分 ~ 14时01分]"
+          "appearance_count": 3,
+          "time_info": "[12时52分 ~ 15时13分]"
+        },
+        {
+          "title": "特斯拉宣布，首辆赛博无人驾驶电动车Tesla Cybercab在美国得州超级工厂正式下线。",
+          "url": "https://wallstreetcn.com/livenews/3056196",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            23,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时52分 ~ 15时13分]"
         },
         {
           "title": "特斯拉(TSLA.O)股价跌至逾一周低点，跌幅达3%。",
@@ -75,18 +89,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时34分 ~ 06时29分]"
-        },
-        {
-          "title": "特斯拉宣布，首辆赛博无人驾驶电动车Tesla Cybercab在美国得州超级工厂正式下线。",
-          "url": "https://wallstreetcn.com/livenews/3056196",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时52分 ~ 14时01分]"
         },
         {
           "title": "特斯拉(TSLA.O)宣布，首辆Cybercab在美国得州超级工厂正式下线。",
