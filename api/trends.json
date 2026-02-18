@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-18T21:01:28.293071+08:00",
-  "total_titles_processed": 1631,
+  "generated_at": "2026-02-18T22:11:32.062114+08:00",
+  "total_titles_processed": 1753,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时52分 ~ 21时01分]"
+          "appearance_count": 9,
+          "time_info": "[12时52分 ~ 22时11分]"
         },
         {
           "title": "特斯拉宣布，首辆Cybercab已在美国得州超级工厂下线。",
@@ -126,7 +126,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时01分"
         }
