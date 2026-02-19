@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-19T07:28:40.879421+08:00",
-  "total_titles_processed": 687,
+  "generated_at": "2026-02-19T10:01:22.876842+08:00",
+  "total_titles_processed": 839,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "特斯拉首辆Cybercab下线：没有方向盘和踏板的汽车终于来了",
@@ -14,11 +14,12 @@
           "ranks": [
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 07时28分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 10时01分]"
         },
         {
           "title": "纳斯达克金龙中国指数收跌0.04%，报7580.87点。 热门中概股里，拼多多初步收涨超1%，美团、百胜中国、新东方、腾讯、比亚迪、百度、阿里至多涨超0.9%，理想跌0.3%，小马智行跌0.9%，文远知行跌3.8%。 ETF中，中国科技指数ETF（CQQQ）收涨0.79%，中概互联网指数ETF（KWEB）收涨0.52%。 XtrackersHarvest中证50（ASHS）收涨0.61%，德银嘉实沪深300指数ETF（ASHR）收涨0.44%。",
@@ -31,6 +32,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时33分 ~ 06时31分]"
+        },
+        {
+          "title": "特斯拉无人驾驶车正式下线",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A0%E4%BA%BA%E9%A9%BE%E9%A9%B6%E8%BD%A6%E6%AD%A3%E5%BC%8F%E4%B8%8B%E7%BA%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
         }
       ]
     },
