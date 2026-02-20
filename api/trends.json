@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-20T20:55:43.774631+08:00",
-  "total_titles_processed": 1606,
+  "generated_at": "2026-02-20T22:01:21.926818+08:00",
+  "total_titles_processed": 1725,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "俄侦委会：一辆载有8人的汽车在贝加尔湖沉没",
@@ -19,6 +19,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时36分 ~ 20时55分]"
+        },
+        {
+          "title": "载8名中国游客汽车在贝加尔湖落水，目前仅一名中国游客获救",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32636440",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时55分 ~ 22时01分]"
         },
         {
           "title": "周四（2月19日），彭博电动汽车价格回报指数涨0.20%，报3647.64点。",
@@ -69,15 +81,15 @@
           "time_info": "[19时31分 ~ 20时55分]"
         },
         {
-          "title": "载8名中国游客汽车在贝加尔湖落水，目前仅一名中国游客获救",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32636440",
-          "source": "澎湃新闻",
+          "title": "中国游客汽车在俄落水7人遇难",
+          "url": "https://www.douyin.com/hot/2407019",
+          "source": "抖音",
           "ranks": [
-            6
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时55分 ~ 22时01分]"
         },
         {
           "title": "一载有8名中国游客的汽车在俄沉没",
@@ -91,15 +103,15 @@
           "time_info": "19时31分"
         },
         {
-          "title": "中国游客汽车在俄落水7人遇难",
-          "url": "https://www.douyin.com/hot/2407019",
-          "source": "抖音",
+          "title": "载 8 名中国游客汽车因冰面破裂在贝加尔湖沉没，7 名中国游客溺亡，事故具体是如何发生的？",
+          "url": "https://www.zhihu.com/question/2008248751752438816",
+          "source": "知乎",
           "ranks": [
-            14
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时55分"
+          "time_info": "22时01分"
         },
         {
           "title": "金十图示：2026年02月20日（周五）全球汽车制造商市值变化",
@@ -128,8 +140,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时36分 ~ 20时55分]"
+          "appearance_count": 4,
+          "time_info": "[18时36分 ~ 22时01分]"
         },
         {
           "title": "特斯拉在美国推出更经济实惠的Cybertruck车型",
@@ -158,6 +170,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源汽车",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "春节新能源汽车高速充电大增",
+          "url": "https://www.douyin.com/hot/2407147",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时01分"
         }
       ]
     }
