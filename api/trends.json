@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-02-20T17:39:38.732474+08:00",
-  "total_titles_processed": 1369,
+  "generated_at": "2026-02-20T18:36:30.574648+08:00",
+  "total_titles_processed": 1436,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "俄侦委会：一辆载有8人的汽车在贝加尔湖沉没",
+          "url": "https://wallstreetcn.com/livenews/3056922",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时36分"
+        },
+        {
+          "title": "俄侦委会：一辆载有8人的汽车在贝加尔湖沉没",
+          "url": "https://flash.jin10.com/detail/20260220175859123800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时36分"
+        },
         {
           "title": "周四（2月19日），彭博电动汽车价格回报指数涨0.20%，报3647.64点。",
           "url": "https://wallstreetcn.com/livenews/3056779",
@@ -34,8 +56,19 @@
     },
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "特斯拉新车没有方向盘没有脚踏板",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E6%96%B0%E8%BD%A6%E6%B2%A1%E6%9C%89%E6%96%B9%E5%90%91%E7%9B%98%E6%B2%A1%E6%9C%89%E8%84%9A%E8%B8%8F%E6%9D%BF",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时36分"
+        },
         {
           "title": "特斯拉在美国推出更经济实惠的Cybertruck车型",
           "url": "https://flash.jin10.com/detail/20260220125413733800",
@@ -46,6 +79,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "华为汽车 鸿蒙智行 问界 尚界 尊界 智界 享界 乾崑",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "科技汽车就选鸿蒙智行",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%A7%91%E6%8A%80%E6%B1%BD%E8%BD%A6%E5%B0%B1%E9%80%89%E9%B8%BF%E8%92%99%E6%99%BA%E8%A1%8C%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时36分"
         }
       ]
     }
