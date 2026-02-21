@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T05:22:11.060321+08:00",
-  "total_titles_processed": 397,
+  "generated_at": "2026-02-22T06:22:24.543371+08:00",
+  "total_titles_processed": 401,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             14,
             11,
             10,
-            13
+            13,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 05时22分]"
+          "appearance_count": 8,
+          "time_info": "[00时27分 ~ 06时22分]"
         },
         {
           "title": "没有方向盘、没有脚踏板，特斯拉新车来了",
@@ -29,8 +30,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 05时22分]"
+          "appearance_count": 8,
+          "time_info": "[00时27分 ~ 06时22分]"
         },
         {
           "title": "特斯拉新车来了：无方向盘、无踏板",
@@ -45,8 +46,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 05时22分]"
+          "appearance_count": 8,
+          "time_info": "[00时27分 ~ 06时22分]"
         }
       ]
     },
@@ -62,8 +63,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 05时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 06时22分]"
         },
         {
           "title": "美国国家公路交通安全管理局（NHTSA）：丰田汽车召回4,374辆美国车辆。",
@@ -73,8 +74,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 05时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 06时22分]"
         }
       ]
     }
