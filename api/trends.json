@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T06:22:24.543371+08:00",
-  "total_titles_processed": 401,
+  "generated_at": "2026-02-22T07:23:00.618129+08:00",
+  "total_titles_processed": 430,
   "failed_sources": [],
   "trends": [
     {
@@ -19,19 +19,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 06时22分]"
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 07时23分]"
         },
         {
           "title": "没有方向盘、没有脚踏板，特斯拉新车来了",
           "url": "https://www.cls.cn/detail/2292285",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 06时22分]"
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 07时23分]"
         },
         {
           "title": "特斯拉新车来了：无方向盘、无踏板",
@@ -43,11 +44,12 @@
             25,
             15,
             16,
-            18
+            18,
+            14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 06时22分]"
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 07时23分]"
         }
       ]
     },
