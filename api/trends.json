@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-21T21:42:10.178170+08:00",
-  "total_titles_processed": 1374,
+  "generated_at": "2026-02-21T22:25:21.956146+08:00",
+  "total_titles_processed": 1412,
   "failed_sources": [],
   "trends": [
     {
@@ -49,8 +49,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时29分 ~ 21时42分]"
+          "appearance_count": 7,
+          "time_info": "[16时29分 ~ 22时25分]"
         },
         {
           "title": "乘联分会崔东树：中国汽车海外产销体系完成从“产品出海”到“产业出海”关键转型",
@@ -64,8 +64,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时28分 ~ 21时42分]"
+          "appearance_count": 6,
+          "time_info": "[17时28分 ~ 22时25分]"
         },
         {
           "title": "一个汽车制造商贸易团体对美国总统特朗普挑起新关税的风险感到忧心忡忡。（华尔街日报）",
@@ -185,11 +185,12 @@
             4,
             3,
             16,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[05时23分 ~ 21时42分]"
+          "appearance_count": 20,
+          "time_info": "[05时23分 ~ 22时25分]"
         },
         {
           "title": "特斯拉新车没有方向盘没有脚踏板",
@@ -228,8 +229,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时42分 ~ 21时42分]"
+          "appearance_count": 5,
+          "time_info": "[20时42分 ~ 22时25分]"
         }
       ]
     },
