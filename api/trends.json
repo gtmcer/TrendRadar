@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-21T09:52:07.584421+08:00",
-  "total_titles_processed": 767,
+  "generated_at": "2026-02-21T12:06:26.335639+08:00",
+  "total_titles_processed": 866,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时37分 ~ 09时52分]"
+          "appearance_count": 13,
+          "time_info": "[00时37分 ~ 12时06分]"
         },
         {
           "title": "中国游客汽车在俄落水7人遇难",
@@ -41,11 +41,12 @@
           "ranks": [
             2,
             10,
-            18
+            18,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时24分 ~ 09时52分]"
+          "appearance_count": 4,
+          "time_info": "[06时24分 ~ 12时06分]"
         },
         {
           "title": "德国汽车工业协会：美国对汽车及零部件征收15%关税，继续对德国汽车工业构成重大挑战。",
@@ -137,8 +138,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时23分 ~ 09时52分]"
+          "appearance_count": 6,
+          "time_info": "[05时23分 ~ 12时06分]"
         }
       ]
     },
