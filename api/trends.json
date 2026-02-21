@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-21T14:40:05.931132+08:00",
-  "total_titles_processed": 977,
+  "generated_at": "2026-02-21T15:32:19.136140+08:00",
+  "total_titles_processed": 1018,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时37分 ~ 14时40分]"
+          "appearance_count": 17,
+          "time_info": "[00时37分 ~ 15时32分]"
         },
         {
           "title": "中国游客汽车在俄落水7人遇难",
@@ -124,11 +124,12 @@
             7,
             5,
             2,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[05时23分 ~ 14时40分]"
+          "appearance_count": 10,
+          "time_info": "[05时23分 ~ 15时32分]"
         },
         {
           "title": "特斯拉新车没有方向盘没有脚踏板",
@@ -152,8 +153,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时41分 ~ 14时40分]"
+          "appearance_count": 4,
+          "time_info": "[13时41分 ~ 15时32分]"
         }
       ]
     },
