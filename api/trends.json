@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T14:45:28.857879+08:00",
-  "total_titles_processed": 801,
+  "generated_at": "2026-02-22T15:35:47.062637+08:00",
+  "total_titles_processed": 846,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时27分 ~ 14时45分]"
+          "appearance_count": 18,
+          "time_info": "[00时27分 ~ 15时35分]"
         },
         {
           "title": "特斯拉无人驾驶车正式下线，无方向盘、无踏板、无后视镜，能赢得大众信任并走向普及吗？你看好其前景吗？",
@@ -62,11 +62,12 @@
             1,
             20,
             21,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时01分 ~ 14时45分]"
+          "appearance_count": 5,
+          "time_info": "[10时01分 ~ 15时35分]"
         }
       ]
     },
