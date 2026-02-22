@@ -1,12 +1,27 @@
 {
-  "generated_at": "2026-02-22T12:25:14.379342+08:00",
-  "total_titles_processed": 694,
+  "generated_at": "2026-02-22T13:51:12.417278+08:00",
+  "total_titles_processed": 757,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
       "match_count": 4,
       "titles": [
+        {
+          "title": "没有方向盘、没有脚踏板，特斯拉新车来了",
+          "url": "https://www.cls.cn/detail/2292285",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时27分 ~ 13时51分]"
+        },
         {
           "title": "特斯拉无人驾驶车正式下线，无方向盘、无踏板、无后视镜，能赢得大众信任并走向普及吗？你看好其前景吗？",
           "url": "https://www.zhihu.com/question/2008253352463528326",
@@ -21,20 +36,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时27分 ~ 07时23分]"
-        },
-        {
-          "title": "没有方向盘、没有脚踏板，特斯拉新车来了",
-          "url": "https://www.cls.cn/detail/2292285",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时27分 ~ 12时25分]"
         },
         {
           "title": "特斯拉新车来了：无方向盘、无踏板",
@@ -59,11 +60,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时01分 ~ 12时25分]"
+          "appearance_count": 3,
+          "time_info": "[10时01分 ~ 13时51分]"
         }
       ]
     },
