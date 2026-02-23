@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-24T03:19:14.602834+08:00",
-  "total_titles_processed": 443,
+  "generated_at": "2026-02-24T04:43:54.222712+08:00",
+  "total_titles_processed": 507,
   "failed_sources": [],
   "trends": [
     {
@@ -43,11 +43,12 @@
           "ranks": [
             20,
             17,
-            18
+            18,
+            24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时52分 ~ 03时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时52分 ~ 04时43分]"
         },
         {
           "title": "沃尔沃将因电池起火隐患而召回4万辆电动汽车。（路透）",
