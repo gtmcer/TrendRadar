@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-24T00:52:32.046850+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-02-24T00:56:39.218675+08:00",
+  "total_titles_processed": 346,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
+          "appearance_count": 2,
+          "time_info": "[00时52分 ~ 00时56分]"
         },
         {
           "title": "问界汽车回应惠州车辆起火",
@@ -26,8 +26,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
+          "appearance_count": 2,
+          "time_info": "[00时52分 ~ 00时56分]"
         }
       ]
     },
@@ -40,11 +40,12 @@
           "url": "https://wallstreetcn.com/livenews/3057559",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            26
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
+          "appearance_count": 2,
+          "time_info": "[00时52分 ~ 00时56分]"
         },
         {
           "title": "男子5600元套中汽车使用权 商家反悔",
@@ -54,8 +55,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
+          "appearance_count": 2,
+          "time_info": "[00时52分 ~ 00时56分]"
         }
       ]
     },
@@ -71,8 +72,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
+          "appearance_count": 2,
+          "time_info": "[00时52分 ~ 00时56分]"
         }
       ]
     }
