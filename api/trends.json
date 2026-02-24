@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-24T07:34:17.776207+08:00",
-  "total_titles_processed": 662,
+  "generated_at": "2026-02-24T09:58:10.399022+08:00",
+  "total_titles_processed": 827,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
         },
@@ -83,7 +83,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
         }
@@ -164,6 +164,23 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时52分 ~ 06时40分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源汽车",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "新能源汽车春运高速补能有新答案",
+          "url": "https://www.toutiao.com/trending/7610210230558789170/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时57分 ~ 09时58分]"
         }
       ]
     }
