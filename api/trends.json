@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-24T22:49:07.304112+08:00",
-  "total_titles_processed": 1839,
+  "generated_at": "2026-02-24T23:56:40.702639+08:00",
+  "total_titles_processed": 1936,
   "failed_sources": [],
   "trends": [
     {
@@ -22,6 +22,22 @@
           "time_info": "[13时58分 ~ 22时49分]"
         },
         {
+          "title": "飞行汽车来了 一次亮相4款",
+          "url": "https://www.baidu.com/s?wd=%E9%A3%9E%E8%A1%8C%E6%B1%BD%E8%BD%A6%E6%9D%A5%E4%BA%86+%E4%B8%80%E6%AC%A1%E4%BA%AE%E7%9B%B84%E6%AC%BE",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            17,
+            15,
+            14,
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时06分 ~ 23时56分]"
+        },
+        {
           "title": "男子5600元套中汽车使用权 商家反悔",
           "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%905600%E5%85%83%E5%A5%97%E4%B8%AD%E6%B1%BD%E8%BD%A6%E4%BD%BF%E7%94%A8%E6%9D%83+%E5%95%86%E5%AE%B6%E5%8F%8D%E6%82%94",
           "source": "百度热搜",
@@ -37,22 +53,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时52分 ~ 07时34分]"
-        },
-        {
-          "title": "飞行汽车来了 一次亮相4款",
-          "url": "https://www.baidu.com/s?wd=%E9%A3%9E%E8%A1%8C%E6%B1%BD%E8%BD%A6%E6%9D%A5%E4%BA%86+%E4%B8%80%E6%AC%A1%E4%BA%AE%E7%9B%B84%E6%AC%BE",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            17,
-            15,
-            14,
-            2,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时06分 ~ 22时49分]"
         },
         {
           "title": "据知情人士透露，规模居前的汽车租赁公司一嗨租车正在评估一项计划，拟将9月到期的美元债券期限延长，并可能向债券持有人先行支付一笔现金。（彭博）",
