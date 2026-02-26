@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-26T13:57:33.352458+08:00",
-  "total_titles_processed": 1140,
+  "generated_at": "2026-02-26T15:01:48.927480+08:00",
+  "total_titles_processed": 1237,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
         },
@@ -25,7 +25,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
         },
@@ -86,11 +86,12 @@
           "ranks": [
             4,
             5,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时55分 ~ 13时57分]"
+          "appearance_count": 4,
+          "time_info": "[09时55分 ~ 15时01分]"
         },
         {
           "title": "周三（2月25日），彭博电动汽车价格回报指数涨1.77%，报3758.97点，亚太早盘持续上涨，北京时间10:00以来持续高位震荡。",
@@ -110,7 +111,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
         },
