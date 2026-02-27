@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-02-27T19:31:52.865647+08:00",
-  "total_titles_processed": 1700,
+  "generated_at": "2026-02-27T20:56:08.258934+08:00",
+  "total_titles_processed": 1810,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "小米汽车：将重建安全顾问委员会及公众安全沟通机制",
+          "url": "https://wallstreetcn.com/livenews/3060301",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
         {
           "title": "理想汽车：将于2026年3月12日公布2025年第四季度及全年财务业绩。",
           "url": "https://wallstreetcn.com/livenews/3060163",
@@ -51,6 +62,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
+        },
+        {
+          "title": "马斯克：特斯拉将在20年内上月球建厂 建议投资者长期持股",
+          "url": "https://wallstreetcn.com/livenews/3060282",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
         },
         {
           "title": "纳斯达克金龙中国指数收跌1.78%，报7411.36点。 热门中概股里，百度初步收跌5.6%，比亚迪跌4.2%，美团跌3.2%，理想跌3%，阿里巴巴跌2.8%，小米、小鹏、文远知行、蔚来跌超2%，小马智行涨4.7%。 ETF中，中概互联网指数ETF（KWEB）收跌2.42%，中国科技指数ETF（CQQQ）收跌1.91%。 德银嘉实沪深300指数ETF（ASHR）收跌1.16%，XtrackersHarvest中证50（ASHS）收跌0.46%。",
