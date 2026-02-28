@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-28T16:27:57.077820+08:00",
-  "total_titles_processed": 1396,
+  "generated_at": "2026-02-28T17:25:02.200643+08:00",
+  "total_titles_processed": 1516,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             7,
             5,
             6,
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时45分 ~ 16时27分]"
+          "appearance_count": 11,
+          "time_info": "[09时45分 ~ 17时25分]"
         },
         {
           "title": "手机集体涨价后 汽车会是下一个吗",
@@ -130,8 +131,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时45分 ~ 16时27分]"
+          "appearance_count": 11,
+          "time_info": "[09时45分 ~ 17时25分]"
         },
         {
           "title": "小米汽车或将推出超跑车型",
