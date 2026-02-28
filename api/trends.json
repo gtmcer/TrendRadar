@@ -1,8 +1,98 @@
 {
-  "generated_at": "2026-02-28T11:54:05.053795+08:00",
-  "total_titles_processed": 953,
+  "generated_at": "2026-02-28T12:54:55.613869+08:00",
+  "total_titles_processed": 1023,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "汽车",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "全球汽车销量前 10 出炉，中国 3 家上榜，中企继续冲击前三还需要哪些条件？",
+          "url": "https://www.zhihu.com/question/2010648541866005278",
+          "source": "知乎",
+          "ranks": [
+            19,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时45分 ~ 12时54分]"
+        },
+        {
+          "title": "手机集体涨价后 汽车会是下一个吗",
+          "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E9%9B%86%E4%BD%93%E6%B6%A8%E4%BB%B7%E5%90%8E+%E6%B1%BD%E8%BD%A6%E4%BC%9A%E6%98%AF%E4%B8%8B%E4%B8%80%E4%B8%AA%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时45分 ~ 12时54分]"
+        },
+        {
+          "title": "3家中国车企跻身全球汽车销量TOP10",
+          "url": "https://www.toutiao.com/trending/7610724384298418182/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时53分 ~ 12时54分]"
+        },
+        {
+          "title": "深圳：支持汽车置换更新，购买新能源乘用车补贴车价的8%",
+          "url": "https://wallstreetcn.com/livenews/3060583",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时54分 ~ 12时54分]"
+        },
+        {
+          "title": "First Brands将出售为福特汽车生产零部件的多个部门。",
+          "url": "https://wallstreetcn.com/livenews/3060472",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时32分 ~ 04时26分]"
+        },
+        {
+          "title": "2025年，马来西亚的汽车销量超过印尼，成为东南亚第一。",
+          "url": "https://flash.jin10.com/detail/20260228113540928800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
+        },
+        {
+          "title": "小米展示新一代SU7汽车机械门把手",
+          "url": "https://www.toutiao.com/trending/7611078565454695942/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
+        }
+      ]
+    },
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
       "match_count": 5,
@@ -19,6 +109,18 @@
           "time_info": "09时45分"
         },
         {
+          "title": "小米汽车或将推出超跑车型",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E6%88%96%E5%B0%86%E6%8E%A8%E5%87%BA%E8%B6%85%E8%B7%91%E8%BD%A6%E5%9E%8B",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时53分 ~ 12时54分]"
+        },
+        {
           "title": "成都小米SU7事故细节进一步曝光，小米汽车再陷安全争议",
           "url": "https://m.thepaper.cn/newsDetail_forward_32664749",
           "source": "澎湃新闻",
@@ -27,19 +129,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时45分 ~ 11时54分]"
-        },
-        {
-          "title": "小米汽车或将推出超跑车型",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E6%88%96%E5%B0%86%E6%8E%A8%E5%87%BA%E8%B6%85%E8%B7%91%E8%BD%A6%E5%9E%8B",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时53分 ~ 11时54分]"
+          "appearance_count": 4,
+          "time_info": "[09时45分 ~ 12时54分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌1.7%，2月份累计下跌约5.8%。 热门中概股里，蔚来初步收跌4%，阿里跌2.6%，新东方、理想、京东、文远知行、拼多多、小鹏、小米等跌超1%，大全新能源涨0.6%，金山云涨7%。",
@@ -62,70 +153,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "汽车",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "手机集体涨价后 汽车会是下一个吗",
-          "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E9%9B%86%E4%BD%93%E6%B6%A8%E4%BB%B7%E5%90%8E+%E6%B1%BD%E8%BD%A6%E4%BC%9A%E6%98%AF%E4%B8%8B%E4%B8%80%E4%B8%AA%E5%90%97",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时45分 ~ 11时54分]"
-        },
-        {
-          "title": "全球汽车销量前 10 出炉，中国 3 家上榜，中企继续冲击前三还需要哪些条件？",
-          "url": "https://www.zhihu.com/question/2010648541866005278",
-          "source": "知乎",
-          "ranks": [
-            19,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时45分 ~ 11时54分]"
-        },
-        {
-          "title": "First Brands将出售为福特汽车生产零部件的多个部门。",
-          "url": "https://wallstreetcn.com/livenews/3060472",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时32分 ~ 04时26分]"
-        },
-        {
-          "title": "3家中国车企跻身全球汽车销量TOP10",
-          "url": "https://www.toutiao.com/trending/7610724384298418182/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时53分 ~ 11时54分]"
-        },
-        {
-          "title": "深圳：支持汽车置换更新，购买新能源乘用车补贴车价的8%",
-          "url": "https://wallstreetcn.com/livenews/3060583",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时54分"
         }
       ]
     },
