@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-28T17:25:02.200643+08:00",
-  "total_titles_processed": 1516,
+  "generated_at": "2026-02-28T18:22:07.274537+08:00",
+  "total_titles_processed": 1642,
   "failed_sources": [],
   "trends": [
     {
@@ -128,11 +128,12 @@
             17,
             13,
             12,
-            14
+            14,
+            11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时45分 ~ 17时25分]"
+          "appearance_count": 13,
+          "time_info": "[09时45分 ~ 18时22分]"
         },
         {
           "title": "小米汽车或将推出超跑车型",
@@ -183,7 +184,7 @@
     },
     {
       "keyword_group": "新能源汽车",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "新能源汽车开征“里程税”？多地回应",
@@ -200,6 +201,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时38分 ~ 09时45分]"
+        },
+        {
+          "title": "新能源汽车靠什么破冰越冬",
+          "url": "https://www.toutiao.com/trending/7611759583937183750/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时21分 ~ 18时22分]"
         }
       ]
     }
