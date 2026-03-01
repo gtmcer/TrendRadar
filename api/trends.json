@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-01T22:23:27.884487+08:00",
-  "total_titles_processed": 1760,
+  "generated_at": "2026-03-01T23:22:26.247250+08:00",
+  "total_titles_processed": 1827,
   "failed_sources": [],
   "trends": [
     {
@@ -131,7 +131,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "长城汽车2月海外销售42,675台，1-2月累计销售82,953台。 2月新能源车销售12,744台，1-2月累计销售30,773台。",
@@ -234,6 +234,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时44分"
+        },
+        {
+          "title": "吉利汽车2月销量20.6万辆",
+          "url": "https://www.toutiao.com/trending/7611722125195444267/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
         }
       ]
     },
