@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-02T12:16:44.391524+08:00",
-  "total_titles_processed": 960,
+  "generated_at": "2026-03-02T13:52:27.822453+08:00",
+  "total_titles_processed": 1085,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "特斯拉官方微博称，人形机器人持续迭代，Cybercab量产工作加速推进。",
@@ -14,9 +14,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时16分"
+        },
+        {
+          "title": "造车新势力2月遇冷：“零理蔚”重回月销2万辆“起跑线” 小鹏销量“腰斩”",
+          "url": "https://www.cls.cn/detail/2299031",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时52分"
         },
         {
           "title": "特斯拉(TSLA.O)：特斯拉人形机器人持续迭代， Cybercab量产工作加速推进。",
@@ -25,7 +36,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时16分"
         }
