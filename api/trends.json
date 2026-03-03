@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-03-03T07:25:08.068770+08:00",
-  "total_titles_processed": 674,
+  "generated_at": "2026-03-03T10:01:19.608327+08:00",
+  "total_titles_processed": 844,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 1,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "特斯拉为什么要坚持纯视觉路线?",
+          "url": "https://www.zhihu.com/question/662049831",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时00分 ~ 10时01分]"
+        },
+        {
+          "title": "特斯拉为什么销量比国产电车好？",
+          "url": "https://www.zhihu.com/question/13039955778",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时00分 ~ 10时01分]"
+        },
         {
           "title": "意大利交通部：2月份特斯拉在意大利的新车注册量同比下降6.9%。",
           "url": "https://flash.jin10.com/detail/20260303010145393800",
@@ -17,12 +39,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
+        },
+        {
+          "title": "美国副总统万斯：在理想的世界里，我们希望伊朗能出现一位愿意与美国合作、愿意对美国表示尊重，并且最重要的是能够做出长期承诺（即伊朗不会拥有核武器）的领导人。",
+          "url": "https://flash.jin10.com/detail/20260303093907245800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
         }
       ]
     },
     {
       "keyword_group": "汽车",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "周一（3月2日），彭博电动汽车价格回报指数跌0.68%，报3698.86点。",
@@ -36,6 +69,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时31分 ~ 07时25分]"
+        },
+        {
+          "title": "雷军公布小米机器人最新进展：已在汽车工厂实习，初步实现部分场景自主工作",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32684245",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时00分 ~ 10时01分]"
         }
       ]
     }
