@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-03T12:21:51.779814+08:00",
-  "total_titles_processed": 1001,
+  "generated_at": "2026-03-03T13:48:46.815231+08:00",
+  "total_titles_processed": 1115,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "恒生科技指数日内再次跌超1%，零跑汽车跌超5%，小鹏汽车、蔚来跌超4%，华虹半导体、小米跌超3%。",
@@ -14,7 +14,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
         },
@@ -24,11 +24,12 @@
           "source": "知乎",
           "ranks": [
             12,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时00分 ~ 12时21分]"
+          "appearance_count": 4,
+          "time_info": "[10时00分 ~ 13时48分]"
         },
         {
           "title": "特斯拉为什么销量比国产电车好？",
@@ -38,8 +39,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时00分 ~ 12时21分]"
+          "appearance_count": 4,
+          "time_info": "[10时00分 ~ 13时48分]"
         },
         {
           "title": "意大利交通部：2月份特斯拉在意大利的新车注册量同比下降6.9%。",
@@ -51,6 +52,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
+        },
+        {
+          "title": "港股新能源汽车股午后持续走低，零跑汽车、小鹏汽车跌超5%，蔚来跌4.7%。",
+          "url": "https://wallstreetcn.com/livenews/3062421",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
         },
         {
           "title": "美国副总统万斯：在理想的世界里，我们希望伊朗能出现一位愿意与美国合作、愿意对美国表示尊重，并且最重要的是能够做出长期承诺（即伊朗不会拥有核武器）的领导人。",
@@ -91,8 +103,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时00分 ~ 12时21分]"
+          "appearance_count": 4,
+          "time_info": "[10时00分 ~ 13时48分]"
         }
       ]
     }
