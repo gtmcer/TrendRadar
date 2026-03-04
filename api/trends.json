@@ -1,7 +1,42 @@
 {
-  "generated_at": "2026-03-05T00:41:43.531868+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-05T01:38:28.739601+08:00",
+  "total_titles_processed": 385,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "特斯拉2月英国电动车新车销量同比下降45.21%至2,208辆。",
+          "url": "https://flash.jin10.com/detail/20260305012006880800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "汽车",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "比亚迪英国2月电动汽车新车销量同比增长40.90%至968辆。",
+          "url": "https://flash.jin10.com/detail/20260305012308521800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时38分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://gtmcer.github.io/TrendRadar/img/news.jpg"
 }
