@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-03-05T02:47:04.296546+08:00",
-  "total_titles_processed": 447,
+  "generated_at": "2026-03-05T03:38:04.050078+08:00",
+  "total_titles_processed": 496,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "汽车",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "本田拟将中国产电动汽车卖回日本",
+          "url": "https://www.toutiao.com/trending/7612296534020882468/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时37分 ~ 03时38分]"
+        },
+        {
+          "title": "比亚迪英国2月电动汽车新车销量同比增长40.90%至968辆。",
+          "url": "https://flash.jin10.com/detail/20260305012308521800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "华为汽车 鸿蒙智行 问界 尚界 尊界 智界 享界 乾崑",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "新款尊界S800来了",
+          "url": "https://www.toutiao.com/trending/7613369666517487113/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时37分 ~ 03时38分]"
+        }
+      ]
+    },
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
       "match_count": 1,
@@ -13,23 +58,6 @@
           "source": "金十数据",
           "ranks": [
             11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时38分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "汽车",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "比亚迪英国2月电动汽车新车销量同比增长40.90%至968辆。",
-          "url": "https://flash.jin10.com/detail/20260305012308521800",
-          "source": "金十数据",
-          "ranks": [
-            7
           ],
           "is_new": false,
           "appearance_count": 1,
