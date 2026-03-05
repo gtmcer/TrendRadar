@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-05T16:39:45.669022+08:00",
-  "total_titles_processed": 1454,
+  "generated_at": "2026-03-05T17:41:23.097901+08:00",
+  "total_titles_processed": 1548,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             5,
             6,
             8,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时12分 ~ 16时39分]"
+          "appearance_count": 9,
+          "time_info": "[12时12分 ~ 17时41分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收涨0.8%。 热门中概股里，蔚来涨5.5%，小马智行、文远知行、小米涨超4%，新东方涨2.7%，小鹏、网易、腾讯、美团涨超1%。",
