@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-07T02:42:09.713421+08:00",
-  "total_titles_processed": 457,
+  "generated_at": "2026-03-07T03:33:48.653670+08:00",
+  "total_titles_processed": 520,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             23,
             19,
-            18
+            18,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时38分 ~ 02时42分]"
+          "appearance_count": 6,
+          "time_info": "[00时38分 ~ 03时33分]"
         },
         {
           "title": "长城汽车董事长魏建军就「海报抄袭」致歉，称愿担责，对长城汽车有何影响？如何评价老板亲自灭火的公关操作？",
@@ -28,8 +29,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时41分 ~ 02时42分]"
+          "appearance_count": 3,
+          "time_info": "[02时41分 ~ 03时33分]"
         }
       ]
     }
