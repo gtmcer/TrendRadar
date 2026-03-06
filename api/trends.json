@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-07T01:34:31.664705+08:00",
-  "total_titles_processed": 388,
+  "generated_at": "2026-03-07T02:42:09.713421+08:00",
+  "total_titles_processed": 457,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "长城汽车魏建军就抄袭路虎海报道歉",
@@ -13,11 +13,23 @@
           "source": "百度热搜",
           "ranks": [
             23,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 01时34分]"
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 02时42分]"
+        },
+        {
+          "title": "长城汽车董事长魏建军就「海报抄袭」致歉，称愿担责，对长城汽车有何影响？如何评价老板亲自灭火的公关操作？",
+          "url": "https://www.zhihu.com/question/2013361464195379564",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时41分 ~ 02时42分]"
         }
       ]
     }
