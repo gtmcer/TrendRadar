@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-06T19:28:01.106051+08:00",
-  "total_titles_processed": 1619,
+  "generated_at": "2026-03-06T20:53:09.643351+08:00",
+  "total_titles_processed": 1745,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "理想车主骚操作:装桩+占位",
@@ -29,6 +29,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时36分 ~ 17时36分]"
+        },
+        {
+          "title": "美联储理事沃勒：1月份就业岗位增长较为集中，这并未让人感到安心，因为整体经济表现并不理想。",
+          "url": "https://flash.jin10.com/detail/20260306204014043800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
         },
         {
           "title": "小鹏G6超级增程正式上市，起售价18.68万元",
