@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-07T14:38:59.762247+08:00",
-  "total_titles_processed": 1090,
+  "generated_at": "2026-03-07T15:27:52.816236+08:00",
+  "total_titles_processed": 1155,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "长城汽车董事长魏建军就「海报抄袭」致歉，称愿担责，对长城汽车有何影响？如何评价老板亲自灭火的公关操作？",
@@ -15,11 +15,12 @@
             10,
             5,
             4,
-            1
+            1,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[02时41分 ~ 14时38分]"
+          "appearance_count": 12,
+          "time_info": "[02时41分 ~ 15时27分]"
         },
         {
           "title": "长城汽车魏建军就抄袭路虎海报道歉",
@@ -58,6 +59,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
+        },
+        {
+          "title": "周云杰：保姆机器人将比汽车更普及",
+          "url": "https://www.baidu.com/s?wd=%E5%91%A8%E4%BA%91%E6%9D%B0%EF%BC%9A%E4%BF%9D%E5%A7%86%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%B0%86%E6%AF%94%E6%B1%BD%E8%BD%A6%E6%9B%B4%E6%99%AE%E5%8F%8A",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
         }
       ]
     },
