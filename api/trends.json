@@ -1,84 +1,8 @@
 {
-  "generated_at": "2026-03-08T23:22:52.855136+08:00",
-  "total_titles_processed": 1535,
+  "generated_at": "2026-03-09T00:26:50.020120+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "汽车",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "伊朗首都等地临时就汽车加油设限",
-          "url": "https://flash.jin10.com/detail/20260308184220208800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时20分"
-        },
-        {
-          "title": "伊朗首都等地临时就汽车加油设限",
-          "url": "https://wallstreetcn.com/livenews/3065864",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            14,
-            20,
-            26,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时20分 ~ 23时22分]"
-        },
-        {
-          "title": "阿联酋迪拜负责媒体事务的部门7日在社交媒体上表示，当晚一次空中拦截行动产生的碎片，坠落到巴尔沙地区的一辆汽车上，造成一名司机死亡。",
-          "url": "https://flash.jin10.com/detail/20260308033415479800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "会见企业家｜何小鹏：AI将改变物理世界，也是未来增长的支点",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32715203",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            19,
-            16,
-            15,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时58分 ~ 20时44分]"
-        },
-        {
-          "title": "比亚迪5分钟闪充冲击蔚来换电护城河",
-          "url": "https://www.toutiao.com/trending/7613798835642744878/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        }
-      ]
-    },
     {
       "keyword_group": "新能源汽车",
       "match_count": 1,
@@ -88,12 +12,28 @@
           "url": "https://www.zhihu.com/question/2012820068103378470",
           "source": "知乎",
           "ranks": [
-            17,
-            18
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时39分 ~ 23时22分]"
+          "appearance_count": 1,
+          "time_info": "00时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "汽车",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "伊朗首都等地临时就汽车加油设限",
+          "url": "https://wallstreetcn.com/livenews/3065864",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时26分"
         }
       ]
     }
