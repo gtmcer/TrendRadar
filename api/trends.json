@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-08T13:42:09.062759+08:00",
-  "total_titles_processed": 923,
+  "generated_at": "2026-03-08T14:41:01.895288+08:00",
+  "total_titles_processed": 967,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             18,
             19,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时58分 ~ 13时42分]"
+          "appearance_count": 6,
+          "time_info": "[09时58分 ~ 14时41分]"
         },
         {
           "title": "比亚迪5分钟闪充冲击蔚来换电护城河",
