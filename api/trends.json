@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-08T21:39:20.953528+08:00",
-  "total_titles_processed": 1416,
+  "generated_at": "2026-03-08T22:24:05.171308+08:00",
+  "total_titles_processed": 1476,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "ranks": [
             4,
             14,
-            20
+            20,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时20分 ~ 21时39分]"
+          "appearance_count": 4,
+          "time_info": "[19时20分 ~ 22时24分]"
         },
         {
           "title": "阿联酋迪拜负责媒体事务的部门7日在社交媒体上表示，当晚一次空中拦截行动产生的碎片，坠落到巴尔沙地区的一辆汽车上，造成一名司机死亡。",
@@ -88,9 +89,9 @@
           "ranks": [
             17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时39分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时39分 ~ 22时24分]"
         }
       ]
     }
