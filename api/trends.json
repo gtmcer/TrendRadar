@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-08T20:44:42.869757+08:00",
-  "total_titles_processed": 1334,
+  "generated_at": "2026-03-08T21:39:20.953528+08:00",
+  "total_titles_processed": 1416,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时20分 ~ 20时44分]"
+          "appearance_count": 3,
+          "time_info": "[19时20分 ~ 21时39分]"
         },
         {
           "title": "阿联酋迪拜负责媒体事务的部门7日在社交媒体上表示，当晚一次空中拦截行动产生的碎片，坠落到巴尔沙地区的一辆汽车上，造成一名司机死亡。",
@@ -73,6 +74,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源汽车",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "政府工作报告提到，2025 年新能源汽车年产量超过 1600 万辆，如何解读这一数据？",
+          "url": "https://www.zhihu.com/question/2012820068103378470",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
         }
       ]
     }
