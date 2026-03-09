@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-10T06:27:33.987544+08:00",
-  "total_titles_processed": 680,
+  "generated_at": "2026-03-10T07:27:11.427669+08:00",
+  "total_titles_processed": 754,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             18,
             21,
             27,
-            30
+            30,
+            26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 05时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时57分 ~ 07时27分]"
         },
         {
           "title": "周一（3月9日），彭博电动汽车价格回报指数跌0.24%，报3503.93点，整体呈现出V形走势。",
@@ -58,8 +59,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时57分 ~ 06时27分]"
+          "appearance_count": 12,
+          "time_info": "[00时57分 ~ 07时27分]"
         }
       ]
     }
