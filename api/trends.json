@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-03-09T15:02:38.805518+08:00",
-  "total_titles_processed": 1103,
+  "generated_at": "2026-03-09T16:42:45.366223+08:00",
+  "total_titles_processed": 1239,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "汽车",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "伊朗首都等地临时就汽车加油设限",
+          "url": "https://wallstreetcn.com/livenews/3065864",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 03时22分]"
+        },
+        {
+          "title": "法国汽车股下跌1.9%至5.2%。",
+          "url": "https://flash.jin10.com/detail/20260309161909095800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
+        }
+      ]
+    },
     {
       "keyword_group": "新能源汽车",
       "match_count": 1,
@@ -19,23 +47,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时26分 ~ 07时23分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "汽车",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "伊朗首都等地临时就汽车加油设限",
-          "url": "https://wallstreetcn.com/livenews/3065864",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 03时22分]"
         }
       ]
     }
