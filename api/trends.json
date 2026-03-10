@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-10T15:40:54.342308+08:00",
-  "total_titles_processed": 1370,
+  "generated_at": "2026-03-10T16:40:20.859343+08:00",
+  "total_titles_processed": 1475,
   "failed_sources": [],
   "trends": [
     {
@@ -43,8 +43,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时44分 ~ 15时40分]"
+          "appearance_count": 4,
+          "time_info": "[13时44分 ~ 16时40分]"
         },
         {
           "title": "周一（3月9日），彭博电动汽车价格回报指数跌0.24%，报3503.93点，整体呈现出V形走势。",
@@ -131,8 +131,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时46分 ~ 15时40分]"
+          "appearance_count": 3,
+          "time_info": "[14时46分 ~ 16时40分]"
         },
         {
           "title": "伯恩斯坦：小鹏汽车或将持续优化智能驾驶功能",
