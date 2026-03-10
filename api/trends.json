@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-10T14:46:25.226197+08:00",
-  "total_titles_processed": 1261,
+  "generated_at": "2026-03-10T15:40:54.342308+08:00",
+  "total_titles_processed": 1370,
   "failed_sources": [],
   "trends": [
     {
@@ -29,7 +29,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时46分"
         },
@@ -39,11 +39,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时44分 ~ 14时46分]"
+          "appearance_count": 3,
+          "time_info": "[13时44分 ~ 15时40分]"
         },
         {
           "title": "周一（3月9日），彭博电动汽车价格回报指数跌0.24%，报3503.93点，整体呈现出V形走势。",
@@ -64,7 +65,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时46分"
         },
@@ -75,7 +76,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时46分"
         },
@@ -126,11 +127,12 @@
           "url": "https://www.zhihu.com/question/2014397594542040051",
           "source": "知乎",
           "ranks": [
-            15
+            15,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时46分 ~ 15时40分]"
         },
         {
           "title": "伯恩斯坦：小鹏汽车或将持续优化智能驾驶功能",
@@ -139,7 +141,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时46分"
         }
