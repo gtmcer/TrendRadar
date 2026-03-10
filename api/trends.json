@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-11T05:28:36.012477+08:00",
-  "total_titles_processed": 608,
+  "generated_at": "2026-03-11T06:27:13.762183+08:00",
+  "total_titles_processed": 645,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             1,
             4,
             7,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时00分 ~ 05时28分]"
+          "appearance_count": 9,
+          "time_info": "[01时00分 ~ 06时27分]"
         },
         {
           "title": "宝马销售贬低小米汽车 小米高管回应",
@@ -27,11 +28,12 @@
           "source": "百度热搜",
           "ranks": [
             24,
-            23
+            23,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时01分 ~ 04时32分]"
+          "appearance_count": 4,
+          "time_info": "[04时01分 ~ 06时27分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收涨1.9%。 热门中概股里，蔚来初步收涨15%，世纪互联涨13.5%，文远知行涨7.2%，腾讯涨10%，阿里涨3.1%，百度涨2.4%，小鹏涨2.2%，美团跌1.5%，比亚迪跌1.5%。",
@@ -62,7 +64,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
         }
@@ -80,8 +82,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时00分 ~ 05时28分]"
+          "appearance_count": 9,
+          "time_info": "[01时00分 ~ 06时27分]"
         },
         {
           "title": "新能源汽车“涨价潮”来了",
@@ -93,8 +95,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时00分 ~ 04时01分]"
+          "appearance_count": 7,
+          "time_info": "[01时00分 ~ 06时27分]"
         }
       ]
     },
@@ -110,8 +112,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时00分 ~ 05时28分]"
+          "appearance_count": 9,
+          "time_info": "[01时00分 ~ 06时27分]"
         },
         {
           "title": "周二（3月10日），彭博电动汽车价格回报指数涨2.28%，报3581.07点，亚太盘初以来持续走高，北京时间01:17以来略微回吐部分涨幅。",
