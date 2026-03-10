@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-11T06:27:13.762183+08:00",
-  "total_titles_processed": 645,
+  "generated_at": "2026-03-11T07:26:38.079524+08:00",
+  "total_titles_processed": 692,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时00分 ~ 06时27分]"
+          "appearance_count": 10,
+          "time_info": "[01时00分 ~ 07时26分]"
         },
         {
           "title": "宝马销售贬低小米汽车 小米高管回应",
@@ -29,11 +29,12 @@
           "ranks": [
             24,
             23,
-            30
+            30,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时01分 ~ 06时27分]"
+          "appearance_count": 5,
+          "time_info": "[04时01分 ~ 07时26分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收涨1.9%。 热门中概股里，蔚来初步收涨15%，世纪互联涨13.5%，文远知行涨7.2%，腾讯涨10%，阿里涨3.1%，百度涨2.4%，小鹏涨2.2%，美团跌1.5%，比亚迪跌1.5%。",
@@ -82,8 +83,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时00分 ~ 06时27分]"
+          "appearance_count": 10,
+          "time_info": "[01时00分 ~ 07时26分]"
         },
         {
           "title": "新能源汽车“涨价潮”来了",
@@ -92,11 +93,12 @@
           "ranks": [
             20,
             18,
-            29
+            29,
+            21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时00分 ~ 06时27分]"
+          "appearance_count": 8,
+          "time_info": "[01时00分 ~ 07时26分]"
         }
       ]
     },
@@ -112,8 +114,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时00分 ~ 06时27分]"
+          "appearance_count": 10,
+          "time_info": "[01时00分 ~ 07时26分]"
         },
         {
           "title": "周二（3月10日），彭博电动汽车价格回报指数涨2.28%，报3581.07点，亚太盘初以来持续走高，北京时间01:17以来略微回吐部分涨幅。",
