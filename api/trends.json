@@ -1,8 +1,38 @@
 {
-  "generated_at": "2026-03-11T02:44:59.212112+08:00",
-  "total_titles_processed": 444,
+  "generated_at": "2026-03-11T04:01:45.024947+08:00",
+  "total_titles_processed": 500,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "蔚来李斌称频繁超快充伤电池，超充再快也没换电快，怎样看待他的说法？电动汽车用户该如何选择？",
+          "url": "https://www.zhihu.com/question/2014397594542040051",
+          "source": "知乎",
+          "ranks": [
+            1,
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时00分 ~ 04时01分]"
+        },
+        {
+          "title": "宝马销售贬低小米汽车 小米高管回应",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%9D%E9%A9%AC%E9%94%80%E5%94%AE%E8%B4%AC%E4%BD%8E%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6+%E5%B0%8F%E7%B1%B3%E9%AB%98%E7%AE%A1%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时01分"
+        }
+      ]
+    },
     {
       "keyword_group": "新能源汽车",
       "match_count": 2,
@@ -15,8 +45,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时00分 ~ 02时44分]"
+          "appearance_count": 5,
+          "time_info": "[01时00分 ~ 04时01分]"
         },
         {
           "title": "新能源汽车“涨价潮”来了",
@@ -24,29 +54,12 @@
           "source": "百度热搜",
           "ranks": [
             20,
-            18
+            18,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时00分 ~ 02时44分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "蔚来李斌称频繁超快充伤电池，超充再快也没换电快，怎样看待他的说法？电动汽车用户该如何选择？",
-          "url": "https://www.zhihu.com/question/2014397594542040051",
-          "source": "知乎",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时00分 ~ 02时44分]"
+          "appearance_count": 5,
+          "time_info": "[01时00分 ~ 04时01分]"
         }
       ]
     },
@@ -62,8 +75,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时00分 ~ 02时44分]"
+          "appearance_count": 5,
+          "time_info": "[01时00分 ~ 04时01分]"
         }
       ]
     }
