@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-11T15:42:44.439249+08:00",
-  "total_titles_processed": 1319,
+  "generated_at": "2026-03-11T16:39:23.613036+08:00",
+  "total_titles_processed": 1422,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "蔚来李斌称频繁超快充伤电池，超充再快也没换电快，怎样看待他的说法？电动汽车用户该如何选择？",
@@ -29,7 +29,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时42分"
         },
@@ -40,7 +40,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时42分"
         },
@@ -57,6 +57,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时01分 ~ 07时26分]"
+        },
+        {
+          "title": "蔚来汽车总裁秦力洪：受包括存储芯片短缺在内的多重因素干扰，高端电动汽车今年成本或将上涨6000至1万元。",
+          "url": "https://flash.jin10.com/detail/20260311161432280800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
         },
         {
           "title": "纳斯达克金龙中国指数初步收涨1.9%。 热门中概股里，蔚来初步收涨15%，世纪互联涨13.5%，文远知行涨7.2%，腾讯涨10%，阿里涨3.1%，百度涨2.4%，小鹏涨2.2%，美团跌1.5%，比亚迪跌1.5%。",
@@ -98,7 +109,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时42分"
         },
@@ -204,7 +215,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时42分"
         },
@@ -259,7 +270,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时42分"
         }
