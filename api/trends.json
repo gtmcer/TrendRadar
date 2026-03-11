@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-11T19:32:23.456310+08:00",
-  "total_titles_processed": 1720,
+  "generated_at": "2026-03-11T20:57:10.295134+08:00",
+  "total_titles_processed": 1833,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351694&amp;topic_name=%E5%B0%8F%E9%B9%8F%E5%B9%BF%E5%91%8A%E8%A7%A6%E9%9B%B7%2C%E9%81%AD%E7%A6%8F%E7%91%9E%E5%9C%88%E7%82%AE%E8%BD%B0",
           "source": "贴吧",
           "ranks": [
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时38分 ~ 19时32分]"
+          "appearance_count": 4,
+          "time_info": "[18时38分 ~ 20时57分]"
         },
         {
           "title": "蔚来汽车总裁秦力洪：伊朗危机对蔚来汽车运营和原材料成本的影响微乎其微。",
@@ -217,7 +218,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "吉利汽车做对了什么，为什么卖得这么好？",
@@ -263,6 +264,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时38分"
+        },
+        {
+          "title": "市场分析师Chris Anstey：我们看到的2月份情况（在伊朗战争爆发之前）是，通胀并没有特别令人担忧。但现在一切都已经改变了。核心通胀自1月份以来略有放缓，这正是政策制定者们所希望的。二手车和汽车保险价格当月下跌，抑制了核心通胀指标。",
+          "url": "https://flash.jin10.com/detail/20260311203456472800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         },
         {
           "title": "吉利汽车盘中涨超8%，将披露更详尽的高端化战略布局",
