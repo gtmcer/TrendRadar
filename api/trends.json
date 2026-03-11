@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-12T05:36:43.842072+08:00",
-  "total_titles_processed": 622,
+  "generated_at": "2026-03-12T06:26:12.249730+08:00",
+  "total_titles_processed": 651,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时51分 ~ 05时36分]"
+          "appearance_count": 10,
+          "time_info": "[00时51分 ~ 06时26分]"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收涨超2.1%，亚马逊跌约0.8%",
@@ -100,11 +100,12 @@
             18,
             15,
             14,
-            13
+            13,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时48分 ~ 05时36分]"
+          "appearance_count": 9,
+          "time_info": "[01时48分 ~ 06时26分]"
         }
       ]
     }
