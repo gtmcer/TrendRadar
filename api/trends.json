@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-11T13:47:41.252889+08:00",
-  "total_titles_processed": 1120,
+  "generated_at": "2026-03-11T14:52:14.330860+08:00",
+  "total_titles_processed": 1222,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "蔚来李斌称频繁超快充伤电池，超充再快也没换电快，怎样看待他的说法？电动汽车用户该如何选择？",
@@ -81,6 +81,28 @@
           "time_info": "09时52分"
         },
         {
+          "title": "麦格理集团：将蔚来汽车(09866.HK)目标价由47.00港元上调至51.00港元；将蔚来汽车(NIO.N)目标价从6.10美元上调至6.50美元。",
+          "url": "https://flash.jin10.com/detail/20260311142509268800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
+        },
+        {
+          "title": "中汽协：特斯拉中国2月出口2万辆电动汽车。",
+          "url": "https://flash.jin10.com/detail/20260311142402255800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
+        },
+        {
           "title": "纳斯达克金龙中国指数收涨1.96%，报7222.96点。 热门中概股里，蔚来初步收涨15%，世纪互联涨13.5%，文远知行涨7.2%，腾讯涨10%，阿里涨3.1%，百度涨2.4%，小鹏涨2.2%，美团跌1.5%，比亚迪跌1.5%。 ETF中，中概互联网指数ETF（KWEB）收涨1.47%，中国科技指数ETF（CQQQ）收涨1.37%。 XtrackersHarvest中证50（ASHS）收涨1.16%，德银嘉实沪深300指数ETF（ASHR）收涨0.51%。",
           "url": "https://wallstreetcn.com/livenews/3067547",
           "source": "华尔街见闻-快讯",
@@ -106,7 +128,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 3,
+      "match_count": 7,
       "titles": [
         {
           "title": "吉利汽车做对了什么，为什么卖得这么好？",
@@ -132,6 +154,39 @@
           "time_info": "[04时32分 ~ 05时28分]"
         },
         {
+          "title": "这些汽车新坑需警惕",
+          "url": "https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E6%B1%BD%E8%BD%A6%E6%96%B0%E5%9D%91%E9%9C%80%E8%AD%A6%E6%83%95",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时51分 ~ 14时52分]"
+        },
+        {
+          "title": "中汽协数据显示，2月，汽车出口67.2万辆，环比下降1.4%，同比增长52.4%。",
+          "url": "https://wallstreetcn.com/livenews/3067819",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
+        },
+        {
+          "title": "中汽协数据显示，2月，汽车产销分别完成167.2万辆和180.5万辆，环比分别下降31.7%和23.1%，同比分别下降20.5%和15.2%。",
+          "url": "https://wallstreetcn.com/livenews/3067815",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
+        },
+        {
           "title": "金十图示：2026年03月11日（周三）全球汽车制造商市值变化",
           "url": "https://flash.jin10.com/detail/20260311110522614800",
           "source": "金十数据",
@@ -141,12 +196,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
+        },
+        {
+          "title": "中汽协官员：受伊朗冲突的影响，担心3月汽车出口到中东的数据不会特别好。",
+          "url": "https://flash.jin10.com/detail/20260311141105058800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
         }
       ]
     },
     {
       "keyword_group": "新能源汽车",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "新能源汽车涨价潮来临",
@@ -173,6 +239,28 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时00分 ~ 09时52分]"
+        },
+        {
+          "title": "中汽协：2月新能源汽车产销分别完成69.4万辆和76.5万辆，同比分别下降21.8%和14.2%",
+          "url": "https://wallstreetcn.com/livenews/3067826",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
+        },
+        {
+          "title": "中汽协：2月新能源汽车销量同比下滑14.2%，1-2月新能源汽车销量同比下降6.9%。",
+          "url": "https://flash.jin10.com/detail/20260311141456320800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
         }
       ]
     }
