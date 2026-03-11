@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-12T02:53:01.514219+08:00",
-  "total_titles_processed": 458,
+  "generated_at": "2026-03-12T03:41:59.660222+08:00",
+  "total_titles_processed": 509,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时51分 ~ 02时53分]"
+          "appearance_count": 5,
+          "time_info": "[00时51分 ~ 03时41分]"
         },
         {
           "title": "马斯克：Digital Optimus（也称Macrohard）是xAI一特斯拉的一个联合项目。 这也是双方投资协议的一部分。",
@@ -41,11 +41,12 @@
           "source": "知乎",
           "ranks": [
             14,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时51分 ~ 02时53分]"
+          "appearance_count": 5,
+          "time_info": "[00时51分 ~ 03时41分]"
         }
       ]
     },
@@ -59,11 +60,12 @@
           "source": "知乎",
           "ranks": [
             20,
-            18
+            18,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时48分 ~ 02时53分]"
+          "appearance_count": 4,
+          "time_info": "[01时48分 ~ 03时41分]"
         }
       ]
     }
