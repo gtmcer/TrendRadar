@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-12T19:31:54.253709+08:00",
-  "total_titles_processed": 1722,
+  "generated_at": "2026-03-12T20:56:34.733971+08:00",
+  "total_titles_processed": 1840,
   "failed_sources": [],
   "trends": [
     {
@@ -20,11 +20,12 @@
             10,
             11,
             13,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时51分 ~ 19时31分]"
+          "appearance_count": 22,
+          "time_info": "[00时51分 ~ 20时56分]"
         },
         {
           "title": "理想汽车第四季度营收287.8亿元人民币，同比下降35%，市场预估288.4亿元人民币。 第四季度汽车销售收入272.5亿元人民币，同比下降36%，市场预估272.7亿元人民币。 第四季度调整后每ADS收益0.25元人民币，上年同期3.79元人民币。 预计第一季度营收204亿元人民币至216亿元人民币，市场预估240.1亿元人民币。 理想汽车美股盘前下跌近3%。",
@@ -188,7 +189,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "汽车开多久换，性价比最高？",
@@ -240,6 +241,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时53分"
+        },
+        {
+          "title": "美国1月份汽车及零部件出口降至2021年以来最低水平。",
+          "url": "https://flash.jin10.com/detail/20260312203403862800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
         },
         {
           "title": "中国汽车动力电池产业创新联盟：2月我国动力和储能电池销量为113.2GWh，同比增长25.7%",
@@ -317,6 +329,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
+        },
+        {
+          "title": "追觅汽车价格",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%BF%BD%E8%A7%85%E6%B1%BD%E8%BD%A6%E4%BB%B7%E6%A0%BC%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
         }
       ]
     },
