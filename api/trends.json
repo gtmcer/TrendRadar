@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-13T06:25:23.138533+08:00",
-  "total_titles_processed": 606,
+  "generated_at": "2026-03-13T07:27:06.414316+08:00",
+  "total_titles_processed": 659,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 06时25分]"
+          "appearance_count": 9,
+          "time_info": "[01时01分 ~ 07时27分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌1%。 热门中概股里，小马智行初步收跌4.6%，理想、腾讯跌超2%，阿里跌1.5%，拼多多跌1.3%，蔚来涨1.2%，小鹏涨3.6%，房多多涨14.9%。",
@@ -73,6 +73,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "华为汽车 鸿蒙智行 问界 尚界 尊界 智界 享界 乾崑",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "鸿蒙智行尚界 H5 拿下「中汽测评」20 万元内唯一超五星安全认证，你会选择购买吗？",
+          "url": "https://www.zhihu.com/question/2014794910386107450",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时26分 ~ 07时27分]"
         }
       ]
     },
