@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-13T13:48:14.923922+08:00",
-  "total_titles_processed": 1074,
+  "generated_at": "2026-03-13T14:51:59.218627+08:00",
+  "total_titles_processed": 1176,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,24 @@
           "ranks": [
             20,
             23,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时01分 ~ 13时48分]"
+          "appearance_count": 15,
+          "time_info": "[01时01分 ~ 14时51分]"
+        },
+        {
+          "title": "理想汽车 2025 年净利润 11 亿元，连续三年盈利，AI 相关投入占比 50%，怎样看其业绩表现？",
+          "url": "https://www.zhihu.com/question/2015481604898858354",
+          "source": "知乎",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时47分 ~ 14时51分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌1%。 热门中概股里，小马智行初步收跌4.6%，理想、腾讯跌超2%，阿里跌1.5%，拼多多跌1.3%，蔚来涨1.2%，小鹏涨3.6%，房多多涨14.9%。",
@@ -30,17 +43,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时33分"
-        },
-        {
-          "title": "理想汽车 2025 年净利润 11 亿元，连续三年盈利，AI 相关投入占比 50%，怎样看其业绩表现？",
-          "url": "https://www.zhihu.com/question/2015481604898858354",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时47分 ~ 13时48分]"
         },
         {
           "title": "特斯拉在SpaceX上市前将其对xAI的投资转换为SpaceX股份",
@@ -111,7 +113,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
         },
@@ -122,7 +124,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
         },
