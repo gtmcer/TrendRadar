@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-13T09:56:05.702825+08:00",
-  "total_titles_processed": 796,
+  "generated_at": "2026-03-13T12:12:25.971625+08:00",
+  "total_titles_processed": 953,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             20,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时01分 ~ 09时56分]"
+          "appearance_count": 12,
+          "time_info": "[01时01分 ~ 12时12分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌1%。 热门中概股里，小马智行初步收跌4.6%，理想、腾讯跌超2%，阿里跌1.5%，拼多多跌1.3%，蔚来涨1.2%，小鹏涨3.6%，房多多涨14.9%。",
@@ -60,7 +61,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
         },
