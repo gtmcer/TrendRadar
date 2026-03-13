@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-13T12:12:25.971625+08:00",
-  "total_titles_processed": 953,
+  "generated_at": "2026-03-13T13:48:14.923922+08:00",
+  "total_titles_processed": 1074,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "小鹏广告触雷,遭福瑞圈炮轰",
@@ -17,8 +17,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时01分 ~ 12时12分]"
+          "appearance_count": 14,
+          "time_info": "[01时01分 ~ 13时48分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌1%。 热门中概股里，小马智行初步收跌4.6%，理想、腾讯跌超2%，阿里跌1.5%，拼多多跌1.3%，蔚来涨1.2%，小鹏涨3.6%，房多多涨14.9%。",
@@ -30,6 +30,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时33分"
+        },
+        {
+          "title": "理想汽车 2025 年净利润 11 亿元，连续三年盈利，AI 相关投入占比 50%，怎样看其业绩表现？",
+          "url": "https://www.zhihu.com/question/2015481604898858354",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时47分 ~ 13时48分]"
         },
         {
           "title": "特斯拉在SpaceX上市前将其对xAI的投资转换为SpaceX股份",
@@ -90,6 +101,45 @@
       ]
     },
     {
+      "keyword_group": "汽车",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "印度汽车行业组织SIAM：西亚冲突仍是供应链的担忧因素，可能影响制造流程和出口。",
+          "url": "https://flash.jin10.com/detail/20260313133240257800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
+        },
+        {
+          "title": "印度汽车行业组织SIAM：西亚局势仍令人担忧，行业将密切关注地缘政治局势的演变。",
+          "url": "https://flash.jin10.com/detail/20260313133126288800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
+        },
+        {
+          "title": "周四（3月12日），彭博电动汽车价格回报指数跌0.96%，报3631.82点。",
+          "url": "https://wallstreetcn.com/livenews/3069149",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时31分"
+        }
+      ]
+    },
+    {
       "keyword_group": "华为汽车 鸿蒙智行 问界 尚界 尊界 智界 享界 乾崑",
       "match_count": 1,
       "titles": [
@@ -103,23 +153,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时26分 ~ 07时27分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "汽车",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "周四（3月12日），彭博电动汽车价格回报指数跌0.96%，报3631.82点。",
-          "url": "https://wallstreetcn.com/livenews/3069149",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时31分"
         }
       ]
     }
