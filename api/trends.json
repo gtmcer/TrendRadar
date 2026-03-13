@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-13T17:38:17.950464+08:00",
-  "total_titles_processed": 1467,
+  "generated_at": "2026-03-13T18:35:28.798227+08:00",
+  "total_titles_processed": 1582,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             23,
             25,
             26,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[01时01分 ~ 17时38分]"
+          "appearance_count": 21,
+          "time_info": "[01时01分 ~ 18时35分]"
         },
         {
           "title": "理想汽车 2025 年净利润 11 亿元，连续三年盈利，AI 相关投入占比 50%，怎样看其业绩表现？",
