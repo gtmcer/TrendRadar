@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-14T17:32:10.168923+08:00",
-  "total_titles_processed": 1234,
+  "generated_at": "2026-03-14T18:27:04.095385+08:00",
+  "total_titles_processed": 1292,
   "failed_sources": [],
   "trends": [
     {
@@ -74,7 +74,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "山东临沂成立工作组调查报废汽车非法拆解有关情况",
@@ -90,6 +90,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[13时44分 ~ 17时32分]"
+        },
+        {
+          "title": "我的报废汽车去哪了",
+          "url": "https://www.baidu.com/s?wd=%E6%88%91%E7%9A%84%E6%8A%A5%E5%BA%9F%E6%B1%BD%E8%BD%A6%E5%8E%BB%E5%93%AA%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时26分 ~ 18时27分]"
         }
       ]
     }
