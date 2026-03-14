@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-03-14T23:27:28.260499+08:00",
-  "total_titles_processed": 1634,
+  "generated_at": "2026-03-15T00:31:39.992874+08:00",
+  "total_titles_processed": 320,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "纳斯达克金龙中国指数初步收涨0.8%，本周累涨约2.7%。 热门中概股里，蔚来初步收涨5.5%，腾讯音乐涨3.5%，中通快递涨2.4%，阿特斯太阳能涨2.1%。",
-          "url": "https://wallstreetcn.com/livenews/3070002",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时33分"
-        },
         {
           "title": "宝马销售被指直播拉踩小米汽车，称「180 天造的车不敢开」，小米高管回怼问真实车主最有说服力，如何评价？",
           "url": "https://www.zhihu.com/question/2014785530991236759",
@@ -27,91 +16,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时28分 ~ 23时27分]"
-        },
-        {
-          "title": "美国科技股七巨头指数陷入回调区间，Meta逾四个月最大单日跌幅，微软、特斯拉、亚马逊今年已跌超10%",
-          "url": "https://wallstreetcn.com/livenews/3070003",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时31分 ~ 06时27分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收涨0.76%，报7148.21点，本周累计上涨2.69%。 热门中概股里，蔚来初步收涨5.5%，腾讯音乐涨3.5%，中通快递涨2.4%，阿特斯太阳能涨2.1%。 ETF中，中概互联网指数ETF（KWEB）收涨0.33%，本周累计反弹1.51%，结束之前连续六周下跌的趋势； 中国科技指数ETF（CQQQ）收跌0.20%，本周反弹0.98%，之前连跌两周； 德银嘉实沪深300指数ETF（ASHR）收跌0.21%，本周反弹1.21%； XtrackersHarvest中证50（ASHS）收跌0.95%，本周累涨0.14%。",
-          "url": "https://wallstreetcn.com/livenews/3070002",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时31分 ~ 06时27分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "华为汽车 鸿蒙智行 问界 尚界 尊界 智界 享界 乾崑",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "享界粉白新色亮相上海AWE",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%AB%E7%95%8C%E7%B2%89%E7%99%BD%E6%96%B0%E8%89%B2%E4%BA%AE%E7%9B%B8%E4%B8%8A%E6%B5%B7AWE%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时44分"
-        },
-        {
-          "title": "问界M6内饰官图发布",
-          "url": "https://www.toutiao.com/trending/7616988113851780635/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "汽车",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "山东临沂成立工作组调查报废汽车非法拆解有关情况",
-          "url": "https://wallstreetcn.com/livenews/3070090",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            5,
-            8,
-            17,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时44分 ~ 17时32分]"
-        },
-        {
-          "title": "我的报废汽车去哪了",
-          "url": "https://www.baidu.com/s?wd=%E6%88%91%E7%9A%84%E6%8A%A5%E5%BA%9F%E6%B1%BD%E8%BD%A6%E5%8E%BB%E5%93%AA%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时26分 ~ 18时27分]"
+          "time_info": "[00时30分 ~ 00时31分]"
         }
       ]
     }
