@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-15T22:29:23.269730+08:00",
-  "total_titles_processed": 1345,
+  "generated_at": "2026-03-15T23:28:20.403627+08:00",
+  "total_titles_processed": 1415,
   "failed_sources": [],
   "trends": [
     {
@@ -32,8 +32,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时44分 ~ 22时29分]"
+          "appearance_count": 11,
+          "time_info": "[15时44分 ~ 23时28分]"
         },
         {
           "title": "理想汽车汤靖：MEGA电池召回完成率已超过97.5%",
@@ -59,8 +59,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时28分 ~ 22时29分]"
+          "appearance_count": 6,
+          "time_info": "[18时28分 ~ 23时28分]"
         }
       ]
     },
@@ -86,11 +86,12 @@
           "ranks": [
             20,
             10,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时25分 ~ 22时29分]"
+          "appearance_count": 7,
+          "time_info": "[19时25分 ~ 23时28分]"
         },
         {
           "title": "广东肇庆一汽车零部件公司起火，造成3死4伤",
