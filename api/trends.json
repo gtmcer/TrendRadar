@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-16T18:05:39.122525+08:00",
-  "total_titles_processed": 1242,
+  "generated_at": "2026-03-16T19:44:50.689491+08:00",
+  "total_titles_processed": 1374,
   "failed_sources": [],
   "trends": [
     {
@@ -32,8 +32,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时55分 ~ 18时05分]"
+          "appearance_count": 3,
+          "time_info": "[16时55分 ~ 19时44分]"
         },
         {
           "title": "三部门：燃料电池汽车重点推动中重型、中远途运输和冷链物流等商用车规模化应用",
@@ -111,8 +111,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时55分 ~ 18时05分]"
+          "appearance_count": 3,
+          "time_info": "[16时55分 ~ 19时44分]"
         }
       ]
     }
