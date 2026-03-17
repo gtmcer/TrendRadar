@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-03-17T13:59:02.651510+08:00",
-  "total_titles_processed": 1178,
+  "generated_at": "2026-03-17T15:12:10.120397+08:00",
+  "total_titles_processed": 1285,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "雷军回应小米汽车为何启用代言人",
           "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E4%B8%BA%E4%BD%95%E5%90%AF%E7%94%A8%E4%BB%A3%E8%A8%80%E4%BA%BA",
           "source": "百度热搜",
           "ranks": [
-            2
+            2,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时58分 ~ 13时59分]"
+          "appearance_count": 4,
+          "time_info": "[13时58分 ~ 15时12分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收涨1%。 热门中概股里，比亚迪初步收涨8.2%，小米涨5.4%，理想涨5.3%，蔚来涨3.1%，美团、网易、百胜中国、腾讯、拼多多、阿里巴巴至多涨约2.9%。",
@@ -52,6 +53,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时23分"
+        },
+        {
+          "title": "特斯拉与LG能源达成43亿美元电池交易",
+          "url": "https://flash.jin10.com/detail/20260317144808951800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时12分"
         },
         {
           "title": "恒指高开0.4%，报25938.43点；恒生科技指数涨0.5%。腾讯音乐、蔚来涨超2%，理想汽车涨近2%，华虹半导体、中芯国际涨超1%。",
