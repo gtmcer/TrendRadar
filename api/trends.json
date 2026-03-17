@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-17T21:08:09.587582+08:00",
-  "total_titles_processed": 1856,
+  "generated_at": "2026-03-17T22:55:17.130296+08:00",
+  "total_titles_processed": 1988,
   "failed_sources": [],
   "trends": [
     {
@@ -171,7 +171,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时08分"
         },
@@ -182,7 +182,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时08分"
         },
@@ -236,6 +236,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时58分 ~ 09时59分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "启境",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "启境GT7首发十大新一代黑科技",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%90%AF%E5%A2%83GT7%E9%A6%96%E5%8F%91%E5%8D%81%E5%A4%A7%E6%96%B0%E4%B8%80%E4%BB%A3%E9%BB%91%E7%A7%91%E6%8A%80%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时54分 ~ 22时55分]"
+        },
+        {
+          "title": "启境第二款车中大型SUV年内推出",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%90%AF%E5%A2%83%E7%AC%AC%E4%BA%8C%E6%AC%BE%E8%BD%A6%E4%B8%AD%E5%A4%A7%E5%9E%8BSUV%E5%B9%B4%E5%86%85%E6%8E%A8%E5%87%BA%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时54分 ~ 22时55分]"
         }
       ]
     }
