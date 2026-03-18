@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-18T19:44:45.484754+08:00",
-  "total_titles_processed": 1650,
+  "generated_at": "2026-03-18T21:07:53.791202+08:00",
+  "total_titles_processed": 1765,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时55分 ~ 19时44分]"
+          "appearance_count": 10,
+          "time_info": "[12时55分 ~ 21时07分]"
         },
         {
           "title": "2026年前两月汽车出口持续强劲",
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时53分 ~ 19时44分]"
+          "appearance_count": 4,
+          "time_info": "[17时53分 ~ 21时07分]"
         },
         {
           "title": "周二（3月17日），彭博电动汽车价格回报指数涨0.16%，报3620.52点，亚太早盘曾显著走高、迅速在北京时间10:06刷新日高至3655.93点。",
@@ -214,7 +214,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时44分"
         }
