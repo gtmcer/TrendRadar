@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-19T18:39:00.591206+08:00",
-  "total_titles_processed": 1677,
+  "generated_at": "2026-03-19T19:35:24.358806+08:00",
+  "total_titles_processed": 1777,
   "failed_sources": [],
   "trends": [
     {
@@ -91,7 +91,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时39分"
         },
@@ -170,11 +170,12 @@
           "ranks": [
             20,
             10,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时40分 ~ 18时39分]"
+          "appearance_count": 6,
+          "time_info": "[16时40分 ~ 19时35分]"
         },
         {
           "title": "雷军宣布苏炳添担任小米汽车品牌代言人，为什么是苏炳添？此次代言能为小米带来哪些价值？",
