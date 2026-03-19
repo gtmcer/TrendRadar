@@ -1,8 +1,135 @@
 {
-  "generated_at": "2026-03-19T17:42:00.028436+08:00",
-  "total_titles_processed": 1567,
+  "generated_at": "2026-03-19T18:39:00.591206+08:00",
+  "total_titles_processed": 1677,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "汽车",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "三星电子：计划2026年在研发与设施方面投资至少110万亿韩元。 计划2026年派发9.8万亿韩元常规股息。 寻求机器人、医疗技术、汽车电子、暖通空调领域有意义的并购。",
+          "url": "https://wallstreetcn.com/livenews/3073075",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时54分"
+        },
+        {
+          "title": "岚图汽车港股上市",
+          "url": "https://www.toutiao.com/trending/7618017570259484713/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时01分 ~ 15时02分]"
+        },
+        {
+          "title": "指引更明确 市场监管总局发布2026版汽车召回用户指南",
+          "url": "https://wallstreetcn.com/livenews/3073143",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时41分"
+        },
+        {
+          "title": "吉利控股CEO：预计吉利汽车品牌的车型很快将获得加拿大官方的认证",
+          "url": "https://wallstreetcn.com/livenews/3072561",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时15分"
+        },
+        {
+          "title": "三部门：加快补齐汽车芯片、基础软件等短板，推动扩大应用规模",
+          "url": "https://www.cls.cn/detail/2317835",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时41分"
+        },
+        {
+          "title": "董明珠回应换车称中国汽车看吉利",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%91%A3%E6%98%8E%E7%8F%A0%E5%9B%9E%E5%BA%94%E6%8D%A2%E8%BD%A6%E7%A7%B0%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E7%9C%8B%E5%90%89%E5%88%A9%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时53分"
+        },
+        {
+          "title": "三部门：加快补齐汽车芯片、基础软件等短板，推动扩大应用规模",
+          "url": "https://flash.jin10.com/detail/20260319122113204800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时53分"
+        },
+        {
+          "title": "市场监管总局：2025年共实施汽车召回190次，涉及车辆684.6万辆",
+          "url": "https://wallstreetcn.com/livenews/3073188",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时39分"
+        },
+        {
+          "title": "金杯汽车：控股子公司获8.86亿元乘用车内饰项目定点",
+          "url": "https://flash.jin10.com/detail/20260319170455652800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时41分"
+        },
+        {
+          "title": "恒生指数公司：推出六条新指数，包含恒生港美超大型股指数、恒生港美大型股指数、恒生科技美股人工智能指数、恒生科技美股汽车指数、恒生港美机器人主题指数、恒生亚洲精选新经济指数。",
+          "url": "https://wallstreetcn.com/livenews/3073096",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时41分"
+        },
+        {
+          "title": "岚图汽车历时5个月正式登陆港交所",
+          "url": "https://www.toutiao.com/trending/7618788040982400555/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时53分"
+        }
+      ]
+    },
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
       "match_count": 10,
@@ -42,11 +169,12 @@
           "source": "今日头条",
           "ranks": [
             20,
-            10
+            10,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时40分 ~ 17时41分]"
+          "appearance_count": 5,
+          "time_info": "[16时40分 ~ 18时39分]"
         },
         {
           "title": "雷军宣布苏炳添担任小米汽车品牌代言人，为什么是苏炳添？此次代言能为小米带来哪些价值？",
@@ -125,122 +253,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "汽车",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "三星电子：计划2026年在研发与设施方面投资至少110万亿韩元。 计划2026年派发9.8万亿韩元常规股息。 寻求机器人、医疗技术、汽车电子、暖通空调领域有意义的并购。",
-          "url": "https://wallstreetcn.com/livenews/3073075",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时54分"
-        },
-        {
-          "title": "岚图汽车港股上市",
-          "url": "https://www.toutiao.com/trending/7618017570259484713/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时01分 ~ 15时02分]"
-        },
-        {
-          "title": "指引更明确 市场监管总局发布2026版汽车召回用户指南",
-          "url": "https://wallstreetcn.com/livenews/3073143",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时41分"
-        },
-        {
-          "title": "吉利控股CEO：预计吉利汽车品牌的车型很快将获得加拿大官方的认证",
-          "url": "https://wallstreetcn.com/livenews/3072561",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        },
-        {
-          "title": "三部门：加快补齐汽车芯片、基础软件等短板，推动扩大应用规模",
-          "url": "https://www.cls.cn/detail/2317835",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时41分"
-        },
-        {
-          "title": "董明珠回应换车称中国汽车看吉利",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%91%A3%E6%98%8E%E7%8F%A0%E5%9B%9E%E5%BA%94%E6%8D%A2%E8%BD%A6%E7%A7%B0%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E7%9C%8B%E5%90%89%E5%88%A9%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时53分"
-        },
-        {
-          "title": "三部门：加快补齐汽车芯片、基础软件等短板，推动扩大应用规模",
-          "url": "https://flash.jin10.com/detail/20260319122113204800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时53分"
-        },
-        {
-          "title": "金杯汽车：控股子公司获8.86亿元乘用车内饰项目定点",
-          "url": "https://flash.jin10.com/detail/20260319170455652800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时41分"
-        },
-        {
-          "title": "恒生指数公司：推出六条新指数，包含恒生港美超大型股指数、恒生港美大型股指数、恒生科技美股人工智能指数、恒生科技美股汽车指数、恒生港美机器人主题指数、恒生亚洲精选新经济指数。",
-          "url": "https://wallstreetcn.com/livenews/3073096",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时41分"
-        },
-        {
-          "title": "岚图汽车历时5个月正式登陆港交所",
-          "url": "https://www.toutiao.com/trending/7618788040982400555/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时53分"
         }
       ]
     },
