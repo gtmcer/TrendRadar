@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-20T14:53:36.350051+08:00",
-  "total_titles_processed": 1225,
+  "generated_at": "2026-03-20T15:45:27.276637+08:00",
+  "total_titles_processed": 1320,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "小米汽车",
@@ -32,8 +32,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时28分 ~ 14时53分]"
+          "appearance_count": 7,
+          "time_info": "[07时28分 ~ 15时45分]"
         },
         {
           "title": "小米新一代 SU7 发布，王传福、李想、何小鹏纷纷到场助阵，怎样解读？小米汽车在行业内有怎样的影响力？",
@@ -44,8 +44,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时57分 ~ 14时53分]"
+          "appearance_count": 5,
+          "time_info": "[09时57分 ~ 15时45分]"
         },
         {
           "title": "港股恒生科技指数午后跌超2%，恒生指数跌0.82%，科网股持续疲软，小米集团(01810.HK)跌超7%，阿里巴巴(09988.HK)跌超6.3%，小鹏汽车(09868.HK)跌近5%，京东(09618.HK)跌超3.5%。",
@@ -76,7 +76,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时53分"
         },
@@ -123,11 +123,12 @@
           "source": "百度热搜",
           "ranks": [
             26,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时51分 ~ 14时53分]"
+          "appearance_count": 3,
+          "time_info": "[13时51分 ~ 15时45分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌1%。 热门中概股里，阿特斯太阳能初步收跌27%，阿里巴巴跌7%，大全新能源跌5.5%，贝壳、百度跌超2%，腾讯跌1.4%，小鹏则涨1.9%，亚朵涨4%。",
@@ -158,9 +159,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时53分"
+        },
+        {
+          "title": "港股恒生科技指数加速下挫跌超3%，恒生指数跌1.44%，小米集团(01810.HK)跌超8%，阿里巴巴(09988.HK)跌超7%，小鹏汽车(09868.HK)、中芯国际(00981.HK)均跌超5%。",
+          "url": "https://flash.jin10.com/detail/20260320150305047800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
         },
         {
           "title": "A股光伏设备板块午后快速拉升，钧达股份、永臻股份、德业股份、上能电气、首航新航等10股涨停。消息面上，企业回应特斯拉计划采购中国光伏设备称确有此事。",
@@ -224,7 +236,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时53分"
         },
@@ -254,8 +266,19 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "海马汽车：公司已关注三部委发布的《关于开展氢能综合应用试点的通知》，将积极研究相关支持举措，推动氢能乘用车示范运营的规模。",
+          "url": "https://flash.jin10.com/detail/20260320151243962800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
+        },
         {
           "title": "吉利汽车(00175.HK)正式发布全球首台星耀6绿色甲醇动力统一规格赛车。",
           "url": "https://flash.jin10.com/detail/20260320132041302800",
@@ -280,6 +303,17 @@
           "time_info": "[04时35分 ~ 05时34分]"
         },
         {
+          "title": "美国国家公路交通安全管理局：现代汽车美国公司召回61,093辆美国市场车辆，原因是乘客，尤其是儿童，可能会被后排电动座椅夹住，从而增加受伤风险。",
+          "url": "https://flash.jin10.com/detail/20260320150603415800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
+        },
+        {
           "title": "ETF开盘：港股通汽车ETF汇添富领涨10.01%，能源化工ETF建信领跌5.11%",
           "url": "https://flash.jin10.com/detail/20260320092856463800",
           "source": "金十数据",
@@ -300,6 +334,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "华为汽车 鸿蒙智行 问界 尚界 尊界 智界 享界 乾崑",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "智界V9诺贝尔奖材料MOFs上车",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%99%BA%E7%95%8CV9%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%A5%96%E6%9D%90%E6%96%99MOFs%E4%B8%8A%E8%BD%A6%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
         }
       ]
     }
