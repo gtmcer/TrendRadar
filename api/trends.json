@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-21T09:52:17.207412+08:00",
-  "total_titles_processed": 763,
+  "generated_at": "2026-03-21T12:05:07.055910+08:00",
+  "total_titles_processed": 889,
   "failed_sources": [],
   "trends": [
     {
@@ -102,6 +102,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "华为汽车 鸿蒙智行 问界 尚界 尊界 智界 享界 乾崑",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "尚界Z7十款车色全部亮相",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%9A%E7%95%8CZ7%E5%8D%81%E6%AC%BE%E8%BD%A6%E8%89%B2%E5%85%A8%E9%83%A8%E4%BA%AE%E7%9B%B8%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时04分 ~ 12时05分]"
         }
       ]
     }
