@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-22T14:50:13.497871+08:00",
-  "total_titles_processed": 868,
+  "generated_at": "2026-03-22T15:38:12.366190+08:00",
+  "total_titles_processed": 915,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            9
+            9,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时52分 ~ 14时50分]"
+          "appearance_count": 3,
+          "time_info": "[13时52分 ~ 15时38分]"
         },
         {
           "title": "特斯拉：打造TERAFAB芯片工厂是为了弥合当下芯片产能与未来需求的鸿沟",
@@ -25,11 +26,12 @@
           "source": "金十数据",
           "ranks": [
             6,
-            14
+            14,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时52分 ~ 14时50分]"
+          "appearance_count": 3,
+          "time_info": "[13时52分 ~ 15时38分]"
         }
       ]
     },
