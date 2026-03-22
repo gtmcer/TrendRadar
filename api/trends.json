@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-22T16:33:11.348403+08:00",
-  "total_titles_processed": 971,
+  "generated_at": "2026-03-22T17:31:52.316904+08:00",
+  "total_titles_processed": 1038,
   "failed_sources": [],
   "trends": [
     {
@@ -37,8 +37,19 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "油价震荡波及汽车业了吗",
+          "url": "https://www.toutiao.com/trending/7619982956676779556/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
         {
           "title": "苏州更新汽车购新补贴政策：3月21日起至6月30日购买新车最高补贴7000元",
           "url": "https://flash.jin10.com/detail/20260322113616560800",
