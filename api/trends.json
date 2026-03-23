@@ -1,30 +1,11 @@
 {
-  "generated_at": "2026-03-23T07:26:28.018314+08:00",
-  "total_titles_processed": 512,
+  "generated_at": "2026-03-23T10:05:14.171494+08:00",
+  "total_titles_processed": 678,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "马斯克称 SpaceX 与特斯拉将公布 Terafab 项目，年产超 1 太瓦算力意味着什么？",
-          "url": "https://www.zhihu.com/question/2018971986232132974",
-          "source": "知乎",
-          "ranks": [
-            8,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时35分 ~ 07时26分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "汽车",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "国家发改委主任郑栅洁会见大众汽车集团管理董事会主席奥博穆",
@@ -37,6 +18,37 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时29分 ~ 02时35分]"
+        },
+        {
+          "title": "国家发改委主任会见大众汽车集团管理董事会主席奥博穆",
+          "url": "https://flash.jin10.com/detail/20260323095039705800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "马斯克称 SpaceX 与特斯拉将公布 Terafab 项目，年产超 1 太瓦算力意味着什么？",
+          "url": "https://www.zhihu.com/question/2018971986232132974",
+          "source": "知乎",
+          "ranks": [
+            8,
+            7,
+            5,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[02时35分 ~ 10时05分]"
         }
       ]
     }
