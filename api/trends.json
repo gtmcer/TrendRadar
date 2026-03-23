@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-23T15:08:00.842740+08:00",
-  "total_titles_processed": 1014,
+  "generated_at": "2026-03-23T16:54:05.471513+08:00",
+  "total_titles_processed": 1163,
   "failed_sources": [],
   "trends": [
     {
@@ -101,9 +101,26 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "华为汽车 鸿蒙智行 问界 尚界 尊界 智界 享界 乾崑",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "问界M6",
+          "url": "https://s.weibo.com/weibo?q=%E9%97%AE%E7%95%8CM6&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时53分 ~ 16时54分]"
         }
       ]
     }
