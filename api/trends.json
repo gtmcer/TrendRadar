@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-23T22:53:51.747243+08:00",
-  "total_titles_processed": 1663,
+  "generated_at": "2026-03-23T23:58:56.088293+08:00",
+  "total_titles_processed": 1751,
   "failed_sources": [],
   "trends": [
     {
@@ -55,6 +55,17 @@
           "time_info": "[19时04分 ~ 21时04分]"
         },
         {
+          "title": "尚界 Z7 预售 22.98 万起，全系标配华为 896 线激光雷达等黑科技，你有哪些期待？",
+          "url": "https://www.zhihu.com/question/2019363621617025238",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时53分 ~ 23时58分]"
+        },
+        {
           "title": "问界M7新增夜紫车色",
           "url": "https://www.toutiao.com/trending/7619873139577683987/",
           "source": "今日头条",
@@ -86,17 +97,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时04分"
-        },
-        {
-          "title": "尚界 Z7 预售 22.98 万起，全系标配华为 896 线激光雷达等黑科技，你有哪些期待？",
-          "url": "https://www.zhihu.com/question/2019363621617025238",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时53分"
         },
         {
           "title": "尚界Z7/Z7T开启预售",
@@ -149,8 +149,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时03分 ~ 22时53分]"
+          "appearance_count": 4,
+          "time_info": "[21时03分 ~ 23时58分]"
         },
         {
           "title": "小鹏成立Robotaxi业务部",
@@ -265,7 +265,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时53分"
         }
@@ -281,11 +281,12 @@
           "source": "今日头条",
           "ranks": [
             9,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时03分 ~ 22时53分]"
+          "appearance_count": 4,
+          "time_info": "[21时03分 ~ 23时58分]"
         }
       ]
     }
