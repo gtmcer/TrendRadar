@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-25T05:36:59.134563+08:00",
-  "total_titles_processed": 603,
+  "generated_at": "2026-03-25T06:29:53.309730+08:00",
+  "total_titles_processed": 626,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时06分 ~ 05时36分]"
+          "appearance_count": 8,
+          "time_info": "[00时06分 ~ 06时29分]"
         },
         {
           "title": "峰学蔚来",
@@ -28,11 +28,12 @@
             13,
             17,
             15,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时55分 ~ 05时36分]"
+          "appearance_count": 7,
+          "time_info": "[01时55分 ~ 06时29分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌0.4%。 热门中概股里，文远知行初步收涨9.5%，晶科能源涨6.5%，理想、万国数据至多涨2.8%，拼多多涨1.8%，比亚迪涨1.7%，美团、腾讯、新东方、小鹏涨幅不足1%，京东、阿里、百胜中国至多跌0.4%，网易、蔚来、百度至多跌1.7%，小米跌2%，汽车之家跌3.7%。",
@@ -52,7 +53,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
         }
@@ -72,8 +73,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时06分 ~ 05时36分]"
+          "appearance_count": 8,
+          "time_info": "[00时06分 ~ 06时29分]"
         }
       ]
     },
