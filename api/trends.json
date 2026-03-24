@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-25T06:29:53.309730+08:00",
-  "total_titles_processed": 626,
+  "generated_at": "2026-03-25T07:31:21.941845+08:00",
+  "total_titles_processed": 718,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时06分 ~ 06时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时06分 ~ 07时31分]"
         },
         {
           "title": "峰学蔚来",
@@ -32,8 +32,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时55分 ~ 06时29分]"
+          "appearance_count": 9,
+          "time_info": "[01时55分 ~ 07时31分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌0.4%。 热门中概股里，文远知行初步收涨9.5%，晶科能源涨6.5%，理想、万国数据至多涨2.8%，拼多多涨1.8%，比亚迪涨1.7%，美团、腾讯、新东方、小鹏涨幅不足1%，京东、阿里、百胜中国至多跌0.4%，网易、蔚来、百度至多跌1.7%，小米跌2%，汽车之家跌3.7%。",
@@ -60,6 +60,34 @@
       ]
     },
     {
+      "keyword_group": "汽车",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "小米电话会：未来三年AI领域投入600亿，内存涨价“尽力消化不排除传导”，汽车出海时间表不变",
+          "url": "https://wallstreetcn.com/articles/3768269",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "据英国金融时报：大众汽车将与以色列“铁穹”制造商达成协议，从汽车业务转向导弹防御业务。",
+          "url": "https://flash.jin10.com/detail/20260325010324115800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时55分"
+        }
+      ]
+    },
+    {
       "keyword_group": "华为汽车 鸿蒙智行 问界 尚界 尊界 智界 享界 乾崑",
       "match_count": 1,
       "titles": [
@@ -75,23 +103,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时06分 ~ 06时29分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "汽车",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "据英国金融时报：大众汽车将与以色列“铁穹”制造商达成协议，从汽车业务转向导弹防御业务。",
-          "url": "https://flash.jin10.com/detail/20260325010324115800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时55分"
         }
       ]
     }
