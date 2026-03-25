@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-25T14:02:11.019295+08:00",
-  "total_titles_processed": 1183,
+  "generated_at": "2026-03-25T15:14:46.476732+08:00",
+  "total_titles_processed": 1288,
   "failed_sources": [],
   "trends": [
     {
@@ -102,11 +102,12 @@
           "source": "贴吧",
           "ranks": [
             12,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时52分 ~ 14时02分]"
+          "appearance_count": 5,
+          "time_info": "[12时52分 ~ 15时14分]"
         },
         {
           "title": "小米电话会：未来三年AI领域投入600亿，内存涨价“尽力消化不排除传导”，汽车出海时间表不变",
@@ -116,8 +117,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时31分"
+          "appearance_count": 2,
+          "time_info": "[07时31分 ~ 15时14分]"
         },
         {
           "title": "据英国金融时报：大众汽车将与以色列“铁穹”制造商达成协议，从汽车业务转向导弹防御业务。",
