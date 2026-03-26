@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-26T10:08:46.697818+08:00",
-  "total_titles_processed": 869,
+  "generated_at": "2026-03-26T13:05:09.018207+08:00",
+  "total_titles_processed": 1046,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352305&amp;topic_name=%E8%AF%84%E6%B5%8B%E9%80%A0%E5%81%87%2C%E6%B1%BD%E8%BD%A6%E4%B9%8B%E5%AE%B6%E9%81%AD%E5%AE%98%E6%96%B9%E6%95%B4%E6%B2%BB",
           "source": "贴吧",
           "ranks": [
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时12分 ~ 10时08分]"
+          "appearance_count": 14,
+          "time_info": "[00时12分 ~ 13时05分]"
         },
         {
           "title": "周三（3月25日），彭博电动汽车价格回报指数涨1.67%，报3603.47点，亚太盘初以来，大部分时间高位震荡。",
@@ -29,6 +30,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时37分 ~ 05时37分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "华为汽车 鸿蒙智行 问界 尚界 尊界 智界 享界 乾崑",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "问界 M6 会对智界 R7 构成严重冲击吗？",
+          "url": "https://www.zhihu.com/question/1999877795145343169",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时04分 ~ 13时05分]"
         }
       ]
     },
@@ -61,7 +79,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时08分"
         }
