@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-26T21:11:46.963253+08:00",
-  "total_titles_processed": 1674,
+  "generated_at": "2026-03-26T23:02:57.314462+08:00",
+  "total_titles_processed": 1804,
   "failed_sources": [],
   "trends": [
     {
@@ -26,7 +26,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
         },
@@ -36,11 +36,12 @@
           "source": "今日头条",
           "ranks": [
             8,
-            24
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时01分 ~ 19时04分]"
+          "appearance_count": 4,
+          "time_info": "[18时01分 ~ 23时02分]"
         },
         {
           "title": "小鹏正式登陆墨西哥",
@@ -49,7 +50,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
         },
@@ -101,7 +102,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
         }
