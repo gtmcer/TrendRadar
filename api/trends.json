@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-27T10:09:37.359671+08:00",
-  "total_titles_processed": 845,
+  "generated_at": "2026-03-27T13:06:30.884052+08:00",
+  "total_titles_processed": 1022,
   "failed_sources": [],
   "trends": [
     {
@@ -37,7 +37,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
         },
@@ -67,7 +67,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "日本人为何对中国汽车“一无所知”",
@@ -100,7 +100,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
         },
@@ -111,9 +111,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
+        },
+        {
+          "title": "塔塔汽车乘用车业务股价下跌4.3%，此前捷豹路虎宣布将其英国工厂停产最长两周。",
+          "url": "https://flash.jin10.com/detail/20260327122603260800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时06分"
         }
       ]
     }
