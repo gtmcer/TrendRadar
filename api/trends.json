@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-28T16:37:31.946580+08:00",
-  "total_titles_processed": 1202,
+  "generated_at": "2026-03-28T17:36:01.163830+08:00",
+  "total_titles_processed": 1277,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "小鹏汽车更名小鹏集团",
@@ -32,11 +32,12 @@
             18,
             21,
             23,
-            27
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时01分 ~ 16时37分]"
+          "appearance_count": 7,
+          "time_info": "[10时01分 ~ 17时36分]"
         },
         {
           "title": "特斯拉辟谣Model 3标准版在华上市：暂无引入计划",
@@ -59,6 +60,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时37分"
+        },
+        {
+          "title": "小鹏汽车公司中文名称将变更为「小鹏集团」，这一变化意味着什么？可能有哪些商业考量？",
+          "url": "https://www.zhihu.com/question/2020939119086364459",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时35分 ~ 17时36分]"
         },
         {
           "title": "特斯拉55座超充站落地重庆高速",
