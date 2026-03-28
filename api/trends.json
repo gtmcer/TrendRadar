@@ -1,22 +1,34 @@
 {
-  "generated_at": "2026-03-29T00:32:45.774011+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-29T01:28:13.734341+08:00",
+  "total_titles_processed": 359,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "马斯克：欧洲人一定会喜欢特斯拉(TSLA.O)的自动驾驶功能。由于欧盟的监管负担极其沉重，这通常会扼杀欧洲的创新，因此，那里的特斯拉车主至今只能使用基本的车道跟随功能。",
+          "url": "https://flash.jin10.com/detail/20260329010123344800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时28分"
+        },
         {
           "title": "小鹏汽车公司中文名称将变更为「小鹏集团」，这一变化意味着什么？可能有哪些商业考量？",
           "url": "https://www.zhihu.com/question/2020939119086364459",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 3,
+          "time_info": "[00时32分 ~ 01时28分]"
         }
       ]
     }
