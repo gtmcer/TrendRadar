@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T17:36:01.163830+08:00",
-  "total_titles_processed": 1277,
+  "generated_at": "2026-03-28T18:31:47.473447+08:00",
+  "total_titles_processed": 1334,
   "failed_sources": [],
   "trends": [
     {
@@ -66,11 +66,12 @@
           "url": "https://www.zhihu.com/question/2020939119086364459",
           "source": "知乎",
           "ranks": [
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时35分 ~ 17时36分]"
+          "appearance_count": 3,
+          "time_info": "[17时35分 ~ 18时31分]"
         },
         {
           "title": "特斯拉55座超充站落地重庆高速",
