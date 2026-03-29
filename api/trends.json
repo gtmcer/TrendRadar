@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-29T18:32:02.522513+08:00",
-  "total_titles_processed": 1108,
+  "generated_at": "2026-03-29T19:27:59.241208+08:00",
+  "total_titles_processed": 1168,
   "failed_sources": [],
   "trends": [
     {
@@ -145,11 +145,12 @@
           "ranks": [
             2,
             7,
-            14
+            14,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时38分 ~ 18时32分]"
+          "appearance_count": 4,
+          "time_info": "[16时38分 ~ 19时27分]"
         },
         {
           "title": "北京启动智能网联新能源汽车商业保险开发应用",
@@ -157,11 +158,12 @@
           "source": "金十数据",
           "ranks": [
             13,
-            19
+            19,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时36分 ~ 18时32分]"
+          "appearance_count": 3,
+          "time_info": "[17时36分 ~ 19时27分]"
         }
       ]
     },
