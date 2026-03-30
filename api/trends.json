@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-03-30T17:10:31.999589+08:00",
-  "total_titles_processed": 1189,
+  "generated_at": "2026-03-30T19:02:02.023695+08:00",
+  "total_titles_processed": 1323,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "新能源汽车",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "市场监管总局：着力防治平台经济、光伏、锂电池、新能源汽车等重点行业和领域“内卷式”竞争",
+          "url": "https://flash.jin10.com/detail/20260330130759464800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时23分"
+        },
+        {
+          "title": "市场监管总局：着力防治平台经济、光伏、锂电池、新能源汽车等重点行业和领域“内卷式”竞争",
+          "url": "https://wallstreetcn.com/livenews/3078970",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时23分"
+        },
+        {
+          "title": "市场监管总局：着力防治平台经济、光伏、锂电池、新能源汽车等重点行业和领域“内卷式”竞争",
+          "url": "https://www.cls.cn/detail/2328703",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时01分 ~ 19时02分]"
+        }
+      ]
+    },
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
       "match_count": 2,
@@ -28,34 +67,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新能源汽车",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "市场监管总局：着力防治平台经济、光伏、锂电池、新能源汽车等重点行业和领域“内卷式”竞争",
-          "url": "https://flash.jin10.com/detail/20260330130759464800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时23分"
-        },
-        {
-          "title": "市场监管总局：着力防治平台经济、光伏、锂电池、新能源汽车等重点行业和领域“内卷式”竞争",
-          "url": "https://wallstreetcn.com/livenews/3078970",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时23分"
         }
       ]
     },
