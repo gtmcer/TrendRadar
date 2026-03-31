@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-31T13:08:36.896552+08:00",
-  "total_titles_processed": 1079,
+  "generated_at": "2026-03-31T15:11:58.551640+08:00",
+  "total_titles_processed": 1203,
   "failed_sources": [],
   "trends": [
     {
@@ -24,6 +24,17 @@
           "time_info": "[01时54分 ~ 10时10分]"
         },
         {
+          "title": "张雪参加 wsbk 世界超级摩托车锦标赛，是一个什么级别的赛事，比赛有何特点，可类比汽车比赛里的什么？",
+          "url": "https://www.zhihu.com/question/2021910124273426974",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时08分 ~ 15时11分]"
+        },
+        {
           "title": "英国方面表示，贷款机构面临75亿欧元的汽车贷款赔偿账单，而此前的赔偿金额为82亿欧元。",
           "url": "https://flash.jin10.com/detail/20260330234920036800",
           "source": "金十数据",
@@ -33,17 +44,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时05分"
-        },
-        {
-          "title": "张雪参加 wsbk 世界超级摩托车锦标赛，是一个什么级别的赛事，比赛有何特点，可类比汽车比赛里的什么？",
-          "url": "https://www.zhihu.com/question/2021910124273426974",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时08分"
         },
         {
           "title": "通用汽车(GM.N)：底特律电动汽车工厂将停产至4月13日。",
@@ -101,7 +101,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
         },
