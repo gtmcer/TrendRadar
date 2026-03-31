@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-04-01T00:12:29.037988+08:00",
-  "total_titles_processed": 307,
+  "generated_at": "2026-04-01T01:56:02.201007+08:00",
+  "total_titles_processed": 399,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "汽车",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "据日经新闻：法国与日本政府拟于年底在法国西南部启动公私合作项目，该项目将提纯用于电动汽车电机及其他技术的重稀土。",
+          "url": "https://flash.jin10.com/detail/20260401010742198800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时56分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://gtmcer.github.io/TrendRadar/img/news.jpg"
 }
