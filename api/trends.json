@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-31T15:11:58.551640+08:00",
-  "total_titles_processed": 1203,
+  "generated_at": "2026-03-31T16:58:02.600017+08:00",
+  "total_titles_processed": 1354,
   "failed_sources": [],
   "trends": [
     {
@@ -28,11 +28,12 @@
           "url": "https://www.zhihu.com/question/2021910124273426974",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时08分 ~ 15时11分]"
+          "appearance_count": 4,
+          "time_info": "[13时08分 ~ 16时58分]"
         },
         {
           "title": "英国方面表示，贷款机构面临75亿欧元的汽车贷款赔偿账单，而此前的赔偿金额为82亿欧元。",
@@ -155,6 +156,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "华为汽车 鸿蒙智行 问界 尚界 尊界 智界 享界 乾崑",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "五菱华为乾崑双向奔赴",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%94%E8%8F%B1%E5%8D%8E%E4%B8%BA%E4%B9%BE%E5%B4%91%E5%8F%8C%E5%90%91%E5%A5%94%E8%B5%B4%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时57分 ~ 16时58分]"
         }
       ]
     },
