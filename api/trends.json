@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-01T21:18:29.162551+08:00",
-  "total_titles_processed": 1731,
+  "generated_at": "2026-04-01T23:03:02.746379+08:00",
+  "total_titles_processed": 1852,
   "failed_sources": [],
   "trends": [
     {
@@ -209,7 +209,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "现代汽车：3月全球销量同比下降2.3%，至358,759辆。3月韩国市场电动汽车销量同比增长38%，达7,809辆。",
@@ -233,6 +233,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时33分 ~ 07时33分]"
+        },
+        {
+          "title": "吉利汽车3月汽车总销量为23.3万辆",
+          "url": "https://www.toutiao.com/trending/7622988378929971243/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时02分 ~ 23时03分]"
         },
         {
           "title": "周二（3月31日），彭博电动汽车价格回报指数跌0.52%，报3524.91点，3月份累跌5.35%，一季度大致持平。",
@@ -286,7 +297,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时18分"
         },
@@ -297,7 +308,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时18分"
         },
@@ -330,7 +341,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时18分"
         },
@@ -361,8 +372,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时54分 ~ 21时18分]"
+          "appearance_count": 5,
+          "time_info": "[18时54分 ~ 23时03分]"
         },
         {
           "title": "赛力斯：3月新能源汽车销量22,706辆，同比增长20.74%；其中赛力斯汽车销量20,234辆，同比增长47.74%。",
