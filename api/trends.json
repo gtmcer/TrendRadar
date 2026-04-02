@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-02T13:02:28.624475+08:00",
-  "total_titles_processed": 1025,
+  "generated_at": "2026-04-02T15:10:31.210445+08:00",
+  "total_titles_processed": 1184,
   "failed_sources": [],
   "trends": [
     {
@@ -77,9 +77,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时02分 ~ 15时10分]"
         },
         {
           "title": "周三（4月1日），彭博电动汽车价格回报指数涨2.90%，报3619.76点，亚太盘初以来持续上涨，北京时间14:00过后持续高位窄幅震荡。 成分股Ola Electric Mobility Ltd.收涨13.55%，蔚来集团H股收涨10.31%，浙江零跑科技H股收涨9%表现第三，日本电产株式会社涨7.48%涨幅第五大，Panasonic株式会社涨7.29%表现靠前。 文远知行则跌2.7%，雅迪集团控股H股收跌2.72%，微宏控股跌3%。",
@@ -98,11 +98,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32872883",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            16,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时02分 ~ 15时10分]"
         },
         {
           "title": "葡萄牙3月份特斯拉新车注册量同比下降1.7%，1—3月累计同比增长27.1%。",
@@ -128,7 +129,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         }
