@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-02T18:02:17.229282+08:00",
-  "total_titles_processed": 1444,
+  "generated_at": "2026-04-02T19:06:57.335579+08:00",
+  "total_titles_processed": 1555,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             2,
             4,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时02分 ~ 18时02分]"
+          "appearance_count": 6,
+          "time_info": "[13时02分 ~ 19时06分]"
         },
         {
           "title": "新势力3月销量环比大幅提升：零跑重回5万辆大关，理想超4万辆",
@@ -31,8 +32,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时02分 ~ 18时02分]"
+          "appearance_count": 6,
+          "time_info": "[13时02分 ~ 19时06分]"
         },
         {
           "title": "周三（4月1日），彭博电动汽车价格回报指数涨2.90%，报3619.76点，亚太盘初以来持续上涨，北京时间14:00过后持续高位窄幅震荡。 成分股Ola Electric Mobility Ltd.收涨13.55%，蔚来集团H股收涨10.31%，浙江零跑科技H股收涨9%表现第三，日本电产株式会社涨7.48%涨幅第五大，Panasonic株式会社涨7.29%表现靠前。 文远知行则跌2.7%，雅迪集团控股H股收跌2.72%，微宏控股跌3%。",
@@ -53,7 +54,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
