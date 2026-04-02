@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-02T21:10:10.252150+08:00",
-  "total_titles_processed": 1709,
+  "generated_at": "2026-04-02T22:55:12.098493+08:00",
+  "total_titles_processed": 1835,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "单月交付破万,极氪赢麻",
@@ -19,8 +19,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时02分 ~ 21时10分]"
+          "appearance_count": 10,
+          "time_info": "[13时02分 ~ 22时55分]"
         },
         {
           "title": "新势力3月销量环比大幅提升：零跑重回5万辆大关，理想超4万辆",
@@ -31,11 +31,12 @@
             12,
             11,
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时02分 ~ 21时10分]"
+          "appearance_count": 10,
+          "time_info": "[13时02分 ~ 22时55分]"
         },
         {
           "title": "马斯克确认停产特斯拉两款车型",
@@ -59,6 +60,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时55分 ~ 05时40分]"
+        },
+        {
+          "title": "美股三大指数低开 特斯拉跌逾4%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E4%BD%8E%E5%BC%80+%E7%89%B9%E6%96%AF%E6%8B%89%E8%B7%8C%E9%80%BE4%25",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时54分 ~ 22时55分]"
         },
         {
           "title": "2026款小鹏MONA大大大大大升级",
@@ -100,7 +112,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时10分"
         },
@@ -119,7 +131,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "斯泰兰蒂斯集团Stellantis洽谈在闲置的加拿大工厂生产中国电动汽车。",
@@ -155,6 +167,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时53分 ~ 01时49分]"
+        },
+        {
+          "title": "人民日报评汽车“销冠”易主",
+          "url": "https://www.toutiao.com/trending/7624133928287748142/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时54分 ~ 22时55分]"
         },
         {
           "title": "市场消息：美国汽车行业组织呼吁废除美国联邦燃油税，并以车辆使用费取而代之，用于道路维修资金。",
