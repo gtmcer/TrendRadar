@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T05:36:37.095216+08:00",
-  "total_titles_processed": 595,
+  "generated_at": "2026-04-03T06:30:46.189673+08:00",
+  "total_titles_processed": 637,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时01分 ~ 05时36分]"
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 06时30分]"
         },
         {
           "title": "单月交付破万,极氪赢麻",
@@ -28,8 +28,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时01分 ~ 05时36分]"
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 06时30分]"
         },
         {
           "title": "美股三大指数低开 特斯拉跌逾4%",
@@ -41,11 +41,12 @@
             27,
             22,
             17,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时01分 ~ 05时36分]"
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 06时30分]"
         },
         {
           "title": "SpaceX有望冲刺2万亿美元估值，将超Meta和特斯拉",
@@ -53,11 +54,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            14
+            14,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时34分 ~ 05时36分]"
+          "appearance_count": 3,
+          "time_info": "[04时34分 ~ 06时30分]"
         },
         {
           "title": "美股周四收盘，道指初步收跌0.13%，标普500指数涨0.1%，纳指涨0.18%。特斯拉(TSLA.O)收跌超5%。纳斯达克中国金龙指数收跌0.34%。",
@@ -113,7 +115,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
         }
@@ -131,8 +133,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时01分 ~ 05时36分]"
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 06时30分]"
         },
         {
           "title": "4 月 2 日雷军直播新一代 SU7 拆车，有什么亮点信息？官方拆车直播会成为各汽车品牌的基本操作吗？",
@@ -146,8 +148,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时01分 ~ 05时36分]"
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 06时30分]"
         },
         {
           "title": "周四（4月2日），彭博电动汽车价格回报指数跌0.91%，报3589.74点，大部分时间低位震荡。",
