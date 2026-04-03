@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T07:34:14.856893+08:00",
-  "total_titles_processed": 686,
+  "generated_at": "2026-04-03T10:08:26.550288+08:00",
+  "total_titles_processed": 851,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "source": "贴吧",
           "ranks": [
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时01分 ~ 07时34分]"
+          "appearance_count": 12,
+          "time_info": "[00时01分 ~ 10时08分]"
         },
         {
           "title": "美股三大指数低开 特斯拉跌逾4%",
@@ -123,18 +124,19 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "人民日报评汽车“销冠”易主",
           "url": "https://www.toutiao.com/trending/7624133928287748142/",
           "source": "今日头条",
           "ranks": [
-            1
+            1,
+            28
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时01分 ~ 07时34分]"
+          "appearance_count": 12,
+          "time_info": "[00时01分 ~ 10时08分]"
         },
         {
           "title": "4 月 2 日雷军直播新一代 SU7 拆车，有什么亮点信息？官方拆车直播会成为各汽车品牌的基本操作吗？",
@@ -149,8 +151,30 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时01分 ~ 07时34分]"
+          "appearance_count": 12,
+          "time_info": "[00时01分 ~ 10时08分]"
+        },
+        {
+          "title": "人民日报评汽车“销冠”易主",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E6%B1%BD%E8%BD%A6%E2%80%9C%E9%94%80%E5%86%A0%E2%80%9D%E6%98%93%E4%B8%BB",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
+          "title": "滴滴出行、北京汽车研究总院合资成立桔汽科技公司",
+          "url": "https://flash.jin10.com/detail/20260403095423029800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
         },
         {
           "title": "多地限时发放汽车消费券",
@@ -159,7 +183,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
         },
