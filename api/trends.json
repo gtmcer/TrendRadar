@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-05T04:29:59.033127+08:00",
-  "total_titles_processed": 420,
+  "generated_at": "2026-04-05T05:30:45.220834+08:00",
+  "total_titles_processed": 435,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 04时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 05时30分]"
         },
         {
           "title": "何小鹏：汽车行业已进入转折最关键阶段，规模只是第一个门槛",
@@ -30,8 +30,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 04时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 05时30分]"
         }
       ]
     },
@@ -44,11 +44,12 @@
           "url": "https://www.zhihu.com/question/2022807584403465039",
           "source": "知乎",
           "ranks": [
-            18
+            18,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时30分 ~ 04时29分]"
+          "appearance_count": 4,
+          "time_info": "[03时30分 ~ 05时30分]"
         }
       ]
     }
