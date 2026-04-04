@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-05T01:28:55.720937+08:00",
-  "total_titles_processed": 357,
+  "generated_at": "2026-04-05T02:40:30.739590+08:00",
+  "total_titles_processed": 387,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 01时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 02时40分]"
         },
         {
           "title": "何小鹏：汽车行业已进入转折最关键阶段，规模只是第一个门槛",
@@ -24,11 +24,12 @@
           "source": "澎湃新闻",
           "ranks": [
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 01时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 02时40分]"
         }
       ]
     }
