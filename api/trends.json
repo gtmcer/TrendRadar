@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-05T10:14:29.711067+08:00",
-  "total_titles_processed": 635,
+  "generated_at": "2026-04-05T13:11:14.475552+08:00",
+  "total_titles_processed": 812,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             18,
             15,
             13,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时30分 ~ 10时14分]"
+          "appearance_count": 9,
+          "time_info": "[03时30分 ~ 13时11分]"
         },
         {
           "title": "美国一辆汽车冲撞游行队伍 已致超20人受伤",
@@ -28,7 +29,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
         },
@@ -39,7 +40,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
         }
@@ -56,11 +57,12 @@
           "ranks": [
             9,
             5,
-            3
+            3,
+            13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时33分 ~ 10时14分]"
+          "appearance_count": 13,
+          "time_info": "[00时33分 ~ 13时11分]"
         },
         {
           "title": "何小鹏：汽车行业已进入转折最关键阶段，规模只是第一个门槛",
