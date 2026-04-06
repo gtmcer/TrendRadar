@@ -1,77 +1,22 @@
 {
-  "generated_at": "2026-04-06T23:44:37.593500+08:00",
-  "total_titles_processed": 1554,
+  "generated_at": "2026-04-07T00:44:46.723925+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "汽车",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "莲花汽车称「不受控制的马力不值一提」，如何评价此观点？",
-          "url": "https://www.zhihu.com/question/2023668175066120925",
-          "source": "知乎",
-          "ranks": [
-            8,
-            7,
-            6,
-            5,
-            3,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时34分 ~ 10时23分]"
-        },
-        {
-          "title": "小牛电动(NIU.O)：2026年第一季度售出261624辆汽车。",
-          "url": "https://flash.jin10.com/detail/20260406160316698800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时07分"
-        },
-        {
-          "title": "据日经新闻：马自达已暂停在日本生产面向中东市场的汽车，直至5月。",
-          "url": "https://flash.jin10.com/detail/20260406140957219800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时28分"
-        }
-      ]
-    },
-    {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
-          "title": "摩根大通下调对特斯拉的盈利预测 该公司发布的一季度交付量不及预期",
-          "url": "https://wallstreetcn.com/livenews/3082868",
-          "source": "华尔街见闻-快讯",
+          "title": "特斯拉(TSLA.O)股价下跌2.3%，此前摩根大通预计其2026年EPS（每股收益）前景疲软。",
+          "url": "https://flash.jin10.com/detail/20260407003113861800",
+          "source": "金十数据",
           "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时44分"
-        },
-        {
-          "title": "小米汽车卖不动了吗",
-          "url": "https://www.toutiao.com/trending/7624553671460175935/",
-          "source": "今日头条",
-          "ranks": [
-            28
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时55分"
+          "time_info": "00时44分"
         }
       ]
     }
