@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-04-07T06:35:28.163134+08:00",
-  "total_titles_processed": 620,
+  "generated_at": "2026-04-07T07:35:10.395880+08:00",
+  "total_titles_processed": 681,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
       "match_count": 7,
       "titles": [
-        {
-          "title": "特斯拉(TSLA.O)股价下跌2.3%，此前摩根大通预计其2026年EPS（每股收益）前景疲软。",
-          "url": "https://flash.jin10.com/detail/20260407003113861800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时44分"
-        },
         {
           "title": "小米汽车卖不动了吗",
           "url": "https://www.toutiao.com/trending/7624553671460175935/",
@@ -28,8 +17,19 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时42分 ~ 06时35分]"
+          "appearance_count": 7,
+          "time_info": "[01时42分 ~ 07时35分]"
+        },
+        {
+          "title": "特斯拉(TSLA.O)股价下跌2.3%，此前摩根大通预计其2026年EPS（每股收益）前景疲软。",
+          "url": "https://flash.jin10.com/detail/20260407003113861800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时44分"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌0.2%。 热门中概股里，小马智行初步收跌3%，文远知行跌2.2%，小鹏、百胜中国、小米跌超1%，阿里巴巴涨0.2%，美团涨0.5%。",
