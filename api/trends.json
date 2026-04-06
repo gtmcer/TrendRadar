@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-06T13:23:01.764854+08:00",
-  "total_titles_processed": 824,
+  "generated_at": "2026-04-06T15:28:08.194971+08:00",
+  "total_titles_processed": 944,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "莲花汽车称「不受控制的马力不值一提」，如何评价此观点？",
@@ -22,6 +22,17 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时34分 ~ 10时23分]"
+        },
+        {
+          "title": "据日经新闻：马自达已暂停在日本生产面向中东市场的汽车，直至5月。",
+          "url": "https://flash.jin10.com/detail/20260406140957219800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
         }
       ]
     }
