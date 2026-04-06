@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-06T17:07:30.891102+08:00",
-  "total_titles_processed": 1067,
+  "generated_at": "2026-04-06T18:55:45.443274+08:00",
+  "total_titles_processed": 1181,
   "failed_sources": [],
   "trends": [
     {
@@ -30,7 +30,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时07分"
         },
@@ -44,6 +44,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "小米汽车卖不动了吗",
+          "url": "https://www.toutiao.com/trending/7624553671460175935/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
         }
       ]
     }
