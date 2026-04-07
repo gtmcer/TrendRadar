@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-07T10:10:49.701282+08:00",
-  "total_titles_processed": 860,
+  "generated_at": "2026-04-07T13:08:39.835876+08:00",
+  "total_titles_processed": 1044,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "小米汽车卖不动了吗",
@@ -60,7 +60,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
         },
@@ -96,12 +96,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
+        },
+        {
+          "title": "理想高管谈张雪三缸机",
+          "url": "https://www.toutiao.com/trending/7625843202259652123/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时08分"
         }
       ]
     },
     {
       "keyword_group": "汽车",
-      "match_count": 1,
+      "match_count": 4,
       "titles": [
         {
           "title": "周一（4月6日），彭博电动汽车价格回报指数涨0.31%，报3599.75点。",
@@ -114,6 +125,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时37分 ~ 06时35分]"
+        },
+        {
+          "title": "英国汽车制造商和贸易商协会：英国3月份的新车注册量增长了约6%。",
+          "url": "https://flash.jin10.com/detail/20260407123048550800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时08分"
+        },
+        {
+          "title": "英国汽车制造商和贸易商协会：随着伊朗危机加剧了消费者信心的不确定性，业界要求对向纯电动汽车（BEV）转型计划进行紧急审查的呼声日益高涨。",
+          "url": "https://flash.jin10.com/detail/20260407123035272800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时08分"
+        },
+        {
+          "title": "零跑汽车：意大利市场一季度上牌量达11637台",
+          "url": "https://flash.jin10.com/detail/20260407115132335800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时08分"
         }
       ]
     }
