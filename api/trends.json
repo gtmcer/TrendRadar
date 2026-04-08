@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-09T04:51:33.465150+08:00",
-  "total_titles_processed": 498,
+  "generated_at": "2026-04-09T05:40:16.756423+08:00",
+  "total_titles_processed": 525,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            14
+            14,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时43分 ~ 05时40分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨3.05%，报6876.97点。 热门中概股里，小马智行初步收涨10.7%，美团涨超9%，金山云、老虎证券涨超7%，亚朵、万国数据、B站涨超5%，阿里巴巴涨4.6%，文远知行、蔚来、小米、拼多多涨超4%，腾讯涨3.7%。 ETF中，中国科技指数ETF（CQQQ）收涨5.94%，中概互联网指数ETF（KWEB）收涨3.71%。 沪深300 2X做多涨8.15%，MSCI新兴市场ex中国ETF涨6.09%，XtrackersHarvest中证50（ASHS）收涨5.57%，德银嘉实沪深300指数ETF（ASHR）收涨4.07%。",
+          "url": "https://wallstreetcn.com/livenews/3084558",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时43分 ~ 04时51分]"
+          "time_info": "[04时51分 ~ 05时40分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收涨3.1%。 热门中概股里，小马智行初步收涨10.7%，美团涨超9%，金山云、老虎证券涨超7%，亚朵、万国数据、B站涨超5%，阿里巴巴涨4.6%，文远知行、蔚来、小米、拼多多涨超4%，腾讯涨3.7%。 ETF中，CHAU涨7.7%，EMXC涨5.9%，CQQQ涨5.8%，ASHS涨5.7%，KWEB涨3.74%。",
@@ -29,17 +42,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时43分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收涨3.05%，报6876.97点。 热门中概股里，小马智行初步收涨10.7%，美团涨超9%，金山云、老虎证券涨超7%，亚朵、万国数据、B站涨超5%，阿里巴巴涨4.6%，文远知行、蔚来、小米、拼多多涨超4%，腾讯涨3.7%。 ETF中，中国科技指数ETF（CQQQ）收涨5.94%，中概互联网指数ETF（KWEB）收涨3.71%。 沪深300 2X做多涨8.15%，MSCI新兴市场ex中国ETF涨6.09%，XtrackersHarvest中证50（ASHS）收涨5.57%，德银嘉实沪深300指数ETF（ASHR）收涨4.07%。",
-          "url": "https://wallstreetcn.com/livenews/3084558",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时51分"
         }
       ]
     }
