@@ -1,12 +1,45 @@
 {
-  "generated_at": "2026-04-09T20:08:37.787534+08:00",
-  "total_titles_processed": 1552,
+  "generated_at": "2026-04-09T21:24:22.553113+08:00",
+  "total_titles_processed": 1687,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 8,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "蔚来ES9",
+          "url": "https://s.weibo.com/weibo?q=%E8%94%9A%E6%9D%A5ES9&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
+        },
+        {
+          "title": "蔚来ES9预售发布，52.8万元起",
+          "url": "https://wallstreetcn.com/livenews/3085135",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
+        },
+        {
+          "title": "欣旺达成为特斯拉全球第五家动力电池供应商",
+          "url": "https://wallstreetcn.com/livenews/3085133",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
+        },
         {
           "title": "东风日产高管谈“摸着理想过河”",
           "url": "https://www.toutiao.com/trending/7626387795717259300/",
@@ -25,7 +58,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时08分"
         },
@@ -77,6 +110,17 @@
           "time_info": "18时58分"
         },
         {
+          "title": "蔚来ES9中国元素",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%94%9A%E6%9D%A5ES9%E4%B8%AD%E5%9B%BD%E5%85%83%E7%B4%A0%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
+        },
+        {
           "title": "据悉特斯拉正开发新款紧凑型SUV 价格将更便宜",
           "url": "https://flash.jin10.com/detail/20260409184019801800",
           "source": "金十数据",
@@ -97,6 +141,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时05分"
+        },
+        {
+          "title": "欣旺达成为特斯拉全球第五家动力电池供应商",
+          "url": "https://flash.jin10.com/detail/20260409210354401800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
         }
       ]
     },
