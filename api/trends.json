@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-12T03:34:37.081061+08:00",
-  "total_titles_processed": 440,
+  "generated_at": "2026-04-12T04:31:39.195170+08:00",
+  "total_titles_processed": 451,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,22 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 04时31分]"
+        },
+        {
+          "title": "理想汽车：遭遇大量恶意拉踩 已报案",
+          "url": "https://www.baidu.com/s?wd=%E7%90%86%E6%83%B3%E6%B1%BD%E8%BD%A6%EF%BC%9A%E9%81%AD%E9%81%87%E5%A4%A7%E9%87%8F%E6%81%B6%E6%84%8F%E6%8B%89%E8%B8%A9+%E5%B7%B2%E6%8A%A5%E6%A1%88",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            18,
+            16,
+            14
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[00时35分 ~ 03时34分]"
+          "time_info": "[01时30分 ~ 04时31分]"
         },
         {
           "title": "蔚来李斌：行业增量不增收、增收不增利很大原因是新车迭代太快",
@@ -26,24 +40,12 @@
             5,
             11,
             20,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时35分 ~ 03时34分]"
-        },
-        {
-          "title": "理想汽车：遭遇大量恶意拉踩 已报案",
-          "url": "https://www.baidu.com/s?wd=%E7%90%86%E6%83%B3%E6%B1%BD%E8%BD%A6%EF%BC%9A%E9%81%AD%E9%81%87%E5%A4%A7%E9%87%8F%E6%81%B6%E6%84%8F%E6%8B%89%E8%B8%A9+%E5%B7%B2%E6%8A%A5%E6%A1%88",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            18,
-            16
+            25,
+            27
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[01时30分 ~ 03时34分]"
+          "time_info": "[00时35分 ~ 04时31分]"
         },
         {
           "title": "理想称遭某品牌恶意拉踩将追究法律责任，东风日产回应：尊重同行",
@@ -75,8 +77,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时35分 ~ 03时34分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 04时31分]"
         }
       ]
     }
