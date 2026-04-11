@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-12T04:31:39.195170+08:00",
-  "total_titles_processed": 451,
+  "generated_at": "2026-04-12T05:31:20.143870+08:00",
+  "total_titles_processed": 477,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时35分 ~ 04时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时35分 ~ 05时31分]"
         },
         {
           "title": "理想汽车：遭遇大量恶意拉踩 已报案",
@@ -26,11 +26,12 @@
             27,
             18,
             16,
-            14
+            14,
+            21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时30分 ~ 04时31分]"
+          "appearance_count": 7,
+          "time_info": "[01时30分 ~ 05时31分]"
         },
         {
           "title": "蔚来李斌：行业增量不增收、增收不增利很大原因是新车迭代太快",
@@ -41,11 +42,12 @@
             11,
             20,
             25,
-            27
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 04时31分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 05时31分]"
         },
         {
           "title": "理想称遭某品牌恶意拉踩将追究法律责任，东风日产回应：尊重同行",
