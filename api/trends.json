@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T18:32:46.953729+08:00",
-  "total_titles_processed": 1239,
+  "generated_at": "2026-04-11T19:29:28.078154+08:00",
+  "total_titles_processed": 1303,
   "failed_sources": [],
   "trends": [
     {
@@ -40,11 +40,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            11
+            11,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时39分 ~ 18时32分]"
+          "appearance_count": 3,
+          "time_info": "[17时39分 ~ 19时29分]"
         },
         {
           "title": "汽车行业已在阿里云上使用超10万卡“真武”PPU研发智驾",
@@ -132,11 +133,12 @@
           "source": "知乎",
           "ranks": [
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时38分 ~ 18时32分]"
+          "appearance_count": 4,
+          "time_info": "[17时38分 ~ 19时29分]"
         },
         {
           "title": "特斯拉：“受监督的全自动驾驶”（FSD Supervised）已在荷兰获批，并将很快在该国开始推行。",
@@ -212,7 +214,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         }
