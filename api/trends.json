@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-12T05:31:20.143870+08:00",
-  "total_titles_processed": 477,
+  "generated_at": "2026-04-12T06:31:30.221877+08:00",
+  "total_titles_processed": 494,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时35分 ~ 05时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时35分 ~ 06时31分]"
         },
         {
           "title": "理想汽车：遭遇大量恶意拉踩 已报案",
@@ -27,11 +27,12 @@
             18,
             16,
             14,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时30分 ~ 05时31分]"
+          "appearance_count": 8,
+          "time_info": "[01时30分 ~ 06时31分]"
         },
         {
           "title": "蔚来李斌：行业增量不增收、增收不增利很大原因是新车迭代太快",
