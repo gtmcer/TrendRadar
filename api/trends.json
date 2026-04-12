@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-12T22:02:07.365886+08:00",
-  "total_titles_processed": 1374,
+  "generated_at": "2026-04-12T22:52:18.192370+08:00",
+  "total_titles_processed": 1450,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "理想汽车：遭遇大量恶意拉踩 已报案",
@@ -67,6 +67,17 @@
           "time_info": "[00时35分 ~ 02时42分]"
         },
         {
+          "title": "郑丽文想带一台小米汽车回去",
+          "url": "https://www.baidu.com/s?wd=%E9%83%91%E4%B8%BD%E6%96%87%E6%83%B3%E5%B8%A6%E4%B8%80%E5%8F%B0%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E5%9B%9E%E5%8E%BB",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
+        },
+        {
           "title": "郑丽文探访小米汽车工厂",
           "url": "https://www.douyin.com/hot/2463571",
           "source": "抖音",
@@ -76,6 +87,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时12分"
+        },
+        {
+          "title": "郑丽文试乘小米汽车",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%83%91%E4%B8%BD%E6%96%87%E8%AF%95%E4%B9%98%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         }
       ]
     },
