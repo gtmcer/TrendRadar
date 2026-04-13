@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-14T00:11:49.743595+08:00",
-  "total_titles_processed": 305,
+  "generated_at": "2026-04-14T01:59:14.027772+08:00",
+  "total_titles_processed": 407,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://www.zhihu.com/question/2026687939418048004",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 01时59分]"
         },
         {
           "title": "全新问界M9外观亮点曝光",
           "url": "https://www.toutiao.com/trending/7628173579451944454/",
           "source": "今日头条",
           "ranks": [
-            26
+            26,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
+          "appearance_count": 3,
+          "time_info": "[00时11分 ~ 01时59分]"
         }
       ]
     },
