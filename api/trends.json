@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-14T04:53:52.876293+08:00",
-  "total_titles_processed": 502,
+  "generated_at": "2026-04-14T06:27:50.377545+08:00",
+  "total_titles_processed": 573,
   "failed_sources": [],
   "trends": [
     {
@@ -23,11 +23,12 @@
           "url": "https://www.zhihu.com/question/15061113534",
           "source": "知乎",
           "ranks": [
-            18
+            18,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时38分 ~ 04时53分]"
+          "appearance_count": 3,
+          "time_info": "[04时38分 ~ 06时27分]"
         },
         {
           "title": "奇瑞汽车风云T9L大五座SUV上市，起售价为12.99万元",
@@ -53,11 +54,12 @@
           "ranks": [
             9,
             14,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时11分 ~ 04时53分]"
+          "appearance_count": 6,
+          "time_info": "[00时11分 ~ 06时27分]"
         },
         {
           "title": "全新问界M9外观亮点曝光",
