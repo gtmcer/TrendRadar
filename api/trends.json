@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-15T06:43:40.069378+08:00",
-  "total_titles_processed": 563,
+  "generated_at": "2026-04-15T07:41:00.821583+08:00",
+  "total_titles_processed": 646,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://flash.jin10.com/detail/20260415054501790800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时43分 ~ 07时41分]"
         },
         {
           "title": "周二（4月14日），彭博电动汽车价格回报指数涨1.66%，报3880.16点。",
@@ -44,11 +45,12 @@
             9,
             8,
             7,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 06时43分]"
+          "appearance_count": 8,
+          "time_info": "[01时04分 ~ 07时41分]"
         }
       ]
     }
