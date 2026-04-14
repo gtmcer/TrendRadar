@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-14T17:18:15.094728+08:00",
-  "total_titles_processed": 1303,
+  "generated_at": "2026-04-14T19:17:42.310450+08:00",
+  "total_titles_processed": 1453,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "周一（4月13日），彭博电动汽车价格回报指数涨1.18%，报3822.27点。 亚太盘初微幅低开，北京时间21:30美股开盘之前窄幅震荡于平盘附近，之后加速上涨，00:00以来持续高位震荡。",
@@ -31,6 +31,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[04时38分 ~ 10时25分]"
+        },
+        {
+          "title": "工信部等三部门：要稳妥有序开展智能网联汽车道路测试与示范应用",
+          "url": "https://wallstreetcn.com/livenews/3087661",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
         },
         {
           "title": "福特CEO反对中国汽车进入美国市场",
@@ -66,6 +77,17 @@
           "time_info": "00时11分"
         },
         {
+          "title": "工信部等三部门：稳妥有序开展智能网联汽车道路测试与示范应用",
+          "url": "https://flash.jin10.com/detail/20260414185331260800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
+        },
+        {
           "title": "中国汽车流通协会：3月汽车经销商库存系数为1.76，环比下降9.7%",
           "url": "https://flash.jin10.com/detail/20260414151358376800",
           "source": "金十数据",
@@ -83,7 +105,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时18分"
         },
@@ -94,7 +116,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时18分"
         }
@@ -130,6 +152,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时11分 ~ 01时59分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "瑞银集团：将特斯拉(TSLA.O)评级上调至“中性”，此前为“卖出”。",
+          "url": "https://flash.jin10.com/detail/20260414184746780800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
         }
       ]
     }
