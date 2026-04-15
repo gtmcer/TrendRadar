@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-16T05:51:40.938478+08:00",
-  "total_titles_processed": 527,
+  "generated_at": "2026-04-16T07:07:45.665580+08:00",
+  "total_titles_processed": 577,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时02分 ~ 05时51分]"
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 07时07分]"
         },
         {
           "title": "周三（4月15日），彭博电动汽车价格回报指数跌0.26%，报3870.70点。",
@@ -48,7 +48,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时51分"
         }
