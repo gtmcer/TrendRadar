@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-15T15:29:12.288335+08:00",
-  "total_titles_processed": 1148,
+  "generated_at": "2026-04-15T17:52:18.730351+08:00",
+  "total_titles_processed": 1332,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "对话蔚来创始人李斌：出海2.0、芯片外供、对人形机器人和Robotaxi保持观望",
@@ -29,7 +29,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
         },
@@ -42,14 +42,25 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时22分 ~ 15时29分]"
+          "appearance_count": 5,
+          "time_info": "[13时22分 ~ 17时52分]"
+        },
+        {
+          "title": "据港交所公告，高盛集团在小鹏集团(09868.HK)的多头持仓于4月10日从4.32%增加至5.07%。",
+          "url": "https://flash.jin10.com/detail/20260415174100065800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时52分"
         }
       ]
     },
     {
       "keyword_group": "汽车",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "据阿拉伯卫星电视台：伊朗一家亲政府的Telegram频道消息称，伊朗首都德黑兰的伊玛目霍梅尼大街发生汽车炸弹爆炸。德黑兰居民表示，在当地时间周二午夜前后听到了多次爆炸声。",
@@ -74,6 +85,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时51分 ~ 06时43分]"
+        },
+        {
+          "title": "南向资金今日净买入42.21亿元。港股通（沪）方面，泡泡玛特、中国海洋石油分别获净买入3.51亿港元、3.4亿港元；阿里巴巴-W净卖出额居首，金额为12.46亿港元；港股通（深）方面，阿里巴巴-W、中芯国际分别获净买入5.67亿港元、4.31亿港元；吉利汽车净卖出额居首，金额为5.66亿港元。",
+          "url": "https://flash.jin10.com/detail/20260415173105753800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时52分"
         }
       ]
     },
@@ -88,7 +110,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
         }
