@@ -1,8 +1,40 @@
 {
-  "generated_at": "2026-04-15T10:14:49.945079+08:00",
-  "total_titles_processed": 829,
+  "generated_at": "2026-04-15T13:23:12.068382+08:00",
+  "total_titles_processed": 998,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "对话蔚来创始人李斌：出海2.0、芯片外供、对人形机器人和Robotaxi保持观望",
+          "url": "https://www.cls.cn/detail/2344095",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            7,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时04分 ~ 10时14分]"
+        },
+        {
+          "title": "为了卖好一辆 52 万起售的旗舰 SUV，蔚来把足疗、茶台、保险箱都搬上车，这种豪华能打动高端用户吗？",
+          "url": "https://www.zhihu.com/question/2025880105268855857",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时22分 ~ 13时23分]"
+        }
+      ]
+    },
     {
       "keyword_group": "汽车",
       "match_count": 2,
@@ -30,27 +62,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时51分 ~ 06时43分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "对话蔚来创始人李斌：出海2.0、芯片外供、对人形机器人和Robotaxi保持观望",
-          "url": "https://www.cls.cn/detail/2344095",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            7,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时04分 ~ 10时14分]"
         }
       ]
     }
