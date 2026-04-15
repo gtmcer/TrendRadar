@@ -1,157 +1,29 @@
 {
-  "generated_at": "2026-04-15T23:04:57.931905+08:00",
-  "total_titles_processed": 1803,
+  "generated_at": "2026-04-16T01:02:27.405315+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 11,
+      "match_count": 1,
       "titles": [
         {
-          "title": "对话蔚来创始人李斌：出海2.0、芯片外供、对人形机器人和Robotaxi保持观望",
-          "url": "https://www.cls.cn/detail/2344095",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            7,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时04分 ~ 10时14分]"
-        },
-        {
-          "title": "为了卖好一辆 52 万起售的旗舰 SUV，蔚来把足疗、茶台、保险箱都搬上车，这种豪华能打动高端用户吗？",
-          "url": "https://www.zhihu.com/question/2025880105268855857",
-          "source": "知乎",
-          "ranks": [
-            17,
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时22分 ~ 21时42分]"
-        },
-        {
-          "title": "马斯克：恭喜特斯拉AI芯片设计团队成功完成AI5芯片的流片。AI6、Dojo3以及其他令人期待的芯片也正在开发中。",
-          "url": "https://flash.jin10.com/detail/20260415152557597800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时29分"
-        },
-        {
-          "title": "小鹏GX把四大安全测试场搬到发布会",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%B9%8FGX%E6%8A%8A%E5%9B%9B%E5%A4%A7%E5%AE%89%E5%85%A8%E6%B5%8B%E8%AF%95%E5%9C%BA%E6%90%AC%E5%88%B0%E5%8F%91%E5%B8%83%E4%BC%9A%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时57分 ~ 19时58分]"
-        },
-        {
-          "title": "据港交所公告，高盛集团在小鹏集团(09868.HK)的多头持仓于4月10日从4.32%增加至5.07%。",
-          "url": "https://flash.jin10.com/detail/20260415174100065800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时52分"
-        },
-        {
-          "title": "小鹏GX",
-          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E9%B9%8FGX&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时42分"
-        },
-        {
-          "title": "特斯拉AI5芯片流片",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89AI5%E8%8A%AF%E7%89%87%E6%B5%81%E7%89%87%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时04分"
-        },
-        {
-          "title": "央视称小鹏GX为科技大成之作",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E7%A7%B0%E5%B0%8F%E9%B9%8FGX%E4%B8%BA%E7%A7%91%E6%8A%80%E5%A4%A7%E6%88%90%E4%B9%8B%E4%BD%9C%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时42分"
-        },
-        {
-          "title": "何小鹏：做汽车已经很痛苦，不会涉足家电领域",
-          "url": "https://wallstreetcn.com/livenews/3088601",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时04分"
-        },
-        {
-          "title": "李力耘将加入众擎机器人，曾是小鹏智驾负责人",
-          "url": "https://wallstreetcn.com/livenews/3088462",
+          "title": "特斯拉股价上涨7.9%，有望创下九个多月以来的最大单日涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3088654",
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时58分"
-        },
-        {
-          "title": "小鹏旗下首款全尺寸SUV小鹏GX正式开启预售，为L4级Robotaxi原型车",
-          "url": "https://wallstreetcn.com/livenews/3088597",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时04分"
+          "time_info": "01时02分"
         }
       ]
     },
     {
       "keyword_group": "汽车",
-      "match_count": 5,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "据阿拉伯卫星电视台：伊朗一家亲政府的Telegram频道消息称，伊朗首都德黑兰的伊玛目霍梅尼大街发生汽车炸弹爆炸。德黑兰居民表示，在当地时间周二午夜前后听到了多次爆炸声。",
-          "url": "https://flash.jin10.com/detail/20260415054501790800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时43分 ~ 07时41分]"
-        },
         {
           "title": "一年狂发300+汽车成为快消品",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353283&amp;topic_name=%E4%B8%80%E5%B9%B4%E7%8B%82%E5%8F%91300%2B%E6%B1%BD%E8%BD%A6%E6%88%90%E4%B8%BA%E5%BF%AB%E6%B6%88%E5%93%81",
@@ -160,59 +32,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时57分 ~ 23时04分]"
-        },
-        {
-          "title": "周二（4月14日），彭博电动汽车价格回报指数涨1.66%，报3880.16点。",
-          "url": "https://wallstreetcn.com/livenews/3087975",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时51分 ~ 06时43分]"
-        },
-        {
-          "title": "南向资金今日净买入42.21亿元。港股通（沪）方面，泡泡玛特、中国海洋石油分别获净买入3.51亿港元、3.4亿港元；阿里巴巴-W净卖出额居首，金额为12.46亿港元；港股通（深）方面，阿里巴巴-W、中芯国际分别获净买入5.67亿港元、4.31亿港元；吉利汽车净卖出额居首，金额为5.66亿港元。",
-          "url": "https://flash.jin10.com/detail/20260415173105753800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时52分"
-        },
-        {
-          "title": "Stellantis据悉考虑与东风汽车在欧洲和中国的汽车生产协议。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3088459",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "华为汽车 鸿蒙智行 问界 尚界 尊界 智界 享界 乾崑",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "余承东：问界M6将于4月22日发布",
-          "url": "https://wallstreetcn.com/livenews/3088261",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时29分"
+          "time_info": "01时02分"
         }
       ]
     }
