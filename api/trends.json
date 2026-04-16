@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-16T19:02:00.727614+08:00",
-  "total_titles_processed": 1418,
+  "generated_at": "2026-04-16T21:26:58.899756+08:00",
+  "total_titles_processed": 1585,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             14,
             19,
             23,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时02分 ~ 19时02分]"
+          "appearance_count": 15,
+          "time_info": "[01时02分 ~ 21时26分]"
         },
         {
           "title": "报道：美国向汽车制造商询问武器生产事宜",
@@ -85,7 +86,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -107,7 +108,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -129,7 +130,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -169,8 +170,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时47分 ~ 19时02分]"
+          "appearance_count": 6,
+          "time_info": "[10时47分 ~ 21时26分]"
         },
         {
           "title": "特斯拉AI芯片里程碑！马斯克官宣AI5成功流片，双芯性能对标Blackwell",
@@ -188,6 +189,19 @@
           "time_info": "[10时47分 ~ 19时02分]"
         },
         {
+          "title": "理想净利降八成，有部门全员无年终奖，理想当前面临怎样的经营困境？其背后的核心问题有哪些？",
+          "url": "https://www.zhihu.com/question/2028041056713798347",
+          "source": "知乎",
+          "ranks": [
+            18,
+            13,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时18分 ~ 21时26分]"
+        },
+        {
           "title": "港股新能源汽车股走高，比亚迪股份(01211.HK)涨5%，零跑汽车(09863.HK)、吉利汽车(00175.HK)涨2.6%，小鹏集团(09868.HK)、小米集团(01810.HK)涨超2%。",
           "url": "https://flash.jin10.com/detail/20260416132026640800",
           "source": "金十数据",
@@ -197,18 +211,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时30分"
-        },
-        {
-          "title": "理想净利降八成，有部门全员无年终奖，理想当前面临怎样的经营困境？其背后的核心问题有哪些？",
-          "url": "https://www.zhihu.com/question/2028041056713798347",
-          "source": "知乎",
-          "ranks": [
-            18,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时18分 ~ 19时02分]"
         },
         {
           "title": "美股收盘：标普500、纳指创新高 特斯拉涨逾7%",
@@ -262,7 +264,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         }
