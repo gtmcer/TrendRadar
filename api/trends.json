@@ -1,25 +1,12 @@
 {
-  "generated_at": "2026-04-17T06:38:55.541753+08:00",
-  "total_titles_processed": 559,
+  "generated_at": "2026-04-17T07:39:38.052840+08:00",
+  "total_titles_processed": 633,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
       "match_count": 4,
       "titles": [
-        {
-          "title": "理想净利降八成，有部门全员无年终奖，理想当前面临怎样的经营困境？其背后的核心问题有哪些？",
-          "url": "https://www.zhihu.com/question/2028041056713798347",
-          "source": "知乎",
-          "ranks": [
-            4,
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时12分 ~ 06时38分]"
-        },
         {
           "title": "谈判曙光与强劲财报双重提振市场，标普历史新高，纳指十一连涨，特斯拉大涨近8%",
           "url": "https://wallstreetcn.com/articles/3770007",
@@ -28,8 +15,22 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时13分 ~ 06时38分]"
+          "appearance_count": 6,
+          "time_info": "[01时13分 ~ 07时39分]"
+        },
+        {
+          "title": "理想净利降八成，有部门全员无年终奖，理想当前面临怎样的经营困境？其背后的核心问题有哪些？",
+          "url": "https://www.zhihu.com/question/2028041056713798347",
+          "source": "知乎",
+          "ranks": [
+            4,
+            5,
+            9,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时12分 ~ 07时39分]"
         },
         {
           "title": "何小鹏重申「跳过 L3 」，称「最安全的路径是从 L2 直接到 L4 」，如何看待他的观点？",
@@ -43,8 +44,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时12分 ~ 06时38分]"
+          "appearance_count": 8,
+          "time_info": "[01时12分 ~ 07时39分]"
         },
         {
           "title": "纳斯达克金龙中国指数收涨1.74%，报7192.18点，跳空高开之后，主要持稳于7200点附近，北京时间00:18曾涨至7256.75点。 热门中概股里，蔚来初步收涨6.7%，新东方涨4.8%，阿里涨4%，比亚迪、小米、小鹏、百度涨超3%，腾讯涨超2%。 ETF中，中概互联网指数ETF（KWEB）收涨1.55%，中国科技指数ETF（CQQQ）收涨1.04%。 XtrackersHarvest中证50（ASHS）收涨0.65%，德银嘉实沪深300指数ETF（ASHR）收涨0.44%。",
@@ -72,8 +73,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时12分 ~ 06时38分]"
+          "appearance_count": 8,
+          "time_info": "[01时12分 ~ 07时39分]"
         },
         {
           "title": "周四（4月16日），彭博电动汽车价格回报指数涨2.89%，报3980.01点，北京时间09:30-10:00涨势迅猛，随后持稳于3940点附近，21:30美股开盘后继续扩大涨幅。",
