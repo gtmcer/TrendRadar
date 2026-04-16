@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-17T05:41:53.388924+08:00",
-  "total_titles_processed": 526,
+  "generated_at": "2026-04-17T06:38:55.541753+08:00",
+  "total_titles_processed": 559,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时12分 ~ 05时41分]"
+          "appearance_count": 7,
+          "time_info": "[01时12分 ~ 06时38分]"
         },
         {
           "title": "谈判曙光与强劲财报双重提振市场，标普历史新高，纳指十一连涨，特斯拉大涨近8%",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时13分 ~ 05时41分]"
+          "appearance_count": 5,
+          "time_info": "[01时13分 ~ 06时38分]"
         },
         {
           "title": "何小鹏重申「跳过 L3 」，称「最安全的路径是从 L2 直接到 L4 」，如何看待他的观点？",
@@ -39,11 +39,12 @@
             15,
             14,
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时12分 ~ 05时41分]"
+          "appearance_count": 7,
+          "time_info": "[01时12分 ~ 06时38分]"
         },
         {
           "title": "纳斯达克金龙中国指数收涨1.74%，报7192.18点，跳空高开之后，主要持稳于7200点附近，北京时间00:18曾涨至7256.75点。 热门中概股里，蔚来初步收涨6.7%，新东方涨4.8%，阿里涨4%，比亚迪、小米、小鹏、百度涨超3%，腾讯涨超2%。 ETF中，中概互联网指数ETF（KWEB）收涨1.55%，中国科技指数ETF（CQQQ）收涨1.04%。 XtrackersHarvest中证50（ASHS）收涨0.65%，德银嘉实沪深300指数ETF（ASHR）收涨0.44%。",
@@ -71,8 +72,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时12分 ~ 05时41分]"
+          "appearance_count": 7,
+          "time_info": "[01时12分 ~ 06时38分]"
         },
         {
           "title": "周四（4月16日），彭博电动汽车价格回报指数涨2.89%，报3980.01点，北京时间09:30-10:00涨势迅猛，随后持稳于3940点附近，21:30美股开盘后继续扩大涨幅。",
@@ -80,11 +81,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时46分 ~ 05时41分]"
+          "appearance_count": 3,
+          "time_info": "[04时46分 ~ 06时38分]"
         }
       ]
     }
