@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-18T04:01:05.807837+08:00",
-  "total_titles_processed": 530,
+  "generated_at": "2026-04-18T04:56:53.540317+08:00",
+  "total_titles_processed": 582,
   "failed_sources": [],
   "trends": [
     {
@@ -33,18 +33,30 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "雷军：未来几年不做10万元以下汽车",
           "url": "https://www.toutiao.com/trending/7628812878518275603/",
           "source": "今日头条",
           "ranks": [
-            28
+            28,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时01分 ~ 04时56分]"
+        },
+        {
+          "title": "周五（4月17日），彭博电动汽车价格回报指数涨0.70%，报4006.04点，为2022年年中以来首次涨穿4000点整数位心理关口，本周累计上涨6.04%，整体平滑地持续走高。",
+          "url": "https://wallstreetcn.com/livenews/3090321",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时01分"
+          "time_info": "04时56分"
         }
       ]
     }
