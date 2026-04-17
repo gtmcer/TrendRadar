@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-17T19:51:52.490723+08:00",
-  "total_titles_processed": 1531,
+  "generated_at": "2026-04-17T21:15:58.853681+08:00",
+  "total_titles_processed": 1648,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
             9,
             10,
             14,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时27分 ~ 19时51分]"
+          "appearance_count": 7,
+          "time_info": "[13时27分 ~ 21时15分]"
         },
         {
           "title": "国际能源署署长：如果霍尔木兹海峡无法重新开放，我们必须为能源价格大幅上涨做好准备。 （当被问及是否可能进一步释放紧急石油储备）还没有到那一步，但这一选项肯定在考虑之中。 应当为一段时期内市场的波动做好准备。 （当被问及恢复至全面产能需要多长时间时）估计总体上需要大约两年才能再次达到战前水平。 预计由于能源安全保障，来自可再生能源的产量将显著增加。 预计电动汽车的使用将比此前预期增长得更快。",
@@ -132,7 +133,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时51分"
         },
@@ -236,7 +237,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时51分"
         },
