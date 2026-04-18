@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-18T18:39:01.817220+08:00",
-  "total_titles_processed": 1298,
+  "generated_at": "2026-04-18T19:34:02.857108+08:00",
+  "total_titles_processed": 1385,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            9
+            9,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时46分 ~ 18时39分]"
+          "appearance_count": 3,
+          "time_info": "[17时46分 ~ 19时34分]"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收涨3%，苹果涨约2.6%",
