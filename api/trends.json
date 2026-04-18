@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-18T15:05:35.314632+08:00",
-  "total_titles_processed": 1062,
+  "generated_at": "2026-04-18T16:47:14.867915+08:00",
+  "total_titles_processed": 1169,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美股七巨头收盘播报｜特斯拉收涨3%，苹果涨约2.6%",
@@ -25,11 +25,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            13
+            13,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时06分 ~ 15时05分]"
+          "appearance_count": 3,
+          "time_info": "[13时06分 ~ 16时47分]"
         },
         {
           "title": "理想汽车被指遭东风日产水军拉踩，双方被约谈，如何看待汽车消费的饭圈化现象？对品牌自身究竟是利是弊？",
@@ -41,6 +42,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时59分 ~ 01时55分]"
+        },
+        {
+          "title": "蔚来回应ES9仍用隐藏式门把手：新规仍未生效，隐藏式把手完全合规",
+          "url": "https://flash.jin10.com/detail/20260418155835723800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时47分"
         },
         {
           "title": "极氪8X上市 限时32.98万元起",
