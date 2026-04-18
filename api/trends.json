@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-04-19T02:47:47.442115+08:00",
-  "total_titles_processed": 385,
+  "generated_at": "2026-04-19T03:40:35.405790+08:00",
+  "total_titles_processed": 406,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "特斯拉(TSLA.O)：机器人出租车现已在达拉斯和休斯顿上线。",
+          "url": "https://flash.jin10.com/detail/20260419024853734800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时40分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://gtmcer.github.io/TrendRadar/img/news.jpg"
 }
