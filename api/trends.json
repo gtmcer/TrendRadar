@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-19T22:53:09.769145+08:00",
-  "total_titles_processed": 1356,
+  "generated_at": "2026-04-19T23:36:59.321499+08:00",
+  "total_titles_processed": 1377,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时52分 ~ 22时53分]"
+          "appearance_count": 11,
+          "time_info": "[16时52分 ~ 23时36分]"
         },
         {
           "title": "下周重磅日程：沃什听证会，美伊停火到期，特斯拉、茅台、新易盛一季报",
@@ -25,11 +25,25 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时38分 ~ 22时53分]"
+          "appearance_count": 5,
+          "time_info": "[18时38分 ~ 23时36分]"
+        },
+        {
+          "title": "环球下周看点：美伊临时停火即将到期 特斯拉等题材牛股发布财报",
+          "url": "https://www.cls.cn/detail/2348368",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时34分 ~ 23时36分]"
         },
         {
           "title": "特斯拉(TSLA.O)：机器人出租车现已在达拉斯和休斯顿上线。",
@@ -44,18 +58,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时40分 ~ 07时33分]"
-        },
-        {
-          "title": "环球下周看点：美伊临时停火即将到期 特斯拉等题材牛股发布财报",
-          "url": "https://www.cls.cn/detail/2348368",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时34分 ~ 22时53分]"
         }
       ]
     },
@@ -84,8 +86,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时02分 ~ 22时53分]"
+          "appearance_count": 4,
+          "time_info": "[22时02分 ~ 23时36分]"
         }
       ]
     }
