@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-04-19T15:17:35.234079+08:00",
-  "total_titles_processed": 866,
+  "generated_at": "2026-04-19T16:53:14.225180+08:00",
+  "total_titles_processed": 955,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "网友许愿理想型被群嘲",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353431&amp;topic_name=%E7%BD%91%E5%8F%8B%E8%AE%B8%E6%84%BF%E7%90%86%E6%83%B3%E5%9E%8B%E8%A2%AB%E7%BE%A4%E5%98%B2",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时52分 ~ 16时53分]"
+        },
         {
           "title": "特斯拉(TSLA.O)：机器人出租车现已在达拉斯和休斯顿上线。",
           "url": "https://flash.jin10.com/detail/20260419024853734800",
