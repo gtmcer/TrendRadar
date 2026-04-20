@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-20T20:03:23.812015+08:00",
-  "total_titles_processed": 1382,
+  "generated_at": "2026-04-20T22:49:22.441379+08:00",
+  "total_titles_processed": 1556,
   "failed_sources": [],
   "trends": [
     {
@@ -28,11 +28,12 @@
             15,
             20,
             23,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时38分 ~ 20时03分]"
+          "appearance_count": 18,
+          "time_info": "[00时38分 ~ 22时49分]"
         },
         {
           "title": "本周重磅日程：沃什听证会，美伊停火到期，特斯拉、茅台、新易盛一季报",
@@ -96,8 +97,30 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "墨西哥总统辛鲍姆：墨方有意在重申美国墨西哥加拿大贸易协议（USMCA）之前围绕钢铁、铝、汽车贸易达成共识。",
+          "url": "https://wallstreetcn.com/livenews/3091208",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
+          "title": "墨西哥总统辛鲍姆：墨西哥希望在美墨加协定（USMCA）审查前就钢铁、铝和汽车与美国达成协议。",
+          "url": "https://flash.jin10.com/detail/20260420223428955800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
         {
           "title": "据日本共同社：丰田汽车(TM.N)因战争因素将在11月前将海外产量削减38,000辆。丰田将削减在亚洲生产、面向中东市场出口的产量。",
           "url": "https://flash.jin10.com/detail/20260420192039381800",
@@ -105,7 +128,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时03分"
         },
@@ -124,8 +147,19 @@
     },
     {
       "keyword_group": "华为汽车 鸿蒙智行 问界 尚界 尊界 智界 享界 乾崑",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "全新深蓝S07华为乾崑激光版上市",
+          "url": "https://wallstreetcn.com/livenews/3091199",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
         {
           "title": "智界V9首发金钟罩铁布衫",
           "url": "https://s.weibo.com/weibo?q=%23%E6%99%BA%E7%95%8CV9%E9%A6%96%E5%8F%91%E9%87%91%E9%92%9F%E7%BD%A9%E9%93%81%E5%B8%83%E8%A1%AB%23&t=31&band_rank=30&Refer=top",
@@ -141,8 +175,19 @@
     },
     {
       "keyword_group": "新能源汽车",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "为什么新能源汽车的轮胎那么贵，还特别脆弱?",
+          "url": "https://www.zhihu.com/question/1942699724776898904",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
         {
           "title": "郑州一辆新能源汽车自燃无人员伤亡",
           "url": "https://www.toutiao.com/trending/7629954573922484265/",
@@ -150,7 +195,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时03分"
         }
