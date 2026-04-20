@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-20T16:04:15.895003+08:00",
-  "total_titles_processed": 1085,
+  "generated_at": "2026-04-20T18:47:09.434802+08:00",
+  "total_titles_processed": 1264,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
             7,
             8,
             15,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时38分 ~ 16时04分]"
+          "appearance_count": 16,
+          "time_info": "[00时38分 ~ 18时47分]"
         },
         {
           "title": "环球下周看点：美伊临时停火即将到期 特斯拉等题材牛股发布财报",
@@ -53,8 +54,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时31分 ~ 16时04分]"
+          "appearance_count": 4,
+          "time_info": "[10时31分 ~ 18时47分]"
         },
         {
           "title": "美股盘前，半导体股普跌，阿斯麦跌约1%，博通跌约2%，台积电跌约1%。 中概股多数下跌，小鹏汽车跌约2%，哔哩哔哩跌约1%，京东跌约1%。",
@@ -63,7 +64,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时04分"
         },
