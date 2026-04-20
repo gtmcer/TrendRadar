@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-20T18:47:09.434802+08:00",
-  "total_titles_processed": 1264,
+  "generated_at": "2026-04-20T20:03:23.812015+08:00",
+  "total_titles_processed": 1382,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,24 @@
             8,
             15,
             20,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时38分 ~ 18时47分]"
+          "appearance_count": 17,
+          "time_info": "[00时38分 ~ 20时03分]"
+        },
+        {
+          "title": "本周重磅日程：沃什听证会，美伊停火到期，特斯拉、茅台、新易盛一季报",
+          "url": "https://wallstreetcn.com/articles/3770211",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时31分 ~ 20时03分]"
         },
         {
           "title": "环球下周看点：美伊临时停火即将到期 特斯拉等题材牛股发布财报",
@@ -44,18 +57,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时38分 ~ 07时34分]"
-        },
-        {
-          "title": "本周重磅日程：沃什听证会，美伊停火到期，特斯拉、茅台、新易盛一季报",
-          "url": "https://wallstreetcn.com/articles/3770211",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时31分 ~ 18时47分]"
         },
         {
           "title": "美股盘前，半导体股普跌，阿斯麦跌约1%，博通跌约2%，台积电跌约1%。 中概股多数下跌，小鹏汽车跌约2%，哔哩哔哩跌约1%，京东跌约1%。",
@@ -94,6 +95,34 @@
       ]
     },
     {
+      "keyword_group": "汽车",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "据日本共同社：丰田汽车(TM.N)因战争因素将在11月前将海外产量削减38,000辆。丰田将削减在亚洲生产、面向中东市场出口的产量。",
+          "url": "https://flash.jin10.com/detail/20260420192039381800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时03分"
+        },
+        {
+          "title": "零跑汽车(09863.HK)盘初持续走低，现跌幅扩大至10%。",
+          "url": "https://flash.jin10.com/detail/20260420094526670800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        }
+      ]
+    },
+    {
       "keyword_group": "华为汽车 鸿蒙智行 问界 尚界 尊界 智界 享界 乾崑",
       "match_count": 1,
       "titles": [
@@ -111,19 +140,19 @@
       ]
     },
     {
-      "keyword_group": "汽车",
+      "keyword_group": "新能源汽车",
       "match_count": 1,
       "titles": [
         {
-          "title": "零跑汽车(09863.HK)盘初持续走低，现跌幅扩大至10%。",
-          "url": "https://flash.jin10.com/detail/20260420094526670800",
-          "source": "金十数据",
+          "title": "郑州一辆新能源汽车自燃无人员伤亡",
+          "url": "https://www.toutiao.com/trending/7629954573922484265/",
+          "source": "今日头条",
           "ranks": [
-            28
+            19
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时31分"
+          "time_info": "20时03分"
         }
       ]
     }
