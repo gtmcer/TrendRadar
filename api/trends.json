@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-21T07:41:30.708154+08:00",
-  "total_titles_processed": 698,
+  "generated_at": "2026-04-21T10:27:46.325351+08:00",
+  "total_titles_processed": 872,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353431&amp;topic_name=%E7%BD%91%E5%8F%8B%E8%AE%B8%E6%84%BF%E7%90%86%E6%83%B3%E5%9E%8B%E8%A2%AB%E7%BE%A4%E5%98%B2",
           "source": "贴吧",
           "ranks": [
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时07分 ~ 07时41分]"
+          "appearance_count": 11,
+          "time_info": "[00时07分 ~ 10时27分]"
         },
         {
           "title": "纳斯达克金龙中国指数收跌0.32%，报7207.20点。 热门中概股里，亿航智能、老虎证券、世纪互联、蔚来初步收跌超2%，贝壳、百度、理想涨超1%，再鼎医药涨4.3%。 ETF中，中概互联网指数ETF（KWEB）收跌0.53%，中国科技指数ETF（CQQQ）收涨0.34%。 德银嘉实沪深300指数ETF（ASHR）收涨0.17%，XtrackersHarvest中证50（ASHS）收涨0.52%。",
