@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-23T00:58:48.158647+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-04-23T02:02:03.402452+08:00",
+  "total_titles_processed": 393,
   "failed_sources": [],
   "trends": [
     {
@@ -12,77 +12,84 @@
           "url": "https://s.weibo.com/weibo?q=%E5%B0%9A%E7%95%8CZ7&t=31&band_rank=1&Refer=top",
           "source": "微博",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时58分"
-        },
-        {
-          "title": "问界M9价格",
-          "url": "https://s.weibo.com/weibo?q=%E9%97%AE%E7%95%8CM9%E4%BB%B7%E6%A0%BC&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时58分"
-        },
-        {
-          "title": "尚界Z7大定",
-          "url": "https://s.weibo.com/weibo?q=%E5%B0%9A%E7%95%8CZ7%E5%A4%A7%E5%AE%9A&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时58分"
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 02时02分]"
         },
         {
           "title": "尚界 Z7 售价 21.98 万起满配上市，哪些亮点值得关注？将对纯电轿跑市场带来哪些冲击？",
           "url": "https://www.zhihu.com/question/2030295130230477843",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时58分"
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 02时02分]"
+        },
+        {
+          "title": "问界M9价格",
+          "url": "https://s.weibo.com/weibo?q=%E9%97%AE%E7%95%8CM9%E4%BB%B7%E6%A0%BC&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 02时02分]"
+        },
+        {
+          "title": "尚界Z7大定",
+          "url": "https://s.weibo.com/weibo?q=%E5%B0%9A%E7%95%8CZ7%E5%A4%A7%E5%AE%9A&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 02时02分]"
         },
         {
           "title": "智界V9预售价39.98万元起",
           "url": "https://www.toutiao.com/trending/7630673957049434148/",
           "source": "今日头条",
           "ranks": [
-            9
+            9,
+            23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时58分"
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 02时02分]"
         },
         {
           "title": "问界M6上市",
           "url": "https://www.toutiao.com/trending/7631374675020369427/",
           "source": "今日头条",
           "ranks": [
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时58分"
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 02时02分]"
         },
         {
           "title": "尚界Z7/Z7T上市",
           "url": "https://www.toutiao.com/trending/7631570824046235145/",
           "source": "今日头条",
           "ranks": [
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时58分"
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 02时02分]"
         },
         {
           "title": "肖战尚界预定数量",
