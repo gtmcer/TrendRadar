@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-22T21:23:55.011117+08:00",
-  "total_titles_processed": 1566,
+  "generated_at": "2026-04-22T23:13:34.632032+08:00",
+  "total_titles_processed": 1692,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为汽车 鸿蒙智行 问界 尚界 尊界 智界 享界 乾崑",
-      "match_count": 9,
+      "match_count": 17,
       "titles": [
         {
           "title": "尚界Z7",
@@ -14,9 +14,97 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时23分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时23分 ~ 23时13分]"
+        },
+        {
+          "title": "问界M6上市",
+          "url": "https://www.toutiao.com/trending/7631374675020369427/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时12分 ~ 23时13分]"
+        },
+        {
+          "title": "尚界Z7大定",
+          "url": "https://s.weibo.com/weibo?q=%E5%B0%9A%E7%95%8CZ7%E5%A4%A7%E5%AE%9A&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时12分 ~ 23时13分]"
+        },
+        {
+          "title": "尚界 Z7 售价 21.98 万起满配上市，哪些亮点值得关注？将对纯电轿跑市场带来哪些冲击？",
+          "url": "https://www.zhihu.com/question/2030295130230477843",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时12分 ~ 23时13分]"
+        },
+        {
+          "title": "智界V9预售价39.98万元起",
+          "url": "https://www.toutiao.com/trending/7630673957049434148/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时12分 ~ 23时13分]"
+        },
+        {
+          "title": "问界M6发布即提车五一开新车",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%97%AE%E7%95%8CM6%E5%8F%91%E5%B8%83%E5%8D%B3%E6%8F%90%E8%BD%A6%E4%BA%94%E4%B8%80%E5%BC%80%E6%96%B0%E8%BD%A6%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时12分 ~ 23时13分]"
+        },
+        {
+          "title": "肖战尚界预定数量",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%B0%9A%E7%95%8C%E9%A2%84%E5%AE%9A%E6%95%B0%E9%87%8F%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时12分 ~ 23时13分]"
+        },
+        {
+          "title": "全新一代问界M9开启预售49.98万元起",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E6%96%B0%E4%B8%80%E4%BB%A3%E9%97%AE%E7%95%8CM9%E5%BC%80%E5%90%AF%E9%A2%84%E5%94%AE49.98%E4%B8%87%E5%85%83%E8%B5%B7%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时12分 ~ 23时13分]"
+        },
+        {
+          "title": "问界M9价格",
+          "url": "https://s.weibo.com/weibo?q=%E9%97%AE%E7%95%8CM9%E4%BB%B7%E6%A0%BC&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时12分 ~ 23时13分]"
         },
         {
           "title": "【问界M6正式上市，售价25.98万元起】鸿蒙智行旗下新锐智慧SUV问界M6正式上市，全系搭载华为896线双光路雷达、华为乾崑智驾ADS 4.1高阶版等配置，售价25.98万元起。",
@@ -25,7 +113,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时23分"
         },
@@ -36,7 +124,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时23分"
         },
@@ -58,7 +146,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时23分"
         },
@@ -69,7 +157,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时23分"
         },
@@ -91,7 +179,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时23分"
         },
@@ -102,7 +190,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时23分"
         }
@@ -110,7 +198,7 @@
     },
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "小米汽车",
@@ -133,6 +221,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
+        },
+        {
+          "title": "光线传媒：业内普遍认为今年电影市场仍有较大可能取得较为理想的票房成绩",
+          "url": "https://flash.jin10.com/detail/20260422225415583800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
         },
         {
           "title": "以为库克真加入小米汽车了",
@@ -183,7 +282,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "近 70 款车集体降价，新能源平均降 3.8 万，长安汽车总经理称车企仅靠卖车已无法盈利，真是这样吗？",
@@ -222,6 +321,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时24分 ~ 17时19分]"
+        },
+        {
+          "title": "美国贸易代表格里尔：在审查美国墨西哥加拿大贸易协议（USMCA）的谈判中，原产地规则的调整需涵盖汽车以外的更多领域。 加拿大正变本加厉地推动全球化。 如果加拿大不在更广泛的原产地规则上与美方接触，那么美方可能需要采取其他边境管制措施。",
+          "url": "https://wallstreetcn.com/livenews/3092701",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
         },
         {
           "title": "美国国家公路交通安全管理局：福特汽车公司正在召回140,201辆美国车辆，因受损的电线可能导致电气短路，并在A柱区域引发火灾，增加受伤或发生事故的风险。",
