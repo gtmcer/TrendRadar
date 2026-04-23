@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-23T19:07:25.745767+08:00",
-  "total_titles_processed": 1453,
+  "generated_at": "2026-04-23T21:25:42.096541+08:00",
+  "total_titles_processed": 1606,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时29分 ~ 19时07分]"
+          "appearance_count": 6,
+          "time_info": "[10时29分 ~ 21时25分]"
         },
         {
           "title": "特斯拉财报会实录：今年资本开支将超250亿美元 Optimus会是史上最重要产品",
@@ -31,6 +31,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时29分 ~ 19时07分]"
+        },
+        {
+          "title": "年中亮相、今夏投产！特斯拉官宣第三代机器人时间表 硬件端有望全面升级",
+          "url": "https://www.cls.cn/detail/2353290",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时49分 ~ 21时25分]"
         },
         {
           "title": "小鹏汽车(XPEV.N)：将在第四季度前实现机器人的量产，计划明年与外部合作伙伴大幅扩张。",
@@ -53,19 +66,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
-        },
-        {
-          "title": "年中亮相、今夏投产！特斯拉官宣第三代机器人时间表 硬件端有望全面升级",
-          "url": "https://www.cls.cn/detail/2353290",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时49分 ~ 19时07分]"
         },
         {
           "title": "特斯拉：正在增加AI算力投入 推进电池及电池材料新工厂建设",
@@ -151,6 +151,19 @@
           "time_info": "[06时45分 ~ 07时44分]"
         },
         {
+          "title": "特斯拉电话会：超预期上调2026年资本开支，AI5芯片提前流片，“Optimus将是史上最大的产品”",
+          "url": "https://wallstreetcn.com/articles/3770653",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时26分 ~ 21时25分]"
+        },
+        {
           "title": "特斯拉Q1利润超预期 自由现金流意外转正 盘后股价涨近4%",
           "url": "https://www.cls.cn/detail/2352871",
           "source": "财联社热门",
@@ -185,18 +198,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时45分 ~ 07时44分]"
-        },
-        {
-          "title": "特斯拉电话会：超预期上调2026年资本开支，AI5芯片提前流片，“Optimus将是史上最大的产品”",
-          "url": "https://wallstreetcn.com/articles/3770653",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时26分 ~ 19时07分]"
         },
         {
           "title": "特斯拉盘后跌超2%。",
@@ -540,7 +541,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时07分"
         },
@@ -694,7 +695,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时07分"
         },
@@ -837,7 +838,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时07分"
         },
@@ -867,7 +868,7 @@
     },
     {
       "keyword_group": "华为汽车 鸿蒙智行 问界 尚界 尊界 智界 享界 乾崑",
-      "match_count": 16,
+      "match_count": 21,
       "titles": [
         {
           "title": "尚界 Z7 售价 21.98 万起满配上市，哪些亮点值得关注？将对纯电轿跑市场带来哪些冲击？",
@@ -965,6 +966,18 @@
           "time_info": "[00时58分 ~ 06时45分]"
         },
         {
+          "title": "鸿蒙智行回应“尚界Z7趴窝”",
+          "url": "https://www.douyin.com/hot/2475952",
+          "source": "抖音",
+          "ranks": [
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时29分 ~ 21时25分]"
+        },
+        {
           "title": "尚界Z7大定27分钟破12000台",
           "url": "https://s.weibo.com/weibo?q=%23%E5%B0%9A%E7%95%8CZ7%E5%A4%A7%E5%AE%9A27%E5%88%86%E9%92%9F%E7%A0%B412000%E5%8F%B0%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
@@ -976,18 +989,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时03分 ~ 07时44分]"
-        },
-        {
-          "title": "鸿蒙智行回应“尚界Z7趴窝”",
-          "url": "https://www.douyin.com/hot/2475952",
-          "source": "抖音",
-          "ranks": [
-            6,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时29分 ~ 19时07分]"
         },
         {
           "title": "尚界Z7/Z7T上市",
@@ -1036,6 +1037,28 @@
           "time_info": "[13时29分 ~ 15时49分]"
         },
         {
+          "title": "华为乾崑智驾ADS5",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E4%B9%BE%E5%B4%91%E6%99%BA%E9%A9%BEADS5%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时25分"
+        },
+        {
+          "title": "鸿蒙智行尚界 Z7/Z7T 新车 27 分钟大定破万，其 21.98 万元起售价有何竞争力？",
+          "url": "https://www.zhihu.com/question/2030421399714669319",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时25分"
+        },
+        {
           "title": "鸿蒙智行发布会现场新车尚界 Z7 疑似出现故障无法下台，具体怎么回事？",
           "url": "https://www.zhihu.com/question/2030388412084122898",
           "source": "知乎",
@@ -1058,6 +1081,17 @@
           "time_info": "13时29分"
         },
         {
+          "title": "华为推出乾崑智驾操作系统",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E6%8E%A8%E5%87%BA%E4%B9%BE%E5%B4%91%E6%99%BA%E9%A9%BE%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时25分"
+        },
+        {
           "title": "问界M6上市15分钟大定突破10000台",
           "url": "https://www.toutiao.com/trending/7631788502019231282/",
           "source": "今日头条",
@@ -1067,12 +1101,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
+        },
+        {
+          "title": "问界M9“宣战”蔚来ES9",
+          "url": "https://www.toutiao.com/trending/7631440971965661194/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时25分"
+        },
+        {
+          "title": "乾崑智驾ADS 5发布，为自动驾驶做好准备",
+          "url": "https://wallstreetcn.com/livenews/3093306",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时25分"
         }
       ]
     },
     {
       "keyword_group": "汽车",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "现代汽车第一季度营业利润2.51万亿韩元，市场预估2.81万亿韩元。 第一季度净利润2.34万亿韩元，市场预估2.62万亿韩元。 第一季度销售额45.94万亿韩元，市场预估45.81万亿韩元。",
@@ -1103,11 +1159,12 @@
           "ranks": [
             17,
             10,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时49分 ~ 19时07分]"
+          "appearance_count": 4,
+          "time_info": "[15时49分 ~ 21时25分]"
         },
         {
           "title": "哪吒汽车 3 年亏损 183 亿，创始人成老赖，是企业自身经营失误吗？严重亏损是行业竞争下普遍困境吗？",
@@ -1116,9 +1173,20 @@
           "ranks": [
             11
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时07分 ~ 21时25分]"
+        },
+        {
+          "title": "视频丨投张雪“赢麻”、投哪吒汽车“翻车”，二者差距在哪儿",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33029120",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时07分"
+          "time_info": "21时25分"
         },
         {
           "title": "欧洲汽车制造商协会（ACEA）表示，上月新车注册量增长11%至158万辆。所有主要市场的销量均实现扩张，电动汽车交付量飙升42%。",
@@ -1138,9 +1206,26 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "启境",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "启境GT7定义含华量新高度",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%90%AF%E5%A2%83GT7%E5%AE%9A%E4%B9%89%E5%90%AB%E5%8D%8E%E9%87%8F%E6%96%B0%E9%AB%98%E5%BA%A6%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时25分"
         }
       ]
     }
