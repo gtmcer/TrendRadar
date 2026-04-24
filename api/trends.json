@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T02:49:27.212868+08:00",
-  "total_titles_processed": 423,
+  "generated_at": "2026-04-25T03:51:44.315683+08:00",
+  "total_titles_processed": 476,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/2029938790186182052",
           "source": "知乎",
           "ranks": [
-            17
+            17,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 02时49分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 03时51分]"
         },
         {
           "title": "北京车展上现“汽车跳舞”",
