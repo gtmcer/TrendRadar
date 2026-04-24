@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T01:49:28.263368+08:00",
-  "total_titles_processed": 377,
+  "generated_at": "2026-04-25T02:49:27.212868+08:00",
+  "total_titles_processed": 423,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时54分 ~ 01时49分]"
+          "appearance_count": 3,
+          "time_info": "[00时54分 ~ 02时49分]"
         },
         {
           "title": "北京车展上现“汽车跳舞”",
@@ -27,8 +27,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时54分 ~ 01时49分]"
+          "appearance_count": 3,
+          "time_info": "[00时54分 ~ 02时49分]"
         }
       ]
     }
