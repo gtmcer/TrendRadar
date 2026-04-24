@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T00:54:27.084166+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-04-25T01:49:28.263368+08:00",
+  "total_titles_processed": 377,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 01时49分]"
         },
         {
           "title": "北京车展上现“汽车跳舞”",
           "url": "https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E8%BD%A6%E5%B1%95%E4%B8%8A%E7%8E%B0%E2%80%9C%E6%B1%BD%E8%BD%A6%E8%B7%B3%E8%88%9E%E2%80%9D",
           "source": "百度热搜",
           "ranks": [
-            30
+            30,
+            25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 01时49分]"
         }
       ]
     }
