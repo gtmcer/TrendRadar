@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-26T05:35:47.641317+08:00",
-  "total_titles_processed": 478,
+  "generated_at": "2026-04-26T06:36:01.794892+08:00",
+  "total_titles_processed": 487,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 05时35分]"
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 06时36分]"
         },
         {
           "title": "媒体：比亚迪正在改写世界汽车格局",
@@ -27,11 +27,12 @@
             7,
             28,
             24,
-            19
+            19,
+            27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时39分 ~ 04时37分]"
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 06时36分]"
         },
         {
           "title": "哪吒汽车走下神坛",
@@ -43,8 +44,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时51分 ~ 05时35分]"
+          "appearance_count": 6,
+          "time_info": "[02时51分 ~ 06时36分]"
         }
       ]
     },
@@ -60,8 +61,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时40分 ~ 05时35分]"
+          "appearance_count": 7,
+          "time_info": "[00时40分 ~ 06时36分]"
         }
       ]
     }
