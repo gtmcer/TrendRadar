@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T19:37:54.852354+08:00",
-  "total_titles_processed": 1233,
+  "generated_at": "2026-04-25T21:02:21.952205+08:00",
+  "total_titles_processed": 1308,
   "failed_sources": [],
   "trends": [
     {
@@ -32,11 +32,12 @@
             10,
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时10分 ~ 19时37分]"
+          "appearance_count": 7,
+          "time_info": "[13时10分 ~ 21时02分]"
         },
         {
           "title": "长安汽车北京车展发布“海纳百川”计划2.0，剑指2030海外销量150万辆",
@@ -166,8 +167,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时52分 ~ 19时37分]"
+          "appearance_count": 4,
+          "time_info": "[17时52分 ~ 21时02分]"
         },
         {
           "title": "外国展商蹲地贴脸拍摄小米汽车细节",
