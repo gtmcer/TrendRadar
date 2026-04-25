@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-26T06:36:01.794892+08:00",
-  "total_titles_processed": 487,
+  "generated_at": "2026-04-26T07:36:59.927693+08:00",
+  "total_titles_processed": 518,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时39分 ~ 06时36分]"
+          "appearance_count": 10,
+          "time_info": "[00时39分 ~ 07时36分]"
         },
         {
           "title": "媒体：比亚迪正在改写世界汽车格局",
@@ -41,11 +41,12 @@
           "ranks": [
             21,
             20,
-            9
+            9,
+            24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时51分 ~ 06时36分]"
+          "appearance_count": 7,
+          "time_info": "[02时51分 ~ 07时36分]"
         }
       ]
     },
@@ -58,11 +59,12 @@
           "url": "https://wallstreetcn.com/livenews/3094404",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时40分 ~ 06时36分]"
+          "appearance_count": 8,
+          "time_info": "[00时40分 ~ 07时36分]"
         }
       ]
     }
