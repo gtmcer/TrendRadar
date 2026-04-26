@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-26T07:36:59.927693+08:00",
-  "total_titles_processed": 518,
+  "generated_at": "2026-04-26T10:34:24.605837+08:00",
+  "total_titles_processed": 685,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "人民锐评：投资哪吒汽车与布局张雪机车，是“成王败寇”逻辑？",
@@ -47,6 +47,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时51分 ~ 07时36分]"
+        },
+        {
+          "title": "奇瑞汽车与宁德时代签约，将开发适配换电电池及换电网络车型",
+          "url": "https://flash.jin10.com/detail/20260426082652160800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
         }
       ]
     },
@@ -60,11 +71,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             10,
-            12
+            12,
+            26
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 07时36分]"
+          "appearance_count": 9,
+          "time_info": "[00时40分 ~ 10时34分]"
         }
       ]
     }
