@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-26T19:38:46.535852+08:00",
-  "total_titles_processed": 1150,
+  "generated_at": "2026-04-26T21:03:37.083955+08:00",
+  "total_titles_processed": 1266,
   "failed_sources": [],
   "trends": [
     {
@@ -98,11 +98,12 @@
             6,
             10,
             16,
-            20
+            20,
+            27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时38分 ~ 19时38分]"
+          "appearance_count": 7,
+          "time_info": "[13时38分 ~ 21时03分]"
         },
         {
           "title": "余承东：尊界新车价格在200万左右",
@@ -111,11 +112,12 @@
           "ranks": [
             9,
             6,
-            8
+            8,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时26分 ~ 19时38分]"
+          "appearance_count": 8,
+          "time_info": "[15时26分 ~ 21时03分]"
         },
         {
           "title": "全新问界M9汽车72小时预订量破两万五",
