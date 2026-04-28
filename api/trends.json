@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-29T06:56:40.055318+08:00",
-  "total_titles_processed": 593,
+  "generated_at": "2026-04-29T07:55:08.612519+08:00",
+  "total_titles_processed": 678,
   "failed_sources": [],
   "trends": [
     {
@@ -28,11 +28,12 @@
             1,
             10,
             9,
-            15
+            15,
+            28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时12分 ~ 06时56分]"
+          "appearance_count": 7,
+          "time_info": "[00时12分 ~ 07时54分]"
         },
         {
           "title": "USGS：阿巴拉契亚的锂矿足以满足1.3亿辆电动汽车的需求",
@@ -123,8 +124,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时12分 ~ 06时56分]"
+          "appearance_count": 8,
+          "time_info": "[00时12分 ~ 07时55分]"
         }
       ]
     }
