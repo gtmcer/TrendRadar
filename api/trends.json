@@ -1,8 +1,70 @@
 {
-  "generated_at": "2026-04-28T07:52:58.281881+08:00",
-  "total_titles_processed": 610,
+  "generated_at": "2026-04-28T10:44:04.374521+08:00",
+  "total_titles_processed": 809,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "汽车",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "广东：加大对汽车、家电等大宗耐用消费品以旧换新支持力度",
+          "url": "https://flash.jin10.com/detail/20260428103835689800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时44分"
+        },
+        {
+          "title": "周一（4月27日），彭博电动汽车价格回报指数涨0.89%，报4002.92点。",
+          "url": "https://wallstreetcn.com/livenews/3095217",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 06时02分]"
+        },
+        {
+          "title": "李斌称汽车迭代不再由发动机定义，是芯片、电子电气架构和智能化水平驱动，不迭代就没法参与竞争，如何解读？",
+          "url": "https://www.zhihu.com/question/2030677600109061020",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时43分 ~ 10时44分]"
+        },
+        {
+          "title": "广东：加快发展智能网联汽车，建设智能网联汽车测试区和车路协同设施",
+          "url": "https://flash.jin10.com/detail/20260428103530202800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时44分"
+        },
+        {
+          "title": "广东：做大做强新能源、智能网联汽车、智能机器人、航空航天等新兴产业，锻造更多万亿元级、千亿元级新兴产业集群",
+          "url": "https://flash.jin10.com/detail/20260428102500096800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时44分"
+        }
+      ]
+    },
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
       "match_count": 1,
@@ -14,24 +76,6 @@
           "ranks": [
             15,
             30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时01分 ~ 06时02分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "汽车",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "周一（4月27日），彭博电动汽车价格回报指数涨0.89%，报4002.92点。",
-          "url": "https://wallstreetcn.com/livenews/3095217",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            29
           ],
           "is_new": false,
           "appearance_count": 2,
