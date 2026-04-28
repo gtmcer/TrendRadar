@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-29T04:14:58.454571+08:00",
-  "total_titles_processed": 487,
+  "generated_at": "2026-04-29T05:56:55.379466+08:00",
+  "total_titles_processed": 542,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            3
+            3,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时12分 ~ 04时14分]"
+          "appearance_count": 5,
+          "time_info": "[00时12分 ~ 05时56分]"
         },
         {
           "title": "欧洲媒体：中国车企生产的不仅是汽车",
@@ -29,8 +30,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时12分 ~ 04时14分]"
+          "appearance_count": 5,
+          "time_info": "[00时12分 ~ 05时56分]"
         },
         {
           "title": "USGS：阿巴拉契亚的锂矿足以满足1.3亿辆电动汽车的需求",
@@ -39,7 +40,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
         },
@@ -51,8 +52,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时16分 ~ 04时14分]"
+          "appearance_count": 3,
+          "time_info": "[02时16分 ~ 05时56分]"
         },
         {
           "title": "周二（4月28日）纽约尾盘，彭博电动汽车价格回报指数跌1.37%，报3947.82点，亚太早盘以来整体持续走低。",
@@ -61,7 +62,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
         }
@@ -90,7 +91,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
         },
@@ -119,8 +120,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时12分 ~ 04时14分]"
+          "appearance_count": 5,
+          "time_info": "[00时12分 ~ 05时56分]"
         }
       ]
     }
