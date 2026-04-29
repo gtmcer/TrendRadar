@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-29T18:55:49.466455+08:00",
-  "total_titles_processed": 1343,
+  "generated_at": "2026-04-29T20:17:16.938439+08:00",
+  "total_titles_processed": 1459,
   "failed_sources": [],
   "trends": [
     {
@@ -48,17 +48,6 @@
           "time_info": "[10时43分 ~ 16时14分]"
         },
         {
-          "title": "USGS：阿巴拉契亚的锂矿足以满足1.3亿辆电动汽车的需求",
-          "url": "https://flash.jin10.com/detail/20260429034631618800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时14分"
-        },
-        {
           "title": "立讯精密2025营收利润双增24%，汽车电子大增185%，数据中心是新增长极｜财报见闻",
           "url": "https://wallstreetcn.com/articles/3771162",
           "source": "华尔街见闻",
@@ -68,8 +57,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时43分 ~ 18时55分]"
+          "appearance_count": 5,
+          "time_info": "[10时43分 ~ 20时17分]"
+        },
+        {
+          "title": "USGS：阿巴拉契亚的锂矿足以满足1.3亿辆电动汽车的需求",
+          "url": "https://flash.jin10.com/detail/20260429034631618800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时14分"
         },
         {
           "title": "华尔街已经担心“120甚至150美元油价”：手机、汽车、衣服、化妆品……都在涨价路上",
@@ -122,7 +122,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -227,11 +227,12 @@
             12,
             17,
             21,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时12分 ~ 18时55分]"
+          "appearance_count": 14,
+          "time_info": "[00时12分 ~ 20时17分]"
         }
       ]
     }
