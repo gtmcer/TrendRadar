@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-29T13:54:34.263462+08:00",
-  "total_titles_processed": 1028,
+  "generated_at": "2026-04-29T16:14:10.128065+08:00",
+  "total_titles_processed": 1165,
   "failed_sources": [],
   "trends": [
     {
@@ -40,11 +40,12 @@
           "url": "https://www.zhihu.com/question/2031648098368345383",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时43分 ~ 13时54分]"
+          "appearance_count": 4,
+          "time_info": "[10时43分 ~ 16时14分]"
         },
         {
           "title": "USGS：阿巴拉契亚的锂矿足以满足1.3亿辆电动汽车的需求",
@@ -58,6 +59,19 @@
           "time_info": "04时14分"
         },
         {
+          "title": "立讯精密2025营收利润双增24%，汽车电子大增185%，数据中心是新增长极｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3771162",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时43分 ~ 16时14分]"
+        },
+        {
           "title": "华尔街已经担心“120甚至150美元油价”：手机、汽车、衣服、化妆品……都在涨价路上",
           "url": "https://wallstreetcn.com/articles/3771067",
           "source": "华尔街见闻",
@@ -67,18 +81,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时16分 ~ 05时56分]"
-        },
-        {
-          "title": "立讯精密2025营收利润双增24%，汽车电子大增185%，数据中心是新增长极｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3771162",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时43分 ~ 13时54分]"
         },
         {
           "title": "周二（4月28日）纽约尾盘，彭博电动汽车价格回报指数跌1.37%，报3947.82点，亚太早盘以来整体持续走低。",
@@ -98,7 +100,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         },
@@ -109,7 +111,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         },
@@ -120,7 +122,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         },
@@ -131,7 +133,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         },
@@ -142,7 +144,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         }
@@ -195,7 +197,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         }
@@ -212,11 +214,12 @@
           "ranks": [
             11,
             12,
-            17
+            17,
+            21
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时12分 ~ 13时54分]"
+          "appearance_count": 12,
+          "time_info": "[00时12分 ~ 16时14分]"
         }
       ]
     }
