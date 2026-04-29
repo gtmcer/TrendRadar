@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-29T07:55:08.612519+08:00",
-  "total_titles_processed": 678,
+  "generated_at": "2026-04-29T10:43:55.543898+08:00",
+  "total_titles_processed": 855,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "追觅发布火箭汽车，搭载专属定制的双固体火箭助推系统，百公里加速 0.9 秒，还有哪些亮点？",
@@ -36,6 +36,17 @@
           "time_info": "[00时12分 ~ 07时54分]"
         },
         {
+          "title": "如何看待长城汽车魏建军在北京车展上对宝马董事长称纯电平台是虚假宣传，并强调宝马的看法和长城一致？",
+          "url": "https://www.zhihu.com/question/2031648098368345383",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时43分"
+        },
+        {
           "title": "USGS：阿巴拉契亚的锂矿足以满足1.3亿辆电动汽车的需求",
           "url": "https://flash.jin10.com/detail/20260429034631618800",
           "source": "金十数据",
@@ -56,6 +67,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时16分 ~ 05时56分]"
+        },
+        {
+          "title": "立讯精密2025营收利润双增24%，汽车电子大增185%，数据中心是新增长极｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3771162",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时43分"
         },
         {
           "title": "周二（4月28日）纽约尾盘，彭博电动汽车价格回报指数跌1.37%，报3947.82点，亚太早盘以来整体持续走低。",
@@ -121,11 +143,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353843&amp;topic_name=%E5%B0%9A%E7%95%8C%E5%B1%95%E8%BD%A6%E6%8E%80%E9%A1%B6%E6%A3%9A%2C%E5%AB%8C%E7%8A%AF%E5%B7%B2%E8%A2%AB%E6%8A%93",
           "source": "贴吧",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 07时55分]"
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 10时43分]"
         }
       ]
     }
