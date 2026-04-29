@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-04-30T06:55:42.832734+08:00",
-  "total_titles_processed": 559,
+  "generated_at": "2026-04-30T07:54:50.987164+08:00",
+  "total_titles_processed": 616,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "英国汽车制造商与贸易商协会：英国三月份汽车总产量同比下降8.2%，降至72,511辆。",
+          "url": "https://flash.jin10.com/detail/20260430070247885800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时54分"
+        },
         {
           "title": "福特汽车一季度调整后每股收益（EPS）为0.66美元，分析师预期0.19美元。 预计全年调整后EBIT为85亿-105亿美元，公司原本预计80亿-100亿美元。",
           "url": "https://wallstreetcn.com/livenews/3096935",
@@ -36,7 +47,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时55分"
         },
@@ -47,7 +58,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时55分"
         }
@@ -65,8 +76,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时27分 ~ 06时55分]"
+          "appearance_count": 6,
+          "time_info": "[01时27分 ~ 07时54分]"
         }
       ]
     },
