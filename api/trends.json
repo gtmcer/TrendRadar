@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-29T16:14:10.128065+08:00",
-  "total_titles_processed": 1165,
+  "generated_at": "2026-04-29T18:55:49.466455+08:00",
+  "total_titles_processed": 1343,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "追觅发布火箭汽车，搭载专属定制的双固体火箭助推系统，百公里加速 0.9 秒，还有哪些亮点？",
@@ -68,8 +68,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时43分 ~ 16时14分]"
+          "appearance_count": 4,
+          "time_info": "[10时43分 ~ 18时55分]"
         },
         {
           "title": "华尔街已经担心“120甚至150美元油价”：手机、汽车、衣服、化妆品……都在涨价路上",
@@ -114,6 +114,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
+        },
+        {
+          "title": "摩根大通：将通用汽车(GM.N)目标价从97美元上调至98美元。",
+          "url": "https://flash.jin10.com/detail/20260429182548608800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
         },
         {
           "title": "吉利汽车(00175.HK)绩后涨超5%。",
@@ -215,11 +226,12 @@
             11,
             12,
             17,
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时12分 ~ 16时14分]"
+          "appearance_count": 13,
+          "time_info": "[00时12分 ~ 18时55分]"
         }
       ]
     }
