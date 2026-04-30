@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-30T20:14:47.995312+08:00",
-  "total_titles_processed": 1407,
+  "generated_at": "2026-04-30T23:08:59.345339+08:00",
+  "total_titles_processed": 1568,
   "failed_sources": [],
   "trends": [
     {
@@ -81,8 +81,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时24分 ~ 20时14分]"
+          "appearance_count": 4,
+          "time_info": "[16时24分 ~ 23时08分]"
         },
         {
           "title": "大众汽车集团CFO：尽管取得了一定进展，但即便在剔除特殊项目影响之前，营业利润率仍处于4.3%这一远低于预期的水平。",
@@ -165,7 +165,7 @@
     },
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "特斯拉Semi首辆量产车下线",
@@ -177,6 +177,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
+        },
+        {
+          "title": "李想称「理想领先大众至少两代」，大众高管回应理想「仅价格和营销水平领先」，如何看待这两位高管的互怼？",
+          "url": "https://www.zhihu.com/question/2032096036068357494",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌0.6%。 热门中概股里，大全新能源初步收跌12.7%，小马智行跌6.7%，再鼎医药跌6.1%，百度跌3.8%，小鹏跌1.8%，小米、腾讯、阿里至少跌约0.3%，携程、贝壳、亚朵、网易至多涨1.6%，华住、百胜中国至多涨约2.8%。 ETF中，CQQQ跌0.5%，KWEB跌0.3%，ASHS涨1.3%。",
@@ -196,7 +207,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时14分"
         }
