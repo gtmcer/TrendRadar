@@ -1,11 +1,129 @@
 {
-  "generated_at": "2026-05-01T17:00:47.048470+08:00",
-  "total_titles_processed": 1125,
+  "generated_at": "2026-05-01T18:27:48.972647+08:00",
+  "total_titles_processed": 1244,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "汽车",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "如何看待美财长斯科特·贝森特抛出论断「中国的电动汽车，本质上不过是燃煤车」？",
+          "url": "https://www.zhihu.com/question/2033103134843720731",
+          "source": "知乎",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时19分 ~ 07时59分]"
+        },
+        {
+          "title": "Rivian Automotive一季度电动汽车产量1.0236万辆，分析师预期1.0311万。 一季度交付1.0365万辆，分析师预期1.0279万。 一季度营收13.8亿美元，分析师预期13.9亿美元。 一季度调整后每股亏损0.54美元，分析师预期亏损0.59美元。",
+          "url": "https://wallstreetcn.com/livenews/3097702",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时59分 ~ 06时01分]"
+        },
+        {
+          "title": "金十图示：2026年05月01日（周五）全球汽车制造商市值变化",
+          "url": "https://flash.jin10.com/detail/20260501110706753800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时59分"
+        },
+        {
+          "title": "岚图汽车今日公布数据，2026年4月交付15146辆，同比增长51%；岚图泰山X8预售订单突破30000辆。",
+          "url": "https://wallstreetcn.com/livenews/3097797",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
+        {
+          "title": "吉利汽车4月销量23.5万辆",
+          "url": "https://wallstreetcn.com/livenews/3097863",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
+        },
+        {
+          "title": "长城汽车董事长魏建军是如何发家的？",
+          "url": "https://www.zhihu.com/question/25456062",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
+        },
+        {
+          "title": "周四（4月30日）纽约尾盘，彭博电动汽车价格回报指数涨0.35%，报4055.99点，4月份累涨大约12%，4月8-21日持续上涨——之前低位持稳、之后高位震荡。",
+          "url": "https://wallstreetcn.com/livenews/3097691",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时59分"
+        },
+        {
+          "title": "吉利汽车4月销量23.5万辆",
+          "url": "https://flash.jin10.com/detail/20260501173747874800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
+        },
+        {
+          "title": "广汽丰田汽车：铂智品牌4月销量14664辆。",
+          "url": "https://flash.jin10.com/detail/20260501101625781800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时59分"
+        },
+        {
+          "title": "智己汽车：2026年4月销量10016台，1-4月累计销量同比增长130%。",
+          "url": "https://flash.jin10.com/detail/20260501101026781800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时59分"
+        }
+      ]
+    },
+    {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "李想称「理想领先大众至少两代」，大众高管回应理想「仅价格和营销水平领先」，如何看待这两位高管的互怼？",
@@ -101,91 +219,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "汽车",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "如何看待美财长斯科特·贝森特抛出论断「中国的电动汽车，本质上不过是燃煤车」？",
-          "url": "https://www.zhihu.com/question/2033103134843720731",
-          "source": "知乎",
-          "ranks": [
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时19分 ~ 07时59分]"
         },
         {
-          "title": "Rivian Automotive一季度电动汽车产量1.0236万辆，分析师预期1.0311万。 一季度交付1.0365万辆，分析师预期1.0279万。 一季度营收13.8亿美元，分析师预期13.9亿美元。 一季度调整后每股亏损0.54美元，分析师预期亏损0.59美元。",
-          "url": "https://wallstreetcn.com/livenews/3097702",
-          "source": "华尔街见闻-快讯",
+          "title": "极氪月交付量创历史新高",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9E%81%E6%B0%AA%E6%9C%88%E4%BA%A4%E4%BB%98%E9%87%8F%E5%88%9B%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
           "ranks": [
-            9,
-            27
+            30
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时59分 ~ 06时01分]"
-        },
-        {
-          "title": "金十图示：2026年05月01日（周五）全球汽车制造商市值变化",
-          "url": "https://flash.jin10.com/detail/20260501110706753800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时59分"
-        },
-        {
-          "title": "岚图汽车今日公布数据，2026年4月交付15146辆，同比增长51%；岚图泰山X8预售订单突破30000辆。",
-          "url": "https://wallstreetcn.com/livenews/3097797",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时39分"
-        },
-        {
-          "title": "周四（4月30日）纽约尾盘，彭博电动汽车价格回报指数涨0.35%，报4055.99点，4月份累涨大约12%，4月8-21日持续上涨——之前低位持稳、之后高位震荡。",
-          "url": "https://wallstreetcn.com/livenews/3097691",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时59分"
-        },
-        {
-          "title": "广汽丰田汽车：铂智品牌4月销量14664辆。",
-          "url": "https://flash.jin10.com/detail/20260501101625781800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时59分"
-        },
-        {
-          "title": "智己汽车：2026年4月销量10016台，1-4月累计销量同比增长130%。",
-          "url": "https://flash.jin10.com/detail/20260501101026781800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时59分"
+          "time_info": "18时27分"
         }
       ]
     },
@@ -198,11 +242,12 @@
           "url": "https://s.weibo.com/weibo?q=%E9%B8%BF%E8%92%99%E6%99%BA%E8%A1%8C4%E6%9C%88%E4%BA%A4%E4%BB%9832759%E8%BE%86%E6%B1%BD%E8%BD%A6&t=31&band_rank=27&Refer=top",
           "source": "微博",
           "ranks": [
-            27
+            27,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时59分 ~ 17时00分]"
+          "appearance_count": 3,
+          "time_info": "[16时59分 ~ 18时27分]"
         },
         {
           "title": "鸿蒙智行4月交付32,759台，同比增长18.9%，1-4月累计同比增长36%。",
