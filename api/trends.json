@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-03T03:55:25.776626+08:00",
-  "total_titles_processed": 401,
+  "generated_at": "2026-05-03T04:40:06.068705+08:00",
+  "total_titles_processed": 432,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 03时55分]"
+          "appearance_count": 8,
+          "time_info": "[00时43分 ~ 04时40分]"
         },
         {
           "title": "特朗普宣布将于下周对欧盟输美汽车和卡车加征 25% 关税，他为何对欧洲下「狠手」？",
@@ -27,8 +27,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 03时55分]"
+          "appearance_count": 8,
+          "time_info": "[00时43分 ~ 04时40分]"
         },
         {
           "title": "伯克希尔首席执行官阿贝尔：随着竞争加剧，保险市场正在“趋于宽松”。 汽车保险客户出现了前所未有的比价购物现象。",
@@ -36,11 +36,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            7
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 03时55分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 04时40分]"
         },
         {
           "title": "特朗普威胁提高汽车关税，欧盟：将“保留所有选项”",
@@ -90,8 +91,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 03时55分]"
+          "appearance_count": 8,
+          "time_info": "[00时43分 ~ 04时40分]"
         },
         {
           "title": "新势力发布4月交付成绩：零跑破7万创新高、小鹏环比回暖 理想、蔚来待新车上市",
@@ -102,8 +103,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 03时55分]"
+          "appearance_count": 8,
+          "time_info": "[00时43分 ~ 04时40分]"
         },
         {
           "title": "巴菲特：目前不是伯克希尔理想的资金投放环境",
@@ -112,11 +113,12 @@
           "ranks": [
             1,
             13,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时42分 ~ 03时55分]"
+          "appearance_count": 4,
+          "time_info": "[01时42分 ~ 04时40分]"
         },
         {
           "title": "马斯克去年在特斯拉挣了0美元",
@@ -124,11 +126,12 @@
           "source": "百度热搜",
           "ranks": [
             25,
-            24
+            24,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时56分 ~ 03时55分]"
+          "appearance_count": 5,
+          "time_info": "[02时56分 ~ 04时40分]"
         }
       ]
     }
