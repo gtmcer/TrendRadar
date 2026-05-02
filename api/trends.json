@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-02T17:04:57.053560+08:00",
-  "total_titles_processed": 1083,
+  "generated_at": "2026-05-02T18:51:09.504090+08:00",
+  "total_titles_processed": 1180,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "【早报】白宫：与伊朗的敌对行动已经“结束”；特朗普：下周对欧盟输美汽车和卡车加征25%关税",
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            11
+            11,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时33分 ~ 17时04分]"
+          "appearance_count": 6,
+          "time_info": "[10时33分 ~ 18时51分]"
         },
         {
           "title": "周五（5月1日），彭博电动汽车价格回报指数涨0.27%，报4065.97点，全天主要高位震荡、美股开盘以来呈现出V形走势，本周累计上涨2.48%。",
@@ -30,6 +31,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时51分 ~ 06时48分]"
+        },
+        {
+          "title": "特朗普：将于下周对欧盟输美汽车和卡车加征25%关税",
+          "url": "https://wallstreetcn.com/articles/3771467",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时04分 ~ 18时51分]"
         },
         {
           "title": "长安汽车4月交付20.95万辆 同比增长1.7%",
@@ -54,6 +66,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时48分 ~ 07时51分]"
+        },
+        {
+          "title": "美国人为何远赴墨西哥代购中国汽车",
+          "url": "https://www.toutiao.com/trending/7635206213906468394/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时50分 ~ 18时51分]"
         },
         {
           "title": "美国总统特朗普：美国将提高欧盟汽车关税，因为他们没有遵守协议。",
@@ -99,17 +122,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
-        },
-        {
-          "title": "特朗普：将于下周对欧盟输美汽车和卡车加征25%关税",
-          "url": "https://wallstreetcn.com/articles/3771467",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时04分"
         },
         {
           "title": "德国汽车工业协会（VDA）：美国总统宣布将从欧盟进口到美国的卡车和轿车关税提高至25%，这代表着跨大西洋关系再次面临严重的紧张局势。 汽车行业紧急呼吁双方缓和局势并立即开展谈判。 欧盟与美国之间签署的贸易协议必须由双方共同遵守。 在当前已经极具挑战性的时期，这些额外关税带来的成本对于德国和欧洲汽车工业来说将是巨大的，并且很可能也会影响美国的消费者。",
@@ -203,7 +215,7 @@
     },
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "新势力发布4月交付成绩：零跑破7万创新高、小鹏环比回暖 理想、蔚来待新车上市",
@@ -216,8 +228,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时56分 ~ 17时04分]"
+          "appearance_count": 14,
+          "time_info": "[00时56分 ~ 18时51分]"
+        },
+        {
+          "title": "多家车企公布 4 月交付量，零跑月销超 7 万，小米汽车交付超 3 万台，如何评价各车企表现？",
+          "url": "https://www.zhihu.com/question/2033553770588714004",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时50分 ~ 18时51分]"
         },
         {
           "title": "美国国会山成员们下周将会见科技巨头们的代表。 英伟达、谷歌公司、Anthropic、Meta、特斯拉、英特尔、应用材料的代表们将与议员们见面。（Axios）",
