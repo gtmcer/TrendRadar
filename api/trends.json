@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-04T00:48:07.008015+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-05-04T01:45:50.329437+08:00",
+  "total_titles_processed": 355,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 00时48分]"
+          "appearance_count": 3,
+          "time_info": "[00时47分 ~ 01时45分]"
         },
         {
           "title": "德国经济部：我们注意到特朗普关于提高汽车关税的声明，将在欧盟内部密切协调下一步行动。",
@@ -25,7 +25,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时48分"
         }
@@ -42,9 +42,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时48分 ~ 01时45分]"
         }
       ]
     }
