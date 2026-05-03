@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-03T19:41:27.738632+08:00",
-  "total_titles_processed": 1087,
+  "generated_at": "2026-05-03T21:06:17.111061+08:00",
+  "total_titles_processed": 1171,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时43分 ~ 19时41分]"
+          "appearance_count": 19,
+          "time_info": "[00时43分 ~ 21时06分]"
         },
         {
           "title": "特朗普宣布将于下周对欧盟输美汽车和卡车加征 25% 关税，他为何对欧洲下「狠手」？",
@@ -103,7 +103,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时41分"
         },
@@ -161,8 +161,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时43分 ~ 19时41分]"
+          "appearance_count": 19,
+          "time_info": "[00时43分 ~ 21时06分]"
         },
         {
           "title": "马斯克去年在特斯拉挣了0美元",
@@ -189,8 +189,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时43分 ~ 19时41分]"
+          "appearance_count": 6,
+          "time_info": "[10时43分 ~ 21时06分]"
         },
         {
           "title": "巴菲特：目前不是伯克希尔理想的资金投放环境",
@@ -219,22 +219,24 @@
           "url": "https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E4%B9%B0%E5%BE%97%E8%B5%B7%E4%BF%AE%E4%B8%8D%E8%B5%B7",
           "source": "百度热搜",
           "ranks": [
-            9
+            9,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时41分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时41分 ~ 21时06分]"
         },
         {
           "title": "为什么中国要推进新能源汽车",
           "url": "https://www.toutiao.com/trending/7635575902675406399/",
           "source": "今日头条",
           "ranks": [
-            21
+            21,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时41分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时41分 ~ 21时06分]"
         }
       ]
     },
@@ -249,7 +251,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时41分"
         }
