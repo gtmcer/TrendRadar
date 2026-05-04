@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-04T17:17:14.963676+08:00",
-  "total_titles_processed": 1043,
+  "generated_at": "2026-05-04T19:47:37.411629+08:00",
+  "total_titles_processed": 1204,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "巴菲特场外访谈：市场赌博情绪空前，缺乏理想投资环境，等待没人接电话时，鲍威尔在更安心（附全文）",
@@ -18,6 +18,28 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时48分 ~ 04时41分]"
+        },
+        {
+          "title": "ANFAC：西班牙新特斯拉注册量在一月至四月同比增长29.1%，而电动车整体增长54%。",
+          "url": "https://flash.jin10.com/detail/20260504190555241800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时47分"
+        },
+        {
+          "title": "ANFAC：西班牙四月新车销售同比增长5.6% 。西班牙新特斯拉注册量在四月份同比下降47.3%，降至301辆。",
+          "url": "https://flash.jin10.com/detail/20260504190513047800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时47分"
         },
         {
           "title": "4月份特斯拉在挪威的新车注册量同比下降61%。",
@@ -48,7 +70,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时17分"
         },
