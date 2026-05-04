@@ -1,39 +1,11 @@
 {
-  "generated_at": "2026-05-04T07:43:12.706779+08:00",
-  "total_titles_processed": 516,
+  "generated_at": "2026-05-04T10:41:25.396561+08:00",
+  "total_titles_processed": 697,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "汽车",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "【早报】白宫：与伊朗的敌对行动已经“结束”；特朗普：下周对欧盟输美汽车和卡车加征25%关税",
-          "url": "https://www.cls.cn/detail/2362026",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时47分 ~ 07时43分]"
-        },
-        {
-          "title": "德国经济部：我们注意到特朗普关于提高汽车关税的声明，将在欧盟内部密切协调下一步行动。",
-          "url": "https://flash.jin10.com/detail/20260503233359102800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
-        }
-      ]
-    },
-    {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "巴菲特场外访谈：市场赌博情绪空前，缺乏理想投资环境，等待没人接电话时，鲍威尔在更安心（附全文）",
@@ -46,6 +18,46 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时48分 ~ 04时41分]"
+        },
+        {
+          "title": "港股汽车股多数走强，长城汽车(02333.HK)、理想汽车(02015.HK)涨超4%，小鹏集团(09868.HK)、岚图汽车(07489.HK)涨超3%，奇瑞汽车(09973.HK)涨超2%。",
+          "url": "https://flash.jin10.com/detail/20260504095728711800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "汽车",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "【早报】白宫：与伊朗的敌对行动已经“结束”；特朗普：下周对欧盟输美汽车和卡车加征25%关税",
+          "url": "https://www.cls.cn/detail/2362026",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时47分 ~ 10时41分]"
+        },
+        {
+          "title": "德国经济部：我们注意到特朗普关于提高汽车关税的声明，将在欧盟内部密切协调下一步行动。",
+          "url": "https://flash.jin10.com/detail/20260503233359102800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时48分"
         }
       ]
     }
