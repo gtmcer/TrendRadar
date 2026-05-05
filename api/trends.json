@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-06T06:16:16.259531+08:00",
-  "total_titles_processed": 610,
+  "generated_at": "2026-05-06T07:46:06.471109+08:00",
+  "total_titles_processed": 688,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             11,
             13,
             9,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时01分 ~ 06时16分]"
+          "appearance_count": 12,
+          "time_info": "[00时01分 ~ 07时46分]"
         },
         {
           "title": "鸿蒙智行回应副驾折叠争议",
@@ -31,8 +32,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时01分 ~ 06时16分]"
+          "appearance_count": 8,
+          "time_info": "[00时01分 ~ 07时46分]"
         },
         {
           "title": "享界S9零重力座椅夹人？鸿蒙智行回应",
