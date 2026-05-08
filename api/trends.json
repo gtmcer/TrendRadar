@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-08T16:21:06.200438+08:00",
-  "total_titles_processed": 1033,
+  "generated_at": "2026-05-08T18:24:27.076674+08:00",
+  "total_titles_processed": 1180,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美国国家公路交通安全管理局表示，特斯拉(TSLA.O)Model Y是首款通过该机构新推出的“高级驾驶辅助系统”测试的车型。",
@@ -26,8 +26,19 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时20分 ~ 16时21分]"
+          "appearance_count": 3,
+          "time_info": "[16时20分 ~ 18时24分]"
+        },
+        {
+          "title": "曝小米汽车将推独立子品牌寻天",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E5%B0%86%E6%8E%A8%E7%8B%AC%E7%AB%8B%E5%AD%90%E5%93%81%E7%89%8C%E5%AF%BB%E5%A4%A9%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
         },
         {
           "title": "国际能源署署长比罗尔：在伊朗危机之后，随着各国寻求新的能源贸易伙伴，加拿大显然是一个理想的选择。",
@@ -69,6 +80,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时20分 ~ 16时21分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "华为汽车 鸿蒙智行 问界 尚界 尊界 智界 享界 乾崑",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "官媒下场三问享界夹人事件",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354103&amp;topic_name=%E5%AE%98%E5%AA%92%E4%B8%8B%E5%9C%BA%E4%B8%89%E9%97%AE%E4%BA%AB%E7%95%8C%E5%A4%B9%E4%BA%BA%E4%BA%8B%E4%BB%B6",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
         }
       ]
     }
