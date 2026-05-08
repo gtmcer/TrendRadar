@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-08T18:24:27.076674+08:00",
-  "total_titles_processed": 1180,
+  "generated_at": "2026-05-08T20:08:28.330535+08:00",
+  "total_titles_processed": 1311,
   "failed_sources": [],
   "trends": [
     {
@@ -36,7 +36,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         },
@@ -58,6 +58,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "追觅CEO俞浩称中国仅3人懂汽车设计",
+          "url": "https://www.toutiao.com/trending/7636303597227294739/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时20分 ~ 20时08分]"
+        },
+        {
           "title": "追觅俞浩称中国仅3人懂汽车设计",
           "url": "https://www.baidu.com/s?wd=%E8%BF%BD%E8%A7%85%E4%BF%9E%E6%B5%A9%E7%A7%B0%E4%B8%AD%E5%9B%BD%E4%BB%853%E4%BA%BA%E6%87%82%E6%B1%BD%E8%BD%A6%E8%AE%BE%E8%AE%A1",
           "source": "百度热搜",
@@ -69,17 +81,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时13分 ~ 07时01分]"
-        },
-        {
-          "title": "追觅CEO俞浩称中国仅3人懂汽车设计",
-          "url": "https://www.toutiao.com/trending/7636303597227294739/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时20分 ~ 16时21分]"
         }
       ]
     },
@@ -94,9 +95,26 @@
           "ranks": [
             2
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 20时08分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源汽车",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "威迈斯：拟8.12亿元开展新能源汽车动力域研发基地项目",
+          "url": "https://flash.jin10.com/detail/20260508191145938800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时24分"
+          "time_info": "20时08分"
         }
       ]
     }
