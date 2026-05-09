@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-05-10T03:59:16.019084+08:00",
-  "total_titles_processed": 421,
+  "generated_at": "2026-05-10T04:53:12.028438+08:00",
+  "total_titles_processed": 443,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
       "match_count": 3,
       "titles": [
-        {
-          "title": "中国汽车工业协会：网传“新能源车企因锁电问题被约谈、立案”为不实信息",
-          "url": "https://wallstreetcn.com/livenews/3101076",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时53分 ~ 03时59分]"
-        },
         {
           "title": "中国汽车工业协会：网传“新能源车企因锁电问题被约谈、立案”为不实信息",
           "url": "https://m.thepaper.cn/newsDetail_forward_33144435",
@@ -29,8 +18,20 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 03时59分]"
+          "appearance_count": 8,
+          "time_info": "[00时53分 ~ 04时53分]"
+        },
+        {
+          "title": "中国汽车工业协会：网传“新能源车企因锁电问题被约谈、立案”为不实信息",
+          "url": "https://wallstreetcn.com/livenews/3101076",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时53分 ~ 04时53分]"
         },
         {
           "title": "中国汽车工业协会：网传“新能源车企因锁电问题被约谈、立案”为不实信息",
@@ -59,8 +60,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 03时59分]"
+          "appearance_count": 8,
+          "time_info": "[00时53分 ~ 04时53分]"
         },
         {
           "title": "被AI造谣？比亚迪、特斯拉、蔚小理等辟谣“被约谈”：不实！",
@@ -71,8 +72,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 03时59分]"
+          "appearance_count": 8,
+          "time_info": "[00时53分 ~ 04时53分]"
         }
       ]
     },
@@ -88,8 +89,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 03时59分]"
+          "appearance_count": 8,
+          "time_info": "[00时53分 ~ 04时53分]"
         }
       ]
     }
