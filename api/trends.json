@@ -1,8 +1,108 @@
 {
-  "generated_at": "2026-05-09T18:05:09.498430+08:00",
-  "total_titles_processed": 1208,
+  "generated_at": "2026-05-09T19:51:11.119010+08:00",
+  "total_titles_processed": 1336,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "曝小米汽车将推独立子品牌「寻天」，首款增程式 SUV 将启用寻天车标，是真的吗？为啥要单独推一个品牌？",
+          "url": "https://www.zhihu.com/question/2036141852990992910",
+          "source": "知乎",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时32分 ~ 19时51分]"
+        },
+        {
+          "title": "比亚迪、特斯拉、小鹏、理想否认被约谈",
+          "url": "https://wallstreetcn.com/livenews/3101013",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时14分 ~ 18时05分]"
+        },
+        {
+          "title": "小鹏否认被约谈立案",
+          "url": "https://wallstreetcn.com/livenews/3101011",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            18,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时14分 ~ 18时05分]"
+        },
+        {
+          "title": "纳斯达克100指数指数涨幅扩大至2.1%，成分股英特尔一度涨18.8%，MNST涨14.6%，美光科技涨13.3%，闪迪涨12.2%，高通涨9.5%，AMD、应用材料、科磊至少涨约6%，思科涨5.2%，阿斯麦ADR涨4.2%，特斯拉涨3.6%，铿腾电子涨1.9%，英伟达涨1.9%，吉利德科学、Workday跌超2.5%，微芯科技跌3.1%，AppLovin跌6.2%，Axon跌7.6%，南美电商MercadoLibre跌12.8%。 半导体指数涨5.2%。标普500指数涨0.8%。",
+          "url": "https://wallstreetcn.com/livenews/3100859",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时11分 ~ 04时07分]"
+        },
+        {
+          "title": "被AI造谣？比亚迪、特斯拉、蔚小理等辟谣“被约谈”：不实！",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33139979",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时50分 ~ 19时51分]"
+        },
+        {
+          "title": "比亚迪、特斯拉、小鹏、理想等车企否认被约谈",
+          "url": "https://flash.jin10.com/detail/20260509131404424800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时14分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌0.47%，报6994.95点，本周累计上涨1.56%，5月6日显著上涨，随后回吐部分涨幅。 热门中概股里，阿特斯初步收涨13.8%，晶科能源涨5.3%，小米、理想涨超2%，拼多多跌2.9%，新东方跌5.1%。 ETF中，中概互联网指数ETF（KWEB）收涨0.10%，本周反弹2.68%； 德银嘉实沪深300指数ETF（ASHR）收涨0.51%，本周涨0.93%； XtrackersHarvest中证50（ASHS）收涨0.59%，本周涨2.52%； 中国科技指数ETF（CQQQ）收涨0.81%，本周涨4.85%； MSCI新兴市场ex中国ETF（EMXC）收涨2.56%，本周涨7.40%。",
+          "url": "https://wallstreetcn.com/livenews/3100903",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时58分"
+        },
+        {
+          "title": "蔚来发布4月智能辅助驾驶出行报告 辅助驾驶使用总里程超过1.7亿公里",
+          "url": "https://flash.jin10.com/detail/20260509120652672800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时14分"
+        }
+      ]
+    },
     {
       "keyword_group": "汽车",
       "match_count": 8,
@@ -101,95 +201,6 @@
       ]
     },
     {
-      "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "曝小米汽车将推独立子品牌「寻天」，首款增程式 SUV 将启用寻天车标，是真的吗？为啥要单独推一个品牌？",
-          "url": "https://www.zhihu.com/question/2036141852990992910",
-          "source": "知乎",
-          "ranks": [
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时32分 ~ 18时05分]"
-        },
-        {
-          "title": "比亚迪、特斯拉、小鹏、理想否认被约谈",
-          "url": "https://wallstreetcn.com/livenews/3101013",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            16,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时14分 ~ 18时05分]"
-        },
-        {
-          "title": "小鹏否认被约谈立案",
-          "url": "https://wallstreetcn.com/livenews/3101011",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            18,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时14分 ~ 18时05分]"
-        },
-        {
-          "title": "纳斯达克100指数指数涨幅扩大至2.1%，成分股英特尔一度涨18.8%，MNST涨14.6%，美光科技涨13.3%，闪迪涨12.2%，高通涨9.5%，AMD、应用材料、科磊至少涨约6%，思科涨5.2%，阿斯麦ADR涨4.2%，特斯拉涨3.6%，铿腾电子涨1.9%，英伟达涨1.9%，吉利德科学、Workday跌超2.5%，微芯科技跌3.1%，AppLovin跌6.2%，Axon跌7.6%，南美电商MercadoLibre跌12.8%。 半导体指数涨5.2%。标普500指数涨0.8%。",
-          "url": "https://wallstreetcn.com/livenews/3100859",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时11分 ~ 04时07分]"
-        },
-        {
-          "title": "比亚迪、特斯拉、小鹏、理想等车企否认被约谈",
-          "url": "https://flash.jin10.com/detail/20260509131404424800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时14分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌0.47%，报6994.95点，本周累计上涨1.56%，5月6日显著上涨，随后回吐部分涨幅。 热门中概股里，阿特斯初步收涨13.8%，晶科能源涨5.3%，小米、理想涨超2%，拼多多跌2.9%，新东方跌5.1%。 ETF中，中概互联网指数ETF（KWEB）收涨0.10%，本周反弹2.68%； 德银嘉实沪深300指数ETF（ASHR）收涨0.51%，本周涨0.93%； XtrackersHarvest中证50（ASHS）收涨0.59%，本周涨2.52%； 中国科技指数ETF（CQQQ）收涨0.81%，本周涨4.85%； MSCI新兴市场ex中国ETF（EMXC）收涨2.56%，本周涨7.40%。",
-          "url": "https://wallstreetcn.com/livenews/3100903",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时58分"
-        },
-        {
-          "title": "蔚来发布4月智能辅助驾驶出行报告 辅助驾驶使用总里程超过1.7亿公里",
-          "url": "https://flash.jin10.com/detail/20260509120652672800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时14分"
-        }
-      ]
-    },
-    {
       "keyword_group": "华为汽车 鸿蒙智行 问界 尚界 尊界 智界 享界 乾崑",
       "match_count": 2,
       "titles": [
@@ -203,11 +214,12 @@
             10,
             15,
             17,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时13分 ~ 18时05分]"
+          "appearance_count": 13,
+          "time_info": "[00时13分 ~ 19时51分]"
         },
         {
           "title": "问界辟谣被约谈",
