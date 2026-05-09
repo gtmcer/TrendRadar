@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10T02:59:10.995520+08:00",
-  "total_titles_processed": 402,
+  "generated_at": "2026-05-10T03:59:16.019084+08:00",
+  "total_titles_processed": 421,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时53分 ~ 02时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时53分 ~ 03时59分]"
         },
         {
           "title": "中国汽车工业协会：网传“新能源车企因锁电问题被约谈、立案”为不实信息",
@@ -25,11 +25,12 @@
           "ranks": [
             18,
             17,
-            16
+            16,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时53分 ~ 02时59分]"
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 03时59分]"
         },
         {
           "title": "中国汽车工业协会：网传“新能源车企因锁电问题被约谈、立案”为不实信息",
@@ -54,11 +55,12 @@
           "source": "知乎",
           "ranks": [
             9,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时53分 ~ 02时59分]"
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 03时59分]"
         },
         {
           "title": "被AI造谣？比亚迪、特斯拉、蔚小理等辟谣“被约谈”：不实！",
@@ -69,8 +71,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时53分 ~ 02时59分]"
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 03时59分]"
         }
       ]
     },
@@ -86,8 +88,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时53分 ~ 02时59分]"
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 03时59分]"
         }
       ]
     }
