@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-10T21:14:42.825506+08:00",
-  "total_titles_processed": 1198,
+  "generated_at": "2026-05-10T22:52:05.921876+08:00",
+  "total_titles_processed": 1297,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "比亚迪、小鹏等多家车企辟谣网传约谈名单，该名单为何能快速刷屏？问题根源到底在哪？",
@@ -38,6 +38,17 @@
           "time_info": "[00时53分 ~ 14时10分]"
         },
         {
+          "title": "理想乱停车,游客上厕所被堵",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354157&amp;topic_name=%E7%90%86%E6%83%B3%E4%B9%B1%E5%81%9C%E8%BD%A6%2C%E6%B8%B8%E5%AE%A2%E4%B8%8A%E5%8E%95%E6%89%80%E8%A2%AB%E5%A0%B5",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时51分 ~ 22时52分]"
+        },
+        {
           "title": "沈梦辰理想型张凌赫嫁给杜海涛",
           "url": "https://s.weibo.com/weibo?q=%23%E6%B2%88%E6%A2%A6%E8%BE%B0%E7%90%86%E6%83%B3%E5%9E%8B%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%AB%81%E7%BB%99%E6%9D%9C%E6%B5%B7%E6%B6%9B%23&t=31&band_rank=23&Refer=top",
           "source": "微博",
@@ -66,7 +77,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时14分"
         }
@@ -74,7 +85,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "中国汽车工业协会：网传“新能源车企因锁电问题被约谈、立案”为不实信息",
@@ -118,8 +129,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时13分 ~ 21时14分]"
+          "appearance_count": 6,
+          "time_info": "[18时13分 ~ 22时52分]"
+        },
+        {
+          "title": "央视曝光危险的“手搓汽车”",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E5%8D%B1%E9%99%A9%E7%9A%84%E2%80%9C%E6%89%8B%E6%90%93%E6%B1%BD%E8%BD%A6%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时51分 ~ 22时52分]"
         },
         {
           "title": "当地高级警官表示，在巴基斯坦巴努发生的汽车炸弹爆炸事件以及与武装分子的夜间交火中，已有12名警察丧生。",
