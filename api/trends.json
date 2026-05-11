@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-11T14:39:37.595100+08:00",
-  "total_titles_processed": 970,
+  "generated_at": "2026-05-11T18:37:56.774238+08:00",
+  "total_titles_processed": 1185,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "央视曝光危险的“手搓汽车”",
@@ -40,11 +40,34 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33152342",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            18,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时39分 ~ 18时37分]"
+        },
+        {
+          "title": "中国汽车动力电池产业创新联盟发布倡议，倡议尊重知识产权，共筑全球动力电池产业未来。",
+          "url": "https://wallstreetcn.com/livenews/3101555",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时39分"
+          "time_info": "18时37分"
+        },
+        {
+          "title": "中国汽车动力电池产业联盟：4月动力和储能电池合计出口31.7GWh，同比增长42%",
+          "url": "https://wallstreetcn.com/livenews/3101522",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
         },
         {
           "title": "段建军任沃尔沃汽车大中华区新任总裁兼CEO",
@@ -53,7 +76,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时39分"
         }
@@ -61,7 +84,7 @@
     },
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "理想乱停车,游客上厕所被堵",
@@ -71,11 +94,12 @@
             5,
             6,
             9,
-            12
+            12,
+            18
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时54分 ~ 14时39分]"
+          "appearance_count": 12,
+          "time_info": "[00时54分 ~ 18时37分]"
         },
         {
           "title": "如何评价蔚来汽车董事长李斌？为什么蔚来汽车董事长李斌能得到这么多互联网大佬的支持帮助和青睐？",
@@ -90,6 +114,28 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时54分 ~ 07时51分]"
+        },
+        {
+          "title": "女子在理想4S店找母婴室被员工嘲笑",
+          "url": "https://www.toutiao.com/trending/7638448373196718143/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
+        },
+        {
+          "title": "小米汽车销量跻身国产前五",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E9%94%80%E9%87%8F%E8%B7%BB%E8%BA%AB%E5%9B%BD%E4%BA%A7%E5%89%8D%E4%BA%94%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
         },
         {
           "title": "Jefferies：中国AI、苹果及特斯拉供应链二季度有望获正贝塔收益",
@@ -115,7 +161,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时39分"
         }
