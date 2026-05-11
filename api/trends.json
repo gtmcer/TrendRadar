@@ -1,55 +1,11 @@
 {
-  "generated_at": "2026-05-11T10:55:55.483986+08:00",
-  "total_titles_processed": 783,
+  "generated_at": "2026-05-11T14:39:37.595100+08:00",
+  "total_titles_processed": 970,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "理想乱停车,游客上厕所被堵",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354157&amp;topic_name=%E7%90%86%E6%83%B3%E4%B9%B1%E5%81%9C%E8%BD%A6%2C%E6%B8%B8%E5%AE%A2%E4%B8%8A%E5%8E%95%E6%89%80%E8%A2%AB%E5%A0%B5",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时54分 ~ 10时55分]"
-        },
-        {
-          "title": "如何评价蔚来汽车董事长李斌？为什么蔚来汽车董事长李斌能得到这么多互联网大佬的支持帮助和青睐？",
-          "url": "https://www.zhihu.com/question/265062196",
-          "source": "知乎",
-          "ranks": [
-            19,
-            20,
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时54分 ~ 07时51分]"
-        },
-        {
-          "title": "Jefferies：中国AI、苹果及特斯拉供应链二季度有望获正贝塔收益",
-          "url": "https://wallstreetcn.com/livenews/3101247",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时55分"
-        }
-      ]
-    },
-    {
       "keyword_group": "汽车",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "央视曝光危险的“手搓汽车”",
@@ -78,6 +34,90 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时54分 ~ 07时51分]"
+        },
+        {
+          "title": "伪造合格证、电池以旧代新…《财经调查》曝光危险的“手搓汽车”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33152342",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
+        {
+          "title": "段建军任沃尔沃汽车大中华区新任总裁兼CEO",
+          "url": "https://wallstreetcn.com/livenews/3101365",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "理想乱停车,游客上厕所被堵",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354157&amp;topic_name=%E7%90%86%E6%83%B3%E4%B9%B1%E5%81%9C%E8%BD%A6%2C%E6%B8%B8%E5%AE%A2%E4%B8%8A%E5%8E%95%E6%89%80%E8%A2%AB%E5%A0%B5",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            6,
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时54分 ~ 14时39分]"
+        },
+        {
+          "title": "如何评价蔚来汽车董事长李斌？为什么蔚来汽车董事长李斌能得到这么多互联网大佬的支持帮助和青睐？",
+          "url": "https://www.zhihu.com/question/265062196",
+          "source": "知乎",
+          "ranks": [
+            19,
+            20,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时54分 ~ 07时51分]"
+        },
+        {
+          "title": "Jefferies：中国AI、苹果及特斯拉供应链二季度有望获正贝塔收益",
+          "url": "https://wallstreetcn.com/livenews/3101247",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源汽车",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "4月份，我国新能源汽车产销量同比分别增长5.5%和9.7%，出口同比增长1.1倍",
+          "url": "https://wallstreetcn.com/livenews/3101387",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
         }
       ]
     }
