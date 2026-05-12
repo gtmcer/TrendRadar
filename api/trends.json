@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-12T17:38:29.510182+08:00",
-  "total_titles_processed": 1149,
+  "generated_at": "2026-05-12T20:03:33.239888+08:00",
+  "total_titles_processed": 1302,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "ranks": [
             14,
             18,
-            12
+            12,
+            20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时32分 ~ 17时38分]"
+          "appearance_count": 10,
+          "time_info": "[00时32分 ~ 20时03分]"
         },
         {
           "title": "澎湃漫评｜“手搓汽车”把风险留给了社会",
@@ -38,11 +39,12 @@
           "ranks": [
             20,
             15,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时57分 ~ 17时38分]"
+          "appearance_count": 5,
+          "time_info": "[07时57分 ~ 20时03分]"
         },
         {
           "title": "央视曝光三无手搓汽车，从新能源车拆下翻新锂电池自行组装，这种汽车有何风险？暴露出监管与产业链哪些问题？",
@@ -50,11 +52,12 @@
           "source": "知乎",
           "ranks": [
             15,
-            12
+            12,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时14分 ~ 17时38分]"
+          "appearance_count": 3,
+          "time_info": "[14时14分 ~ 20时03分]"
         },
         {
           "title": "中国汽车流通协会：4月末汽车经销商库存总量约260万辆",
@@ -63,7 +66,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时38分"
         },
@@ -148,7 +151,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时38分"
         }
