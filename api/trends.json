@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-13T05:18:41.917193+08:00",
-  "total_titles_processed": 459,
+  "generated_at": "2026-05-13T06:59:38.931297+08:00",
+  "total_titles_processed": 541,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时09分 ~ 05时18分]"
+          "appearance_count": 5,
+          "time_info": "[01时09分 ~ 06时59分]"
         },
         {
           "title": "据CNN：多名消息人士称，今年早些时候在墨西哥发生的一起汽车爆炸事件造成一名疑似贩毒集团成员死亡，该事件属于一次定点暗杀行动，并得到美国中央情报局（CIA）行动官员的协助。",
@@ -25,7 +25,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
         },
@@ -36,11 +36,12 @@
           "ranks": [
             10,
             9,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时09分 ~ 05时18分]"
+          "appearance_count": 5,
+          "time_info": "[01时09分 ~ 06时59分]"
         },
         {
           "title": "周二（5月12日），彭博电动汽车价格回报指数跌1.77%，报4125.69点。 亚太早盘微幅高开，随后持续下跌，北京时间12:00-22:00持续交投于4150.40点附近，之后又扩大跌幅。",
@@ -49,7 +50,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
         }
