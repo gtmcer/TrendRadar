@@ -1,99 +1,22 @@
 {
-  "generated_at": "2026-05-13T21:24:17.187735+08:00",
-  "total_titles_processed": 1388,
+  "generated_at": "2026-05-14T00:23:12.233046+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 12,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "4月汽车销量前十名仅剩1款油车",
-          "url": "https://www.baidu.com/s?wd=4%E6%9C%88%E6%B1%BD%E8%BD%A6%E9%94%80%E9%87%8F%E5%89%8D%E5%8D%81%E5%90%8D%E4%BB%85%E5%89%A91%E6%AC%BE%E6%B2%B9%E8%BD%A6",
-          "source": "百度热搜",
-          "ranks": [
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时09分 ~ 08时06分]"
-        },
-        {
-          "title": "我国全年汽车出口量有望再创新高",
-          "url": "https://www.douyin.com/hot/2497186",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时42分 ~ 15时49分]"
-        },
-        {
-          "title": "4月汽车销量前十名仅剩一款油车",
-          "url": "https://www.toutiao.com/trending/7638216494090289158/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            12,
-            15,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时05分 ~ 18时25分]"
-        },
-        {
-          "title": "4月汽车销量前10仅1款油车",
-          "url": "https://s.weibo.com/weibo?q=%234%E6%9C%88%E6%B1%BD%E8%BD%A6%E9%94%80%E9%87%8F%E5%89%8D10%E4%BB%851%E6%AC%BE%E6%B2%B9%E8%BD%A6%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10,
-            9,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时09分 ~ 08时06分]"
-        },
         {
           "title": "4 月汽车销量前十名仅剩一款油车，这会成为常态吗？吉利缤越为何能挤进前十？",
           "url": "https://www.zhihu.com/question/2037653159107982760",
           "source": "知乎",
           "ranks": [
-            17,
-            9,
-            4,
-            10
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时42分 ~ 21时24分]"
-        },
-        {
-          "title": "据CNN：多名消息人士称，今年早些时候在墨西哥发生的一起汽车爆炸事件造成一名疑似贩毒集团成员死亡，该事件属于一次定点暗杀行动，并得到美国中央情报局（CIA）行动官员的协助。",
-          "url": "https://flash.jin10.com/detail/20260513050414696800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时18分"
-        },
-        {
-          "title": "纯电动汽车保值排名：小米跌出前十",
-          "url": "https://www.toutiao.com/trending/7638539260280258579/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时05分 ~ 12时43分]"
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 00时23分]"
         },
         {
           "title": "惊险！飞机在高速公路紧急迫降，与汽车擦身而过",
@@ -104,118 +27,24 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时25分 ~ 21时24分]"
-        },
-        {
-          "title": "黎巴嫩媒体称，以色列军方击中黎巴嫩高速公路上的第二辆汽车。",
-          "url": "https://flash.jin10.com/detail/20260513152613912800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时49分"
-        },
-        {
-          "title": "德国官员：期待中国车企来德合作生产汽车",
-          "url": "https://flash.jin10.com/detail/20260513121614928800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时43分"
-        },
-        {
-          "title": "SK创新：近期油价上涨可能支持电动车需求，但长期电动车需求将更多依赖地区政策和汽车制造商的销售策略。",
-          "url": "https://flash.jin10.com/detail/20260513152319625800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时49分"
-        },
-        {
-          "title": "周二（5月12日），彭博电动汽车价格回报指数跌1.77%，报4125.69点。 亚太早盘微幅高开，随后持续下跌，北京时间12:00-22:00持续交投于4150.40点附近，之后又扩大跌幅。",
-          "url": "https://wallstreetcn.com/livenews/3102499",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时18分"
+          "time_info": "[00时22分 ~ 00时23分]"
         }
       ]
     },
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
         {
-          "title": "特斯拉跌幅扩大至5%。",
-          "url": "https://wallstreetcn.com/livenews/3102431",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时10分"
-        },
-        {
-          "title": "小鹏集团(09868.HK)：将于2026年5月28日（星期四）公布2026年第一季度财务业绩。",
-          "url": "https://flash.jin10.com/detail/20260513180206229800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时25分"
-        },
-        {
-          "title": "理想汽车CEO李想：公司不会主动裁员",
-          "url": "https://wallstreetcn.com/livenews/3102793",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时49分"
-        },
-        {
-          "title": "理想汽车李想：建议所有公司不裁人",
-          "url": "https://www.baidu.com/s?wd=%E7%90%86%E6%83%B3%E6%B1%BD%E8%BD%A6%E6%9D%8E%E6%83%B3%EF%BC%9A%E5%BB%BA%E8%AE%AE%E6%89%80%E6%9C%89%E5%85%AC%E5%8F%B8%E4%B8%8D%E8%A3%81%E4%BA%BA",
+          "title": "特斯拉推出“轻松贷”",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E6%8E%A8%E5%87%BA%E2%80%9C%E8%BD%BB%E6%9D%BE%E8%B4%B7%E2%80%9D",
           "source": "百度热搜",
           "ranks": [
             27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新能源汽车",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "数看4月新能源汽车产业成绩单",
-          "url": "https://www.toutiao.com/trending/7639196565483048457/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时42分 ~ 12时43分]"
+          "time_info": "[00时22分 ~ 00时23分]"
         }
       ]
     }
