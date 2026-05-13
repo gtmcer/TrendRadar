@@ -1,22 +1,48 @@
 {
-  "generated_at": "2026-05-13T06:59:38.931297+08:00",
-  "total_titles_processed": 541,
+  "generated_at": "2026-05-13T08:06:15.020159+08:00",
+  "total_titles_processed": 635,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "4月汽车销量前十名仅剩1款油车",
           "url": "https://www.baidu.com/s?wd=4%E6%9C%88%E6%B1%BD%E8%BD%A6%E9%94%80%E9%87%8F%E5%89%8D%E5%8D%81%E5%90%8D%E4%BB%85%E5%89%A91%E6%AC%BE%E6%B2%B9%E8%BD%A6",
           "source": "百度热搜",
           "ranks": [
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时09分 ~ 06时59分]"
+          "appearance_count": 7,
+          "time_info": "[01时09分 ~ 08时06分]"
+        },
+        {
+          "title": "4月汽车销量前10仅1款油车",
+          "url": "https://s.weibo.com/weibo?q=%234%E6%9C%88%E6%B1%BD%E8%BD%A6%E9%94%80%E9%87%8F%E5%89%8D10%E4%BB%851%E6%AC%BE%E6%B2%B9%E8%BD%A6%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10,
+            9,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时09分 ~ 08时06分]"
+        },
+        {
+          "title": "4月汽车销量前十名仅剩一款油车",
+          "url": "https://www.toutiao.com/trending/7638216494090289158/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时05分 ~ 08时06分]"
         },
         {
           "title": "据CNN：多名消息人士称，今年早些时候在墨西哥发生的一起汽车爆炸事件造成一名疑似贩毒集团成员死亡，该事件属于一次定点暗杀行动，并得到美国中央情报局（CIA）行动官员的协助。",
@@ -30,18 +56,15 @@
           "time_info": "05时18分"
         },
         {
-          "title": "4月汽车销量前10仅1款油车",
-          "url": "https://s.weibo.com/weibo?q=%234%E6%9C%88%E6%B1%BD%E8%BD%A6%E9%94%80%E9%87%8F%E5%89%8D10%E4%BB%851%E6%AC%BE%E6%B2%B9%E8%BD%A6%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
+          "title": "纯电动汽车保值排名：小米跌出前十",
+          "url": "https://www.toutiao.com/trending/7638539260280258579/",
+          "source": "今日头条",
           "ranks": [
-            10,
-            9,
-            18,
-            19
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时09分 ~ 06时59分]"
+          "appearance_count": 2,
+          "time_info": "[08时05分 ~ 08时06分]"
         },
         {
           "title": "周二（5月12日），彭博电动汽车价格回报指数跌1.77%，报4125.69点。 亚太早盘微幅高开，随后持续下跌，北京时间12:00-22:00持续交投于4150.40点附近，之后又扩大跌幅。",
