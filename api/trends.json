@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-15T19:55:14.992553+08:00",
-  "total_titles_processed": 1318,
+  "generated_at": "2026-05-15T22:03:02.602365+08:00",
+  "total_titles_processed": 1456,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "李想建议所有公司不裁人，称理想不会主动裁员，裁人很容易把最好的人裁掉，怎样看待他的观点？",
@@ -19,6 +19,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[07时56分 ~ 14时54分]"
+        },
+        {
+          "title": "极氪回应国乒主帅王皓提车",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9E%81%E6%B0%AA%E5%9B%9E%E5%BA%94%E5%9B%BD%E4%B9%92%E4%B8%BB%E5%B8%85%E7%8E%8B%E7%9A%93%E6%8F%90%E8%BD%A6%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 22时03分]"
         },
         {
           "title": "纳斯达克金龙中国指数收收跌3.37%，报7036.37点，美股盘初迅速扩大跌幅，整体走出长尾L形走势。 热门中概股里，美团初步收跌7.6%，百度跌4.9%，蔚来、拼多多跌4%，理想、腾讯、小鹏、阿里巴巴、网易至少跌约3%。",
@@ -38,7 +49,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时55分"
         },
@@ -57,7 +68,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "周四（5月14日），彭博电动汽车价格回报指数跌1.15%，报4113.70点。",
@@ -91,6 +102,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时47分"
+        },
+        {
+          "title": "汽车产量大幅上升 推动美国4月工业产出加速增长",
+          "url": "https://flash.jin10.com/detail/20260515213458443800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "福特汽车股价两日飙升21%，AI热潮向传统行业扩散",
@@ -127,7 +149,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时55分"
         },
