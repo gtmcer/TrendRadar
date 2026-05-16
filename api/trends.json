@@ -1,247 +1,56 @@
 {
-  "generated_at": "2026-05-16T23:57:43.019961+08:00",
-  "total_titles_processed": 1451,
+  "generated_at": "2026-05-17T01:01:25.355952+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "理想 L9 livis 正式上市定价 50.98 万元，有哪些技术亮点？预计销量如何？",
-          "url": "https://www.zhihu.com/question/2038606913412097171",
-          "source": "知乎",
-          "ranks": [
-            15,
-            14,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时50分 ~ 08时02分]"
-        },
-        {
-          "title": "本周，标普累涨约0.3%，道指持平，纳指累涨约0.1%，半导体指数跌1%，科技股七巨头指数累涨1.2%，存储芯片指数累跌3%，AI赢家指数跌0.4%、软件先驱指数跌0.4%。 周五当天，标普500指数初步收跌1.2%，原材料板块跌2.7%，公用事业板块跌2.3%，可选消费板块跌1.9%，科技板块跌1.5%，能源板块涨2.1%。 纳斯达克100指数初步收跌1.5%，成分股中，Arm控股初步收跌7.8%，美光跌6.6%，英特尔跌6.2%，AMD跌5.6%，阿斯麦ADR跌5%，Strategy跌4.8%，特斯拉跌4.7%，Adobe则涨4.4%，汤森路透涨4.8%，Zscaler涨5%，Workday涨5.3%，德康医疗涨6.5%。 英伟达初步收跌超4.4%，波音跌3.8%，卡特彼勒跌3.5%，领跌道指成分股，雪佛龙、思科、微软、Salesforce至少涨超2%。 半导体指数跌4%，生物科技指数跌2.7%，银行指数跌0.7%。",
-          "url": "https://wallstreetcn.com/livenews/3104611",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时15分"
-        },
-        {
-          "title": "特斯拉美国官网显示，Model Y长续航全轮驱动版在美国的售价从48990美元上调至49990美元。",
-          "url": "https://flash.jin10.com/detail/20260516211319504800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            13,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时19分 ~ 23时57分]"
-        },
-        {
-          "title": "理想汽车：已向这位母亲当面致歉",
-          "url": "https://www.baidu.com/s?wd=%E7%90%86%E6%83%B3%E6%B1%BD%E8%BD%A6%EF%BC%9A%E5%B7%B2%E5%90%91%E8%BF%99%E4%BD%8D%E6%AF%8D%E4%BA%B2%E5%BD%93%E9%9D%A2%E8%87%B4%E6%AD%89",
-          "source": "百度热搜",
-          "ranks": [
-            2,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时54分 ~ 14时21分]"
-        },
-        {
-          "title": "全新理想L9方向盘曝光",
-          "url": "https://www.toutiao.com/trending/7638907505590370314/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时50分 ~ 07时01分]"
-        },
-        {
-          "title": "特斯拉美国官网显示，Model Y高性能全轮驱动版在美国的售价从57490美元上调至57990美元。",
-          "url": "https://flash.jin10.com/detail/20260516211843761800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时55分 ~ 23时57分]"
-        },
-        {
-          "title": "特斯拉美国官网显示，Model Y长续航后轮驱动版在美国的售价从44990美元上调至45990美元。",
-          "url": "https://flash.jin10.com/detail/20260516211618797800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时55分 ~ 23时57分]"
-        },
-        {
-          "title": "蔚来秦力洪： 高内存带宽、真实算力、高效协同、稳定量产，是衡量先进车载芯片的四大硬核标准",
-          "url": "https://wallstreetcn.com/livenews/3104736",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
-          "title": "蔚来总裁：一些国外超豪车不该卖百万",
-          "url": "https://www.baidu.com/s?wd=%E8%94%9A%E6%9D%A5%E6%80%BB%E8%A3%81%EF%BC%9A%E4%B8%80%E4%BA%9B%E5%9B%BD%E5%A4%96%E8%B6%85%E8%B1%AA%E8%BD%A6%E4%B8%8D%E8%AF%A5%E5%8D%96%E7%99%BE%E4%B8%87",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
-          "title": "理想 CEO 称「汽车不能像手机一样换代」，如何看待他的观点？现在合理的汽车换代周期到底应该是多久？",
-          "url": "https://www.zhihu.com/question/2036455641170932765",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
-          "title": "蔚来汽车(NIO.N)：截至5月16日，蔚来全国建成8868座充换电站，其中换电站3848座，充电站5020座、充电桩28853根，累计提供超1亿次换电。",
-          "url": "https://flash.jin10.com/detail/20260516092159511800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时54分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "汽车",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "现代汽车集团顶级美国游说专家Drew Ferguson离职，此前一年在该公司发挥了关键作用。",
-          "url": "https://wallstreetcn.com/livenews/3104561",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时50分"
-        },
-        {
-          "title": "福特汽车收跌7.4%，创2025年2月份以来最大单日跌幅。",
-          "url": "https://wallstreetcn.com/livenews/3104615",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时15分 ~ 05时59分]"
-        },
-        {
-          "title": "长城汽车与中国汽车工程学会签署战略合作协议",
-          "url": "https://wallstreetcn.com/livenews/3104768",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时48分 ~ 18时14分]"
-        },
-        {
-          "title": "汽车与AI提振美国制造业产量，战争引发的供应短缺隐忧浮现",
-          "url": "https://wallstreetcn.com/livenews/3104546",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时50分"
-        },
-        {
-          "title": "现代汽车美国首席游说官在任职一年后离职",
-          "url": "https://wallstreetcn.com/livenews/3104561",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时21分"
-        },
-        {
-          "title": "以色列空袭加沙城住宅楼和汽车，造成4人死亡",
-          "url": "https://wallstreetcn.com/livenews/3104591",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时15分"
-        }
-      ]
-    },
-    {
       "keyword_group": "华为汽车 鸿蒙智行 问界 尚界 尊界 智界 享界 乾崑",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "余承东称「尊界 s800」4 月上险量超 1100 台，累计交付超 17000 台，真实情况如何？",
           "url": "https://www.zhihu.com/question/2038307987094249499",
           "source": "知乎",
           "ranks": [
-            18,
-            14,
-            16,
-            20,
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时47分 ~ 23时57分]"
-        },
+          "appearance_count": 2,
+          "time_info": "[01时00分 ~ 01时01分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "鸿蒙智行智界 V9 上市，售价 38.98-51.98 万，有哪些技术亮点？预计销量如何？",
-          "url": "https://www.zhihu.com/question/2038632500457465782",
-          "source": "知乎",
+          "title": "中南大学帅哥自曝理想型",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%8D%97%E5%A4%A7%E5%AD%A6%E5%B8%85%E5%93%A5%E8%87%AA%E6%9B%9D%E7%90%86%E6%83%B3%E5%9E%8B%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
           "ranks": [
-            19
+            28
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时47分 ~ 16时48分]"
+          "time_info": "[01时00分 ~ 01时01分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "汽车",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "意大利摩德纳市发生汽车冲撞人群事件",
+          "url": "https://flash.jin10.com/detail/20260517001026043800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时01分"
         }
       ]
     }
