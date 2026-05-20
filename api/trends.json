@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-20T17:36:34.327597+08:00",
-  "total_titles_processed": 1086,
+  "generated_at": "2026-05-20T20:23:32.488091+08:00",
+  "total_titles_processed": 1249,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "“叫的特斯拉来的比亚迪” 平台回应",
@@ -73,6 +73,17 @@
           "time_info": "[02时59分 ~ 04时47分]"
         },
         {
+          "title": "段永平最新美股持仓曝光！豪掷12亿美元重仓特斯拉，大举加仓英伟达、拼多多",
+          "url": "https://wallstreetcn.com/articles/3772698",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
           "title": "哪对 CP 的互动，让你觉得原来这就是理想中爱情的样子？",
           "url": "https://www.zhihu.com/topic/2029675872450355882/hot",
           "source": "知乎",
@@ -93,12 +104,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
+        },
+        {
+          "title": "小鹏GX发布会",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%B9%8FGX%E5%8F%91%E5%B8%83%E4%BC%9A%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
         }
       ]
     },
     {
       "keyword_group": "汽车",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "印度尼西亚总统：我们不能仅仅成为他人的市场，我们必须生产自己的汽车和手机。",
@@ -155,7 +177,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时36分"
         },
@@ -169,6 +191,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时47分"
+        },
+        {
+          "title": "日本汽车产业危机有多严重",
+          "url": "https://www.toutiao.com/trending/7641913976468540970/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
         }
       ]
     }
