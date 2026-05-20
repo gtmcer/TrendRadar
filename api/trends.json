@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-20T13:03:48.825888+08:00",
-  "total_titles_processed": 870,
+  "generated_at": "2026-05-20T17:36:34.327597+08:00",
+  "total_titles_processed": 1086,
   "failed_sources": [],
   "trends": [
     {
@@ -79,7 +79,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时03分"
         },
@@ -98,7 +98,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "印度尼西亚总统：我们不能仅仅成为他人的市场，我们必须生产自己的汽车和手机。",
@@ -107,7 +107,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时03分"
         },
@@ -147,6 +147,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时03分 ~ 13时03分]"
+        },
+        {
+          "title": "东风集团与Stellantis拟建合资企业，负责岚图汽车欧洲销售",
+          "url": "https://wallstreetcn.com/livenews/3106620",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
         },
         {
           "title": "通用汽车将在墨西哥Toluca工厂投资10亿美元。（Expansion）",
