@@ -1,37 +1,12 @@
 {
-  "generated_at": "2026-05-21T23:19:59.453251+08:00",
-  "total_titles_processed": 1348,
+  "generated_at": "2026-05-22T01:56:26.020672+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 26,
+      "match_count": 5,
       "titles": [
-        {
-          "title": "特斯拉监督版FSD入华",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%E7%9B%91%E7%9D%A3%E7%89%88FSD%E5%85%A5%E5%8D%8E%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时28分 ~ 11时29分]"
-        },
-        {
-          "title": "特斯拉与印度关税谈判陷僵局，已放弃在印度建厂的计划，印度为什么没留住特斯拉？对中国新能源产业有影响吗？",
-          "url": "https://www.zhihu.com/question/2040337402904797465",
-          "source": "知乎",
-          "ranks": [
-            8,
-            6,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 07时11分]"
-        },
         {
           "title": "雷军说输给特斯拉不丢人",
           "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E8%AF%B4%E8%BE%93%E7%BB%99%E7%89%B9%E6%96%AF%E6%8B%89%E4%B8%8D%E4%B8%A2%E4%BA%BA%23&t=31&band_rank=1&Refer=top",
@@ -39,335 +14,70 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时19分"
-        },
-        {
-          "title": "特斯拉宣布监督版 FSD 可在中国使用，将对中国的自动驾驶市场带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2040735607136019458",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时19分"
-        },
-        {
-          "title": "段永平最新美股持仓曝光！豪掷12亿美元重仓特斯拉，大举加仓英伟达、拼多多",
-          "url": "https://wallstreetcn.com/articles/3772698",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 07时11分]"
-        },
-        {
-          "title": "蔚来是怎么通过换电解决电池衰减问题的，难道每次都是换的新电池？",
-          "url": "https://www.zhihu.com/question/2038837526228645684",
-          "source": "知乎",
-          "ranks": [
-            20,
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时28分 ~ 19时21分]"
-        },
-        {
-          "title": "小鹏GX价格炸裂",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%B9%8FGX%E4%BB%B7%E6%A0%BC%E7%82%B8%E8%A3%82%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7,
-            24,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 07时11分]"
-        },
-        {
-          "title": "小鹏 GX 正式上市，26.98 万起，有哪些技术亮点？预计销量如何，能否脱颖而出？",
-          "url": "https://www.zhihu.com/question/2040426374658093580",
-          "source": "知乎",
-          "ranks": [
-            17,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时11分 ~ 11时29分]"
-        },
-        {
-          "title": "特斯拉中国急招智驾测试技师",
-          "url": "https://www.douyin.com/hot/2505444",
-          "source": "抖音",
-          "ranks": [
-            20,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时11分 ~ 11时29分]"
-        },
-        {
-          "title": "特斯拉官宣：监督版FSD登陆中国",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E5%AE%98%E5%AE%A3%EF%BC%9A%E7%9B%91%E7%9D%A3%E7%89%88FSD%E7%99%BB%E9%99%86%E4%B8%AD%E5%9B%BD",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时28分 ~ 11时29分]"
-        },
-        {
-          "title": "特斯拉印度工厂项目为何被叫停",
-          "url": "https://www.toutiao.com/trending/7641938094068878902/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 05时51分]"
-        },
-        {
-          "title": "特斯拉最后一批Model S/X车型下线 工厂将转为人型机器人生产线",
-          "url": "https://www.cls.cn/detail/2377717",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时21分 ~ 23时19分]"
-        },
-        {
-          "title": "特斯拉官宣监督版FSD登陆中国",
-          "url": "https://www.douyin.com/hot/2506634",
-          "source": "抖音",
-          "ranks": [
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时21分 ~ 23时19分]"
-        },
-        {
-          "title": "特斯拉官宣监督版FSD登陆中国",
-          "url": "https://www.toutiao.com/trending/7641929277563289610/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时28分 ~ 11时29分]"
-        },
-        {
-          "title": "蔚来CFO曲玉：服务和社区相关业务会成为蔚来除新车外重要增长点",
-          "url": "https://flash.jin10.com/detail/20260521230455429800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时19分"
-        },
-        {
-          "title": "小鹏刘先明：特斯拉FSD入华是好事",
-          "url": "https://www.toutiao.com/trending/7641566590459084841/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时49分"
-        },
-        {
-          "title": "李斌：一季度蔚来品牌成交均价39万元，要平衡销量与毛利率",
-          "url": "https://wallstreetcn.com/livenews/3107508",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时19分"
-        },
-        {
-          "title": "雷军说输给特斯拉不丢人",
-          "url": "https://www.toutiao.com/trending/7641326270819647524/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时19分"
-        },
-        {
-          "title": "蔚来李斌：汽车行业材料成本压力非常大，会保持价格稳定与合理增长",
-          "url": "https://wallstreetcn.com/livenews/3107507",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时19分"
-        },
-        {
-          "title": "蔚来美股盘前涨超5%，公司第一季度营收255.3亿元，预估255.8亿元。",
-          "url": "https://wallstreetcn.com/livenews/3107363",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时21分"
-        },
-        {
-          "title": "蔚来发布2026一季度财报，整车毛利率18.8%，连续四个季度环比增长，创四年来新高",
-          "url": "https://wallstreetcn.com/livenews/3107362",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时21分"
+          "time_info": "01时56分"
         },
         {
           "title": "雷军：再次挑战特斯拉Model Y销量",
           "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%EF%BC%9A%E5%86%8D%E6%AC%A1%E6%8C%91%E6%88%98%E7%89%B9%E6%96%AF%E6%8B%89Model+Y%E9%94%80%E9%87%8F",
           "source": "百度热搜",
           "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时19分"
-        },
-        {
-          "title": "特斯拉公司自2023年开始已经向SpaceX销售价值8.9亿美元的电动汽车和电池。",
-          "url": "https://wallstreetcn.com/livenews/3106967",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时11分"
+          "time_info": "01时56分"
         },
         {
-          "title": "特斯拉月薪3万抢“老司机”",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E6%9C%88%E8%96%AA3%E4%B8%87%E6%8A%A2%E2%80%9C%E8%80%81%E5%8F%B8%E6%9C%BA%E2%80%9D",
-          "source": "百度热搜",
+          "title": "特斯拉官宣监督版FSD登陆中国",
+          "url": "https://www.douyin.com/hot/2506634",
+          "source": "抖音",
           "ranks": [
-            22
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时49分"
+          "time_info": "01时56分"
         },
         {
-          "title": "SpaceX申请美国IPO，代码SPCX。 将有两类股票：A类股和B类股。 （首次公开发行股票前）马斯克投票权合计为85.1%，将控制“SpaceX需要股东批准的事项”。 向马斯克授予2亿股业绩挂钩B类股。 特斯拉持有（SpaceX）将近1900万股A类股。 签署收购Cursor的选择权协议。",
-          "url": "https://wallstreetcn.com/livenews/3106924",
-          "source": "华尔街见闻-快讯",
+          "title": "理想汽车跌超 14%，新款 L9Livis 高价与净利下滑引关注，如何看待其股价大跌？",
+          "url": "https://www.zhihu.com/question/2039753147992781785",
+          "source": "知乎",
           "ranks": [
-            25
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时51分"
+          "time_info": "01时56分"
         },
         {
-          "title": "蔚来李斌：汽车行业材料成本压力非常大，会保持价格稳定与合理增长",
-          "url": "https://flash.jin10.com/detail/20260521224511464800",
-          "source": "金十数据",
+          "title": "雷军说输给特斯拉不丢人",
+          "url": "https://www.toutiao.com/trending/7641326270819647524/",
+          "source": "今日头条",
           "ranks": [
-            27
+            21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时19分"
+          "time_info": "01时56分"
         }
       ]
     },
     {
       "keyword_group": "汽车",
-      "match_count": 5,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "7 家日本车企 2026 财年净利预计腰斩，日本造车业为何如此不景气？日产汽车落后于市场了吗？",
-          "url": "https://www.zhihu.com/question/2040362002791588829",
-          "source": "知乎",
-          "ranks": [
-            17,
-            18,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 07时11分]"
-        },
-        {
-          "title": "被判赔3家车企共226万 汽车博主回应",
-          "url": "https://www.baidu.com/s?wd=%E8%A2%AB%E5%88%A4%E8%B5%943%E5%AE%B6%E8%BD%A6%E4%BC%81%E5%85%B1226%E4%B8%87+%E6%B1%BD%E8%BD%A6%E5%8D%9A%E4%B8%BB%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
-          "ranks": [
-            20,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时28分 ~ 15时49分]"
-        },
-        {
-          "title": "金十图示：2026年05月21日（周四）全球汽车制造商市值变化",
-          "url": "https://flash.jin10.com/detail/20260521110608985800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时29分"
-        },
-        {
-          "title": "男子误把汽车防冻液当饮料猛灌",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%AF%AF%E6%8A%8A%E6%B1%BD%E8%BD%A6%E9%98%B2%E5%86%BB%E6%B6%B2%E5%BD%93%E9%A5%AE%E6%96%99%E7%8C%9B%E7%81%8C",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时21分"
-        },
         {
           "title": "纽约发生一起汽车爆炸事件",
           "url": "https://www.douyin.com/hot/2506517",
           "source": "抖音",
           "ranks": [
-            29
+            24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时19分"
+          "time_info": "01时56分"
         }
       ]
     }
