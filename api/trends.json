@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-22T01:56:26.020672+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-05-22T03:52:06.105685+08:00",
+  "total_titles_processed": 388,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时56分"
+          "appearance_count": 3,
+          "time_info": "[01时56分 ~ 03时52分]"
         },
         {
           "title": "雷军：再次挑战特斯拉Model Y销量",
@@ -26,8 +26,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时56分"
+          "appearance_count": 3,
+          "time_info": "[01时56分 ~ 03时52分]"
         },
         {
           "title": "特斯拉官宣监督版FSD登陆中国",
@@ -37,8 +37,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时56分"
+          "appearance_count": 3,
+          "time_info": "[01时56分 ~ 03时52分]"
         },
         {
           "title": "理想汽车跌超 14%，新款 L9Livis 高价与净利下滑引关注，如何看待其股价大跌？",
@@ -73,11 +73,12 @@
           "url": "https://www.douyin.com/hot/2506517",
           "source": "抖音",
           "ranks": [
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时56分"
+          "appearance_count": 3,
+          "time_info": "[01时56分 ~ 03时52分]"
         }
       ]
     }
