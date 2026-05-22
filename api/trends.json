@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-22T07:02:18.630878+08:00",
-  "total_titles_processed": 522,
+  "generated_at": "2026-05-22T11:28:38.019613+08:00",
+  "total_titles_processed": 759,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "雷军说输给特斯拉不丢人",
@@ -19,6 +19,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时56分 ~ 07时02分]"
+        },
+        {
+          "title": "“八败两胜”后小米YU7标准版“临时”下调定价 再战特斯拉Model Y",
+          "url": "https://www.cls.cn/detail/2378400",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
         },
         {
           "title": "雷军：再次挑战特斯拉Model Y销量",
@@ -43,6 +54,17 @@
           "time_info": "[01时56分 ~ 07时02分]"
         },
         {
+          "title": "小米YU7 GT正式发布：38.99万元起售，雷军称销量输给特斯拉不丢人",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33205624",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
+        },
+        {
           "title": "理想汽车跌超 14%，新款 L9Livis 高价与净利下滑引关注，如何看待其股价大跌？",
           "url": "https://www.zhihu.com/question/2039753147992781785",
           "source": "知乎",
@@ -52,6 +74,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
+        },
+        {
+          "title": "港股汽车股震荡走强，小鹏集团(09868.HK)涨超4%，理想汽车(02015.HK)涨超3%，零跑汽车(09863.HK)、比亚迪股份(01211.HK)等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260522105259348800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
         },
         {
           "title": "雷军说输给特斯拉不丢人",
@@ -68,7 +101,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "纽约发生一起汽车爆炸事件",
@@ -94,6 +127,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时26分 ~ 07时02分]"
+        },
+        {
+          "title": "金十图示：2026年05月22日（周五）全球汽车制造商市值变化",
+          "url": "https://flash.jin10.com/detail/20260522111102199800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
         }
       ]
     }
