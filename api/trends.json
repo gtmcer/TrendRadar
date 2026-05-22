@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-22T18:49:05.016680+08:00",
-  "total_titles_processed": 1118,
+  "generated_at": "2026-05-22T21:32:03.210236+08:00",
+  "total_titles_processed": 1278,
   "failed_sources": [],
   "trends": [
     {
@@ -21,6 +21,19 @@
           "time_info": "[01时56分 ~ 07时02分]"
         },
         {
+          "title": "小米YU7 GT正式发布：38.99万元起售，雷军称销量输给特斯拉不丢人",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33205624",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时28分 ~ 21时32分]"
+        },
+        {
           "title": "“八败两胜”后小米YU7标准版“临时”下调定价 再战特斯拉Model Y",
           "url": "https://www.cls.cn/detail/2378400",
           "source": "财联社热门",
@@ -30,6 +43,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
+        },
+        {
+          "title": "雷军：“媲美保时捷和特斯拉”不是吹嘘，希望大家有耐心再等小米5年",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33206353",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时42分 ~ 21时32分]"
         },
         {
           "title": "雷军：再次挑战特斯拉Model Y销量",
@@ -52,31 +77,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时56分 ~ 07时02分]"
-        },
-        {
-          "title": "小米YU7 GT正式发布：38.99万元起售，雷军称销量输给特斯拉不丢人",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33205624",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时28分 ~ 18时49分]"
-        },
-        {
-          "title": "雷军：“媲美保时捷和特斯拉”不是吹嘘，希望大家有耐心再等小米5年",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33206353",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时42分 ~ 18时49分]"
         },
         {
           "title": "美国国家公路交通安全管理局：特斯拉宣布召回14575辆美国汽车。",
@@ -182,7 +182,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时49分"
         }
