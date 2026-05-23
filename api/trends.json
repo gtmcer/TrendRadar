@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-23T17:51:28.225260+08:00",
-  "total_titles_processed": 1052,
+  "generated_at": "2026-05-23T19:10:17.526289+08:00",
+  "total_titles_processed": 1126,
   "failed_sources": [],
   "trends": [
     {
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时24分 ~ 08时06分]"
+        },
+        {
+          "title": "莫迪多次邀特斯拉来印设厂，马斯克为何最终拒绝？",
+          "url": "https://news.ifeng.com/c/8tM7SvgZdOf",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时51分 ~ 19时10分]"
         },
         {
           "title": "如何看待蔚来发布 2026 年第一季度财报，连续两个季度盈利？",
@@ -40,17 +51,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
-        },
-        {
-          "title": "莫迪多次邀特斯拉来印设厂，马斯克为何最终拒绝？",
-          "url": "https://news.ifeng.com/c/8tM7SvgZdOf",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时51分"
         },
         {
           "title": "特斯拉电池供应商Solus Advance Materials Co.与旗下四个Volta Energy部门因铜箔专利纠纷而对SK Nexilis Co.欠款300万美元。",
@@ -99,7 +99,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时51分"
         }
