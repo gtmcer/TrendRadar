@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-23T06:07:09.098539+08:00",
-  "total_titles_processed": 514,
+  "generated_at": "2026-05-23T08:06:06.087583+08:00",
+  "total_titles_processed": 578,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33206353",
           "source": "澎湃新闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 06时07分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 08时06分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌2.2%，本周累跌4.8%。 热门中概股里，蔚来初步收跌6.8%，美团跌4.3%，拼多多跌3.3%，网易涨2%，日月光半导体涨6.8%。",
@@ -36,7 +37,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
         }
