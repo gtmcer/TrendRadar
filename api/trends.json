@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-26T07:00:55.294391+08:00",
-  "total_titles_processed": 478,
+  "generated_at": "2026-05-26T08:13:45.342403+08:00",
+  "total_titles_processed": 563,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33226630",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时42分 ~ 07时00分]"
+          "appearance_count": 6,
+          "time_info": "[01时42分 ~ 08时13分]"
         },
         {
           "title": "山东一汽车融资租赁企业拖车案第三次开庭：辩方认为属民事纠纷，作无罪辩护",
