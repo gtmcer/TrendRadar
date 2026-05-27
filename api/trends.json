@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-28T05:52:57.019555+08:00",
-  "total_titles_processed": 482,
+  "generated_at": "2026-05-28T07:15:50.386769+08:00",
+  "total_titles_processed": 547,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时35分 ~ 05时52分]"
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 07时15分]"
         },
         {
           "title": "武契奇在小米汽车工厂买了啥",
@@ -36,7 +36,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时52分"
         }
@@ -53,11 +53,12 @@
           "ranks": [
             8,
             16,
-            5
+            5,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时35分 ~ 05时52分]"
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 07时15分]"
         },
         {
           "title": "鸿蒙智行问界 M9 上市，售价 47.98 万起，有哪些技术亮点？预计销量如何？",
@@ -95,7 +96,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时52分"
         }
