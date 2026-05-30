@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-31T06:01:48.256059+08:00",
-  "total_titles_processed": 432,
+  "generated_at": "2026-05-31T07:07:57.073499+08:00",
+  "total_titles_processed": 450,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2386131",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时02分 ~ 06时01分]"
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 07时07分]"
         },
         {
           "title": "435万法拉利电车撞脸13万蔚来萤火虫",
@@ -29,8 +30,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时02分 ~ 06时01分]"
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 07时07分]"
         },
         {
           "title": "10名中国车主诉特斯拉FSD欺诈索395万",
@@ -42,8 +43,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时02分 ~ 06时01分]"
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 07时07分]"
         }
       ]
     },
