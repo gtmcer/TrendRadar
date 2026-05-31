@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-31T18:14:39.666070+08:00",
-  "total_titles_processed": 963,
+  "generated_at": "2026-05-31T20:11:13.025482+08:00",
+  "total_titles_processed": 1068,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时02分 ~ 18时14分]"
+          "appearance_count": 11,
+          "time_info": "[01时02分 ~ 20时11分]"
         },
         {
           "title": "435万法拉利电车撞脸13万蔚来萤火虫",
