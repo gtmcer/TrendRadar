@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-31T15:44:31.453203+08:00",
-  "total_titles_processed": 815,
+  "generated_at": "2026-05-31T18:14:39.666070+08:00",
+  "total_titles_processed": 963,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 15时44分]"
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 18时14分]"
         },
         {
           "title": "435万法拉利电车撞脸13万蔚来萤火虫",
@@ -58,11 +58,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            17
+            17,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时36分 ~ 15时44分]"
+          "appearance_count": 3,
+          "time_info": "[11时36分 ~ 18时14分]"
         },
         {
           "title": "美国汽车协会：数据显示，美国全国汽油30日当天平均零售价为每加仑4.35美元，较前一日下降4美分，较一周前下降17美分，仍较伊朗战事前水平高出46%。",
