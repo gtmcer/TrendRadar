@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-01T06:03:16.414057+08:00",
-  "total_titles_processed": 465,
+  "generated_at": "2026-06-01T08:05:26.782484+08:00",
+  "total_titles_processed": 564,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时06分 ~ 06时03分]"
+          "appearance_count": 8,
+          "time_info": "[00时06分 ~ 08时05分]"
         },
         {
           "title": "SpaceX购入特斯拉Cybertruck总销量的8% 且未获任何折扣",
@@ -65,8 +65,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时06分 ~ 06时03分]"
+          "appearance_count": 8,
+          "time_info": "[00时06分 ~ 08时05分]"
         }
       ]
     }
