@@ -1,33 +1,57 @@
 {
-  "generated_at": "2026-06-03T01:21:11.273487+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-03T04:46:24.580007+08:00",
+  "total_titles_processed": 406,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "零跑月交付破 8 万，小鹏、小米、理想、蔚来超 3 万，5 月新能源渗透率预计升至 62.5%，燃油车还有机会吗？",
           "url": "https://www.zhihu.com/question/2044851902995812571",
           "source": "知乎",
           "ranks": [
-            2
+            2,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 04时46分]"
         },
         {
           "title": "路透社曝光多名特斯拉前员工称不信赖 FSD ，更有人说「给我钱我也不坐」，这暴露了其背后存在哪些隐患？",
           "url": "https://www.zhihu.com/question/2044816484182877447",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 04时46分]"
+        },
+        {
+          "title": "周二（6月2日），彭博电动汽车价格回报指数涨1.99%，报4082.15点。 北京时间09:53跌至3961.41点刷新日低，随后持续走高。 成分股中，意法半导体巴黎股价收涨15.14%，禾赛科技涨9.2%，微宏控股涨8.9%，蔚来集团H股收涨8.34%、中创新航科技集团H股涨6.25%、小鹏集团H股涨6.19%、理想汽车H股涨5.72%表现第八，智利化工矿业公司（SQM）则跌3.6%，Ecopro BM Co. Ltd.跌4.35%，Lucid集团跌5.6%，三星SDI有限公司收跌7.67%。",
+          "url": "https://wallstreetcn.com/livenews/3113266",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时46分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数初步收涨1.8%。 热门中概股里，腾讯初步收涨9.3%，美团涨6.4%，理想涨6.1%，阿里涨4.3%，比亚迪涨4.2%，百度涨3.4%，日月光半导体涨2.7%，网易涨1.3%，拼多多涨1%。",
+          "url": "https://wallstreetcn.com/livenews/3113262",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时46分"
         }
       ]
     }
