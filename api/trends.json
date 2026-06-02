@@ -1,11 +1,83 @@
 {
-  "generated_at": "2026-06-02T16:27:56.763535+08:00",
-  "total_titles_processed": 912,
+  "generated_at": "2026-06-02T20:40:28.019496+08:00",
+  "total_titles_processed": 1124,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "零跑月交付破 8 万，小鹏、小米、理想、蔚来超 3 万，5 月新能源渗透率预计升至 62.5%，燃油车还有机会吗？",
+          "url": "https://www.zhihu.com/question/2044851902995812571",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
+          "title": "特斯拉上海超级工厂5月交付量创今年新高 同比增长近40%",
+          "url": "https://wallstreetcn.com/livenews/3113066",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
+          "title": "特斯拉FSD入华国内智驾扛得住吗",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89FSD%E5%85%A5%E5%8D%8E%E5%9B%BD%E5%86%85%E6%99%BA%E9%A9%BE%E6%89%9B%E5%BE%97%E4%BD%8F%E5%90%97%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
+          "title": "何小鹏回应重金招“三清”毕业生",
+          "url": "https://www.baidu.com/s?wd=%E4%BD%95%E5%B0%8F%E9%B9%8F%E5%9B%9E%E5%BA%94%E9%87%8D%E9%87%91%E6%8B%9B%E2%80%9C%E4%B8%89%E6%B8%85%E2%80%9D%E6%AF%95%E4%B8%9A%E7%94%9F",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
+          "title": "路透社曝光多名特斯拉前员工称不信赖 FSD ，更有人说「给我钱我也不坐」，这暴露了其背后存在哪些隐患？",
+          "url": "https://www.zhihu.com/question/2044816484182877447",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨1.47%，报6683.46点。 热门中概股里，盛大科技初步收涨25%，金山云涨8.6%，小马智行涨7.3%，蔚来涨6.8%，拼多多涨3.6%，阿里巴巴涨1%，理想跌3.1%。 ETF中，中概互联网指数ETF（KWEB）收涨2.36%，中国科技指数ETF（CQQQ）收跌0.93%。 MSCI新兴市场ex中国ETF（EMXC）收涨2.60%，XtrackersHarvest中证50（ASHS）收跌1.09%，德银嘉实沪深300指数ETF（ASHR）收跌1.36%。",
+          "url": "https://wallstreetcn.com/livenews/3112629",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时31分"
+        }
+      ]
+    },
+    {
       "keyword_group": "汽车",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "74岁男子点燃杨絮致20辆汽车被烧毁",
@@ -39,34 +111,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 2,
-      "titles": [
+        },
         {
-          "title": "特斯拉FSD入华国内智驾扛得住吗",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89FSD%E5%85%A5%E5%8D%8E%E5%9B%BD%E5%86%85%E6%99%BA%E9%A9%BE%E6%89%9B%E5%BE%97%E4%BD%8F%E5%90%97%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
+          "title": "千里科技5月汽车板块产销同比增长",
+          "url": "https://wallstreetcn.com/livenews/3113030",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            30
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时27分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收涨1.47%，报6683.46点。 热门中概股里，盛大科技初步收涨25%，金山云涨8.6%，小马智行涨7.3%，蔚来涨6.8%，拼多多涨3.6%，阿里巴巴涨1%，理想跌3.1%。 ETF中，中概互联网指数ETF（KWEB）收涨2.36%，中国科技指数ETF（CQQQ）收跌0.93%。 MSCI新兴市场ex中国ETF（EMXC）收涨2.60%，XtrackersHarvest中证50（ASHS）收跌1.09%，德银嘉实沪深300指数ETF（ASHR）收跌1.36%。",
-          "url": "https://wallstreetcn.com/livenews/3112629",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时31分"
+          "time_info": "20时40分"
         }
       ]
     },
@@ -81,7 +136,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
         }
