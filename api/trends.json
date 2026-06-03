@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-04T05:47:46.795368+08:00",
-  "total_titles_processed": 396,
+  "generated_at": "2026-06-04T07:42:06.084393+08:00",
+  "total_titles_processed": 499,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33299658",
           "source": "澎湃新闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时21分 ~ 05时47分]"
+          "appearance_count": 5,
+          "time_info": "[02时21分 ~ 07时42分]"
         },
         {
           "title": "问界回应浙江台州M9起火事故",
