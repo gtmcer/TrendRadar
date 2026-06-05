@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-06T05:24:27.470769+08:00",
-  "total_titles_processed": 450,
+  "generated_at": "2026-06-06T07:07:03.550021+08:00",
+  "total_titles_processed": 512,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "据英国金融时报：美国在与墨西哥的贸易谈判中，要求其对汽车零部件实施更严格的（准入）规则。",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时52分"
+        },
+        {
+          "title": "周五（6月5日），彭博电动汽车价格回报指数跌4.10%，报3776.20点，北京时间08:00开盘以来持续下挫，16:00-20:00（美国非农就业报告发布之前）持稳于3860点上方，本周累计下跌5.88%，6月3日08:00高开至4108.09点，随后持续走低。",
+          "url": "https://wallstreetcn.com/livenews/3115353",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
         }
       ]
     }
