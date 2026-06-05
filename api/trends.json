@@ -1,184 +1,22 @@
 {
-  "generated_at": "2026-06-05T23:52:24.466118+08:00",
-  "total_titles_processed": 1392,
+  "generated_at": "2026-06-06T01:52:55.723401+08:00",
+  "total_titles_processed": 307,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "小鹏回应山东车辆起火",
-          "url": "https://flash.jin10.com/detail/20260605171503254800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时43分"
-        },
-        {
-          "title": "摩根大通更换分析师后，对特斯拉悲观态度锐减",
-          "url": "https://wallstreetcn.com/livenews/3115246",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时52分"
-        },
-        {
-          "title": "理想“回怼”蔚来",
-          "url": "https://www.toutiao.com/trending/7647844399845494310/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时35分 ~ 20时36分]"
-        },
-        {
-          "title": "纳斯达克中国金龙指数跌幅达3%，成分股中百度(BIDU.O)跌超9%，万国数据(GDS.O)跌超6%，金山云(KC.O)跌5.7%，蔚来汽车(NIO.N)、小鹏汽车(XPEV.N)跌超4%，理想汽车(LI.O)跌超3%。",
-          "url": "https://flash.jin10.com/detail/20260605233849147800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时52分"
-        },
-        {
-          "title": "蔚来副总裁回应理想汽车",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%94%9A%E6%9D%A5%E5%89%AF%E6%80%BB%E8%A3%81%E5%9B%9E%E5%BA%94%E7%90%86%E6%83%B3%E6%B1%BD%E8%BD%A6%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时52分"
-        },
-        {
-          "title": "摩根大通更换分析师后对特斯拉悲观态度锐减",
-          "url": "https://flash.jin10.com/detail/20260605233623837800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时52分"
-        },
-        {
-          "title": "纳斯达克100指数跌幅收窄至0.5%，成分股博通目前仍然跌14.5%，美光科技跌6.1%，Lumentum跌2.3%，特斯拉跌1.1%，谷歌A则涨3.5%，迈威尔科技/美满科技、Doordash涨3.9%。",
-          "url": "https://wallstreetcn.com/livenews/3114548",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时45分"
-        },
-        {
-          "title": "小米雷军与特斯拉陶琳互动",
-          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E9%9B%B7%E5%86%9B%E4%B8%8E%E7%89%B9%E6%96%AF%E6%8B%89%E9%99%B6%E7%90%B3%E4%BA%92%E5%8A%A8&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时52分"
-        },
-        {
-          "title": "兆易创新与蔚来达成战略合作",
-          "url": "https://wallstreetcn.com/livenews/3114951",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时43分"
-        }
-      ]
-    },
-    {
       "keyword_group": "汽车",
-      "match_count": 6,
+      "match_count": 1,
       "titles": [
         {
-          "title": "中国电动汽车走向世界推动共赢",
-          "url": "https://www.toutiao.com/trending/7647470120398585882/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时42分 ~ 20时36分]"
-        },
-        {
-          "title": "小米寻天汽车最新谍照曝光",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E5%AF%BB%E5%A4%A9%E6%B1%BD%E8%BD%A6%E6%9C%80%E6%96%B0%E8%B0%8D%E7%85%A7%E6%9B%9D%E5%85%89%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10,
-            29,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时45分 ~ 06时20分]"
-        },
-        {
-          "title": "美国总统特朗普：与通用汽车和福特的高管进行了很好的会晤。",
-          "url": "https://flash.jin10.com/detail/20260605033413210800",
+          "title": "据英国金融时报：美国在与墨西哥的贸易谈判中，要求其对汽车零部件实施更严格的（准入）规则。",
+          "url": "https://flash.jin10.com/detail/20260606014117557800",
           "source": "金十数据",
           "ranks": [
-            8
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时03分"
-        },
-        {
-          "title": "美国总统特朗普：汽车制造商在会面中并未提出任何关税调整要求，谈话主要集中在汽车维修问题上。",
-          "url": "https://flash.jin10.com/detail/20260605044557857800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时20分"
-        },
-        {
-          "title": "美国总统特朗普：汽车行业会议主要讨论车辆维修问题。 制造商并没有要求我调整关税。",
-          "url": "https://wallstreetcn.com/livenews/3114631",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时20分"
-        },
-        {
-          "title": "日媒：全球纯电动汽车销量激增",
-          "url": "https://www.toutiao.com/trending/7646776943597240361/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时52分"
+          "time_info": "01时52分"
         }
       ]
     }
