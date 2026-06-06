@@ -1,96 +1,39 @@
 {
-  "generated_at": "2026-06-06T23:14:07.407123+08:00",
-  "total_titles_processed": 1379,
+  "generated_at": "2026-06-07T01:12:04.602851+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "汽车",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "据英国金融时报：美国在与墨西哥的贸易谈判中，要求其对汽车零部件实施更严格的（准入）规则。",
-          "url": "https://flash.jin10.com/detail/20260606014117557800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时52分"
-        },
-        {
-          "title": "字节跳动：没有造车或推出汽车品牌的计划",
-          "url": "https://wallstreetcn.com/livenews/3115424",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            21,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时30分 ~ 19时25分]"
-        },
-        {
-          "title": "字节跳动：没有造车或推出汽车品牌的计划",
-          "url": "https://flash.jin10.com/detail/20260606125239409800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时30分"
-        },
-        {
-          "title": "周五（6月5日），彭博电动汽车价格回报指数跌4.10%，报3776.20点，北京时间08:00开盘以来持续下挫，16:00-20:00（美国非农就业报告发布之前）持稳于3860点上方，本周累计下跌5.88%，6月3日08:00高开至4108.09点，随后持续走低。",
-          "url": "https://wallstreetcn.com/livenews/3115353",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时07分"
-        }
-      ]
-    },
-    {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
           "title": "小鹏集团再拓摩洛哥、突尼斯市场，北非“战略铁三角”成型",
           "url": "https://wallstreetcn.com/livenews/3115475",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时14分"
-        },
+          "time_info": "01时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "汽车",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "小鹏被传机器人核心人物离职，内部人士称业务进展顺利",
-          "url": "https://wallstreetcn.com/livenews/3115414",
-          "source": "华尔街见闻-快讯",
+          "title": "中国成澳洲汽车最大进口国",
+          "url": "https://www.toutiao.com/trending/7647422213582684211/",
+          "source": "今日头条",
           "ranks": [
-            16
+            26
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时30分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜特斯拉收跌超6.5%，英伟达也跌6.2%",
-          "url": "https://wallstreetcn.com/livenews/3115381",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时55分"
+          "appearance_count": 2,
+          "time_info": "[01时11分 ~ 01时12分]"
         }
       ]
     }
