@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-07T18:27:56.582932+08:00",
-  "total_titles_processed": 955,
+  "generated_at": "2026-06-07T20:20:17.264575+08:00",
+  "total_titles_processed": 1077,
   "failed_sources": [],
   "trends": [
     {
@@ -22,6 +22,17 @@
           "time_info": "[01时12分 ~ 07时03分]"
         },
         {
+          "title": "特斯拉和印度的建厂谈判正式破裂，原因曝光",
+          "url": "https://news.ifeng.com/c/8tkrzR3CiFe",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时53分 ~ 20时20分]"
+        },
+        {
           "title": "特斯拉和印度的建厂谈判正式告吹，原因分析",
           "url": "https://news.ifeng.com/c/8tkrzR3CiFe",
           "source": "凤凰网",
@@ -31,17 +42,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时40分 ~ 11时41分]"
-        },
-        {
-          "title": "特斯拉和印度的建厂谈判正式破裂，原因曝光",
-          "url": "https://news.ifeng.com/c/8tkrzR3CiFe",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时53分 ~ 18时27分]"
         }
       ]
     },
@@ -70,9 +70,9 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时27分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时27分 ~ 20时20分]"
         }
       ]
     }
