@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-07T07:03:54.015123+08:00",
-  "total_titles_processed": 455,
+  "generated_at": "2026-06-07T11:41:12.878489+08:00",
+  "total_titles_processed": 657,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "小鹏集团再拓摩洛哥、突尼斯市场，北非“战略铁三角”成型",
@@ -20,6 +20,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时12分 ~ 07时03分]"
+        },
+        {
+          "title": "特斯拉和印度的建厂谈判正式告吹，原因分析",
+          "url": "https://news.ifeng.com/c/8tkrzR3CiFe",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时40分 ~ 11时41分]"
         }
       ]
     },
