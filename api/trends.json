@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-11T00:35:10.679141+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-06-11T03:34:16.161266+08:00",
+  "total_titles_processed": 418,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "5月我国汽车出口量同比增长68.7%",
@@ -15,30 +15,43 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 00时35分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 03时34分]"
         },
         {
           "title": "小米 SU7 电吸门夹伤女子致骨折，官方确认无防夹功能，汽车电吸门技术应如何平衡便利与安全？",
           "url": "https://www.zhihu.com/question/2046860767601997436",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 00时35分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 03时34分]"
         },
         {
           "title": "昆明多辆汽车被故意抛撒的带刺铁钉扎破轮胎，警方抓获14人",
           "url": "https://m.thepaper.cn/newsDetail_forward_33348874",
           "source": "澎湃新闻",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 00时35分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 03时34分]"
+        },
+        {
+          "title": "通用汽车(GM.N)电池业务负责人库尔特·凯尔蒂表示，公司未来的电动汽车产品可能不会采用低成本磷酸铁锂电池。田纳西州工厂将于本月开始生产用于储能系统的磷酸铁锂电池，而非用于电动汽车的磷酸铁锂电池。",
+          "url": "https://flash.jin10.com/detail/20260611024422790800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时34分"
         }
       ]
     },
@@ -53,7 +66,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
         }
@@ -71,8 +84,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 00时35分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 03时34分]"
         }
       ]
     }
