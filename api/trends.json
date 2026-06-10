@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-10T13:16:51.220225+08:00",
-  "total_titles_processed": 805,
+  "generated_at": "2026-06-10T17:56:01.458570+08:00",
+  "total_titles_processed": 1022,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "A股市场掀增持回购“小高潮”，药明康德、江淮汽车等宣布回购股份",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时02分 ~ 08时11分]"
+        },
+        {
+          "title": "昆明多辆汽车被故意抛撒的带刺铁钉扎破轮胎，警方抓获14人",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33348874",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时55分 ~ 17时56分]"
         },
         {
           "title": "周二（6月9日），彭博电动汽车价格回报指数涨0.20%，报3716.05点。 整体呈现出几字形走势，亚太早盘短暂地跌穿3700点关口，随后走高，北京时间14:27-20:09交投于3760点附近-21:49刷新日高至3774.62点，随后快速下跌，00:40刷新日低至3693.01点。",
@@ -37,7 +48,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时16分"
         },
@@ -76,7 +87,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时16分"
         }
