@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-12T03:34:54.170194+08:00",
-  "total_titles_processed": 428,
+  "generated_at": "2026-06-12T06:02:11.969202+08:00",
+  "total_titles_processed": 520,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             9,
-            3
+            3,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时53分 ~ 03时34分]"
+          "appearance_count": 5,
+          "time_info": "[00时53分 ~ 06时02分]"
         }
       ]
     },
@@ -30,11 +31,29 @@
           "url": "https://www.zhihu.com/question/2048159787817375467",
           "source": "知乎",
           "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时34分 ~ 06时02分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "汽车",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "电动汽车为何不交养路费",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E4%B8%BA%E4%BD%95%E4%B8%8D%E4%BA%A4%E5%85%BB%E8%B7%AF%E8%B4%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时01分 ~ 06时02分]"
         }
       ]
     }
