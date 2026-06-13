@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-13T06:24:06.566868+08:00",
-  "total_titles_processed": 483,
+  "generated_at": "2026-06-13T08:19:45.742305+08:00",
+  "total_titles_processed": 573,
   "failed_sources": [],
   "trends": [
     {
@@ -27,19 +27,20 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时07分 ~ 06时24分]"
+          "appearance_count": 5,
+          "time_info": "[04时07分 ~ 08时19分]"
         },
         {
           "title": "周五（6月12日），彭博电动汽车价格回报指数涨3.59%，报3785.58点，北京时间08:00高开高走，12:00之前开始持稳于3760点附近，美股开盘后略微扩大涨幅。 本周累计上涨0.07%，整体呈现出W形走势。 成分股中，淡水河谷印尼公司收涨10.30%，ITM能源涨8.98%，“特斯拉劲敌”Rivian涨7.85%，理想汽车H股涨7.24%，美国雅宝涨7.14%表现第五，在下跌的六只成分股中，普拉格动力跌2.47%，MobilEye跌2.51%。",
           "url": "https://wallstreetcn.com/livenews/3119076",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            16,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 08时19分]"
         },
         {
           "title": "SpaceX美国IPO首日盘初涨幅扩大至25%，报168.75美元，盘中市值2.206575万亿美元；马斯克成为全球第一位万亿美元级别的富豪。 特斯拉跌幅扩大至2.2%，标普500指数涨幅收窄至0.36%，纳指涨0.11%，半导体指数涨1.77%。",
@@ -59,9 +60,26 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "汽车",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "汽车行业的利润率再创新低",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B1%BD%E8%BD%A6%E8%A1%8C%E4%B8%9A%E7%9A%84%E5%88%A9%E6%B6%A6%E7%8E%87%E5%86%8D%E5%88%9B%E6%96%B0%E4%BD%8E%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时19分"
         }
       ]
     }
