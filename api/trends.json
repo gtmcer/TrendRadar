@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-14T05:14:26.647491+08:00",
-  "total_titles_processed": 392,
+  "generated_at": "2026-06-14T07:03:17.853438+08:00",
+  "total_titles_processed": 430,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 05时14分]"
+          "appearance_count": 4,
+          "time_info": "[01时21分 ~ 07时03分]"
         },
         {
           "title": "SpaceX总裁不排除未来与特斯拉合并：两家公司目标正趋于一致",
@@ -24,11 +24,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时20分 ~ 05时14分]"
+          "appearance_count": 6,
+          "time_info": "[01时20分 ~ 07时03分]"
         }
       ]
     },
@@ -44,8 +45,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 05时14分]"
+          "appearance_count": 4,
+          "time_info": "[01时21分 ~ 07时03分]"
         }
       ]
     }
