@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-06-14T11:51:29.123429+08:00",
-  "total_titles_processed": 606,
+  "generated_at": "2026-06-14T16:15:24.915234+08:00",
+  "total_titles_processed": 786,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
       "match_count": 2,
       "titles": [
-        {
-          "title": "李斌：建立新品牌难度被低估，乐道知名度相当于6年前的蔚来",
-          "url": "https://wallstreetcn.com/livenews/3119174",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时21分 ~ 11时51分]"
-        },
         {
           "title": "SpaceX总裁不排除未来与特斯拉合并：两家公司目标正趋于一致",
           "url": "https://www.cls.cn/detail/2398816",
@@ -30,8 +18,21 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时20分 ~ 11时51分]"
+          "appearance_count": 8,
+          "time_info": "[01时20分 ~ 16时15分]"
+        },
+        {
+          "title": "李斌：建立新品牌难度被低估，乐道知名度相当于6年前的蔚来",
+          "url": "https://wallstreetcn.com/livenews/3119174",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            10,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时21分 ~ 16时15分]"
         }
       ]
     },
