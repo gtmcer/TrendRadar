@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-16T04:24:11.687592+08:00",
-  "total_titles_processed": 432,
+  "generated_at": "2026-06-16T07:02:10.943630+08:00",
+  "total_titles_processed": 526,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "蔚来李斌称做好今年全行业跌 15%~20% 的准备，多位车企高管预警非常时期至少持续五年，背后根源是什么？",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时16分 ~ 04时24分]"
+        },
+        {
+          "title": "特斯拉在日本卖白菜价，Model 3 仅需 13.4 万全球最低，为何在日本狂降价？能打开日本市场吗？",
+          "url": "https://www.zhihu.com/question/2047945194050254497",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时01分 ~ 07时02分]"
         },
         {
           "title": "巴西青年喊话雷军把小米汽车带到巴西",
