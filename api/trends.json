@@ -1,49 +1,8 @@
 {
-  "generated_at": "2026-06-16T23:09:28.967962+08:00",
-  "total_titles_processed": 1184,
+  "generated_at": "2026-06-17T03:33:22.213957+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "特斯拉在日本卖白菜价，Model 3 仅需 13.4 万全球最低，为何在日本狂降价？能打开日本市场吗？",
-          "url": "https://www.zhihu.com/question/2047945194050254497",
-          "source": "知乎",
-          "ranks": [
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时01分 ~ 11时53分]"
-        },
-        {
-          "title": "蔚来李斌称做好今年全行业跌 15%~20% 的准备，多位车企高管预警非常时期至少持续五年，背后根源是什么？",
-          "url": "https://www.zhihu.com/question/2049485598407373278",
-          "source": "知乎",
-          "ranks": [
-            5,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 04时24分]"
-        },
-        {
-          "title": "巴西青年喊话雷军把小米汽车带到巴西",
-          "url": "https://www.toutiao.com/trending/7651595461484462134/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
-        }
-      ]
-    },
     {
       "keyword_group": "汽车",
       "match_count": 2,
@@ -53,23 +12,22 @@
           "url": "https://wallstreetcn.com/articles/3774759",
           "source": "华尔街见闻",
           "ranks": [
-            8,
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时25分 ~ 23时09分]"
+          "appearance_count": 1,
+          "time_info": "03时33分"
         },
         {
-          "title": "李想吐槽汽车发布会越来越多",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%83%B3%E5%90%90%E6%A7%BD%E6%B1%BD%E8%BD%A6%E5%8F%91%E5%B8%83%E4%BC%9A%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
+          "title": "张家口突降冰雹 多辆汽车玻璃被砸",
+          "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E5%AE%B6%E5%8F%A3%E7%AA%81%E9%99%8D%E5%86%B0%E9%9B%B9+%E5%A4%9A%E8%BE%86%E6%B1%BD%E8%BD%A6%E7%8E%BB%E7%92%83%E8%A2%AB%E7%A0%B8",
+          "source": "百度热搜",
           "ranks": [
-            19
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时24分 ~ 17时25分]"
+          "appearance_count": 1,
+          "time_info": "03时33分"
         }
       ]
     }
