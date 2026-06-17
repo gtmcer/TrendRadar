@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-17T06:10:35.979554+08:00",
-  "total_titles_processed": 411,
+  "generated_at": "2026-06-17T08:15:12.772660+08:00",
+  "total_titles_processed": 542,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "中国5月社零同比下降0.6%，汽车下滑16.1%成最大拖累",
@@ -13,11 +13,23 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            7
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时33分 ~ 08时15分]"
+        },
+        {
+          "title": "电动汽车用动力蓄电池安全新要求",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E7%94%A8%E5%8A%A8%E5%8A%9B%E8%93%84%E7%94%B5%E6%B1%A0%E5%AE%89%E5%85%A8%E6%96%B0%E8%A6%81%E6%B1%82%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时33分 ~ 06时10分]"
+          "time_info": "[08时14分 ~ 08时15分]"
         },
         {
           "title": "周二（6月16日），彭博电动汽车价格回报指数跌0.87%，报3829.09点。",
@@ -26,7 +38,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时10分"
         },
