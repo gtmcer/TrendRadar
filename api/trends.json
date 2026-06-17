@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-17T08:15:12.772660+08:00",
-  "total_titles_processed": 542,
+  "generated_at": "2026-06-17T14:09:27.018936+08:00",
+  "total_titles_processed": 777,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "中国5月社零同比下降0.6%，汽车下滑16.1%成最大拖累",
@@ -30,6 +30,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时14分 ~ 08时15分]"
+        },
+        {
+          "title": "英国伦敦市中心上演千人裸体骑行，反对对石油和汽车的依赖",
+          "url": "https://v.ifeng.com/c/8u0gy2v6z2m",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
         },
         {
           "title": "周二（6月16日），彭博电动汽车价格回报指数跌0.87%，报3829.09点。",
