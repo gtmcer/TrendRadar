@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-18T16:46:12.603810+08:00",
-  "total_titles_processed": 858,
+  "generated_at": "2026-06-18T20:24:23.073126+08:00",
+  "total_titles_processed": 1039,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "新能源汽车",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "五部门：开展2026年新能源汽车下乡活动 深入推进汽车以旧换新进乡村",
@@ -15,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时45分 ~ 16时46分]"
+          "appearance_count": 3,
+          "time_info": "[16时45分 ~ 20时24分]"
         },
         {
           "title": "那些新能源汽车车主又换回了燃油车，是怎么想的？",
@@ -29,6 +29,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时04分 ~ 07时22分]"
+        },
+        {
+          "title": "五部门开展新能源汽车下乡活动",
+          "url": "https://www.douyin.com/hot/2539139",
+          "source": "抖音",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
+          "title": "我国将启动2026年新能源汽车下乡",
+          "url": "https://www.toutiao.com/trending/7652589530977517610/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         }
       ]
     },
