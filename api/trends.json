@@ -1,8 +1,37 @@
 {
-  "generated_at": "2026-06-18T11:42:16.211272+08:00",
-  "total_titles_processed": 639,
+  "generated_at": "2026-06-18T16:46:12.603810+08:00",
+  "total_titles_processed": 858,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "新能源汽车",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "五部门：开展2026年新能源汽车下乡活动 深入推进汽车以旧换新进乡村",
+          "url": "https://www.cls.cn/detail/2403340",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时45分 ~ 16时46分]"
+        },
+        {
+          "title": "那些新能源汽车车主又换回了燃油车，是怎么想的？",
+          "url": "https://www.zhihu.com/question/1918235574843729760",
+          "source": "知乎",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时04分 ~ 07时22分]"
+        }
+      ]
+    },
     {
       "keyword_group": "汽车",
       "match_count": 2,
@@ -14,7 +43,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时42分"
         },
@@ -45,24 +74,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新能源汽车",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "那些新能源汽车车主又换回了燃油车，是怎么想的？",
-          "url": "https://www.zhihu.com/question/1918235574843729760",
-          "source": "知乎",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时04分 ~ 07时22分]"
         }
       ]
     }
