@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-19T14:17:06.987407+08:00",
-  "total_titles_processed": 878,
+  "generated_at": "2026-06-19T19:21:03.532381+08:00",
+  "total_titles_processed": 1081,
   "failed_sources": [],
   "trends": [
     {
@@ -21,6 +21,18 @@
           "time_info": "[00时35分 ~ 08时25分]"
         },
         {
+          "title": "2026新能源汽车下乡车型目录公布",
+          "url": "https://www.douyin.com/hot/2539912",
+          "source": "抖音",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时25分 ~ 19时21分]"
+        },
+        {
           "title": "我国将启动2026年新能源汽车下乡",
           "url": "https://www.toutiao.com/trending/7652589530977517610/",
           "source": "今日头条",
@@ -31,18 +43,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时33分 ~ 06时09分]"
-        },
-        {
-          "title": "2026新能源汽车下乡车型目录公布",
-          "url": "https://www.douyin.com/hot/2539912",
-          "source": "抖音",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时25分 ~ 14时17分]"
         },
         {
           "title": "我国将启动 2026 年新能源汽车下乡，将为农村市场带来哪些机遇和挑战？",
