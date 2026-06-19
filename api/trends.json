@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-19T08:25:37.423398+08:00",
-  "total_titles_processed": 662,
+  "generated_at": "2026-06-19T14:17:06.987407+08:00",
+  "total_titles_processed": 878,
   "failed_sources": [],
   "trends": [
     {
@@ -37,11 +37,12 @@
           "url": "https://www.douyin.com/hot/2539912",
           "source": "抖音",
           "ranks": [
-            13
+            13,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时25分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时25分 ~ 14时17分]"
         },
         {
           "title": "我国将启动 2026 年新能源汽车下乡，将为农村市场带来哪些机遇和挑战？",
@@ -50,7 +51,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时25分"
         }
