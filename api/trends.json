@@ -1,8 +1,61 @@
 {
-  "generated_at": "2026-06-19T06:09:01.319467+08:00",
-  "total_titles_processed": 508,
+  "generated_at": "2026-06-19T08:25:37.423398+08:00",
+  "total_titles_processed": 662,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "新能源汽车",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "五部门开展新能源汽车下乡活动",
+          "url": "https://www.douyin.com/hot/2539139",
+          "source": "抖音",
+          "ranks": [
+            8,
+            21,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 08时25分]"
+        },
+        {
+          "title": "我国将启动2026年新能源汽车下乡",
+          "url": "https://www.toutiao.com/trending/7652589530977517610/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时33分 ~ 06时09分]"
+        },
+        {
+          "title": "2026新能源汽车下乡车型目录公布",
+          "url": "https://www.douyin.com/hot/2539912",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时25分"
+        },
+        {
+          "title": "我国将启动 2026 年新能源汽车下乡，将为农村市场带来哪些机遇和挑战？",
+          "url": "https://www.zhihu.com/question/2050926495074357961",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时25分"
+        }
+      ]
+    },
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
       "match_count": 2,
@@ -28,37 +81,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新能源汽车",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "五部门开展新能源汽车下乡活动",
-          "url": "https://www.douyin.com/hot/2539139",
-          "source": "抖音",
-          "ranks": [
-            8,
-            21,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 06时09分]"
-        },
-        {
-          "title": "我国将启动2026年新能源汽车下乡",
-          "url": "https://www.toutiao.com/trending/7652589530977517610/",
-          "source": "今日头条",
-          "ranks": [
-            29,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时33分 ~ 06时09分]"
         }
       ]
     }
