@@ -1,87 +1,33 @@
 {
-  "generated_at": "2026-06-19T23:10:49.970579+08:00",
-  "total_titles_processed": 1259,
+  "generated_at": "2026-06-20T01:55:23.983648+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "新能源汽车",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "五部门开展新能源汽车下乡活动",
-          "url": "https://www.douyin.com/hot/2539139",
-          "source": "抖音",
-          "ranks": [
-            8,
-            21,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时35分 ~ 08时25分]"
-        },
-        {
-          "title": "2026新能源汽车下乡车型目录公布",
-          "url": "https://www.douyin.com/hot/2539912",
-          "source": "抖音",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时25分 ~ 19时21分]"
-        },
-        {
-          "title": "我国将启动2026年新能源汽车下乡",
-          "url": "https://www.toutiao.com/trending/7652589530977517610/",
-          "source": "今日头条",
-          "ranks": [
-            29,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时33分 ~ 06时09分]"
-        },
-        {
-          "title": "我国将启动 2026 年新能源汽车下乡，将为农村市场带来哪些机遇和挑战？",
-          "url": "https://www.zhihu.com/question/2050926495074357961",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
+      "keyword_group": "汽车",
       "match_count": 2,
       "titles": [
         {
-          "title": "报道：瑞典或因超速担忧反对特斯拉FSD技术",
-          "url": "https://wallstreetcn.com/livenews/3121820",
-          "source": "华尔街见闻-快讯",
+          "title": "郑州一汽车用品商城起火浓烟滚滚",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%83%91%E5%B7%9E%E4%B8%80%E6%B1%BD%E8%BD%A6%E7%94%A8%E5%93%81%E5%95%86%E5%9F%8E%E8%B5%B7%E7%81%AB%E6%B5%93%E7%83%9F%E6%BB%9A%E6%BB%9A%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
           "ranks": [
-            3
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时35分"
+          "time_info": "01时55分"
         },
         {
-          "title": "理想AI转型背后",
-          "url": "https://www.toutiao.com/trending/7652722015660412454/",
-          "source": "今日头条",
+          "title": "占比超八成！香港国产电动汽车市场“一车难求”",
+          "url": "https://www.cls.cn/detail/2404243",
+          "source": "财联社热门",
           "ranks": [
-            29
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时35分"
+          "time_info": "01时55分"
         }
       ]
     }
