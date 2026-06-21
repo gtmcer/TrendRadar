@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-06-21T22:06:06.908475+08:00",
-  "total_titles_processed": 1140,
+  "generated_at": "2026-06-22T00:44:22.267881+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "小米汽车终端推内购优惠，部分现车降价万元",
-          "url": "https://flash.jin10.com/detail/20260621184957790800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时44分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://gtmcer.github.io/TrendRadar/img/news.jpg"
 }
