@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-06-22T08:10:44.964497+08:00",
-  "total_titles_processed": 622,
+  "generated_at": "2026-06-22T14:28:14.915387+08:00",
+  "total_titles_processed": 872,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "汽车",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "李想称汽车业进入不服就直播状态",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%83%B3%E7%A7%B0%E6%B1%BD%E8%BD%A6%E4%B8%9A%E8%BF%9B%E5%85%A5%E4%B8%8D%E6%9C%8D%E5%B0%B1%E7%9B%B4%E6%92%AD%E7%8A%B6%E6%80%81%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时27分 ~ 14时28分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://gtmcer.github.io/TrendRadar/img/news.jpg"
 }
