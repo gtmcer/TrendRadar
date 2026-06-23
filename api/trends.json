@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-24T05:48:08.535014+08:00",
-  "total_titles_processed": 486,
+  "generated_at": "2026-06-24T07:08:20.747125+08:00",
+  "total_titles_processed": 559,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时51分 ~ 05时48分]"
+          "appearance_count": 6,
+          "time_info": "[01时51分 ~ 07时08分]"
         },
         {
           "title": "全链条扩大汽车消费再推新举措",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时51分 ~ 05时48分]"
+          "appearance_count": 6,
+          "time_info": "[01时51分 ~ 07时08分]"
         },
         {
           "title": "全链条扩大汽车消费再推新举措",
@@ -48,8 +48,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时51分 ~ 05时48分]"
+          "appearance_count": 6,
+          "time_info": "[01时51分 ~ 07时08分]"
         },
         {
           "title": "特朗普宣布美国汽车巨头将开始生产武器，包括巡航导弹和防空系统，释放了哪些信号？将对世界产生哪些影响？",
@@ -58,28 +58,30 @@
           "ranks": [
             6,
             12,
-            19
+            19,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时51分 ~ 05时48分]"
+          "appearance_count": 6,
+          "time_info": "[01时51分 ~ 07时08分]"
         },
         {
           "title": "巴西对外贸易委员会执行管理委员会：巴西将维持对进口电动和混合动力汽车的关税上调计划，对整车及半拆解电动车征收35%的进口关税，该措施将于2026年7月生效；而对完全拆解状态进口的车辆，也将从2027年1月1日起适用同样的税率。",
           "url": "https://flash.jin10.com/detail/20260624045054703800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时48分 ~ 07时08分]"
         }
       ]
     },
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "如何看待南京大学陈昌凯老师在本科生毕业典礼上没有谈成功与理想，而是叮嘱毕业生「按时吃饭、好好睡觉」？",
@@ -88,11 +90,12 @@
           "ranks": [
             1,
             2,
-            4
+            4,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时51分 ~ 05时48分]"
+          "appearance_count": 6,
+          "time_info": "[01时51分 ~ 07时08分]"
         },
         {
           "title": "理想L8价格",
@@ -106,13 +109,24 @@
           "time_info": "[01时51分 ~ 01时52分]"
         },
         {
+          "title": "美股七巨头收盘播报｜周二（6月23日），美国科技股七巨头（Magnificent 7）指数跌1.44%，报205.68点，特斯拉收跌5.79%。 “超大”市值科技股指数跌2.53%，报423.41点。",
+          "url": "https://wallstreetcn.com/livenews/3123677",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时08分"
+        },
+        {
           "title": "周二（6月23日），彭博电动汽车价格回报指数跌4.43%，报3591.03点，亚太盘初短暂地微幅上扬，随后持续走低，美股开盘后跌幅略微扩大。 成分股中，意法半导体法国巴黎股价收跌8.53%，安霸股份跌约7.4%，小马智行ADR跌约6.6%，特斯拉跌约5.7%，文远知行ADR跌约5%，港股雅迪集团控股、速腾聚创科技、中创新航科技集团、小米集团、地平线、理想收跌4.88%-4.32%，吉利汽车控股H股则收涨2.12%表现第二，Ola Electric Mobility Ltd.收涨2.61%。",
           "url": "https://wallstreetcn.com/livenews/3123630",
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时48分"
         }
