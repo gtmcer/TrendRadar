@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-26T05:45:22.158735+08:00",
-  "total_titles_processed": 485,
+  "generated_at": "2026-06-26T07:17:05.693254+08:00",
+  "total_titles_processed": 551,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33443135",
           "source": "澎湃新闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时11分 ~ 05时45分]"
+          "appearance_count": 5,
+          "time_info": "[01时11分 ~ 07时17分]"
         },
         {
           "title": "一般情况下，大多数燃油车可以使用 15~20 年，行程达 20~30 万公里，大多数电动汽车可以做到吗？",
@@ -25,11 +26,12 @@
           "ranks": [
             8,
             5,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时11分 ~ 05时45分]"
+          "appearance_count": 5,
+          "time_info": "[01时11分 ~ 07时17分]"
         },
         {
           "title": "周四（6月25日），彭博电动汽车价格回报指数跌1.08%，报3551.19点。 北京时间10:00之前显著下跌，22:00之前再次显著下挫。",
@@ -38,7 +40,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时45分"
         },
@@ -49,7 +51,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时45分"
         }
@@ -83,11 +85,12 @@
           "source": "知乎",
           "ranks": [
             15,
-            12
+            12,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时58分 ~ 05时45分]"
+          "appearance_count": 4,
+          "time_info": "[03时58分 ~ 07时17分]"
         }
       ]
     }
