@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-27T08:05:42.876349+08:00",
-  "total_titles_processed": 650,
+  "generated_at": "2026-06-27T12:52:55.545655+08:00",
+  "total_titles_processed": 863,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美国商务部长卢特尼克声称：欧洲刚刚通过了关于美欧贸易协议的历史性立法。 欧洲首次将关税降至零。这是我们伟大的汽车制造商、渔民、牧场主以及众多生产商的历史性成就，他们终于在与欧洲贸易时拥有了公平的竞争环境。",
@@ -26,7 +26,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
         },
@@ -37,7 +37,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
         },
@@ -48,7 +48,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
         },
@@ -59,9 +59,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
+        },
+        {
+          "title": "李想称汽车行业进入「不服就直播」状态是好事，如何看待这一言论？你认为直播会给行业带来哪些正向作用？",
+          "url": "https://www.zhihu.com/question/2052398917862667740",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时52分"
         }
       ]
     },
@@ -80,8 +91,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时50分 ~ 08时05分]"
+          "appearance_count": 8,
+          "time_info": "[02时50分 ~ 12时52分]"
         }
       ]
     },
