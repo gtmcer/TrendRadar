@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-29T05:00:25.310770+08:00",
-  "total_titles_processed": 415,
+  "generated_at": "2026-06-29T06:08:04.844736+08:00",
+  "total_titles_processed": 437,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时08分 ~ 05时00分]"
+          "appearance_count": 8,
+          "time_info": "[01时08分 ~ 06时08分]"
+        },
+        {
+          "title": "预计特斯拉什么时候装回：超声波、毫米波雷达，甚至激光雷达。以解决纯视觉的长尾效应？",
+          "url": "https://www.zhihu.com/question/2053453700853666783",
+          "source": "知乎",
+          "ranks": [
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时59分 ~ 06时08分]"
         },
         {
           "title": "理想汽车正式进入澳门市场，全球化布局再添重要版图",
@@ -30,19 +42,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时09分 ~ 05时00分]"
-        },
-        {
-          "title": "预计特斯拉什么时候装回：超声波、毫米波雷达，甚至激光雷达。以解决纯视觉的长尾效应？",
-          "url": "https://www.zhihu.com/question/2053453700853666783",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时59分 ~ 05时00分]"
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 06时08分]"
         }
       ]
     },
@@ -56,11 +57,12 @@
           "source": "知乎",
           "ranks": [
             16,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时09分 ~ 05时00分]"
+          "appearance_count": 7,
+          "time_info": "[01时09分 ~ 06时08分]"
         }
       ]
     },
