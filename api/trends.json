@@ -1,204 +1,39 @@
 {
-  "generated_at": "2026-06-29T22:47:18.736764+08:00",
-  "total_titles_processed": 1205,
+  "generated_at": "2026-06-30T01:35:35.641645+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "特斯拉 FSD 全面转向订阅制，国内港澳台地区买断版 6 月 30 日后下架，两种模式长期成本差距有多大？",
-          "url": "https://www.zhihu.com/question/2053871133401806051",
-          "source": "知乎",
-          "ranks": [
-            19,
-            17,
-            10,
-            6,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时08分 ~ 08时07分]"
-        },
-        {
-          "title": "预计特斯拉什么时候装回：超声波、毫米波雷达，甚至激光雷达。以解决纯视觉的长尾效应？",
-          "url": "https://www.zhihu.com/question/2053453700853666783",
-          "source": "知乎",
-          "ranks": [
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时59分 ~ 06时08分]"
-        },
-        {
-          "title": "理想汽车正式进入澳门市场，全球化布局再添重要版图",
-          "url": "https://wallstreetcn.com/livenews/3125676",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时09分 ~ 06时08分]"
-        },
-        {
-          "title": "广州一高校通报网传禁止小米汽车入校",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E4%B8%80%E9%AB%98%E6%A0%A1%E9%80%9A%E6%8A%A5%E7%BD%91%E4%BC%A0%E7%A6%81%E6%AD%A2%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E5%85%A5%E6%A0%A1%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 13时32分]"
-        },
-        {
-          "title": "广州一高校被曝禁止小米汽车进入，校方回应「车辆管理一视同仁，涉事保安言论不实正调查」，如何看待此事？",
-          "url": "https://www.zhihu.com/question/2054648629869146324",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 13时32分]"
-        },
-        {
-          "title": "蔚来车主罚站",
-          "url": "https://s.weibo.com/weibo?q=%E8%94%9A%E6%9D%A5%E8%BD%A6%E4%B8%BB%E7%BD%9A%E7%AB%99&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时47分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "汽车",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "电动汽车电池新国标7月落地，安全门槛再升级",
-          "url": "https://wallstreetcn.com/livenews/3126091",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时53分"
-        },
-        {
-          "title": "大众汽车工会委员会：大众汽车与工会达成的2030年就业保障协议不可取消。",
-          "url": "https://flash.jin10.com/detail/20260629183009782800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时53分"
-        },
-        {
-          "title": "据以色列媒体报道，由于怀疑存在一辆炸弹汽车，特拉维夫火车站周围已进入安全警戒状态。",
-          "url": "https://flash.jin10.com/detail/20260629022612730800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时17分"
-        },
-        {
-          "title": "大众汽车工会委员会：大众汽车认为现有裁员计划力度不足。",
-          "url": "https://flash.jin10.com/detail/20260629182709453800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时53分"
-        },
-        {
-          "title": "德国表示希望阻止大众汽车关闭工厂",
-          "url": "https://wallstreetcn.com/livenews/3126231",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时47分"
-        },
-        {
-          "title": "章建平大举减仓江淮汽车，9个交易日套现近3亿元",
-          "url": "https://www.cls.cn/detail/2410934",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时07分"
-        }
-      ]
-    },
-    {
       "keyword_group": "华为汽车 鸿蒙智行 问界 尚界 尊界 智界 享界 乾崑",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "余承东官宣尊界 V800 定位「超高端 MPV」，其市场竞争力如何？",
-          "url": "https://www.zhihu.com/question/2047340679060251139",
-          "source": "知乎",
-          "ranks": [
-            16,
-            8,
-            7,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时09分 ~ 08时07分]"
-        },
         {
           "title": "如何看待在新款尊界 S800 发布之际江淮大股东大幅减持? 会是什么原因？后续会有什么影响？",
           "url": "https://www.zhihu.com/question/2054621567007602582",
           "source": "知乎",
           "ranks": [
-            17
+            14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时47分"
+          "time_info": "01时35分"
         }
       ]
     },
     {
-      "keyword_group": "新能源汽车",
+      "keyword_group": "汽车",
       "match_count": 1,
       "titles": [
         {
-          "title": "三项“最严国标”实施倒计时 以安全筑牢新能源汽车产业发展根基",
-          "url": "https://www.cls.cn/detail/2411509",
-          "source": "财联社热门",
+          "title": "据日经新闻：本田汽车发行欧洲债券所得资金可能将用于向零部件供应商付款。",
+          "url": "https://flash.jin10.com/detail/20260629235019742800",
+          "source": "金十数据",
           "ranks": [
-            7,
-            10
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时53分 ~ 22时47分]"
+          "appearance_count": 1,
+          "time_info": "01时35分"
         }
       ]
     }
