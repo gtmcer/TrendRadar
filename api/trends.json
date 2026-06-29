@@ -1,29 +1,23 @@
 {
-  "generated_at": "2026-06-30T01:35:35.641645+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-30T03:54:39.867365+08:00",
+  "total_titles_processed": 408,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "华为汽车 鸿蒙智行 问界 尚界 尊界 智界 享界 乾崑",
-      "match_count": 1,
+      "keyword_group": "汽车",
+      "match_count": 2,
       "titles": [
         {
-          "title": "如何看待在新款尊界 S800 发布之际江淮大股东大幅减持? 会是什么原因？后续会有什么影响？",
-          "url": "https://www.zhihu.com/question/2054621567007602582",
-          "source": "知乎",
+          "title": "美国总统特朗普签署关于汽车售后零部件的备忘录。",
+          "url": "https://flash.jin10.com/detail/20260630032916343800",
+          "source": "金十数据",
           "ranks": [
-            14
+            7
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时35分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "汽车",
-      "match_count": 1,
-      "titles": [
+          "time_info": "03时54分"
+        },
         {
           "title": "据日经新闻：本田汽车发行欧洲债券所得资金可能将用于向零部件供应商付款。",
           "url": "https://flash.jin10.com/detail/20260629235019742800",
@@ -34,6 +28,24 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "华为汽车 鸿蒙智行 问界 尚界 尊界 智界 享界 乾崑",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何看待在新款尊界 S800 发布之际江淮大股东大幅减持? 会是什么原因？后续会有什么影响？",
+          "url": "https://www.zhihu.com/question/2054621567007602582",
+          "source": "知乎",
+          "ranks": [
+            14,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时35分 ~ 03时54分]"
         }
       ]
     }
