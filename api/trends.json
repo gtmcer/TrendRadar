@@ -1,11 +1,13 @@
 {
-  "generated_at": "2026-06-29T08:07:21.193695+08:00",
-  "total_titles_processed": 559,
-  "failed_sources": [],
+  "generated_at": "2026-06-29T13:32:19.070543+08:00",
+  "total_titles_processed": 793,
+  "failed_sources": [
+    "baidu"
+  ],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "特斯拉 FSD 全面转向订阅制，国内港澳台地区买断版 6 月 30 日后下架，两种模式长期成本差距有多大？",
@@ -45,6 +47,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时09分 ~ 06时08分]"
+        },
+        {
+          "title": "广州一高校通报网传禁止小米汽车入校",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E4%B8%80%E9%AB%98%E6%A0%A1%E9%80%9A%E6%8A%A5%E7%BD%91%E4%BC%A0%E7%A6%81%E6%AD%A2%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E5%85%A5%E6%A0%A1%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时31分 ~ 13时32分]"
+        },
+        {
+          "title": "广州一高校被曝禁止小米汽车进入，校方回应「车辆管理一视同仁，涉事保安言论不实正调查」，如何看待此事？",
+          "url": "https://www.zhihu.com/question/2054648629869146324",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时31分 ~ 13时32分]"
         }
       ]
     },
@@ -70,7 +94,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时07分"
         }
