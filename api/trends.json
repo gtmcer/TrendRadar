@@ -1,12 +1,35 @@
 {
-  "generated_at": "2026-06-30T08:02:59.138184+08:00",
-  "total_titles_processed": 629,
+  "generated_at": "2026-06-30T13:03:16.823617+08:00",
+  "total_titles_processed": 860,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "蔚来提醒车主规范用高压水枪洗车",
+          "url": "https://www.douyin.com/hot/2551806",
+          "source": "抖音",
+          "ranks": [
+            29,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时25分 ~ 13时03分]"
+        },
+        {
+          "title": "蔚来回应「网友给 ES9 洗车时车漆被高压水枪冲掉」，称是操作不当导致，到底是操作不当还是质量问题？",
+          "url": "https://www.zhihu.com/question/2054947373927888661",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时02分 ~ 13时03分]"
+        },
         {
           "title": "纳斯达克金龙中国指数收涨1.41%，报5810.93点。 热门中概股里，百度初步收涨7.5%，小鹏涨5.8%，日月光半导体、网易涨4.3%，金山云涨3.4%，阿里巴巴涨0.6%，理想跌0.9%。 ETF中，中国科技指数ETF（CQQQ）收涨2.25%，中概互联网指数ETF（KWEB）收涨1.50%。 XtrackersHarvest中证50（ASHS）收涨1.22%，德银嘉实沪深300指数ETF（ASHR）收涨1.06%，MSCI新兴市场ex中国ETF（EMXC）收涨0.41%。",
           "url": "https://wallstreetcn.com/livenews/3126306",
@@ -26,20 +49,9 @@
           "ranks": [
             28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "蔚来提醒车主规范用高压水枪洗车",
-          "url": "https://www.douyin.com/hot/2551806",
-          "source": "抖音",
-          "ranks": [
-            29
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时25分"
+          "time_info": "08时02分"
         }
       ]
     },
