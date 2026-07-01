@@ -1,257 +1,61 @@
 {
-  "generated_at": "2026-07-01T23:40:45.211999+08:00",
-  "total_titles_processed": 1377,
+  "generated_at": "2026-07-02T02:02:38.206168+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "数百万辆特斯拉HW3迎来FSD V14，中国车型是否同步升级？官方客服：目前仅适配AI4硬件部分车型",
-          "url": "https://wallstreetcn.com/livenews/3127257",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时10分"
-        },
-        {
-          "title": "数百万辆特斯拉HW3迎来FSD V14，中国车型是否同步升级？官方客服：目前仅适配AI4硬件部分车型",
-          "url": "https://flash.jin10.com/detail/20260701154708866800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时10分"
-        },
-        {
-          "title": "新势力半年“交卷”：零跑单月破9万再创纪录 蔚来、小鹏同步冲高",
-          "url": "https://www.cls.cn/detail/2414041",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时10分 ~ 23时40分]"
-        },
-        {
-          "title": "葡萄牙汽车协会（ACAP）：葡萄牙6月份特斯拉(TSLA.O)新注册量同比增长43.2%，1至6月累计增长53.5%。",
-          "url": "https://flash.jin10.com/detail/20260701231529680800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时40分"
-        },
-        {
-          "title": "如果把《爱情公寓》放到现在，它还是年轻人理想中的合租生活吗？",
-          "url": "https://www.zhihu.com/question/2048064764694245412",
-          "source": "知乎",
-          "ranks": [
-            10,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 03时53分]"
-        },
-        {
-          "title": "知名投资者Burry：做空英伟达、特斯拉、应用材料",
-          "url": "https://wallstreetcn.com/livenews/3126978",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时27分"
-        },
-        {
-          "title": "据理想汽车微博消息，2026年6月，理想汽车交付新车30895辆。",
-          "url": "https://wallstreetcn.com/livenews/3127106",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时36分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收涨0.63%，报5847.59点，6月份累计下跌11.22%，二季度累跌13.41%。 热门中概股里，阿特斯太阳能初步收涨8.4%，世纪互联、日月光半导体涨6.9%，小鹏涨3.7%，腾讯涨3.1%，阿里涨0.5%。 中国科技指数ETF（CQQQ）收涨2.92%，6月份累涨8.01%连涨三个月，二季度累涨23.92%，上半年累涨9.67%； XtrackersHarvest中证50（ASHS）收涨2.40%，6月份累涨8.53%，二季度19.96%连续六个季度走高，上半年涨25.54%； MSCI新兴市场ex中国ETF（EMXC）收涨1.83%，6月份涨1.85%，二季度涨30.87%，上半年涨41.64%； 德银嘉实沪深300指数ETF（ASHR）收涨1.13%，6月份累涨1.92%，二季度涨12.32%，上半年涨11.60%； 中概互联网指数ETF（KWEB）收涨0.70%，6月份跌8.45%，二季度跌13.93%连续三个季度走低，上半年跌28.14%。",
-          "url": "https://wallstreetcn.com/livenews/3126972",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时27分"
-        },
-        {
-          "title": "特斯拉官方微博消息，首台量产赛博无人驾驶电动车Cybercab已在美国得州奥斯汀开启工程测试。",
-          "url": "https://wallstreetcn.com/livenews/3127102",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时36分"
-        },
-        {
-          "title": "据Mobility Sweden数据显示，特斯拉在瑞典6月新车注册量同比增长56.3%。",
-          "url": "https://wallstreetcn.com/livenews/3127227",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时10分"
-        },
-        {
-          "title": "曝极氪001高速上突然失去动力",
-          "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E6%9E%81%E6%B0%AA001%E9%AB%98%E9%80%9F%E4%B8%8A%E7%AA%81%E7%84%B6%E5%A4%B1%E5%8E%BB%E5%8A%A8%E5%8A%9B",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
-        }
-      ]
-    },
-    {
       "keyword_group": "汽车",
-      "match_count": 9,
+      "match_count": 3,
       "titles": [
         {
-          "title": "通用汽车二季度美国销售下滑4.2%，受累于电动汽车需求下滑。",
-          "url": "https://wallstreetcn.com/livenews/3127516",
+          "title": "美国高级政府官员声称： 美国不同意按当前形式续签美国墨西哥加拿大贸易协议（USMCA）。 总统特朗普的贸易政策已经取代了USMCA中的许多条款。 USMCA未能实现减少美国贸易逆差、以及在加拿大和墨西哥提供市场准入的承诺。 美国贸易代表办公室（USTR）将继续就USMCA的修改事宜与国会及公众进行磋商。 特朗普已经通过新的关税和贸易政策改变了USMCA的现状，但通过谈判仍有可能改善局面。 我们不希望将USMCA的问题拖延长达10年。 在特朗普本届任期的剩余时间内，可能会看到美国与加拿大和墨西哥分别达成单独的贸易协议。 7月20日当周与墨西哥的谈判将继续讨论原产地规则和经济安全问题。 我们需要针对汽车及其他工业产品制定更严格的北美原产地规则。 很难看出总统的目标如何能与调整行业关税的做法相一致。 政府正在继续分析航空航天供应链，以确定相关的关税政策。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3127561",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时40分"
-        },
-        {
-          "title": "零跑汽车公布6月交付数据：全球交付93376台，同比增长95%，上半年累计交付达356487台。",
-          "url": "https://wallstreetcn.com/livenews/3127138",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时36分"
+          "time_info": "02时02分"
+        },
+        {
+          "title": "美国贸易代表：我们需要针对汽车及其他工业产品制定更严格的北美原产地规则。",
+          "url": "https://flash.jin10.com/detail/20260702010813360800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
         },
         {
           "title": "电动汽车“最严国标”来了",
           "url": "https://www.baidu.com/s?wd=%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E2%80%9C%E6%9C%80%E4%B8%A5%E5%9B%BD%E6%A0%87%E2%80%9D%E6%9D%A5%E4%BA%86",
           "source": "百度热搜",
           "ranks": [
-            1,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时03分 ~ 23时40分]"
-        },
-        {
-          "title": "比亚迪欧洲市场特别顾问：欧盟法规使消费者的购买决策越来越困难。 大众汽车的裁员是对整个行业的警醒。 我们正在积极寻找西欧的生产基地。",
-          "url": "https://wallstreetcn.com/livenews/3127237",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时10分"
-        },
-        {
-          "title": "现代汽车（美国）CEO Randy Parker：公司将在Savannah工厂提高混合动力车型的产量。",
-          "url": "https://wallstreetcn.com/livenews/3127502",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时40分"
-        },
-        {
-          "title": "奇瑞汽车：6月总销量逾24万辆，同比增长9.5%",
-          "url": "https://wallstreetcn.com/livenews/3127369",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时03分"
-        },
-        {
-          "title": "通用汽车(GM.N)：截至四月底，累计电动车销量超过100,000辆。",
-          "url": "https://flash.jin10.com/detail/20260701230056411800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时40分"
-        },
-        {
-          "title": "金十图示：2026年07月01日（周三）全球汽车制造商市值变化",
-          "url": "https://flash.jin10.com/detail/20260701110820365800",
-          "source": "金十数据",
-          "ranks": [
             24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时36分"
-        },
-        {
-          "title": "零跑汽车(09863.HK)：6月全球交付93376台，同比增长95%，上半年累计交付达356487台。截至2026年6月18日，零跑全球累计交付突破150万台，达成品牌发展重要里程碑。",
-          "url": "https://flash.jin10.com/detail/20260701110625403800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时36分"
+          "time_info": "02时02分"
         }
       ]
     },
     {
       "keyword_group": "华为汽车 鸿蒙智行 问界 尚界 尊界 智界 享界 乾崑",
-      "match_count": 3,
+      "match_count": 2,
       "titles": [
         {
           "title": "6 月鸿蒙智行交付超 5 万台，小米汽车再破 3 万台，如何看待各家车企表现？行业下半年走势如何？",
           "url": "https://www.zhihu.com/question/2055596626312541231",
           "source": "知乎",
           "ranks": [
-            3
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时03分 ~ 23时40分]"
+          "appearance_count": 1,
+          "time_info": "02时02分"
         },
         {
           "title": "“新汽车”上半年收官：鸿蒙智行锁定200万辆目标 小米前6月交付超18万",
@@ -260,48 +64,26 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时40分"
-        },
-        {
-          "title": "鸿蒙智行：6月交付50624台，环比增长9.7%",
-          "url": "https://wallstreetcn.com/livenews/3127081",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时36分"
+          "time_info": "02时02分"
         }
       ]
     },
     {
-      "keyword_group": "新能源汽车",
-      "match_count": 2,
+      "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
+      "match_count": 1,
       "titles": [
         {
-          "title": "比亚迪6月新能源汽车销量403472辆",
-          "url": "https://www.toutiao.com/trending/7656692993961820214/",
-          "source": "今日头条",
+          "title": "新势力半年“交卷”：零跑单月破9万再创纪录 蔚来、小鹏同步冲高",
+          "url": "https://www.cls.cn/detail/2414041",
+          "source": "财联社热门",
           "ranks": [
-            25
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时03分"
-        },
-        {
-          "title": "比亚迪6月新能源汽车销量403472辆",
-          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA6%E6%9C%88%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E9%94%80%E9%87%8F403472%E8%BE%86",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时40分"
+          "time_info": "02时02分"
         }
       ]
     }
