@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-01T07:11:04.083516+08:00",
-  "total_titles_processed": 559,
+  "generated_at": "2026-07-01T11:36:51.136909+08:00",
+  "total_titles_processed": 787,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "如果把《爱情公寓》放到现在，它还是年轻人理想中的合租生活吗？",
@@ -31,6 +31,17 @@
           "time_info": "05时27分"
         },
         {
+          "title": "据理想汽车微博消息，2026年6月，理想汽车交付新车30895辆。",
+          "url": "https://wallstreetcn.com/livenews/3127106",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时36分"
+        },
+        {
           "title": "纳斯达克金龙中国指数收涨0.63%，报5847.59点，6月份累计下跌11.22%，二季度累跌13.41%。 热门中概股里，阿特斯太阳能初步收涨8.4%，世纪互联、日月光半导体涨6.9%，小鹏涨3.7%，腾讯涨3.1%，阿里涨0.5%。 中国科技指数ETF（CQQQ）收涨2.92%，6月份累涨8.01%连涨三个月，二季度累涨23.92%，上半年累涨9.67%； XtrackersHarvest中证50（ASHS）收涨2.40%，6月份累涨8.53%，二季度19.96%连续六个季度走高，上半年涨25.54%； MSCI新兴市场ex中国ETF（EMXC）收涨1.83%，6月份涨1.85%，二季度涨30.87%，上半年涨41.64%； 德银嘉实沪深300指数ETF（ASHR）收涨1.13%，6月份累涨1.92%，二季度涨12.32%，上半年涨11.60%； 中概互联网指数ETF（KWEB）收涨0.70%，6月份跌8.45%，二季度跌13.93%连续三个季度走低，上半年跌28.14%。",
           "url": "https://wallstreetcn.com/livenews/3126972",
           "source": "华尔街见闻-快讯",
@@ -42,6 +53,17 @@
           "time_info": "05时27分"
         },
         {
+          "title": "特斯拉官方微博消息，首台量产赛博无人驾驶电动车Cybercab已在美国得州奥斯汀开启工程测试。",
+          "url": "https://wallstreetcn.com/livenews/3127102",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时36分"
+        },
+        {
           "title": "曝极氪001高速上突然失去动力",
           "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E6%9E%81%E6%B0%AA001%E9%AB%98%E9%80%9F%E4%B8%8A%E7%AA%81%E7%84%B6%E5%A4%B1%E5%8E%BB%E5%8A%A8%E5%8A%9B",
           "source": "百度热搜",
@@ -51,6 +73,62 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "汽车",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "零跑汽车公布6月交付数据：全球交付93376台，同比增长95%，上半年累计交付达356487台。",
+          "url": "https://wallstreetcn.com/livenews/3127138",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时36分"
+        },
+        {
+          "title": "金十图示：2026年07月01日（周三）全球汽车制造商市值变化",
+          "url": "https://flash.jin10.com/detail/20260701110820365800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时36分"
+        },
+        {
+          "title": "零跑汽车(09863.HK)：6月全球交付93376台，同比增长95%，上半年累计交付达356487台。截至2026年6月18日，零跑全球累计交付突破150万台，达成品牌发展重要里程碑。",
+          "url": "https://flash.jin10.com/detail/20260701110625403800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "华为汽车 鸿蒙智行 问界 尚界 尊界 智界 享界 乾崑",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "鸿蒙智行：6月交付50624台，环比增长9.7%",
+          "url": "https://wallstreetcn.com/livenews/3127081",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时36分"
         }
       ]
     }
