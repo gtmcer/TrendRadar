@@ -1,238 +1,72 @@
 {
-  "generated_at": "2026-07-02T23:14:24.934993+08:00",
-  "total_titles_processed": 1437,
+  "generated_at": "2026-07-03T01:45:25.305200+08:00",
+  "total_titles_processed": 307,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "汽车",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "电动汽车“最严国标”来了",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E2%80%9C%E6%9C%80%E4%B8%A5%E5%9B%BD%E6%A0%87%E2%80%9D%E6%9D%A5%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            23,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时02分 ~ 07时13分]"
-        },
-        {
-          "title": "金十图示：2026年07月02日（周四）全球汽车制造商市值变化",
-          "url": "https://flash.jin10.com/detail/20260702110717579800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时22分"
-        },
-        {
-          "title": "墨西哥经济部长：保护汽车行业一直是讨论的重点。",
-          "url": "https://flash.jin10.com/detail/20260702024848778800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时51分"
-        },
-        {
-          "title": "墨西哥经济部长：我们在钢铁和铝关税问题上未达成一致，在汽车零部件的区域性成分不被纳入考虑以及农产品季节性等问题存在分歧。",
-          "url": "https://flash.jin10.com/detail/20260702024838414800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时51分"
-        },
-        {
-          "title": "广汽集团：6月汽车产量为145,406辆，同比下降5.13%",
-          "url": "https://flash.jin10.com/detail/20260702182846959800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时36分"
-        },
-        {
-          "title": "墨西哥经济部长：墨西哥汽车行业的原产地规则是世界上最复杂的规则之一。",
-          "url": "https://flash.jin10.com/detail/20260702024556028800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时51分"
-        },
-        {
-          "title": "尽管面临压力，美国汽车销量仍保持平稳",
-          "url": "https://wallstreetcn.com/livenews/3127630",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时13分"
-        },
-        {
-          "title": "周三（7月1日），彭博电动汽车价格回报指数涨0.21%，报3562.45点。 亚太早盘，指数于北京时间08:00-12:00出现V形反转行情、10:14刷新日低至3517.16点，剩余时间里主要处于上涨状态。",
-          "url": "https://wallstreetcn.com/livenews/3127609",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时27分"
-        },
-        {
-          "title": "美国高级政府官员声称： 美国不同意按当前形式续签美国墨西哥加拿大贸易协议（USMCA）。 总统特朗普的贸易政策已经取代了USMCA中的许多条款。 USMCA未能实现减少美国贸易逆差、以及在加拿大和墨西哥提供市场准入的承诺。 美国贸易代表办公室（USTR）将继续就USMCA的修改事宜与国会及公众进行磋商。 特朗普已经通过新的关税和贸易政策改变了USMCA的现状，但通过谈判仍有可能改善局面。 我们不希望将USMCA的问题拖延长达10年。 在特朗普本届任期的剩余时间内，可能会看到美国与加拿大和墨西哥分别达成单独的贸易协议。 7月20日当周与墨西哥的谈判将继续讨论原产地规则和经济安全问题。 我们需要针对汽车及其他工业产品制定更严格的北美原产地规则。 很难看出总统的目标如何能与调整行业关税的做法相一致。 政府正在继续分析航空航天供应链，以确定相关的关税政策。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3127561",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "美国贸易代表：我们需要针对汽车及其他工业产品制定更严格的北美原产地规则。",
-          "url": "https://flash.jin10.com/detail/20260702010813360800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "海南自贸区板块集体走强，海南瑞泽、欣龙控股、海马汽车、海南海药涨停，神农种业、海南发展涨超5%。",
-          "url": "https://wallstreetcn.com/livenews/3127736",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时22分"
-        }
-      ]
-    },
-    {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 6,
+      "match_count": 4,
       "titles": [
         {
-          "title": "新势力半年“交卷”：零跑单月破9万再创纪录 蔚来、小鹏同步冲高",
-          "url": "https://www.cls.cn/detail/2414041",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时02分 ~ 05时27分]"
-        },
-        {
-          "title": "马斯克发布大合照：特斯拉弗里蒙特工厂Optimus产线或已就绪！",
-          "url": "https://www.cls.cn/detail/2415009",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时29分 ~ 18时36分]"
-        },
-        {
-          "title": "小鹏MONAL03价格",
-          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E9%B9%8FMONAL03%E4%BB%B7%E6%A0%BC&t=31&band_rank=1&Refer=top",
-          "source": "微博",
+          "title": "非农提振昙花一现，纳指100跌幅扩大至1%，存储芯片指数跌超7%，特斯拉跌超6%",
+          "url": "https://wallstreetcn.com/articles/3776024",
+          "source": "华尔街见闻",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时14分"
+          "time_info": "01时45分"
         },
         {
-          "title": "特斯拉跌超6%，该公司此前披露的车辆交付数据远超分析师预期",
-          "url": "https://wallstreetcn.com/livenews/3128118",
+          "title": "摩根士丹利分析师Andrew Percoco：最新一个季度是特斯拉自2023年第三季度以来汽车业务最高增速。 储能业务好于摩根士丹利预期，并与市场一致预期相符。 预计储能需求将继续保持稳健。",
+          "url": "https://wallstreetcn.com/livenews/3128169",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时14分"
-        },
-        {
-          "title": "小鹏MONAL03对标30万级开发",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%B9%8FMONAL03%E5%AF%B9%E6%A0%8730%E4%B8%87%E7%BA%A7%E5%BC%80%E5%8F%91%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时56分"
+          "time_info": "01时45分"
         },
         {
-          "title": "特斯拉(TSLA.O)跌幅扩大至6.1%。",
-          "url": "https://flash.jin10.com/detail/20260702223511118800",
-          "source": "金十数据",
+          "title": "小鹏MONAL03价格",
+          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E9%B9%8FMONAL03%E4%BB%B7%E6%A0%BC&t=31&band_rank=9&Refer=top",
+          "source": "微博",
           "ranks": [
-            25
+            9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时14分"
+          "time_info": "01时45分"
+        },
+        {
+          "title": "纳斯达克100指数跌幅扩大至2%，半导体指数跌5.9%。 存储芯片指数重挫超10%，成分股闪迪跌13.4%、泰瑞达跌12.8%、西部数据跌9.6%。 纳指100的成分股中，除了上述个股之外，科磊跌11.8%，迈威尔科技/美满电子跌9.6%，Lumentum跌9.3%，Nebius Group跌8.5%，特斯拉跌7.8%，Meta跌4.2%。",
+          "url": "https://wallstreetcn.com/livenews/3128157",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时45分"
         }
       ]
     },
     {
-      "keyword_group": "华为汽车 鸿蒙智行 问界 尚界 尊界 智界 享界 乾崑",
-      "match_count": 2,
+      "keyword_group": "汽车",
+      "match_count": 1,
       "titles": [
         {
-          "title": "“新汽车”上半年收官：鸿蒙智行锁定200万辆目标 小米前6月交付超18万",
-          "url": "https://www.cls.cn/detail/2414363",
-          "source": "财联社热门",
+          "title": "奕境汽车发布“天穹智盾”安全架构，新车将于三季度上市交付",
+          "url": "https://wallstreetcn.com/livenews/3128130",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5,
-            6
+            30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时02分 ~ 07时13分]"
-        },
-        {
-          "title": "6 月鸿蒙智行交付超 5 万台，小米汽车再破 3 万台，如何看待各家车企表现？行业下半年走势如何？",
-          "url": "https://www.zhihu.com/question/2055596626312541231",
-          "source": "知乎",
-          "ranks": [
-            2,
-            7,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时02分 ~ 05时27分]"
+          "appearance_count": 1,
+          "time_info": "01时45分"
         }
       ]
     }
