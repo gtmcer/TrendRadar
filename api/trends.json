@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-02T11:22:12.519617+08:00",
-  "total_titles_processed": 758,
+  "generated_at": "2026-07-02T15:31:02.764523+08:00",
+  "total_titles_processed": 944,
   "failed_sources": [],
   "trends": [
     {
@@ -27,7 +27,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
         },
@@ -115,7 +115,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
         }
@@ -154,7 +154,7 @@
     },
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "新势力半年“交卷”：零跑单月破9万再创纪录 蔚来、小鹏同步冲高",
@@ -166,6 +166,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时02分 ~ 05时27分]"
+        },
+        {
+          "title": "马斯克发布大合照：特斯拉弗里蒙特工厂Optimus产线或已就绪！",
+          "url": "https://www.cls.cn/detail/2415009",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时29分 ~ 15时31分]"
         }
       ]
     }
