@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-04T05:03:44.800425+08:00",
-  "total_titles_processed": 425,
+  "generated_at": "2026-07-04T07:02:02.272940+08:00",
+  "total_titles_processed": 478,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2416626",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时23分 ~ 05时03分]"
+          "appearance_count": 5,
+          "time_info": "[01时23分 ~ 07时02分]"
         },
         {
           "title": "三部门调整节能汽车、新能源汽车车船税优惠政策，哪些信息值得关注？",
@@ -24,11 +25,12 @@
           "source": "知乎",
           "ranks": [
             10,
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时23分 ~ 05时03分]"
+          "appearance_count": 5,
+          "time_info": "[01时23分 ~ 07时02分]"
         },
         {
           "title": "新能源汽车车船税优惠政策调整",
@@ -37,11 +39,12 @@
           "ranks": [
             15,
             13,
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时23分 ~ 05时03分]"
+          "appearance_count": 5,
+          "time_info": "[01时23分 ~ 07时02分]"
         }
       ]
     }
