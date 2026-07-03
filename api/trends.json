@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-03T14:32:05.131325+08:00",
-  "total_titles_processed": 886,
+  "generated_at": "2026-07-03T17:56:24.844309+08:00",
+  "total_titles_processed": 1070,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "非农提振昙花一现，纳指100跌幅扩大至1%，存储芯片指数跌超7%，特斯拉跌超6%",
@@ -78,6 +78,17 @@
           "time_info": "[01时45分 ~ 03时21分]"
         },
         {
+          "title": "理想汽车产品部大调整：整车、智驾并入研发部门，决策链条从三层缩减为两层",
+          "url": "https://wallstreetcn.com/livenews/3128590",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
+        },
+        {
           "title": "纳斯达克100指数跌幅扩大至2%，半导体指数跌5.9%。 存储芯片指数重挫超10%，成分股闪迪跌13.4%、泰瑞达跌12.8%、西部数据跌9.6%。 纳指100的成分股中，除了上述个股之外，科磊跌11.8%，迈威尔科技/美满电子跌9.6%，Lumentum跌9.3%，Nebius Group跌8.5%，特斯拉跌7.8%，Meta跌4.2%。",
           "url": "https://wallstreetcn.com/livenews/3128157",
           "source": "华尔街见闻-快讯",
@@ -95,7 +106,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
         },
@@ -114,7 +125,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "上海召开四方座谈会 共商汽车行业网络乱象协同治理路径",
@@ -123,7 +134,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
         },
@@ -139,6 +150,28 @@
           "time_info": "07时04分"
         },
         {
+          "title": "摩纳哥检察官：摩纳哥嫌疑人驾驶的汽车有德国车牌，途经意大利及其他一些国家。",
+          "url": "https://flash.jin10.com/detail/20260703174217663800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
+        },
+        {
+          "title": "摩纳哥检察官：一辆悬挂德国车牌的汽车可能被摩纳哥袭击事件嫌疑人使用。",
+          "url": "https://flash.jin10.com/detail/20260703173820761800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
+        },
+        {
           "title": "奕境汽车发布“天穹智盾”安全架构，新车将于三季度上市交付",
           "url": "https://wallstreetcn.com/livenews/3128130",
           "source": "华尔街见闻-快讯",
@@ -148,6 +181,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源汽车",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "国务院：开展新能源汽车、绿色智能家电、绿色建材下乡活动",
+          "url": "https://wallstreetcn.com/livenews/3128586",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
+        },
+        {
+          "title": "三部门有关司负责人就调整节能汽车、新能源汽车车船税优惠政策答记者问",
+          "url": "https://wallstreetcn.com/livenews/3128585",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
+        },
+        {
+          "title": "三部门：调整节能汽车、新能源汽车车船税优惠政策",
+          "url": "https://wallstreetcn.com/livenews/3128579",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
         }
       ]
     }
