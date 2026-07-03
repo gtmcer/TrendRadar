@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-03T07:04:41.438830+08:00",
-  "total_titles_processed": 490,
+  "generated_at": "2026-07-03T10:45:03.257576+08:00",
+  "total_titles_processed": 702,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "非农提振昙花一现，纳指100跌幅扩大至1%，存储芯片指数跌超7%，特斯拉跌超6%",
@@ -42,6 +42,17 @@
           "time_info": "[01时45分 ~ 03时21分]"
         },
         {
+          "title": "交付大增25%难救股价：特斯拉盘中重挫 华尔街到底怕什么？",
+          "url": "https://www.cls.cn/detail/2415915",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时44分 ~ 10时45分]"
+        },
+        {
           "title": "小鹏MONAL03价格",
           "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E9%B9%8FMONAL03%E4%BB%B7%E6%A0%BC&t=31&band_rank=9&Refer=top",
           "source": "微博",
@@ -52,6 +63,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时45分 ~ 03时21分]"
+        },
+        {
+          "title": "小鹏 MONA L03 首秀发布，14.38 万起，有哪些技术亮点？预计销量如何？",
+          "url": "https://www.zhihu.com/question/2056034391034262100",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时44分 ~ 10时45分]"
         },
         {
           "title": "纳斯达克100指数跌幅扩大至2%，半导体指数跌5.9%。 存储芯片指数重挫超10%，成分股闪迪跌13.4%、泰瑞达跌12.8%、西部数据跌9.6%。 纳指100的成分股中，除了上述个股之外，科磊跌11.8%，迈威尔科技/美满电子跌9.6%，Lumentum跌9.3%，Nebius Group跌8.5%，特斯拉跌7.8%，Meta跌4.2%。",
@@ -88,7 +110,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
         },
