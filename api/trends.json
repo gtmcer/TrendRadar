@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-03T20:08:32.086534+08:00",
-  "total_titles_processed": 1225,
+  "generated_at": "2026-07-03T23:10:01.458920+08:00",
+  "total_titles_processed": 1393,
   "failed_sources": [],
   "trends": [
     {
@@ -95,7 +95,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时08分"
         },
@@ -139,7 +139,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时08分"
         },
@@ -150,7 +150,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时08分"
         }
@@ -158,18 +158,41 @@
     },
     {
       "keyword_group": "新能源汽车",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "三部门调整节能汽车、新能源汽车车船税优惠政策",
           "url": "https://www.cls.cn/detail/2416626",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时08分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时08分 ~ 23时10分]"
+        },
+        {
+          "title": "新能源汽车车船税优惠政策调整",
+          "url": "https://www.douyin.com/hot/2557214",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时09分 ~ 23时10分]"
+        },
+        {
+          "title": "三部门调整节能汽车、新能源汽车车船税优惠政策，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2056425679093339668",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时09分 ~ 23时10分]"
         },
         {
           "title": "国务院：开展新能源汽车、绿色智能家电、绿色建材下乡活动",
@@ -211,7 +234,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时08分"
         }
@@ -219,7 +242,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "上海召开四方座谈会 共商汽车行业网络乱象协同治理路径",
@@ -253,6 +276,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时56分"
+        },
+        {
+          "title": "市场消息：德国汽车零部件制造商大陆集团（Continental）接近以40亿欧元的估值将康迪泰克出售给美国私募股权投资公司Lone Star。",
+          "url": "https://flash.jin10.com/detail/20260703220915481800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
+        },
+        {
+          "title": "市场消息：德国汽车零部件制造商大陆集团（Continental）即将敲定出售旗下工业技术业务部门康迪泰克业务的协议。",
+          "url": "https://flash.jin10.com/detail/20260703220501267800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
         },
         {
           "title": "摩纳哥检察官：一辆悬挂德国车牌的汽车可能被摩纳哥袭击事件嫌疑人使用。",
