@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-04T20:07:03.783924+08:00",
-  "total_titles_processed": 1122,
+  "generated_at": "2026-07-04T22:28:30.194228+08:00",
+  "total_titles_processed": 1244,
   "failed_sources": [],
   "trends": [
     {
@@ -63,20 +63,48 @@
       ]
     },
     {
-      "keyword_group": "汽车",
-      "match_count": 2,
+      "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
+      "match_count": 3,
       "titles": [
         {
-          "title": "巴基斯坦一检查站遭汽车炸弹袭击 多人死伤",
-          "url": "https://wallstreetcn.com/livenews/3128941",
+          "title": "特斯拉限制员工AI使用开销 美国多家科技企业收紧AI支出",
+          "url": "https://wallstreetcn.com/livenews/3128944",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时07分"
+          "time_info": "22时28分"
         },
+        {
+          "title": "特斯拉限制员工AI使用开销 美国多家科技企业收紧AI支出",
+          "url": "https://flash.jin10.com/detail/20260704205119305800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
+          "title": "小鹏MONAL03",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%B9%8FMONAL03%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "汽车",
+      "match_count": 2,
+      "titles": [
         {
           "title": "明年起，取消对节能汽车减半征收车船税政策，取消对纯电动商用车、插电式（含增程式）混合动力汽车、燃料电池商用车免征车船税政策",
           "url": "https://wallstreetcn.com/articles/3776152",
@@ -89,6 +117,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时15分 ~ 18时08分]"
+        },
+        {
+          "title": "巴基斯坦一检查站遭汽车炸弹袭击 多人死伤",
+          "url": "https://wallstreetcn.com/livenews/3128941",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时07分 ~ 22时28分]"
         }
       ]
     },
@@ -102,28 +142,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             14,
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时08分 ~ 20时07分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "小鹏MONAL03",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%B9%8FMONAL03%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时15分"
+          "appearance_count": 3,
+          "time_info": "[18时08分 ~ 22时28分]"
         }
       ]
     }
