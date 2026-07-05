@@ -1,9 +1,7 @@
 {
-  "generated_at": "2026-07-06T06:01:21.175633+08:00",
-  "total_titles_processed": 453,
-  "failed_sources": [
-    "tieba"
-  ],
+  "generated_at": "2026-07-06T07:09:53.286094+08:00",
+  "total_titles_processed": 521,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为汽车 鸿蒙智行 问界 尚界 尊界 智界 享界 乾崑",
@@ -16,11 +14,12 @@
           "ranks": [
             18,
             10,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时01分 ~ 06时01分]"
+          "appearance_count": 6,
+          "time_info": "[02时01分 ~ 07时09分]"
         }
       ]
     },
@@ -34,11 +33,12 @@
           "source": "知乎",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时12分 ~ 06时01分]"
+          "appearance_count": 4,
+          "time_info": "[04时12分 ~ 07时09分]"
         }
       ]
     }
