@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-05T12:55:58.092421+08:00",
-  "total_titles_processed": 758,
+  "generated_at": "2026-07-05T15:55:53.534608+08:00",
+  "total_titles_processed": 901,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            16
+            16,
+            22
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 12时55分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 15时55分]"
         },
         {
           "title": "何小鹏：中国智驾领先全球，L2级辅助驾驶将加速出海",
@@ -66,7 +67,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时55分"
         }
@@ -82,11 +83,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            19
+            19,
+            25
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 12时55分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 15时55分]"
         }
       ]
     }
