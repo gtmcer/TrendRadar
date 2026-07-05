@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-06T02:02:16.443753+08:00",
-  "total_titles_processed": 374,
+  "generated_at": "2026-07-06T04:12:43.626072+08:00",
+  "total_titles_processed": 420,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,29 @@
           "url": "https://www.zhihu.com/question/2057012511703053889",
           "source": "知乎",
           "ranks": [
-            18
+            18,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时01分 ~ 02时02分]"
+          "appearance_count": 3,
+          "time_info": "[02时01分 ~ 04时12分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "印度政府正调查塔塔电子大规模数据泄露事件， 涉及苹果、特斯拉，这种泄露影响有多大？暴露了哪些安全隐患？",
+          "url": "https://www.zhihu.com/question/2056780978534750118",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
         }
       ]
     }
