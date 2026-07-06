@@ -1,94 +1,22 @@
 {
-  "generated_at": "2026-07-06T20:03:21.314408+08:00",
-  "total_titles_processed": 1165,
+  "generated_at": "2026-07-07T00:19:27.531986+08:00",
+  "total_titles_processed": 305,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "汽车",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "目击者回应成都一汽车被烧成空架",
-          "url": "https://www.toutiao.com/trending/7659034254837153835/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时15分 ~ 15时16分]"
-        },
-        {
-          "title": "北汽集团在江西成立汽车公司，注册资本1亿元",
-          "url": "https://wallstreetcn.com/livenews/3129180",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时16分"
-        },
-        {
-          "title": "恒生科技指数涨1%，恒指涨0.8%，汽车股走强，零跑汽车(09863.HK)涨近7%。",
-          "url": "https://flash.jin10.com/detail/20260706100804526800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时58分"
-        }
-      ]
-    },
-    {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "印度政府正调查塔塔电子大规模数据泄露事件， 涉及苹果、特斯拉，这种泄露影响有多大？暴露了哪些安全隐患？",
-          "url": "https://www.zhihu.com/question/2056780978534750118",
-          "source": "知乎",
-          "ranks": [
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时12分 ~ 10时58分]"
-        },
-        {
-          "title": "恒生科技指数上涨1%。零跑汽车涨超6%，快手、小鹏集团、京东健康涨超4%。",
-          "url": "https://wallstreetcn.com/livenews/3129103",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "华为汽车 鸿蒙智行 问界 尚界 尊界 智界 享界 乾崑",
       "match_count": 1,
       "titles": [
         {
-          "title": "一辆华为问界 M9 于隧道内起火，起火原因不明，但现场没有明显碰撞痕迹，具体原因可能是怎样的？",
-          "url": "https://www.zhihu.com/question/2057012511703053889",
-          "source": "知乎",
+          "title": "王安宇自曝理想型要外在形象条件",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%89%E5%AE%87%E8%87%AA%E6%9B%9D%E7%90%86%E6%83%B3%E5%9E%8B%E8%A6%81%E5%A4%96%E5%9C%A8%E5%BD%A2%E8%B1%A1%E6%9D%A1%E4%BB%B6%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
           "ranks": [
-            18,
-            10,
-            5,
-            6
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时01分 ~ 07时09分]"
+          "appearance_count": 1,
+          "time_info": "00时19分"
         }
       ]
     }
