@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-07-12T06:45:10.898505+08:00",
-  "total_titles_processed": 422,
+  "generated_at": "2026-07-12T07:53:31.942337+08:00",
+  "total_titles_processed": 471,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "蔚来品牌 6 月平均成交价为 44.3 万元，这说明了什么？下半年这个价格还会继续往上走吗？",
+          "url": "https://www.zhihu.com/question/2057503692547478547",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://gtmcer.github.io/TrendRadar/img/news.jpg"
 }
