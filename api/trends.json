@@ -1,90 +1,22 @@
 {
-  "generated_at": "2026-07-12T23:58:23.701870+08:00",
-  "total_titles_processed": 1346,
+  "generated_at": "2026-07-13T01:02:19.688656+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
         {
           "title": "小鹏X9集体趴窝 疑因高温",
           "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E9%B9%8FX9%E9%9B%86%E4%BD%93%E8%B6%B4%E7%AA%9D+%E7%96%91%E5%9B%A0%E9%AB%98%E6%B8%A9",
           "source": "百度热搜",
           "ranks": [
-            16,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时26分 ~ 23时58分]"
-        },
-        {
-          "title": "特斯拉拆除Model S和X生产线",
-          "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%96%AF%E6%8B%89%E6%8B%86%E9%99%A4Model%20S%E5%92%8CX%E7%94%9F%E4%BA%A7%E7%BA%BF&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时56分 ~ 16时13分]"
-        },
-        {
-          "title": "特斯拉拆除Model S和X生产线",
-          "url": "https://www.douyin.com/hot/2567637",
-          "source": "抖音",
-          "ranks": [
-            10
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时25分"
-        },
-        {
-          "title": "蔚来品牌 6 月平均成交价为 44.3 万元，这说明了什么？下半年这个价格还会继续往上走吗？",
-          "url": "https://www.zhihu.com/question/2057503692547478547",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "华为汽车 鸿蒙智行 问界 尚界 尊界 智界 享界 乾崑",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "曝余承东内部群发飙，要求立刻整改「问界 M8 致车主行踪暴露」一事，是真的吗？这种 bug 是什么环节的问题？",
-          "url": "https://www.zhihu.com/question/2059329797826635179",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "汽车",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "小米分批持续裁员，涉及手机、汽车等多个业务部门，此举透露出哪些发展策略调整？",
-          "url": "https://www.zhihu.com/question/2058929491154674771",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时32分"
+          "time_info": "01时02分"
         }
       ]
     }
