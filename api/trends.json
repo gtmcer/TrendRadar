@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T21:25:20.346930+08:00",
-  "total_titles_processed": 1218,
+  "generated_at": "2026-07-12T22:54:48.264171+08:00",
+  "total_titles_processed": 1297,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时26分 ~ 21时25分]"
+          "appearance_count": 4,
+          "time_info": "[18时26分 ~ 22时54分]"
         },
         {
           "title": "特斯拉拆除Model S和X生产线",
@@ -37,7 +37,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时25分"
         },
