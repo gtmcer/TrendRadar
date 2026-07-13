@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-13T18:24:33.504561+08:00",
-  "total_titles_processed": 1090,
+  "generated_at": "2026-07-13T21:22:49.642298+08:00",
+  "total_titles_processed": 1271,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         },
@@ -25,7 +25,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         },
@@ -67,6 +67,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "华为汽车 鸿蒙智行 问界 尚界 尊界 智界 享界 乾崑",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "尚界汽车已启动法律维权",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%9A%E7%95%8C%E6%B1%BD%E8%BD%A6%E5%B7%B2%E5%90%AF%E5%8A%A8%E6%B3%95%E5%BE%8B%E7%BB%B4%E6%9D%83%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
         }
       ]
     }
