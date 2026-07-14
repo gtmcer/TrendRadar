@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-14T13:28:07.659353+08:00",
-  "total_titles_processed": 999,
+  "generated_at": "2026-07-14T15:59:59.576236+08:00",
+  "total_titles_processed": 1167,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "小米汽车紧急避险",
@@ -17,6 +17,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时27分 ~ 13时28分]"
+        },
+        {
+          "title": "特斯拉官方宣传汽车寿命",
+          "url": "https://www.toutiao.com/trending/7661917083823276082/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时59分"
+        },
+        {
+          "title": "特斯拉官方宣传汽车寿命",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E5%AE%98%E6%96%B9%E5%AE%A3%E4%BC%A0%E6%B1%BD%E8%BD%A6%E5%AF%BF%E5%91%BD",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时59分"
         },
         {
           "title": "加州新电动车补贴方案出炉，特斯拉成最大赢家",
