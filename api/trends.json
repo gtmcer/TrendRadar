@@ -1,12 +1,67 @@
 {
-  "generated_at": "2026-07-16T20:19:52.361881+08:00",
-  "total_titles_processed": 1494,
+  "generated_at": "2026-07-16T23:02:15.980807+08:00",
+  "total_titles_processed": 1658,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 3,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "小鹏MONAL03全球发布会",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%B9%8FMONAL03%E5%85%A8%E7%90%83%E5%8F%91%E5%B8%83%E4%BC%9A%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时00分 ~ 23时02分]"
+        },
+        {
+          "title": "小鹏发布会",
+          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E9%B9%8F%E5%8F%91%E5%B8%83%E4%BC%9A&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时00分 ~ 23时02分]"
+        },
+        {
+          "title": "小鹏汽车致歉",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E9%B9%8F%E6%B1%BD%E8%BD%A6%E8%87%B4%E6%AD%89",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时00分 ~ 23时02分]"
+        },
+        {
+          "title": "新一代理想L6发布：搭载自研马赫M100芯片，售价24.98万元",
+          "url": "https://wallstreetcn.com/livenews/3135142",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
+          "title": "小鹏MONA L03 上市7分钟，大定突破20000台。",
+          "url": "https://flash.jin10.com/detail/20260716222107971800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
         {
           "title": "极氪9X五座版28日直接开启大定",
           "url": "https://s.weibo.com/weibo?q=%23%E6%9E%81%E6%B0%AA9X%E4%BA%94%E5%BA%A7%E7%89%8828%E6%97%A5%E7%9B%B4%E6%8E%A5%E5%BC%80%E5%90%AF%E5%A4%A7%E5%AE%9A%23&t=31&band_rank=17&Refer=top",
@@ -30,13 +85,24 @@
           "time_info": "12时08分"
         },
         {
+          "title": "小鹏汽车发文称，小鹏MONAL03正式上市，售价12.38万元起。",
+          "url": "https://wallstreetcn.com/livenews/3135120",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
           "title": "何小鹏首次全程英文演讲",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BD%95%E5%B0%8F%E9%B9%8F%E9%A6%96%E6%AC%A1%E5%85%A8%E7%A8%8B%E8%8B%B1%E6%96%87%E6%BC%94%E8%AE%B2%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时19分"
         }
@@ -44,8 +110,19 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "香格里拉一景区突发泥石流汽车被埋",
+          "url": "https://www.toutiao.com/trending/7662961403233861641/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时00分 ~ 23时02分]"
+        },
         {
           "title": "周三（7月15日），彭博电动汽车价格回报指数涨0.62%，报3417.66点，全天处于上涨状态。",
           "url": "https://wallstreetcn.com/livenews/3134603",
@@ -57,6 +134,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时58分 ~ 07时01分]"
+        },
+        {
+          "title": "长城汽车 2026 年上半年净利润骤降近六成，是什么原因导致的？",
+          "url": "https://www.zhihu.com/question/2060421321046205380",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时00分 ~ 23时02分]"
         },
         {
           "title": "英伟达(NVDA.O)：与丰田扩大合作伙伴关系，推动汽车、机器人和城市领域的物理人工智能发展。",
@@ -79,6 +167,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
+        },
+        {
+          "title": "零跑汽车徐军：海外销量占比近30%，今年国内市场依旧是大头",
+          "url": "https://wallstreetcn.com/livenews/3135124",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         }
       ]
     }
