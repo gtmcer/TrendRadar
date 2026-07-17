@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-17T18:46:08.023887+08:00",
-  "total_titles_processed": 1339,
+  "generated_at": "2026-07-17T20:08:09.123497+08:00",
+  "total_titles_processed": 1455,
   "failed_sources": [],
   "trends": [
     {
@@ -109,7 +109,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时46分"
         },
@@ -128,8 +128,20 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "中国汽车市场 5 个月推出 542 款新车，比亚迪高管称「彻底疯了」，这反映了怎样的市场竞争？",
+          "url": "https://www.zhihu.com/question/2060791514276615811",
+          "source": "知乎",
+          "ranks": [
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时07分 ~ 20时08分]"
+        },
         {
           "title": "长城汽车 2026 年上半年净利润骤降近六成，是什么原因导致的？",
           "url": "https://www.zhihu.com/question/2060421321046205380",
@@ -168,16 +180,27 @@
           "time_info": "04时02分"
         },
         {
-          "title": "中国汽车市场 5 个月推出 542 款新车，比亚迪高管称「彻底疯了」，这反映了怎样的市场竞争？",
-          "url": "https://www.zhihu.com/question/2060791514276615811",
-          "source": "知乎",
+          "title": "众泰汽车：与债权人达成债务和解",
+          "url": "https://flash.jin10.com/detail/20260717193759294800",
+          "source": "金十数据",
           "ranks": [
-            10,
-            4
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时08分"
+        },
+        {
+          "title": "默茨：不反对中国车企接手德汽车工厂",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%98%E8%8C%A8%EF%BC%9A%E4%B8%8D%E5%8F%8D%E5%AF%B9%E4%B8%AD%E5%9B%BD%E8%BD%A6%E4%BC%81%E6%8E%A5%E6%89%8B%E5%BE%B7%E6%B1%BD%E8%BD%A6%E5%B7%A5%E5%8E%82",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            27
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时07分 ~ 18时46分]"
+          "time_info": "[16时07分 ~ 20时08分]"
         },
         {
           "title": "西班牙政府计划周五发布汽车行业蓝皮书研究报告。（彭博）",
@@ -211,17 +234,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
-        },
+        }
+      ]
+    },
+    {
+      "keyword_group": "华为汽车 鸿蒙智行 问界 尚界 尊界 智界 享界 乾崑",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "默茨：不反对中国车企接手德汽车工厂",
-          "url": "https://www.baidu.com/s?wd=%E9%BB%98%E8%8C%A8%EF%BC%9A%E4%B8%8D%E5%8F%8D%E5%AF%B9%E4%B8%AD%E5%9B%BD%E8%BD%A6%E4%BC%81%E6%8E%A5%E6%89%8B%E5%BE%B7%E6%B1%BD%E8%BD%A6%E5%B7%A5%E5%8E%82",
-          "source": "百度热搜",
+          "title": "尚界汽车否认脱离鸿蒙智行",
+          "url": "https://wallstreetcn.com/livenews/3135693",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            26
+            2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时07分"
+          "time_info": "20时08分"
         }
       ]
     }
