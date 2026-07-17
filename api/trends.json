@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-17T20:08:09.123497+08:00",
-  "total_titles_processed": 1455,
+  "generated_at": "2026-07-17T22:42:37.005233+08:00",
+  "total_titles_processed": 1618,
   "failed_sources": [],
   "trends": [
     {
@@ -128,7 +128,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "中国汽车市场 5 个月推出 542 款新车，比亚迪高管称「彻底疯了」，这反映了怎样的市场竞争？",
@@ -136,11 +136,12 @@
           "source": "知乎",
           "ranks": [
             10,
-            4
+            4,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时07分 ~ 20时08分]"
+          "appearance_count": 6,
+          "time_info": "[16时07分 ~ 22时42分]"
         },
         {
           "title": "长城汽车 2026 年上半年净利润骤降近六成，是什么原因导致的？",
@@ -186,7 +187,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时08分"
         },
@@ -212,6 +213,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "成都一汽车被追尾瞬间腾起大火",
+          "url": "https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E4%B8%80%E6%B1%BD%E8%BD%A6%E8%A2%AB%E8%BF%BD%E5%B0%BE%E7%9E%AC%E9%97%B4%E8%85%BE%E8%B5%B7%E5%A4%A7%E7%81%AB",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时42分"
         },
         {
           "title": "沃尔沃汽车首席财务官：各类原材料价格普遍处于高位，其中锂、铝和镍的价格涨幅尤为显著。",
@@ -248,7 +260,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时08分"
         }
