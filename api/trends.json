@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-18T06:48:02.782135+08:00",
-  "total_titles_processed": 587,
+  "generated_at": "2026-07-18T07:51:39.540656+08:00",
+  "total_titles_processed": 657,
   "failed_sources": [],
   "trends": [
     {
@@ -13,22 +13,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             12,
-            19
+            19,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时51分 ~ 06时48分]"
+          "appearance_count": 3,
+          "time_info": "[05时51分 ~ 07时51分]"
         },
         {
           "title": "中国汽车市场 5 个月推出 542 款新车，比亚迪高管称「彻底疯了」，这反映了怎样的市场竞争？",
           "url": "https://www.zhihu.com/question/2060791514276615811",
           "source": "知乎",
           "ranks": [
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时47分 ~ 06时48分]"
+          "appearance_count": 3,
+          "time_info": "[06时47分 ~ 07时51分]"
         },
         {
           "title": "周五（7月17日）纽约尾盘，彭博电动汽车价格回报指数跌2.42%，报3304.17点，本周累计下跌3.85%。",
