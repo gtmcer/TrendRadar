@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-20T04:44:20.663986+08:00",
-  "total_titles_processed": 448,
+  "generated_at": "2026-07-20T05:50:57.765631+08:00",
+  "total_titles_processed": 511,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 04时44分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 05时50分]"
         },
         {
           "title": "特斯拉在德国工厂提升产量，来应对需求增长",
