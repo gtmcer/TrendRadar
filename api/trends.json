@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-07-21T08:01:31.901223+08:00",
-  "total_titles_processed": 589,
+  "generated_at": "2026-07-21T11:28:34.727499+08:00",
+  "total_titles_processed": 796,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "金十图示：2026年07月21日（周二）全球汽车制造商市值变化",
+          "url": "https://flash.jin10.com/detail/20260721110528087800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
+        },
         {
           "title": "日媒：住友化学将量产电动汽车固态电池材料",
           "url": "https://flash.jin10.com/detail/20260721071503979800",
@@ -14,7 +25,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
         },
