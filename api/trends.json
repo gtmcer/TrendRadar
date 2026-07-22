@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-22T10:27:18.245680+08:00",
-  "total_titles_processed": 800,
+  "generated_at": "2026-07-22T13:48:08.854787+08:00",
+  "total_titles_processed": 981,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "现代电动汽车变“移动充电宝”",
@@ -21,6 +21,17 @@
           "time_info": "[01时15分 ~ 06时54分]"
         },
         {
+          "title": "中国汽车工业协会付炳锋：迈向存量竞争新阶段 要坚持长期主义",
+          "url": "https://wallstreetcn.com/livenews/3137970",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
+        },
+        {
           "title": "周二（7月21日），彭博电动汽车价格回报指数涨1.68%，报3344.29点，亚太早盘持续上涨。",
           "url": "https://wallstreetcn.com/livenews/3137742",
           "source": "华尔街见闻-快讯",
@@ -32,13 +43,24 @@
           "time_info": "05时07分"
         },
         {
+          "title": "中国汽车工业协会付炳锋：迈向存量竞争新阶段 要坚持长期主义",
+          "url": "https://flash.jin10.com/detail/20260722124903582800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
+        },
+        {
           "title": "新股N乔路铭涨超30%；公司专业从事汽车饰件的研发、生产和销售，主要产品包括汽车内饰件、汽车外饰件及配套模具。",
           "url": "https://flash.jin10.com/detail/20260722095415913800",
           "source": "金十数据",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
         }
@@ -55,7 +77,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
         },
@@ -66,7 +88,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
         }
