@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-23T18:21:12.304820+08:00",
-  "total_titles_processed": 1207,
+  "generated_at": "2026-07-23T20:23:31.676563+08:00",
+  "total_titles_processed": 1356,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,19 @@
           "time_info": "[08时09分 ~ 15时32分]"
         },
         {
+          "title": "AI烧钱大战升级！谷歌、特斯拉现金流双双转负 华尔街看好长期回报",
+          "url": "https://www.cls.cn/detail/2434820",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时32分 ~ 20时23分]"
+        },
+        {
           "title": "特斯拉(TSLA.O)CEO马斯克：预计Semi卡车将在今年年底或明年年初配备自动驾驶技术。",
           "url": "https://flash.jin10.com/detail/20260723062308970800",
           "source": "金十数据",
@@ -30,16 +43,15 @@
           "time_info": "07时01分"
         },
         {
-          "title": "AI烧钱大战升级！谷歌、特斯拉现金流双双转负 华尔街看好长期回报",
-          "url": "https://www.cls.cn/detail/2434820",
-          "source": "财联社热门",
+          "title": "特斯拉电话会：马斯克称正进行“二战以来美国最快的工业规模扩张”，获美光存储芯片“超级配额”",
+          "url": "https://wallstreetcn.com/articles/3777724",
+          "source": "华尔街见闻",
           "ranks": [
-            13,
-            4
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时32分 ~ 18时21分]"
+          "appearance_count": 4,
+          "time_info": "[12时15分 ~ 20时23分]"
         },
         {
           "title": "马斯克：特斯拉正在进行二战以来美国最快的工业规模扩张。 我们试图在美国生产大量光伏产品。",
@@ -66,26 +78,16 @@
           "time_info": "[07时01分 ~ 08时10分]"
         },
         {
-          "title": "特斯拉电话会：马斯克称正进行“二战以来美国最快的工业规模扩张”，获美光存储芯片“超级配额”",
-          "url": "https://wallstreetcn.com/articles/3777724",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时15分 ~ 18时21分]"
-        },
-        {
           "title": "特斯拉Q2营收大增26%但盈利降18%远逊预期，现金流转负，强调处最大投资阶段丨财报见闻",
           "url": "https://wallstreetcn.com/articles/3777719",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时15分 ~ 18时21分]"
+          "appearance_count": 4,
+          "time_info": "[12时15分 ~ 20时23分]"
         },
         {
           "title": "特斯拉Q2营收超预期但利润失色 资本开支不及目标引发技术担忧",
@@ -138,7 +140,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
@@ -281,7 +283,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
@@ -529,22 +531,24 @@
           "ranks": [
             19,
             5,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时14分 ~ 18时21分]"
+          "appearance_count": 6,
+          "time_info": "[12时14分 ~ 20时23分]"
         },
         {
           "title": "汽车未礼让,女骑手敲窗警告",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356440&amp;topic_name=%E6%B1%BD%E8%BD%A6%E6%9C%AA%E7%A4%BC%E8%AE%A9%2C%E5%A5%B3%E9%AA%91%E6%89%8B%E6%95%B2%E7%AA%97%E8%AD%A6%E5%91%8A",
           "source": "贴吧",
           "ranks": [
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 18时21分]"
+          "appearance_count": 3,
+          "time_info": "[18时20分 ~ 20时23分]"
         },
         {
           "title": "德州仪器：汽车业务在二季度加速。",
@@ -564,7 +568,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
@@ -575,7 +579,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
@@ -586,7 +590,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         }
