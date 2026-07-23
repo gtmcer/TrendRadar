@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-23T12:15:06.521136+08:00",
-  "total_titles_processed": 860,
+  "generated_at": "2026-07-23T15:32:29.600206+08:00",
+  "total_titles_processed": 1032,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 41,
+      "match_count": 42,
       "titles": [
         {
           "title": "【早报】美股AI服务器整机龙头，大涨近20%；特斯拉、谷歌披露财报；油价、黄金齐升；A股又一波公司启动增持回购",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时09分 ~ 12时15分]"
+          "appearance_count": 5,
+          "time_info": "[08时09分 ~ 15时32分]"
         },
         {
           "title": "特斯拉(TSLA.O)CEO马斯克：预计Semi卡车将在今年年底或明年年初配备自动驾驶技术。",
@@ -54,6 +54,28 @@
           "time_info": "[07时01分 ~ 08时10分]"
         },
         {
+          "title": "特斯拉电话会：马斯克称正进行“二战以来美国最快的工业规模扩张”，获美光存储芯片“超级配额”",
+          "url": "https://wallstreetcn.com/articles/3777724",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时15分 ~ 15时32分]"
+        },
+        {
+          "title": "特斯拉Q2营收大增26%但盈利降18%远逊预期，现金流转负，强调处最大投资阶段丨财报见闻",
+          "url": "https://wallstreetcn.com/articles/3777719",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时15分 ~ 15时32分]"
+        },
+        {
           "title": "特斯拉Q2营收超预期但利润失色 资本开支不及目标引发技术担忧",
           "url": "https://www.cls.cn/detail/2434491",
           "source": "财联社热门",
@@ -63,17 +85,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时14分 ~ 12时15分]"
-        },
-        {
-          "title": "特斯拉电话会：马斯克称正进行“二战以来美国最快的工业规模扩张”，获美光存储芯片“超级配额”",
-          "url": "https://wallstreetcn.com/articles/3777724",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时15分"
         },
         {
           "title": "特斯拉二季度利润远逊预期，成本攀升拖累业绩",
@@ -96,17 +107,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
-        },
-        {
-          "title": "特斯拉Q2营收大增26%但盈利降18%远逊预期，现金流转负，强调处最大投资阶段丨财报见闻",
-          "url": "https://wallstreetcn.com/articles/3777719",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时15分"
         },
         {
           "title": "特斯拉第二季度营收超预期但盈利不及预期",
@@ -140,6 +140,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
+        },
+        {
+          "title": "AI烧钱大战升级！谷歌、特斯拉现金流双双转负 华尔街看好长期回报",
+          "url": "https://www.cls.cn/detail/2434820",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
         },
         {
           "title": "特斯拉(TSLA.O)：我们的能源储存业务恢复增长。",
@@ -471,11 +482,12 @@
           "url": "https://www.zhihu.com/question/2063532260934907357",
           "source": "知乎",
           "ranks": [
-            19
+            19,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时14分 ~ 12时15分]"
+          "appearance_count": 3,
+          "time_info": "[12时14分 ~ 15时32分]"
         },
         {
           "title": "德州仪器：汽车业务在二季度加速。",
