@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-24T19:02:56.136428+08:00",
-  "total_titles_processed": 1295,
+  "generated_at": "2026-07-24T22:18:33.041359+08:00",
+  "total_titles_processed": 1475,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时54分 ~ 19时02分]"
+          "appearance_count": 7,
+          "time_info": "[06时54分 ~ 22时18分]"
         },
         {
           "title": "美股收盘：七巨头齐跌特斯拉重挫14% 纳指降2%布油站上100美元",
@@ -238,11 +238,12 @@
             11,
             16,
             23,
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时19分 ~ 19时02分]"
+          "appearance_count": 13,
+          "time_info": "[01时19分 ~ 22时18分]"
         },
         {
           "title": "新能源车跨境自驾遭远程锁车，车主称「事前未提醒出境会被锁车」，汽车售出后厂商该不该保留「控制权」？",
@@ -320,7 +321,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         }
