@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25T19:08:04.897766+08:00",
-  "total_titles_processed": 1119,
+  "generated_at": "2026-07-25T21:20:31.226608+08:00",
+  "total_titles_processed": 1228,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             4,
             3,
-            2
+            2,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时08分 ~ 19时08分]"
+          "appearance_count": 6,
+          "time_info": "[12时08分 ~ 21时20分]"
         },
         {
           "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
@@ -37,11 +38,12 @@
           "source": "贴吧",
           "ranks": [
             3,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时08分 ~ 19时08分]"
+          "appearance_count": 6,
+          "time_info": "[12时08分 ~ 21时20分]"
         },
         {
           "title": "峰学蔚来武亮住院",
