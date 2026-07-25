@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-25T06:14:10.959225+08:00",
-  "total_titles_processed": 494,
+  "generated_at": "2026-07-25T08:04:03.760071+08:00",
+  "total_titles_processed": 572,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
@@ -38,11 +38,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            14
+            14,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时01分 ~ 06时14分]"
+          "appearance_count": 3,
+          "time_info": "[05时01分 ~ 08时04分]"
         },
         {
           "title": "马斯克的艰难一周：特斯拉遭遇2022年以来最大跌幅，星舰试飞前夕SpaceX股价下挫",
@@ -50,11 +51,35 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            18
+            18,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时01分 ~ 08时04分]"
+        },
+        {
+          "title": "马斯克：特斯拉计划开源Model S和Model X的软件。",
+          "url": "https://flash.jin10.com/detail/20260725044718667800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时01分 ~ 06时14分]"
+          "time_info": "[06时14分 ~ 08时04分]"
+        },
+        {
+          "title": "峰学蔚来总经理武亮回应住院",
+          "url": "https://www.toutiao.com/trending/7665706235341144100/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时03分 ~ 08时04分]"
         },
         {
           "title": "纳斯达克金龙中国指数收跌0.66%，报6104.64点，本周累计下跌2.80%，整体持续下挫。 热门中概股里，日月光半导体跌6.8%，蔚来、小鹏跌超3%，腾讯涨0.4%，美团涨1%。 XtrackersHarvest中证50（ASHS）收跌1.94%，本周反弹0.27%，此前三周先后回撤1.32%、0.87%、11.31%； 德银嘉实沪深300指数ETF（ASHR）收跌1.21%，本周反弹2.17%，上周跌4.95%； 中国科技指数ETF（CQQQ）收跌1.03%，本周累跌0.87%、延续上周回撤9.56%的表现； 中概互联网指数ETF（KWEB）收涨0.08%，本周回撤1.94%，此前三周先后反弹4.39%、5.56%、1.63%； MSCI新兴市场ex中国ETF（EMXC）收跌2.39%，本周累涨0.12%。",
@@ -69,15 +94,26 @@
           "time_info": "[05时01分 ~ 06时14分]"
         },
         {
-          "title": "马斯克：特斯拉计划开源Model S和Model X的软件。",
-          "url": "https://flash.jin10.com/detail/20260725044718667800",
-          "source": "金十数据",
+          "title": "特斯拉跌麻了",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%E8%B7%8C%E9%BA%BB%E4%BA%86%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
           "ranks": [
-            10
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时14分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时03分 ~ 08时04分]"
+        },
+        {
+          "title": "小鹏人形机器人已试生产",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%B9%8F%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%B7%B2%E8%AF%95%E7%94%9F%E4%BA%A7%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时03分 ~ 08时04分]"
         }
       ]
     },
@@ -95,8 +131,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时28分 ~ 06时14分]"
+          "appearance_count": 7,
+          "time_info": "[01时28分 ~ 08时04分]"
         },
         {
           "title": "周五（7月24日），彭博电动汽车价格回报指数跌2.46%，报3230.43点，北京时间08:00以来持续走低、亚太早盘跌幅显著。 本周累计下跌2.27%，整体冲高回落，7月23日14:30刷新期内最高位、随后持续下挫。",
