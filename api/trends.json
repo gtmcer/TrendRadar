@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25T12:08:42.752492+08:00",
-  "total_titles_processed": 777,
+  "generated_at": "2026-07-25T15:14:37.454644+08:00",
+  "total_titles_processed": 922,
   "failed_sources": [],
   "trends": [
     {
@@ -19,26 +19,16 @@
           "time_info": "[01时28分 ~ 06时14分]"
         },
         {
-          "title": "扛不住!峰学蔚来接班人住院",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356493&amp;topic_name=%E6%89%9B%E4%B8%8D%E4%BD%8F%21%E5%B3%B0%E5%AD%A6%E8%94%9A%E6%9D%A5%E6%8E%A5%E7%8F%AD%E4%BA%BA%E4%BD%8F%E9%99%A2",
-          "source": "贴吧",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时08分"
-        },
-        {
           "title": "小鹏 X9 因趴窝问题召回 33473 辆，有车主称大部分都是 3 万公里就趴窝，换完再塌，哪个流程出了问题？",
           "url": "https://www.zhihu.com/question/2064072658795419261",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时08分 ~ 15时14分]"
         },
         {
           "title": "峰学蔚来武亮住院",
@@ -53,6 +43,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时28分 ~ 06时14分]"
+        },
+        {
+          "title": "扛不住!峰学蔚来接班人住院",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356493&amp;topic_name=%E6%89%9B%E4%B8%8D%E4%BD%8F%21%E5%B3%B0%E5%AD%A6%E8%94%9A%E6%9D%A5%E6%8E%A5%E7%8F%AD%E4%BA%BA%E4%BD%8F%E9%99%A2",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时08分 ~ 15时14分]"
         },
         {
           "title": "马斯克：打算让特斯拉Model S与Model X软件开源。",
@@ -144,7 +146,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
         }
@@ -152,7 +154,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "俄罗斯再成中国汽车最大买家",
@@ -178,6 +180,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时01分 ~ 06时14分]"
+        },
+        {
+          "title": "现代汽车集团会长郑义宣在旧金山AI峰会上发布“物理AI”愿景。",
+          "url": "https://flash.jin10.com/detail/20260725131131676800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
         }
       ]
     }
