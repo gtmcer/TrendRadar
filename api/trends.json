@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-26T17:11:05.226941+08:00",
-  "total_titles_processed": 969,
+  "generated_at": "2026-07-26T19:18:40.003157+08:00",
+  "total_titles_processed": 1085,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             12,
             15,
             19,
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时10分 ~ 17时11分]"
+          "appearance_count": 16,
+          "time_info": "[00时10分 ~ 19时18分]"
         },
         {
           "title": "极氪上线“跨境守护”入口",
@@ -28,11 +29,24 @@
           "ranks": [
             1,
             10,
-            13
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时29分 ~ 19时18分]"
+        },
+        {
+          "title": "极氪回应境外锁车事件并公布调整方案，此前有车主反映自驾出国遭远程锁车超30小时",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33661468",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            16
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时29分 ~ 17时11分]"
+          "time_info": "[17时10分 ~ 19时18分]"
         },
         {
           "title": "极氪APP上线跨境守护功能",
@@ -40,17 +54,6 @@
           "source": "微博",
           "ranks": [
             14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时10分 ~ 17时11分]"
-        },
-        {
-          "title": "极氪回应境外锁车事件并公布调整方案，此前有车主反映自驾出国遭远程锁车超30小时",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33661468",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -74,7 +77,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时11分"
         },
@@ -85,7 +88,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时11分"
         }
@@ -147,7 +150,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时11分"
         }
