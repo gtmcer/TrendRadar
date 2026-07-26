@@ -1,28 +1,11 @@
 {
-  "generated_at": "2026-07-26T07:59:27.561569+08:00",
-  "total_titles_processed": 511,
+  "generated_at": "2026-07-26T11:29:23.390824+08:00",
+  "total_titles_processed": 692,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "扛不住!峰学蔚来接班人住院",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356493&amp;topic_name=%E6%89%9B%E4%B8%8D%E4%BD%8F%21%E5%B3%B0%E5%AD%A6%E8%94%9A%E6%9D%A5%E6%8E%A5%E7%8F%AD%E4%BA%BA%E4%BD%8F%E9%99%A2",
-          "source": "贴吧",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时10分 ~ 07时59分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "汽车",
-      "match_count": 1,
+      "match_count": 4,
       "titles": [
         {
           "title": "德国柏林发生汽车冲撞行人事件致多人受伤",
@@ -35,6 +18,68 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时54分 ~ 07时59分]"
+        },
+        {
+          "title": "韩国汽车与移动产业协会（KAMA）：今年上半年韩国汽车出口量同比增长2.1%，达到144.1万辆。环保车型出口占比从去年同期的30.0%提升至37.0%。不过，受全球主要国家高通胀和加息影响，韩国汽车出口在今年下半年预计将同比下降0.3%，至132万辆。全年出口预计达到276万辆，同比增长0.9%。",
+          "url": "https://flash.jin10.com/detail/20260726090842501800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时29分"
+        },
+        {
+          "title": "韩国汽车与移动产业协会（KAMA）：预计韩国下半年国内汽车销量将同比增长2.7%，达到86.5万辆，全年销量将达到171万辆。",
+          "url": "https://flash.jin10.com/detail/20260726090802769800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时29分"
+        },
+        {
+          "title": "德国柏林发生汽车撞人事件致1死14伤",
+          "url": "https://flash.jin10.com/detail/20260726090528376800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "扛不住!峰学蔚来接班人住院",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356493&amp;topic_name=%E6%89%9B%E4%B8%8D%E4%BD%8F%21%E5%B3%B0%E5%AD%A6%E8%94%9A%E6%9D%A5%E6%8E%A5%E7%8F%AD%E4%BA%BA%E4%BD%8F%E9%99%A2",
+          "source": "贴吧",
+          "ranks": [
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时10分 ~ 11时29分]"
+        },
+        {
+          "title": "极氪上线“跨境守护”入口",
+          "url": "https://wallstreetcn.com/livenews/3139802",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时29分"
         }
       ]
     }
