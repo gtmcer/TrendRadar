@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-28T12:02:13.005434+08:00",
-  "total_titles_processed": 814,
+  "generated_at": "2026-07-28T14:32:49.698530+08:00",
+  "total_titles_processed": 954,
   "failed_sources": [],
   "trends": [
     {
@@ -23,11 +23,12 @@
           "url": "https://www.cls.cn/detail/2438416",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时01分 ~ 12时02分]"
+          "appearance_count": 3,
+          "time_info": "[12时01分 ~ 14时32分]"
         },
         {
           "title": "蔚来1.58亿元战略入股长鑫科技",
@@ -48,7 +49,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
