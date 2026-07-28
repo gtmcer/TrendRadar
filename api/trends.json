@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-29T06:03:47.546736+08:00",
-  "total_titles_processed": 536,
+  "generated_at": "2026-07-29T07:57:33.053307+08:00",
+  "total_titles_processed": 663,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时39分 ~ 06时03分]"
+          "appearance_count": 5,
+          "time_info": "[00时39分 ~ 07时57分]"
         },
         {
           "title": "10家中国汽车相关企业进入世界500强",
@@ -48,7 +48,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
         }
@@ -64,11 +64,12 @@
           "source": "今日头条",
           "ranks": [
             26,
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 06时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 07时57分]"
         },
         {
           "title": "纳斯达克金龙中国指数收涨1.08%，报6325.46点。 热门中概股里，理想初步收涨4.9%，亚朵涨4.5%，网易涨3%，小米涨2.3%，新东方涨1.7%，拼多多、腾讯涨1%，阿里涨0.3%，百度跌0.3%，日月光半导体跌7%。 ETF中，中概互联网指数ETF（KWEB）收涨1.15%，中国科技指数ETF（CQQQ）收跌2.41%。 德银嘉实沪深300指数ETF（ASHR）收跌2.39%，MSCI新兴市场ex中国ETF（EMXC）收跌2.46%，XtrackersHarvest中证50（ASHS）收跌2.62%。",
@@ -77,7 +78,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
         }
