@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-28T08:06:57.589583+08:00",
-  "total_titles_processed": 605,
+  "generated_at": "2026-07-28T12:02:13.005434+08:00",
+  "total_titles_processed": 814,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "特斯拉Optimus项目遭“泼冷水” 知名投资人：短期不会产生收入",
@@ -19,6 +19,17 @@
           "time_info": "[03时24分 ~ 07时00分]"
         },
         {
+          "title": "SpaceX已经“跌掉”一个特斯拉 亚马逊入局卫星通信大战 | 环球市场",
+          "url": "https://www.cls.cn/detail/2438416",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时01分 ~ 12时02分]"
+        },
+        {
           "title": "蔚来1.58亿元战略入股长鑫科技",
           "url": "https://s.weibo.com/weibo?q=%23%E8%94%9A%E6%9D%A51.58%E4%BA%BF%E5%85%83%E6%88%98%E7%95%A5%E5%85%A5%E8%82%A1%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%23&t=31&band_rank=28&Refer=top",
           "source": "微博",
@@ -29,6 +40,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时24分 ~ 06时59分]"
+        },
+        {
+          "title": "SpaceX市值蒸发了一个特斯拉，市场开始寻找反弹机会",
+          "url": "https://flash.jin10.com/detail/20260728115250208800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
         },
         {
           "title": "纳斯达克金龙中国指数收涨2.51%，报6257.87点，逼近50日均线（该技术指标目前下移至6294.47点）。 热门中概股里，宝尊电商初步收涨12.8%，小米涨8.3%，亿航智能涨7.5%，文远知行涨5.5%，亚朵、腾讯音乐、金山云涨超5%，大全新能源涨4.2%，理想涨4%，网易涨3.5%，拼多多、腾讯、阿里巴巴涨超2%。 ETF中，中概互联网指数ETF（KWEB）收涨2.70%，中国科技指数ETF（CQQQ）收涨2.43%。 XtrackersHarvest中证50（ASHS）收涨2.03%，德银嘉实沪深300指数ETF（ASHR）收涨1.19%，MSCI新兴市场ex中国ETF（EMXC）收跌0.21%。",
