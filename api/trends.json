@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-29T04:15:48.993819+08:00",
-  "total_titles_processed": 470,
+  "generated_at": "2026-07-29T06:03:47.546736+08:00",
+  "total_titles_processed": 536,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "济南暴雨铁路桥下汽车被淹不实",
@@ -15,19 +15,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 04时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 06时03分]"
         },
         {
           "title": "10家中国汽车相关企业进入世界500强",
           "url": "https://www.toutiao.com/trending/7667192886059879972/",
           "source": "今日头条",
           "ranks": [
-            9
+            9,
+            25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时13分"
+          "appearance_count": 2,
+          "time_info": "[02时13分 ~ 06时03分]"
         },
         {
           "title": "Lucid集团涨幅扩大至20%，沙特王子Alwaleed bin Talal Al Saud已经耗资1.295亿美元、对这家电动汽车制造商持股5%。",
@@ -36,26 +37,49 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时15分"
+        },
+        {
+          "title": "受高利润SUV需求强劲提振，福特汽车上调全年业绩展望",
+          "url": "https://wallstreetcn.com/livenews/3141183",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
         }
       ]
     },
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "中国正实现特斯拉没做到的事",
           "url": "https://www.toutiao.com/trending/7667509123323268614/",
           "source": "今日头条",
           "ranks": [
-            26
+            26,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时39分 ~ 04时15分]"
+          "appearance_count": 3,
+          "time_info": "[00时39分 ~ 06时03分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨1.08%，报6325.46点。 热门中概股里，理想初步收涨4.9%，亚朵涨4.5%，网易涨3%，小米涨2.3%，新东方涨1.7%，拼多多、腾讯涨1%，阿里涨0.3%，百度跌0.3%，日月光半导体跌7%。 ETF中，中概互联网指数ETF（KWEB）收涨1.15%，中国科技指数ETF（CQQQ）收跌2.41%。 德银嘉实沪深300指数ETF（ASHR）收跌2.39%，MSCI新兴市场ex中国ETF（EMXC）收跌2.46%，XtrackersHarvest中证50（ASHS）收跌2.62%。",
+          "url": "https://wallstreetcn.com/livenews/3141180",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
         }
       ]
     }
