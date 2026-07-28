@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-07-28T17:35:51.311864+08:00",
-  "total_titles_processed": 1134,
+  "generated_at": "2026-07-28T19:58:06.106486+08:00",
+  "total_titles_processed": 1296,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "特斯拉将从KKR支持的亚利桑那太阳能电池厂采购电力",
+          "url": "https://flash.jin10.com/detail/20260728195203092800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
+        },
         {
           "title": "特斯拉Optimus项目遭“泼冷水” 知名投资人：短期不会产生收入",
           "url": "https://www.cls.cn/detail/2437832",
@@ -60,7 +71,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
         },
@@ -115,7 +126,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
         },
@@ -126,7 +137,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
         }
@@ -134,7 +145,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "美国总统特朗普：有理由善待通用汽车。",
@@ -161,6 +172,17 @@
           "time_info": "[01时42分 ~ 05时08分]"
         },
         {
+          "title": "济南暴雨铁路桥下汽车被淹不实",
+          "url": "https://www.baidu.com/s?wd=%E6%B5%8E%E5%8D%97%E6%9A%B4%E9%9B%A8%E9%93%81%E8%B7%AF%E6%A1%A5%E4%B8%8B%E6%B1%BD%E8%BD%A6%E8%A2%AB%E6%B7%B9%E4%B8%8D%E5%AE%9E",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时57分 ~ 19时58分]"
+        },
+        {
           "title": "美国总统特朗普：关税对通用汽车(GM.N)的影响真是惊人。",
           "url": "https://flash.jin10.com/detail/20260728023159967800",
           "source": "金十数据",
@@ -178,7 +200,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
         },
