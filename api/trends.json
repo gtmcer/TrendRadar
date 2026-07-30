@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-30T21:54:29.857826+08:00",
-  "total_titles_processed": 1381,
+  "generated_at": "2026-07-30T23:51:29.002031+08:00",
+  "total_titles_processed": 1509,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "汽车整车股再度拉升，江淮汽车封涨停，北汽蓝谷、赛力斯涨超7%，长安汽车、金龙汽车、上汽集团、海马汽车跟涨。",
@@ -73,6 +73,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时59分"
+        },
+        {
+          "title": "男子用汽车放电功能帮父亲浇地",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%94%A8%E6%B1%BD%E8%BD%A6%E6%94%BE%E7%94%B5%E5%8A%9F%E8%83%BD%E5%B8%AE%E7%88%B6%E4%BA%B2%E6%B5%87%E5%9C%B0",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时51分"
         }
       ]
     },
@@ -132,7 +143,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时54分"
         }
