@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-31T19:58:20.590974+08:00",
-  "total_titles_processed": 1160,
+  "generated_at": "2026-07-31T22:10:14.849491+08:00",
+  "total_titles_processed": 1316,
   "failed_sources": [],
   "trends": [
     {
@@ -13,22 +13,24 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时11分 ~ 19时58分]"
+          "appearance_count": 4,
+          "time_info": "[14时11分 ~ 22时10分]"
         },
         {
           "title": "特斯拉否认「剥离或出售中国业务」，中国业务对其有多重要？怎样从商业角度解读？",
           "url": "https://www.zhihu.com/question/2066476826868676553",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时58分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时58分 ~ 22时10分]"
         },
         {
           "title": "马斯克在社交平台X上称，有关特斯拉考虑剥离中国业务的媒体报道是“假新闻”。",
@@ -65,9 +67,9 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时58分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时58分 ~ 22时10分]"
         },
         {
           "title": "周四（7月30日），彭博电动汽车价格回报指数涨1.78%，报3315.10点，亚太早盘冲高回落、北京时间13:03刷新日低至3250.10点之后持续上扬。",
