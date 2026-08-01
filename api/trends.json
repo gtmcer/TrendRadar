@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-01T19:16:27.696002+08:00",
-  "total_titles_processed": 1219,
+  "generated_at": "2026-08-01T21:15:08.079602+08:00",
+  "total_titles_processed": 1345,
   "failed_sources": [],
   "trends": [
     {
@@ -160,7 +160,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "零跑汽车：7月交付量首超10万辆",
@@ -198,6 +198,17 @@
           "time_info": "[11时42分 ~ 14时27分]"
         },
         {
+          "title": "比亚迪7月销售41.9万辆汽车",
+          "url": "https://www.toutiao.com/trending/7668443476165623850/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时14分 ~ 21时15分]"
+        },
+        {
           "title": "福特CEO：正为中国汽车进入美国市场做准备",
           "url": "https://wallstreetcn.com/livenews/3143508",
           "source": "华尔街见闻-快讯",
@@ -226,7 +237,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
