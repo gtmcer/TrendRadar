@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-01T11:42:16.228399+08:00",
-  "total_titles_processed": 816,
+  "generated_at": "2026-08-01T14:27:39.833915+08:00",
+  "total_titles_processed": 950,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "特斯拉正考虑剥离中国业务？特斯拉中国官方回应：不实消息",
@@ -25,7 +25,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时42分"
         },
@@ -34,11 +34,12 @@
           "url": "https://wallstreetcn.com/livenews/3143548",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时42分 ~ 14时27分]"
         },
         {
           "title": "特斯拉辟谣剥离中国业务",
@@ -58,11 +59,34 @@
           "url": "https://wallstreetcn.com/livenews/3143542",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            13,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时42分 ~ 14时27分]"
+        },
+        {
+          "title": "蔚来公司7月交付35,934台，同比增长71%",
+          "url": "https://wallstreetcn.com/livenews/3143558",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时42分"
+          "time_info": "14时27分"
+        },
+        {
+          "title": "小鹏汽车：7月交付车辆38027辆。",
+          "url": "https://wallstreetcn.com/livenews/3143557",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
         },
         {
           "title": "特斯拉：平均每18秒左右全球就有一辆新的特斯拉下线",
@@ -71,7 +95,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时42分"
         },
@@ -93,7 +117,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时42分"
         },
@@ -104,27 +128,27 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时42分"
+        },
+        {
+          "title": "蔚来7月交付新车35934台，同比增长71%",
+          "url": "https://flash.jin10.com/detail/20260801121549512800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
         }
       ]
     },
     {
       "keyword_group": "汽车",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
-        {
-          "title": "零跑汽车7月交付突破10万台，创造车新势力单月交付新高",
-          "url": "https://wallstreetcn.com/livenews/3143549",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时42分"
-        },
         {
           "title": "零跑汽车：7月交付量首超10万辆",
           "url": "https://flash.jin10.com/detail/20260801110708000800",
@@ -132,9 +156,33 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时42分"
+        },
+        {
+          "title": "零跑汽车7月交付突破10万台，创造车新势力单月交付新高",
+          "url": "https://wallstreetcn.com/livenews/3143549",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时42分 ~ 14时27分]"
+        },
+        {
+          "title": "深蓝汽车：7月全球销量29213辆，同比增长7.52%",
+          "url": "https://wallstreetcn.com/livenews/3143543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时42分 ~ 14时27分]"
         },
         {
           "title": "福特CEO：正为中国汽车进入美国市场做准备",
@@ -159,24 +207,13 @@
           "time_info": "08时01分"
         },
         {
-          "title": "深蓝汽车：7月全球销量29213辆，同比增长7.52%",
-          "url": "https://wallstreetcn.com/livenews/3143543",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时42分"
-        },
-        {
           "title": "深蓝汽车：2026年7月全球销量29213辆，同比增长7.52%；1-7月全球累计销量193369辆，同比增长13.48%；全球累计销量超91万辆。",
           "url": "https://flash.jin10.com/detail/20260801094633545800",
           "source": "金十数据",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时42分"
         },
@@ -187,9 +224,31 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时42分"
+        },
+        {
+          "title": "岚图汽车：2026年7月交付13189辆，1-7月累计交付89453辆，同比增长31%。",
+          "url": "https://flash.jin10.com/detail/20260801120714181800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
+        },
+        {
+          "title": "华阳集团：公司为小米澎程汽车配套多类汽车电子产品。",
+          "url": "https://flash.jin10.com/detail/20260801120658298800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
         }
       ]
     },
@@ -199,25 +258,26 @@
       "titles": [
         {
           "title": "鸿蒙智行：7月交付45,046台，1-7月累计交付28.6万台，同比增长13.7%。",
-          "url": "https://wallstreetcn.com/livenews/3143550",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时42分"
-        },
-        {
-          "title": "鸿蒙智行：7月交付45,046台，1-7月累计交付28.6万台，同比增长13.7%。",
           "url": "https://flash.jin10.com/detail/20260801110746987800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时42分"
+        },
+        {
+          "title": "鸿蒙智行：7月交付45,046台，1-7月累计交付28.6万台，同比增长13.7%。",
+          "url": "https://wallstreetcn.com/livenews/3143550",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时42分 ~ 14时27分]"
         }
       ]
     }
