@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-03T04:53:14.330517+08:00",
-  "total_titles_processed": 468,
+  "generated_at": "2026-08-03T05:54:08.708314+08:00",
+  "total_titles_processed": 480,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             7,
             14,
-            20
+            20,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时09分 ~ 04时53分]"
+          "appearance_count": 9,
+          "time_info": "[00时09分 ~ 05时54分]"
         },
         {
           "title": "近120万辆特斯拉汽车遭调查",
@@ -31,8 +32,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时09分 ~ 04时53分]"
+          "appearance_count": 9,
+          "time_info": "[00时09分 ~ 05时54分]"
         }
       ]
     },
