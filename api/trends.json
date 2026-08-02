@@ -1,26 +1,12 @@
 {
-  "generated_at": "2026-08-03T05:54:08.708314+08:00",
-  "total_titles_processed": 480,
+  "generated_at": "2026-08-03T06:54:42.140994+08:00",
+  "total_titles_processed": 523,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
       "match_count": 2,
       "titles": [
-        {
-          "title": "7 月零跑交付超 10 万台，小鹏交付 3.8 万台，理想、小米、极氪超 3 万台，如何评价各家表现？",
-          "url": "https://www.zhihu.com/question/2066920261631451637",
-          "source": "知乎",
-          "ranks": [
-            7,
-            14,
-            20,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时09分 ~ 05时54分]"
-        },
         {
           "title": "近120万辆特斯拉汽车遭调查",
           "url": "https://www.baidu.com/s?wd=%E8%BF%91120%E4%B8%87%E8%BE%86%E7%89%B9%E6%96%AF%E6%8B%89%E6%B1%BD%E8%BD%A6%E9%81%AD%E8%B0%83%E6%9F%A5",
@@ -29,11 +15,27 @@
             16,
             9,
             8,
-            17
+            17,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时09分 ~ 05时54分]"
+          "appearance_count": 10,
+          "time_info": "[00时09分 ~ 06时54分]"
+        },
+        {
+          "title": "7 月零跑交付超 10 万台，小鹏交付 3.8 万台，理想、小米、极氪超 3 万台，如何评价各家表现？",
+          "url": "https://www.zhihu.com/question/2066920261631451637",
+          "source": "知乎",
+          "ranks": [
+            7,
+            14,
+            20,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时09分 ~ 06时54分]"
         }
       ]
     },
