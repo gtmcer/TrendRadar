@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02T20:02:08.161142+08:00",
-  "total_titles_processed": 1121,
+  "generated_at": "2026-08-02T21:46:59.013527+08:00",
+  "total_titles_processed": 1205,
   "failed_sources": [],
   "trends": [
     {
@@ -111,17 +111,6 @@
           "time_info": "[00时04分 ~ 20时02分]"
         },
         {
-          "title": "7 月，零跑交付超 10 万台，小鹏交付 3.8 万台，理想、小米、极氪超 3 万台，如何评价各家表现？",
-          "url": "https://www.zhihu.com/question/2066920261631451637",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
           "title": "7 月零跑交付超 10 万台，小鹏交付 3.8 万台，理想、小米、极氪超 3 万台，如何评价各家表现？",
           "url": "https://www.zhihu.com/question/2066920261631451637",
           "source": "知乎",
@@ -131,8 +120,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时21分 ~ 20时02分]"
+          "appearance_count": 5,
+          "time_info": "[16时21分 ~ 21时46分]"
+        },
+        {
+          "title": "7 月，零跑交付超 10 万台，小鹏交付 3.8 万台，理想、小米、极氪超 3 万台，如何评价各家表现？",
+          "url": "https://www.zhihu.com/question/2066920261631451637",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时58分"
         },
         {
           "title": "特斯拉专心造车的高光时刻",
@@ -156,11 +156,12 @@
           "url": "https://www.zhihu.com/question/2067071408061129973",
           "source": "知乎",
           "ranks": [
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时01分 ~ 20时02分]"
+          "appearance_count": 3,
+          "time_info": "[20时01分 ~ 21时46分]"
         }
       ]
     },
