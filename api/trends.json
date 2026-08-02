@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02T21:46:59.013527+08:00",
-  "total_titles_processed": 1205,
+  "generated_at": "2026-08-02T23:02:03.748129+08:00",
+  "total_titles_processed": 1292,
   "failed_sources": [],
   "trends": [
     {
@@ -120,8 +120,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时21分 ~ 21时46分]"
+          "appearance_count": 7,
+          "time_info": "[16时21分 ~ 23时02分]"
         },
         {
           "title": "7 月，零跑交付超 10 万台，小鹏交付 3.8 万台，理想、小米、极氪超 3 万台，如何评价各家表现？",
@@ -157,11 +157,12 @@
           "source": "知乎",
           "ranks": [
             19,
-            20
+            20,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时01分 ~ 21时46分]"
+          "appearance_count": 5,
+          "time_info": "[20时01分 ~ 23时02分]"
         }
       ]
     },
