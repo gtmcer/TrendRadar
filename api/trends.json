@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-03T06:54:42.140994+08:00",
-  "total_titles_processed": 523,
+  "generated_at": "2026-08-03T07:57:49.103914+08:00",
+  "total_titles_processed": 609,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             9,
             8,
             17,
-            6
+            6,
+            1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时09分 ~ 06时54分]"
+          "appearance_count": 11,
+          "time_info": "[00时09分 ~ 07时57分]"
         },
         {
           "title": "7 月零跑交付超 10 万台，小鹏交付 3.8 万台，理想、小米、极氪超 3 万台，如何评价各家表现？",
@@ -55,6 +56,23 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时09分 ~ 04时53分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源汽车",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "方程豹 7 月销量超 4 万辆，这对新能源汽车市场意味着什么？越野市场需求被打开了吗？",
+          "url": "https://www.zhihu.com/question/2066988587279718231",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时57分"
         }
       ]
     },
