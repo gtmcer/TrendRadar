@@ -1,7 +1,9 @@
 {
-  "generated_at": "2026-08-03T00:09:30.708531+08:00",
-  "total_titles_processed": 311,
-  "failed_sources": [],
+  "generated_at": "2026-08-03T02:01:39.320906+08:00",
+  "total_titles_processed": 395,
+  "failed_sources": [
+    "toutiao"
+  ],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
@@ -12,22 +14,24 @@
           "url": "https://www.zhihu.com/question/2066920261631451637",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
+          "appearance_count": 3,
+          "time_info": "[00时09分 ~ 02时01分]"
         },
         {
           "title": "近120万辆特斯拉汽车遭调查",
           "url": "https://www.baidu.com/s?wd=%E8%BF%91120%E4%B8%87%E8%BE%86%E7%89%B9%E6%96%AF%E6%8B%89%E6%B1%BD%E8%BD%A6%E9%81%AD%E8%B0%83%E6%9F%A5",
           "source": "百度热搜",
           "ranks": [
-            16
+            16,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
+          "appearance_count": 3,
+          "time_info": "[00时09分 ~ 02时01分]"
         }
       ]
     },
@@ -40,11 +44,29 @@
           "url": "https://www.zhihu.com/question/2067071408061129973",
           "source": "知乎",
           "ranks": [
-            13
+            13,
+            10
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时09分 ~ 02时01分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "汽车",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "据沙特媒体哈达斯（alhadath）：消息人士称，哈马斯武装派别卡桑旅领导人纳菲兹·萨比赫在以色列对加沙一辆汽车发动的空袭中被击毙。",
+          "url": "https://flash.jin10.com/detail/20260803000816085800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时09分"
+          "time_info": "02时01分"
         }
       ]
     }
