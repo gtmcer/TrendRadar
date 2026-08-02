@@ -1,9 +1,7 @@
 {
-  "generated_at": "2026-08-03T02:01:39.320906+08:00",
-  "total_titles_processed": 395,
-  "failed_sources": [
-    "toutiao"
-  ],
+  "generated_at": "2026-08-03T03:23:12.185854+08:00",
+  "total_titles_processed": 433,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
@@ -15,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             7,
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 02时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时09分 ~ 03时23分]"
         },
         {
           "title": "近120万辆特斯拉汽车遭调查",
@@ -27,11 +26,12 @@
           "source": "百度热搜",
           "ranks": [
             16,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 02时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时09分 ~ 03时23分]"
         }
       ]
     },
@@ -48,8 +48,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 02时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时09分 ~ 03时23分]"
         }
       ]
     },
@@ -64,7 +64,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
         }
