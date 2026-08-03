@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-04T00:23:54.287049+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-08-04T02:49:56.587396+08:00",
+  "total_titles_processed": 420,
   "failed_sources": [],
   "trends": [
     {
@@ -65,8 +65,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 02时49分]"
         },
         {
           "title": "为什么好多人不想买新能源汽车？",
@@ -76,8 +76,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 02时49分]"
         }
       ]
     },
