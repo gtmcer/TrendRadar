@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-04T15:38:14.428155+08:00",
-  "total_titles_processed": 1053,
+  "generated_at": "2026-08-04T18:36:31.163358+08:00",
+  "total_titles_processed": 1229,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时38分"
         },
@@ -47,7 +47,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时38分"
         },
@@ -129,11 +129,12 @@
           "source": "知乎",
           "ranks": [
             15,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时11分 ~ 15时38分]"
+          "appearance_count": 5,
+          "time_info": "[12时11分 ~ 18时36分]"
         },
         {
           "title": "葡萄牙汽车协会（ACAP）：葡萄牙7月份特斯拉(TSLA.O)汽车新注册量同比下降68.7%，1月至7月累计增长45.6%。",
@@ -187,6 +188,23 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时23分 ~ 08时07分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "华为汽车 鸿蒙智行 问界 尚界 尊界 智界 享界 乾崑",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何评价赛力斯问界 2026 年 7 月销量严重下滑，月销量不足 21,000 辆？",
+          "url": "https://www.zhihu.com/question/2067882801500836048",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时36分"
         }
       ]
     }
