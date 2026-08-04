@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-08-04T12:12:02.420695+08:00",
-  "total_titles_processed": 867,
+  "generated_at": "2026-08-04T15:38:14.428155+08:00",
+  "total_titles_processed": 1053,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "长城汽车法务部：配合警方侦破一起MCN机构造谣案",
+          "url": "https://wallstreetcn.com/livenews/3144596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        },
         {
           "title": "葡萄牙汽车协会（ACAP）：葡萄牙7月份轻型全电动汽车新注册量同比增长54.3%。",
           "url": "https://flash.jin10.com/detail/20260804001027591800",
@@ -17,6 +28,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        },
+        {
+          "title": "云南水富巨石滚落砸中行驶汽车",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%91%E5%8D%97%E6%B0%B4%E5%AF%8C%E5%B7%A8%E7%9F%B3%E6%BB%9A%E8%90%BD%E7%A0%B8%E4%B8%AD%E8%A1%8C%E9%A9%B6%E6%B1%BD%E8%BD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时37分 ~ 15时38分]"
+        },
+        {
+          "title": "沃尔沃汽车5-7月销量同比下降4%。",
+          "url": "https://wallstreetcn.com/livenews/3144588",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
         },
         {
           "title": "比亚迪攻入日本汽车腹地",
@@ -69,7 +102,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         }
@@ -95,11 +128,12 @@
           "url": "https://www.zhihu.com/question/2067668934749427118",
           "source": "知乎",
           "ranks": [
-            15
+            15,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时11分 ~ 12时12分]"
+          "appearance_count": 4,
+          "time_info": "[12时11分 ~ 15时38分]"
         },
         {
           "title": "葡萄牙汽车协会（ACAP）：葡萄牙7月份特斯拉(TSLA.O)汽车新注册量同比下降68.7%，1月至7月累计增长45.6%。",
@@ -136,11 +170,12 @@
           "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E5%87%BA%E6%89%8B+%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E5%85%85%E7%94%B5%E5%B0%86%E5%85%A8%E9%9D%A2%E5%8D%87%E7%BA%A7",
           "source": "百度热搜",
           "ranks": [
-            1
+            1,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时11分 ~ 12时12分]"
+          "appearance_count": 4,
+          "time_info": "[12时11分 ~ 15时38分]"
         },
         {
           "title": "为什么好多人不想买新能源汽车？",
