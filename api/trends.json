@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-08-05T01:48:25.105532+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-08-05T03:29:15.786882+08:00",
+  "total_titles_processed": 368,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "华为汽车 鸿蒙智行 问界 尚界 尊界 智界 享界 乾崑",
       "match_count": 9,
       "titles": [
-        {
-          "title": "鸿蒙智行回应“竹知了”争议",
-          "url": "https://www.toutiao.com/trending/7669737948003794994/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
-        },
         {
           "title": "鸿蒙智行回应“竹知了”事件",
           "url": "https://www.baidu.com/s?wd=%E9%B8%BF%E8%92%99%E6%99%BA%E8%A1%8C%E5%9B%9E%E5%BA%94%E2%80%9C%E7%AB%B9%E7%9F%A5%E4%BA%86%E2%80%9D%E4%BA%8B%E4%BB%B6",
@@ -26,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
+          "appearance_count": 3,
+          "time_info": "[01时48分 ~ 03时29分]"
         },
         {
           "title": "鸿蒙智行否认封杀竹知了",
@@ -37,19 +26,32 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
+          "appearance_count": 3,
+          "time_info": "[01时48分 ~ 03时29分]"
         },
         {
           "title": "鸿蒙智行回应竹知了事件",
           "url": "https://s.weibo.com/weibo?q=%23%E9%B8%BF%E8%92%99%E6%99%BA%E8%A1%8C%E5%9B%9E%E5%BA%94%E7%AB%B9%E7%9F%A5%E4%BA%86%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=2&Refer=top",
           "source": "微博",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
+          "appearance_count": 3,
+          "time_info": "[01时48分 ~ 03时29分]"
+        },
+        {
+          "title": "鸿蒙智行回应“竹知了”争议",
+          "url": "https://www.toutiao.com/trending/7669737948003794994/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时48分 ~ 03时29分]"
         },
         {
           "title": "鸿蒙智行回应竹知了事件",
@@ -59,8 +61,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
+          "appearance_count": 3,
+          "time_info": "[01时48分 ~ 03时29分]"
         },
         {
           "title": "如何评价赛力斯问界 2026 年 7 月销量严重下滑，月销量不足 21,000 辆？",
@@ -70,8 +72,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
+          "appearance_count": 3,
+          "time_info": "[01时48分 ~ 03时29分]"
         },
         {
           "title": "鸿蒙智行回应“竹知了”事件",
@@ -81,19 +83,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
-        },
-        {
-          "title": "胡锡进说鸿蒙智行声明值得一读",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%83%A1%E9%94%A1%E8%BF%9B%E8%AF%B4%E9%B8%BF%E8%92%99%E6%99%BA%E8%A1%8C%E5%A3%B0%E6%98%8E%E5%80%BC%E5%BE%97%E4%B8%80%E8%AF%BB%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
+          "appearance_count": 3,
+          "time_info": "[01时48分 ~ 03时29分]"
         },
         {
           "title": "鸿蒙智行针对侵权内容并非玩具",
@@ -101,6 +92,17 @@
           "source": "微博",
           "ranks": [
             21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时48分 ~ 03时29分]"
+        },
+        {
+          "title": "胡锡进说鸿蒙智行声明值得一读",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%83%A1%E9%94%A1%E8%BF%9B%E8%AF%B4%E9%B8%BF%E8%92%99%E6%99%BA%E8%A1%8C%E5%A3%B0%E6%98%8E%E5%80%BC%E5%BE%97%E4%B8%80%E8%AF%BB%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -120,8 +122,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
+          "appearance_count": 3,
+          "time_info": "[01时48分 ~ 03时29分]"
         }
       ]
     }
