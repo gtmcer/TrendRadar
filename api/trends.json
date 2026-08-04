@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-04T08:07:49.880034+08:00",
-  "total_titles_processed": 656,
+  "generated_at": "2026-08-04T12:12:02.420695+08:00",
+  "total_titles_processed": 867,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "葡萄牙汽车协会（ACAP）：葡萄牙7月份轻型全电动汽车新注册量同比增长54.3%。",
@@ -61,12 +61,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        },
+        {
+          "title": "金十图示：2026年08月04日（周二）全球汽车制造商市值变化",
+          "url": "https://flash.jin10.com/detail/20260804110548355800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
         }
       ]
     },
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "纳斯达克金龙中国指数初步收涨0.6%。 热门中概股里，大全新能源初步收涨13.3%，金山云涨7%，阿里巴巴、日月光半导体涨4.1%，晶科能源涨3.9%，腾讯、拼多多、百度涨超1%，小米跌2.5%，理想跌3.7%，小鹏跌4.5%。 ETF中，KWEB涨0.9%，CQQQ跌0.1%。",
@@ -78,6 +89,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
+        },
+        {
+          "title": "如何评价继小米拆车直播之后，理想、极氪也官宣直播拆车？",
+          "url": "https://www.zhihu.com/question/2067668934749427118",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时11分 ~ 12时12分]"
         },
         {
           "title": "葡萄牙汽车协会（ACAP）：葡萄牙7月份特斯拉(TSLA.O)汽车新注册量同比下降68.7%，1月至7月累计增长45.6%。",
@@ -94,7 +116,7 @@
     },
     {
       "keyword_group": "新能源汽车",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "赛力斯7月新能源汽车销量同比降45%",
@@ -108,6 +130,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时23分 ~ 06时08分]"
+        },
+        {
+          "title": "国家出手 新能源汽车充电将全面升级",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E5%87%BA%E6%89%8B+%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E5%85%85%E7%94%B5%E5%B0%86%E5%85%A8%E9%9D%A2%E5%8D%87%E7%BA%A7",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时11分 ~ 12时12分]"
         },
         {
           "title": "为什么好多人不想买新能源汽车？",
