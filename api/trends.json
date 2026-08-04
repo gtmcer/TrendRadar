@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-05T05:12:30.263126+08:00",
-  "total_titles_processed": 436,
+  "generated_at": "2026-08-05T07:02:57.871391+08:00",
+  "total_titles_processed": 511,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时48分 ~ 05时12分]"
+          "appearance_count": 5,
+          "time_info": "[01时48分 ~ 07时02分]"
         },
         {
           "title": "鸿蒙智行否认封杀竹知了",
@@ -26,20 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时48分 ~ 05时12分]"
-        },
-        {
-          "title": "鸿蒙智行回应竹知了事件",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%B8%BF%E8%92%99%E6%99%BA%E8%A1%8C%E5%9B%9E%E5%BA%94%E7%AB%B9%E7%9F%A5%E4%BA%86%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时48分 ~ 05时12分]"
+          "appearance_count": 5,
+          "time_info": "[01时48分 ~ 07时02分]"
         },
         {
           "title": "鸿蒙智行回应“竹知了”争议",
@@ -50,8 +38,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时48分 ~ 05时12分]"
+          "appearance_count": 5,
+          "time_info": "[01时48分 ~ 07时02分]"
+        },
+        {
+          "title": "鸿蒙智行回应竹知了事件",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%B8%BF%E8%92%99%E6%99%BA%E8%A1%8C%E5%9B%9E%E5%BA%94%E7%AB%B9%E7%9F%A5%E4%BA%86%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时48分 ~ 07时02分]"
         },
         {
           "title": "鸿蒙智行回应竹知了事件",
@@ -61,19 +62,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时48分 ~ 05时12分]"
+          "appearance_count": 5,
+          "time_info": "[01时48分 ~ 07时02分]"
         },
         {
           "title": "如何评价赛力斯问界 2026 年 7 月销量严重下滑，月销量不足 21,000 辆？",
           "url": "https://www.zhihu.com/question/2067882801500836048",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时48分 ~ 05时12分]"
+          "appearance_count": 5,
+          "time_info": "[01时48分 ~ 07时02分]"
         },
         {
           "title": "鸿蒙智行回应“竹知了”事件",
@@ -83,8 +85,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时48分 ~ 05时12分]"
+          "appearance_count": 5,
+          "time_info": "[01时48分 ~ 07时02分]"
         },
         {
           "title": "鸿蒙智行针对侵权内容并非玩具",
@@ -106,8 +108,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
+          "appearance_count": 2,
+          "time_info": "[01时48分 ~ 07时02分]"
         }
       ]
     },
@@ -133,7 +135,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
         }
@@ -150,7 +152,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
         }
