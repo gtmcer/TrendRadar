@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-06T02:20:19.656989+08:00",
-  "total_titles_processed": 389,
+  "generated_at": "2026-08-06T04:26:10.882872+08:00",
+  "total_titles_processed": 464,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "今日头条",
           "ranks": [
             6,
-            20
+            20,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 02时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 04时26分]"
         },
         {
           "title": "异物砸底盘,智界R7高速起火",
@@ -28,8 +29,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 02时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 04时26分]"
         },
         {
           "title": "鸿蒙智行回应「竹知了」事件，称投诉针对的是具体侵权内容，从未要求下架「竹知了」商品，哪些信息值得关注？",
@@ -39,8 +40,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 02时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 04时26分]"
         },
         {
           "title": "鸿蒙智行否认封杀竹知了",
@@ -51,14 +52,14 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 02时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 04时26分]"
         }
       ]
     },
     {
       "keyword_group": "汽车",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "俄无人机厂负责人遭汽车炸弹袭击",
@@ -94,6 +95,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时41分 ~ 02时20分]"
+        },
+        {
+          "title": "周三（8月5日）纽约尾盘，彭博电动汽车价格回报指数涨1.21%，报3438.09点，亚太时段显著上涨、北京时间10:00以来高位持稳——震荡于3440点附近。 日线图上，7月28日跌至3210.83点以来，呈现出逐步反弹的趋势。",
+          "url": "https://wallstreetcn.com/livenews/3145574",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
         }
       ]
     }
