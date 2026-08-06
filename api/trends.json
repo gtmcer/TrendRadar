@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-08-06T13:47:31.372555+08:00",
-  "total_titles_processed": 985,
+  "generated_at": "2026-08-06T16:32:14.036441+08:00",
+  "total_titles_processed": 1167,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "德国汽车管理局：德国七月份汽车注册量增长1.2%，达到268,068辆。",
+          "url": "https://flash.jin10.com/detail/20260806162136945800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
         {
           "title": "美国总统特朗普谈及叫停加州的电动汽车强制令，声称：我们都爱马斯克。",
           "url": "https://wallstreetcn.com/livenews/3145625",
@@ -82,7 +93,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时47分"
         }
@@ -164,17 +175,18 @@
           "url": "https://www.zhihu.com/question/2068403196586897921",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时47分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时47分 ~ 16时32分]"
         }
       ]
     },
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "港股汽车股多数下跌，赛力斯(09927.HK)跌近5%，零跑汽车(09863.HK)、北京汽车(01958.HK)、蔚来-SW(09866.HK)。比亚迪股份(01211.HK)均跌超3%。",
@@ -183,7 +195,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时47分"
         },
@@ -199,13 +211,24 @@
           "time_info": "06时12分"
         },
         {
+          "title": "前小鹏副总裁陈永海加入众擎机器人，担任运营总裁",
+          "url": "https://wallstreetcn.com/livenews/3145916",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
           "title": "理想i8发布",
           "url": "https://s.weibo.com/weibo?q=%E7%90%86%E6%83%B3i8%E5%8F%91%E5%B8%83&t=31&band_rank=10&Refer=top",
           "source": "微博",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时47分"
         }
