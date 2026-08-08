@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T16:38:21.624473+08:00",
-  "total_titles_processed": 1122,
+  "generated_at": "2026-08-08T17:36:01.840459+08:00",
+  "total_titles_processed": 1190,
   "failed_sources": [],
   "trends": [
     {
@@ -31,11 +31,12 @@
             7,
             11,
             15,
-            20
+            20,
+            27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时23分 ~ 16时38分]"
+          "appearance_count": 7,
+          "time_info": "[11时23分 ~ 17时36分]"
         },
         {
           "title": "2026 上半年中国汽车出口 531 万辆、同比增长 53%，中国汽车出海是否已经进入全球化能力竞争新阶段？",
