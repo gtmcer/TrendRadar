@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T19:27:54.799997+08:00",
-  "total_titles_processed": 1120,
+  "generated_at": "2026-08-09T20:44:36.871184+08:00",
+  "total_titles_processed": 1205,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             6,
             4,
             5,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时40分 ~ 19时27分]"
+          "appearance_count": 9,
+          "time_info": "[11时40分 ~ 20时44分]"
         },
         {
           "title": "跑了几天外卖发现，很多人原来是修手机的、修汽车的、修家电的技术人员，有手艺为什么要来跑外卖呢？",
