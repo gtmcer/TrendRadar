@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-09T15:53:35.662104+08:00",
-  "total_titles_processed": 906,
+  "generated_at": "2026-08-09T16:40:07.211606+08:00",
+  "total_titles_processed": 948,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "跑了几天外卖发现，很多人原来是修手机的、修汽车的、修家电的技术人员，有手艺为什么要来跑外卖呢？",
@@ -26,11 +26,23 @@
           "source": "知乎",
           "ranks": [
             6,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时40分 ~ 15时53分]"
+          "appearance_count": 6,
+          "time_info": "[11时40分 ~ 16时40分]"
+        },
+        {
+          "title": "恒大汽车还剩最后一口气",
+          "url": "https://www.baidu.com/s?wd=%E6%81%92%E5%A4%A7%E6%B1%BD%E8%BD%A6%E8%BF%98%E5%89%A9%E6%9C%80%E5%90%8E%E4%B8%80%E5%8F%A3%E6%B0%94",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时39分 ~ 16时40分]"
         }
       ]
     },
