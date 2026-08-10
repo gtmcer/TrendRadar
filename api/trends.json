@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-10T07:29:12.599416+08:00",
-  "total_titles_processed": 503,
+  "generated_at": "2026-08-10T09:29:08.912571+08:00",
+  "total_titles_processed": 666,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             9,
             10,
             16,
-            26
+            26,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 07时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 09时29分]"
         },
         {
           "title": "市场消息：据悉特斯拉(TSLA.O)今年将在日本增加60%的交付网点。",
