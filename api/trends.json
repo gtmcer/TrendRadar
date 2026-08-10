@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-10T21:02:46.486021+08:00",
-  "total_titles_processed": 1553,
+  "generated_at": "2026-08-10T22:58:15.036613+08:00",
+  "total_titles_processed": 1690,
   "failed_sources": [],
   "trends": [
     {
@@ -23,6 +23,20 @@
           "time_info": "[00时32分 ~ 09时29分]"
         },
         {
+          "title": "特斯拉将建史上最大芯片厂，这对全球芯片产业有何影响？",
+          "url": "https://www.zhihu.com/question/2068943667189002947",
+          "source": "知乎",
+          "ranks": [
+            14,
+            10,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时17分 ~ 22时58分]"
+        },
+        {
           "title": "Jefferies把特斯拉目标价从400美元下调至350美元。",
           "url": "https://wallstreetcn.com/livenews/3147274",
           "source": "华尔街见闻-快讯",
@@ -33,19 +47,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时52分 ~ 13时25分]"
-        },
-        {
-          "title": "特斯拉将建史上最大芯片厂，这对全球芯片产业有何影响？",
-          "url": "https://www.zhihu.com/question/2068943667189002947",
-          "source": "知乎",
-          "ranks": [
-            14,
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时17分 ~ 21时02分]"
         },
         {
           "title": "市场消息：据悉特斯拉(TSLA.O)今年将在日本增加60%的交付网点。",
