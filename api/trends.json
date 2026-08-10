@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-10T13:25:05.586156+08:00",
-  "total_titles_processed": 942,
+  "generated_at": "2026-08-10T15:28:10.118436+08:00",
+  "total_titles_processed": 1102,
   "failed_sources": [],
   "trends": [
     {
@@ -62,7 +62,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "通用汽车中国：雪佛兰未来将继续在中国生产，出口全球",
@@ -71,9 +71,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
+        },
+        {
+          "title": "台风刮来铁皮砸坏汽车挡风玻璃",
+          "url": "https://www.toutiao.com/trending/7671916510599725106/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时27分 ~ 15时28分]"
         },
         {
           "title": "雪佛兰正式停售中国市场，如何评价这个汽车品牌在华的 21 年？",
