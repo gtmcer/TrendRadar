@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T18:53:02.933578+08:00",
-  "total_titles_processed": 1363,
+  "generated_at": "2026-08-11T20:58:36.449173+08:00",
+  "total_titles_processed": 1505,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "特斯拉将建史上最大芯片厂，这对全球芯片产业有何影响？",
@@ -57,6 +57,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时40分 ~ 05时39分]"
+        },
+        {
+          "title": "小鹏G9L全球首秀",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%B9%8FG9L%E5%85%A8%E7%90%83%E9%A6%96%E7%A7%80%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
+          "title": "王祖蓝说小鹏G9L后备箱大到能住人",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%A5%96%E8%93%9D%E8%AF%B4%E5%B0%8F%E9%B9%8FG9L%E5%90%8E%E5%A4%87%E7%AE%B1%E5%A4%A7%E5%88%B0%E8%83%BD%E4%BD%8F%E4%BA%BA%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         }
       ]
     },
