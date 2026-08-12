@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-12T21:03:06.908518+08:00",
-  "total_titles_processed": 1611,
+  "generated_at": "2026-08-12T23:58:11.659391+08:00",
+  "total_titles_processed": 1760,
   "failed_sources": [],
   "trends": [
     {
@@ -35,6 +35,19 @@
           "time_info": "[14时12分 ~ 21时03分]"
         },
         {
+          "title": "连续两个月突破100万辆，我国汽车出口延续强劲增长态势",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33767366",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时02分 ~ 23时58分]"
+        },
+        {
           "title": "通用汽车(GM.N)设立45亿美元计划，确保关键零部件供应。",
           "url": "https://flash.jin10.com/detail/20260812043447793800",
           "source": "金十数据",
@@ -55,19 +68,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时12分"
-        },
-        {
-          "title": "连续两个月突破100万辆，我国汽车出口延续强劲增长态势",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33767366",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时02分 ~ 21时03分]"
         },
         {
           "title": "通用汽车将在贷款协议中锁定至多45亿美元供应商库存，以防供应紊乱。",
@@ -151,7 +151,7 @@
     },
     {
       "keyword_group": "新能源汽车",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "新能源汽车新车销量占比首超60%",
@@ -161,8 +161,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时02分 ~ 21时03分]"
+          "appearance_count": 4,
+          "time_info": "[21时02分 ~ 23时58分]"
         },
         {
           "title": "新能源汽车月度新车销量占比首超60%",
@@ -172,8 +172,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时02分 ~ 21时03分]"
+          "appearance_count": 4,
+          "time_info": "[21时02分 ~ 23时58分]"
         },
         {
           "title": "中国汽车工业协会：新能源汽车月度新车销量占比首超60%",
@@ -196,6 +196,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时02分 ~ 19时07分]"
+        },
+        {
+          "title": "新能源汽车迎来两个“首次”突破",
+          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E8%BF%8E%E6%9D%A5%E4%B8%A4%E4%B8%AA%E2%80%9C%E9%A6%96%E6%AC%A1%E2%80%9D%E7%AA%81%E7%A0%B4",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时57分 ~ 23时58分]"
         },
         {
           "title": "浙江省省长刘捷在杭州专题调研新能源汽车企业发展情况",
