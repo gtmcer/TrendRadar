@@ -1,180 +1,44 @@
 {
-  "generated_at": "2026-08-13T21:05:09.289241+08:00",
-  "total_titles_processed": 1298,
+  "generated_at": "2026-08-14T00:58:19.811992+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 9,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "连续两个月突破100万辆，我国汽车出口延续强劲增长态势",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33767366",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            11,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 12时10分]"
-        },
         {
           "title": "经纬度：汽车出口连破纪录，为稳外贸提供有力支撑",
           "url": "https://m.thepaper.cn/newsDetail_forward_33768942",
           "source": "澎湃新闻",
           "ranks": [
-            16,
-            13,
-            8,
-            7
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时46分 ~ 21时05分]"
+          "appearance_count": 1,
+          "time_info": "00时58分"
         },
         {
-          "title": "汽车实体按键“杀”回来了",
-          "url": "https://www.toutiao.com/trending/7671986425835913266/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            27,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 07时38分]"
-        },
-        {
-          "title": "加拿大拟接受部分汽车关税 换取美国降低关税",
-          "url": "https://flash.jin10.com/detail/20260813023000941800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时59分 ~ 04时03分]"
-        },
-        {
-          "title": "环球邮报：加拿大考虑在与美国的谈判中提出汽车关税建议。",
-          "url": "https://wallstreetcn.com/livenews/3148726",
+          "title": "底特律汽车制造商将向白宫提出申诉，称修订后的北美贸易协议可能令他们损失数十亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3149254",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11,
-            23
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时59分 ~ 04时03分]"
+          "appearance_count": 1,
+          "time_info": "00时58分"
         },
         {
-          "title": "美国商务部长卢特尼克：福特汽车(F.N)正在将更多制造业带回美国。关税推动其带来更多就业机会。",
-          "url": "https://flash.jin10.com/detail/20260813051034278800",
+          "title": "消息人士：底特律汽车制造商将向白宫表示，修订后的北美贸易协定可能会给其带来数十亿美元的成本。",
+          "url": "https://flash.jin10.com/detail/20260814001634831800",
           "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时38分"
-        },
-        {
-          "title": "福特汽车(F.N)计划从2030年开始增加林肯车型在美国的产量。",
-          "url": "https://flash.jin10.com/detail/20260813063428076800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时38分"
-        },
-        {
-          "title": "据加拿大环球邮报：加拿大在向美方寻求关税豁免的同时，正权衡一项关于汽车关税的提案。该提案将维持对加拿大出口汽车中美国产零部件价值的豁免待遇。",
-          "url": "https://flash.jin10.com/detail/20260813012601008800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时59分"
-        },
-        {
-          "title": "金十图示：2026年08月13日（周四）全球汽车制造商市值变化",
-          "url": "https://flash.jin10.com/detail/20260813112122512800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新能源汽车",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "新能源汽车新车销量占比首超60%",
-          "url": "https://www.toutiao.com/trending/7673110698733637130/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时57分 ~ 09时47分]"
-        },
-        {
-          "title": "新能源汽车迎来两个“首次”突破",
-          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E8%BF%8E%E6%9D%A5%E4%B8%A4%E4%B8%AA%E2%80%9C%E9%A6%96%E6%AC%A1%E2%80%9D%E7%AA%81%E7%A0%B4",
-          "source": "百度热搜",
-          "ranks": [
-            7,
-            18,
-            22,
-            23,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 19时44分]"
-        },
-        {
-          "title": "新能源汽车迎来两个“首次”突破",
-          "url": "https://www.toutiao.com/trending/7672287681459585050/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "但斌美股持仓“大换血”：清仓苹果、特斯拉，减仓谷歌，新进英特尔成第二大持仓、闪迪第四大持仓......",
-          "url": "https://wallstreetcn.com/articles/3779285",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时38分 ~ 12时10分]"
+          "time_info": "00时58分"
         }
       ]
     }
