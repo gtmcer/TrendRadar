@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T00:58:19.811992+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-08-14T03:01:42.588891+08:00",
+  "total_titles_processed": 397,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时58分"
+          "appearance_count": 2,
+          "time_info": "[00时58分 ~ 03时01分]"
         },
         {
           "title": "底特律汽车制造商将向白宫提出申诉，称修订后的北美贸易协议可能令他们损失数十亿美元。",
           "url": "https://wallstreetcn.com/livenews/3149254",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时58分"
+          "appearance_count": 2,
+          "time_info": "[00时58分 ~ 03时01分]"
         },
         {
           "title": "消息人士：底特律汽车制造商将向白宫表示，修订后的北美贸易协定可能会给其带来数十亿美元的成本。",
