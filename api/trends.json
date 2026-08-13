@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-13T12:10:39.908140+08:00",
-  "total_titles_processed": 895,
+  "generated_at": "2026-08-13T19:44:29.217909+08:00",
+  "total_titles_processed": 1147,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            13
+            13,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时46分 ~ 12时10分]"
+          "appearance_count": 4,
+          "time_info": "[09时46分 ~ 19时44分]"
         },
         {
           "title": "汽车实体按键“杀”回来了",
@@ -109,7 +110,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
         }
@@ -138,11 +139,12 @@
             7,
             18,
             22,
-            23
+            23,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 07时38分]"
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 19时44分]"
         },
         {
           "title": "新能源汽车迎来两个“首次”突破",
@@ -151,7 +153,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
         }
