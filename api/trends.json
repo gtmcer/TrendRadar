@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-13T19:44:29.217909+08:00",
-  "total_titles_processed": 1147,
+  "generated_at": "2026-08-13T21:05:09.289241+08:00",
+  "total_titles_processed": 1298,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
           "ranks": [
             16,
             13,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时46分 ~ 19时44分]"
+          "appearance_count": 6,
+          "time_info": "[09时46分 ~ 21时05分]"
         },
         {
           "title": "汽车实体按键“杀”回来了",
