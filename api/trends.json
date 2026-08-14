@@ -1,9 +1,7 @@
 {
-  "generated_at": "2026-08-14T19:01:29.195510+08:00",
-  "total_titles_processed": 1361,
-  "failed_sources": [
-    "ifeng"
-  ],
+  "generated_at": "2026-08-14T19:50:37.446561+08:00",
+  "total_titles_processed": 1452,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
@@ -27,11 +25,12 @@
           "source": "知乎",
           "ranks": [
             4,
-            9
+            9,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时58分 ~ 19时01分]"
+          "appearance_count": 4,
+          "time_info": "[17时58分 ~ 19时50分]"
         },
         {
           "title": "底特律汽车制造商将向白宫提出申诉，称修订后的北美贸易协议可能令他们损失数十亿美元。",
