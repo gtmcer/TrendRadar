@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-17T03:20:55.364578+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-08-17T05:18:18.200649+08:00",
+  "total_titles_processed": 362,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时20分"
+          "appearance_count": 2,
+          "time_info": "[03时20分 ~ 05时18分]"
         },
         {
           "title": "问界儿童车即将上市",
@@ -26,19 +26,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时20分"
+          "appearance_count": 2,
+          "time_info": "[03时20分 ~ 05时18分]"
         },
         {
           "title": "继小米 YU7 完成品类启蒙后，岚图追光 S 、智界 RX 接连入局，FUV 这个市场到底有没有想象空间？",
           "url": "https://www.zhihu.com/question/2072291192566452332",
           "source": "知乎",
           "ranks": [
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时20分"
+          "appearance_count": 2,
+          "time_info": "[03时20分 ~ 05时18分]"
         }
       ]
     },
@@ -54,8 +55,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时20分"
+          "appearance_count": 2,
+          "time_info": "[03时20分 ~ 05时18分]"
         }
       ]
     }
