@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-16T11:50:09.352966+08:00",
-  "total_titles_processed": 467,
+  "generated_at": "2026-08-16T12:33:46.347513+08:00",
+  "total_titles_processed": 530,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时58分 ~ 11时50分]"
+          "appearance_count": 3,
+          "time_info": "[10时58分 ~ 12时33分]"
         },
         {
           "title": "据蔚来汽车官微消息，截至今日，蔚来全国建成9210座充换电站，其中换电站4020座，充电站5190座、充电桩29915根，累计提供超1.2亿次换电。",
@@ -25,11 +26,12 @@
           "source": "金十数据",
           "ranks": [
             11,
-            15
+            15,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时58分 ~ 11时50分]"
+          "appearance_count": 3,
+          "time_info": "[10时58分 ~ 12时33分]"
         }
       ]
     }
