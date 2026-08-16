@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-16T19:18:46.493844+08:00",
-  "total_titles_processed": 909,
+  "generated_at": "2026-08-16T21:29:30.058802+08:00",
+  "total_titles_processed": 1034,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             15,
             16,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时29分 ~ 19时18分]"
+          "appearance_count": 6,
+          "time_info": "[15时29分 ~ 21时29分]"
         },
         {
           "title": "法巴银行：欧洲汽车股被低估，AI受益逻辑需等待市场共识形成",
@@ -40,7 +41,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         }
