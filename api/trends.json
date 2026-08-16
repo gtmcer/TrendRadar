@@ -1,8 +1,51 @@
 {
-  "generated_at": "2026-08-16T17:25:10.476347+08:00",
-  "total_titles_processed": 794,
+  "generated_at": "2026-08-16T19:18:46.493844+08:00",
+  "total_titles_processed": 909,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "汽车",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "降价未能换来销量、市场份额跌至两成，合资汽车品牌出路何在？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33785629",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时29分 ~ 19时18分]"
+        },
+        {
+          "title": "法巴银行：欧洲汽车股被低估，AI受益逻辑需等待市场共识形成",
+          "url": "https://flash.jin10.com/detail/20260816151639180800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            9,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时29分 ~ 17时25分]"
+        },
+        {
+          "title": "汽车“油电交替”还有多远",
+          "url": "https://www.baidu.com/s?wd=%E6%B1%BD%E8%BD%A6%E2%80%9C%E6%B2%B9%E7%94%B5%E4%BA%A4%E6%9B%BF%E2%80%9D%E8%BF%98%E6%9C%89%E5%A4%9A%E8%BF%9C",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
+        }
+      ]
+    },
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
       "match_count": 2,
@@ -35,37 +78,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时58分 ~ 12时33分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "汽车",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "法巴银行：欧洲汽车股被低估，AI受益逻辑需等待市场共识形成",
-          "url": "https://flash.jin10.com/detail/20260816151639180800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            9,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时29分 ~ 17时25分]"
-        },
-        {
-          "title": "降价未能换来销量、市场份额跌至两成，合资汽车品牌出路何在？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33785629",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时29分 ~ 17时25分]"
         }
       ]
     }
