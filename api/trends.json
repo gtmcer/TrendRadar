@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-16T16:26:38.503896+08:00",
-  "total_titles_processed": 736,
+  "generated_at": "2026-08-16T17:25:10.476347+08:00",
+  "total_titles_processed": 794,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             10,
             12,
             22,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时58分 ~ 16时26分]"
+          "appearance_count": 6,
+          "time_info": "[10时58分 ~ 17时25分]"
         },
         {
           "title": "据蔚来汽车官微消息，截至今日，蔚来全国建成9210座充换电站，其中换电站4020座，充电站5190座、充电桩29915根，累计提供超1.2亿次换电。",
@@ -47,11 +48,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            9
+            9,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时29分 ~ 16时26分]"
+          "appearance_count": 3,
+          "time_info": "[15时29分 ~ 17时25分]"
         },
         {
           "title": "降价未能换来销量、市场份额跌至两成，合资汽车品牌出路何在？",
@@ -62,8 +64,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时29分 ~ 16时26分]"
+          "appearance_count": 4,
+          "time_info": "[15时29分 ~ 17时25分]"
         }
       ]
     }
