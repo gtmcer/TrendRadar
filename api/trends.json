@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-16T12:33:46.347513+08:00",
-  "total_titles_processed": 530,
+  "generated_at": "2026-08-16T15:29:39.505034+08:00",
+  "total_titles_processed": 683,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             9,
             10,
-            12
+            12,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时58分 ~ 12时33分]"
+          "appearance_count": 4,
+          "time_info": "[10时58分 ~ 15时29分]"
         },
         {
           "title": "据蔚来汽车官微消息，截至今日，蔚来全国建成9210座充换电站，其中换电站4020座，充电站5190座、充电桩29915根，累计提供超1.2亿次换电。",
@@ -32,6 +33,34 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时58分 ~ 12时33分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "汽车",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "法巴银行：欧洲汽车股被低估，AI受益逻辑需等待市场共识形成",
+          "url": "https://flash.jin10.com/detail/20260816151639180800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
+        },
+        {
+          "title": "降价未能换来销量、市场份额跌至两成，合资汽车品牌出路何在？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33785629",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
         }
       ]
     }
