@@ -1,18 +1,79 @@
 {
-  "generated_at": "2026-08-18T01:24:54.860007+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-08-18T11:22:01.647723+08:00",
+  "total_titles_processed": 532,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米汽车 蔚来 理想 极氪 小鹏 特斯拉",
-      "match_count": 1,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "特斯拉为什么不上新车型，不配置冰箱彩电大沙发？",
+          "url": "https://www.zhihu.com/question/2065004542933067231",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时21分 ~ 11时22分]"
+        },
+        {
+          "title": "《欢迎来龙餐馆》中徐福救下 23 个孩子这一桥段，是不是有点过于理想化了？",
+          "url": "https://www.zhihu.com/question/2072342392380905179",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时21分 ~ 11时22分]"
+        },
+        {
+          "title": "特斯拉Cybercab有望本月投放运营",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89Cybercab%E6%9C%89%E6%9C%9B%E6%9C%AC%E6%9C%88%E6%8A%95%E6%94%BE%E8%BF%90%E8%90%A5",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时21分 ~ 11时22分]"
+        },
         {
           "title": "蔚来武汉换电站资产全面转由国资持有，其背后的商业考量是什么？",
           "url": "https://www.zhihu.com/question/2070987118307029732",
           "source": "知乎",
           "ranks": [
             13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "汽车",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金十图示：2026年08月18日（周二）全球汽车制造商市值变化",
+          "url": "https://flash.jin10.com/detail/20260818110728540800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时22分"
+        },
+        {
+          "title": "李书福辞任吉利汽车董事会主席",
+          "url": "https://finance.ifeng.com/c/8vfKTIPSDaP",
+          "source": "凤凰网",
+          "ranks": [
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -30,23 +91,6 @@
           "source": "知乎",
           "ranks": [
             8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "汽车",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "李书福辞任吉利汽车董事会主席",
-          "url": "https://finance.ifeng.com/c/8vfKTIPSDaP",
-          "source": "凤凰网",
-          "ranks": [
-            11
           ],
           "is_new": false,
           "appearance_count": 1,
