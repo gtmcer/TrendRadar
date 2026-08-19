@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-08-19T16:35:27.322946+08:00",
-  "total_titles_processed": 505,
+  "generated_at": "2026-08-19T19:03:56.478160+08:00",
+  "total_titles_processed": 658,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "新能源汽车",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "【赛力斯：上半年净亏损17.16亿元，上年同期盈利29.4亿元】主要系产品销售结构发生变化，二季度主力车型处于产品迭代过渡期，以及电池、芯片等新能源汽车核心零部件价格阶段性上涨，相关资产减值计提综合影响导致盈利能力下降。",
+          "url": "https://wallstreetcn.com/livenews/3151704",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://gtmcer.github.io/TrendRadar/img/news.jpg"
 }
